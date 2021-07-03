@@ -8,17 +8,25 @@ const [,,spider] = args;
 
 (async () => {
 	if (spider) {
-		const output = await crawl(spider);
-
-		await fs.writeFile(path.join(__dirname, "data", `${spider}.geojson`), JSON.stringify(output, null, 4));
+		await runSpider(spider);
 	} else {
-		console.error("Running all crawlers is not supported yet.")
-		process.exit(1);
+		const files = (await fs.readdir(path.join(__dirname, "spiders"))).filter((file) => file.endsWith(".js"));
+
+		for (let i = 0; i < files.length; i++) {
+			const spider = files[i];
+			await runSpider(spider);
+		}
 	}
 })();
 
+async function runSpider(name) {
+	const output = await crawl(name);
+
+	await fs.writeFile(path.join(__dirname, "data", `${name}.geojson`), JSON.stringify(output, null, 4));
+}
+
 async function crawl(name) {
-	const spider = require(`./spiders/${name}.js`);
+	const spider = require(`./spiders/${name}`);
 	const initialPageData = (await axios(spider.initialURL)).data;
 
 	const parserType = typeof spider.parser === "object" ? spider.parser.type : spider.parser;

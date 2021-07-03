@@ -1,0 +1,19 @@
+{
+  "name": "placecompile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrainn/PlaceCompile.git"
+  },
+  "author": "rrainn, Inc.",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/rrainn/PlaceCompile/issues"
+  },
+  "homepage": "https://github.com/rrainn/PlaceCompile#readme"
+}

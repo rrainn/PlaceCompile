@@ -42,15 +42,17 @@ async function crawl(name) {
 		break;
 	}
 
-	const output = await spider.parse(data);
-
-	output.features.forEach((_a, index) => {
-		output.features[index].properties = {
+	const features = await spider.parse(data);
+	features.forEach((_a, index) => {
+		features[index].properties = {
 			...spider.defaultAttributes,
-			...output.features[index].properties,
+			...features[index].properties,
 		};
 	});
-	output["updated_at"] = Date.now();
 
-	return output;
+	return {
+		"type": "FeatureCollection",
+		features,
+		"updated_at": Date.now()
+	};
 }

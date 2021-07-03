@@ -17,44 +17,41 @@ module.exports = {
 		}
 	},
 	"parse": (data) => {
-		return {
-			"type": "FeatureCollection",
-			"features": data.urlset.url.map((location) => {
-				const theatreObject = location.PageMap.DataObject.find((obj) => obj["@_type"] === "theatre").Attribute.reduce(dataObjectAttributeReducer, {});
-				const contentObject = location.PageMap.DataObject.find((obj) => obj["@_type"] === "content").Attribute.reduce(dataObjectAttributeReducer, {});
+		return data.urlset.url.map((location) => {
+			const theatreObject = location.PageMap.DataObject.find((obj) => obj["@_type"] === "theatre").Attribute.reduce(dataObjectAttributeReducer, {});
+			const contentObject = location.PageMap.DataObject.find((obj) => obj["@_type"] === "content").Attribute.reduce(dataObjectAttributeReducer, {});
 
-				if (contentObject.type !== "Theatre") {
-					return null;
+			if (contentObject.type !== "Theatre") {
+				return null;
+			}
+
+			const addressLine1 = theatreObject.addressLine1.split(" ");
+			const [addressNumber, ...street] = addressLine1;
+
+			const object = {
+				"type": "Feature",
+				"geometry": {
+					"type": "Point",
+					"coordinates": [
+						theatreObject.longitude,
+						theatreObject.latitude
+					]
+				},
+				"properties": {
+					"name": contentObject.title,
+					"ref": `${theatreObject.theatreId}`,
+					"addr:housenumber": addressNumber,
+					"addr:street": street.join(" "),
+					"addr:city": theatreObject.city,
+					"addr:state": theatreObject.state,
+					"addr:postcode": `${theatreObject.postalCode}`,
+					"website": location.loc
 				}
-
-				const addressLine1 = theatreObject.addressLine1.split(" ");
-				const [addressNumber, ...street] = addressLine1;
-
-				const object = {
-					"type": "Feature",
-					"geometry": {
-						"type": "Point",
-						"coordinates": [
-							theatreObject.longitude,
-							theatreObject.latitude
-						]
-					},
-					"properties": {
-						"name": contentObject.title,
-						"ref": `${theatreObject.theatreId}`,
-						"addr:housenumber": addressNumber,
-						"addr:street": street.join(" "),
-						"addr:city": theatreObject.city,
-						"addr:state": theatreObject.state,
-						"addr:postcode": `${theatreObject.postalCode}`,
-						"website": location.loc
-					}
-				};
-				if (location["image:image"] && location["image:image"]["image:loc"]) {
-					object.properties.image = location["image:image"]["image:loc"];
-				}
-				return object;
-			}).filter((location) => location !== null)
-		};
+			};
+			if (location["image:image"] && location["image:image"]["image:loc"]) {
+				object.properties.image = location["image:image"]["image:loc"];
+			}
+			return object;
+		}).filter((location) => location !== null);
 	}
 };

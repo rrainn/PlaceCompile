@@ -1,0 +1,25 @@
+name: Crawl
+on:
+  schedule:
+    - cron: '0 8 * * 6'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 16.x
+      - run: npm i
+      - run: node crawl.js
+      - name: Commit & Push
+        uses: actions-x/commit@v2
+        with:
+          email: noreply@rrainn.com
+          name: GitHub Actions
+          branch: main
+          files: data
+          message: 'Updating data'

@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/rrainn/PlaceCompile/issues"
   },
-  "homepage": "https://github.com/rrainn/PlaceCompile#readme"
+  "homepage": "https://github.com/rrainn/PlaceCompile#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "fast-xml-parser": "^3.19.0"
+  }
 }

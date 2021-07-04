@@ -57,6 +57,10 @@ async function crawl(name, options) {
 			...features[index].properties,
 		};
 	});
+	if (spider.postProcess) {
+		features = await spider.postProcess(features);
+	}
+
 	features = features.sort((a, b) => {
 		if (a.properties.ref && b.properties.ref) {
 			return a.properties.ref > b.properties.ref;

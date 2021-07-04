@@ -2,6 +2,7 @@ const axios = require("axios");
 const xmlParser = require("fast-xml-parser");
 const fs = require("fs").promises;
 const path = require("path");
+const papaparse = require("papaparse");
 
 module.exports = async (spider, options) => {
 	if (spider) {
@@ -17,22 +18,22 @@ module.exports = async (spider, options) => {
 };
 
 async function runSpider(name, options) {
-	const output = await crawl(name);
+	const output = await crawl(name, options);
 
 	switch (options.output) {
 	case "file":
-		await fs.writeFile(path.join(__dirname, "..", "..", "data", `${name}.geojson`), JSON.stringify(output, null, 4));
+		await fs.writeFile(path.join(__dirname, "..", "..", "data", `${name}.${options.format}`), output);
 		break;
 	case "console":
-		console.log(`${name}\n\n${JSON.stringify(output, null, 2)}\n\n\n\n`);
+		console.log(`${name}\n\n${output}\n\n\n\n`);
 		break;
 	default:
-		console.error(`${output} output type is invalid.`);
+		console.error(`${options.output} output type is invalid.`);
 		process.exit(1);
 	}
 }
 
-async function crawl(name) {
+async function crawl(name, options) {
 	const spider = require(`../../spiders/${name}`);
 	const initialPageData = (await axios(spider.initialURL)).data;
 
@@ -57,9 +58,22 @@ async function crawl(name) {
 		};
 	});
 
-	return {
-		"type": "FeatureCollection",
-		features,
-		"updated_at": Date.now()
-	};
+	switch (options.format) {
+		case "csv":
+			return papaparse.unparse(JSON.stringify(features.map((feature) => ({
+				...feature.properties,
+				"longitude": feature.geometry[0],
+				"latitude": feature.geometry[1]
+			}))));
+		case "geojson":
+			const jsonObject = {
+				"type": "FeatureCollection",
+				features,
+				"updated_at": Date.now()
+			};
+			return JSON.stringify(jsonObject, null, options.output === "file" ? 4 : 2);
+		default:
+			console.error(`Invalid format ${options.format}`);
+			process.exit(1);
+	}
 }

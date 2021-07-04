@@ -1,3 +1,5 @@
+const earthutils = require("earthutils");
+
 const dataObjectAttributeReducer = (obj, current) => {
 	obj[current["@_name"]] = current["#text"];
 	return obj;
@@ -42,6 +44,7 @@ module.exports = {
 					"ref": `${theatreObject.theatreId}`,
 					"addr:housenumber": addressNumber,
 					"addr:street": street.join(" "),
+					// ...earthutils.AddressParser(theatreObject.addressLine1, {"standardizeStreet": true}),
 					"addr:city": theatreObject.city,
 					"addr:state": theatreObject.state,
 					"addr:postcode": `${theatreObject.postalCode}`,

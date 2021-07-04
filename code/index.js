@@ -6,7 +6,7 @@ module.exports = async () => {
 		.description("run crawler to generate data")
 		.argument("[spider]", "spider to run crawler on. if no spider is specified, it will run on all spiders.")
 		.addOption(new Option("-o, --output <location>", "output location").choices(["file", "console"]).default("file"))
-		.addOption(new Option("-f, --format <format>", "output format").choices(["geojson"]).default("geojson"))
+		.addOption(new Option("-f, --format <format>", "output format").choices(["geojson", "csv"]).default("geojson"))
 		.action((spider, options) => {
 			require("./commands/crawl")(spider, options);
 		});

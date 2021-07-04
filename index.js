@@ -10,7 +10,7 @@ const [,,spider] = args;
 	if (spider) {
 		await runSpider(spider);
 	} else {
-		const files = (await fs.readdir(path.join(__dirname, "spiders"))).filter((file) => file.endsWith(".js"));
+		const files = (await fs.readdir(path.join(__dirname, "spiders"))).filter((file) => file.endsWith(".js")).map((file) => file.replace(".js", ""));
 
 		for (let i = 0; i < files.length; i++) {
 			const spider = files[i];

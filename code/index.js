@@ -10,5 +10,13 @@ module.exports = async () => {
 			require("./commands/crawl")(spider, options);
 		});
 
+	program
+		.command("spiders list")
+		.description("list the spiders")
+		.action(async () => {
+			const spiders = await require("./commands/spiders/list")();
+			console.log(spiders.join("\n"));
+		});
+
 	program.parse(process.argv);
 };

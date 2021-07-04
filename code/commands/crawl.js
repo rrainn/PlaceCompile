@@ -7,7 +7,7 @@ module.exports = async (spider, options) => {
 	if (spider) {
 		await runSpider(spider, options);
 	} else {
-		const files = (await fs.readdir(path.join(__dirname, "..", "..", "spiders"))).filter((file) => file.endsWith(".js")).map((file) => file.replace(".js", ""));
+		const files = await require("./spiders/list")();
 
 		for (let i = 0; i < files.length; i++) {
 			const spider = files[i];

@@ -14,7 +14,7 @@ jobs:
         with:
           node-version: 16.x
       - run: npm i
-      - run: node index.js
+      - run: node placecompile crawl --output=file
       - name: Commit & Push
         uses: actions-x/commit@v2
         with:

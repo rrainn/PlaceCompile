@@ -15,13 +15,13 @@ For each feature all `properties` tags will conform to [OpenStreetMap](https://w
 **To run all spiders you can run:**
 
 ```
-$ node crawl.js
+$ node index.js
 ```
 
 **To run a specific spider you can run:**
 
 ```
-$ node crawl.js SPIDERNAME
+$ node index.js SPIDERNAME
 ```
 
 Replacing `SPIDERNAME` with the name of the spider file you wish to run (ex. `amctheatres`).

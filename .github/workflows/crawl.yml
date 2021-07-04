@@ -14,7 +14,7 @@ jobs:
         with:
           node-version: 16.x
       - run: npm i
-      - run: node crawl.js
+      - run: node index.js
       - name: Commit & Push
         uses: actions-x/commit@v2
         with:

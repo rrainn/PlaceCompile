@@ -71,6 +71,17 @@ async function crawl(name, options) {
 		}
 	});
 
+	features = features.map((feature) => {
+		const newPropertiesObject = {};
+		const propertiesKeys = Object.keys(feature.properties).sort();
+
+		propertiesKeys.forEach((key) => newPropertiesObject[key] = feature.properties[key]);
+
+		feature.properties = newPropertiesObject;
+
+		return feature;
+	});
+
 	switch (options.format) {
 		case "csv":
 			return papaparse.unparse(JSON.stringify(features.map((feature) => ({

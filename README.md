@@ -8,7 +8,7 @@ Each output of data is stored in a [GeoJSON](https://geojson.org) file as a Feat
 
 Although the output data mostly conforms to the [GeoJSON](https://geojson.org) standard, in the event that coordinates can not be found for a given spider, the `geometry` object will be `null`.
 
-For each feature all `properties` tags will conform to [OpenStreetMap](https://www.openstreetmap.org)'s tagging system.
+Most feature `properties` tags will conform to [OpenStreetMap](https://www.openstreetmap.org)'s tagging system.
 
 ## Generate Data
 

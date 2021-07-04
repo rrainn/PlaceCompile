@@ -50,12 +50,21 @@ async function crawl(name, options) {
 		break;
 	}
 
-	const features = await spider.parse(data);
+	let features = await spider.parse(data);
 	features.forEach((_a, index) => {
 		features[index].properties = {
 			...spider.defaultAttributes,
 			...features[index].properties,
 		};
+	});
+	features = features.sort((a, b) => {
+		if (a.properties.ref && b.properties.ref) {
+			return a.properties.ref > b.properties.ref;
+		} else if (a.geometry && b.geometry) {
+			return a.geometry.coordinates.join("") > b.geometry.coordinates.join("");
+		} else {
+			return true;
+		}
 	});
 
 	switch (options.format) {

@@ -42,9 +42,7 @@ module.exports = {
 				"properties": {
 					"name": contentObject.title,
 					"ref": `${theatreObject.theatreId}`,
-					"addr:housenumber": addressNumber,
-					"addr:street": street.join(" "),
-					// ...earthutils.AddressParser(theatreObject.addressLine1, {"standardizeStreet": true}),
+					...earthutils.AddressParser(theatreObject.addressLine1, {"standardizeStreet": true}),
 					"addr:city": theatreObject.city,
 					"addr:state": theatreObject.state,
 					"addr:postcode": `${theatreObject.postalCode}`,
@@ -61,6 +59,12 @@ module.exports = {
 		return data.map((item) => {
 			if (item.properties.ref === "7950" && item.properties["addr:street"] === "N.Central Expressway") {
 				item.properties["addr:street"] = earthutils.StreetStandardize("N. Central Expressway");
+			}
+			if (item.properties.ref === "421" && item.properties["addr:street"] === "West Carson St Spc 73") {
+				const addrObj = earthutils.AddressParser(`${item.properties["addr:housenumber"]} West Carson St Ste. 73`, {"standardizeStreet": true});
+				Object.keys(addrObj).forEach((key) => {
+					item.properties[key] = addrObj[key];
+				});
 			}
 
 			return item;

@@ -23,6 +23,9 @@ async function runSpider(name, options) {
 	case "file":
 		await fs.writeFile(path.join(__dirname, "..", "..", "data", `${name}.geojson`), JSON.stringify(output, null, 4));
 		break;
+	case "console":
+		console.log(`${name}\n\n${JSON.stringify(output, null, 2)}\n\n\n\n`);
+		break;
 	default:
 		console.error(`${output} output type is invalid.`);
 		process.exit(1);

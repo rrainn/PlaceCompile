@@ -1,8 +1,12 @@
+// export GLOBAL_AGENT_HTTP_PROXY=http://127.0.01:9090
+require("global-agent/bootstrap");
+
 const axios = require("axios");
 const xmlParser = require("fast-xml-parser");
 const fs = require("fs").promises;
 const path = require("path");
 const papaparse = require("papaparse");
+const cheerio = require("cheerio");
 
 module.exports = async (spider, options) => {
 	if (spider) {
@@ -44,6 +48,9 @@ async function crawl(name, options) {
 	switch (parserType) {
 	case "xml":
 		data = xmlParser.parse(initialPageData, parserSettings);
+		break;
+	case "html":
+		data = cheerio.load(initialPageData);
 		break;
 	default:
 		console.error(`${spider.parser} parser is not a valid parser.`);

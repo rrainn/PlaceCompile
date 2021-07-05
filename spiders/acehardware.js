@@ -14,7 +14,7 @@ module.exports = {
 	"parser": {
 		"type": "html"
 	},
-	"parse": async (data) => {
+	"parse": async function (data) {
 		data = JSON.parse(data("#data-mz-preload-storeDirectory").html());
 
 		const newData = [];

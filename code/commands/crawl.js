@@ -37,9 +37,15 @@ async function runSpider(name, options) {
 	}
 }
 
+async function fetch(url) {
+	const {data} = await axios(url);
+
+	return data;
+}
+
 async function crawl(name, options) {
 	const spider = require(`../../spiders/${name}`);
-	const initialPageData = (await axios(spider.initialURL)).data;
+	const initialPageData = await fetch(spider.initialURL);
 
 	const parserType = typeof spider.parser === "object" ? spider.parser.type : spider.parser;
 	const parserSettings = typeof spider.parser === "object" ? spider.parser.settings : undefined;

@@ -1,7 +1,6 @@
 const earthutils = require("earthutils");
 const capitalizefirstletter = require("../code/utils/capitalizefirstletter");
 const dayofweek = require("../code/utils/dayofweek");
-const axios = require("axios");
 const cheerio = require("cheerio");
 const timeout = require("../code/utils/timeout");
 
@@ -14,15 +13,12 @@ module.exports = {
 	"parser": {
 		"type": "html"
 	},
-	"parse": async function (data) {
+	"parse": function (data) {
 		data = JSON.parse(data("#data-mz-preload-storeDirectory").html());
 
-		const newData = [];
-		for (let i = 0; i < data.length; i++) {
-			const store = data[i];
-
-			const storeDetailData = this.fetch(`https://www.acehardware.com/store-details/${store.code}`, {
-				"validate": (data) => data.includes("#data-mz-preload-store")
+		return Promise.all(data.map(async (store) => {
+			const storeDetailData = await this.fetch(`https://www.acehardware.com/store-details/${store.code}`, {
+				"validate": (data) => data.includes("data-mz-preload-store")
 			});
 			const $ = cheerio.load(storeDetailData);
 			const storeDetailJSON = JSON.parse($("#data-mz-preload-store").html());
@@ -96,9 +92,7 @@ module.exports = {
 				storeObject.properties["opening_hours"] = openingHours;
 			}
 
-			newData.push(storeObject);
-		}
-
-		return newData;
+			return storeObject;
+		}));
 	}
 };

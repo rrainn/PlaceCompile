@@ -8,6 +8,7 @@ const path = require("path");
 const papaparse = require("papaparse");
 const cheerio = require("cheerio");
 const timeout = require("../utils/timeout");
+const uuid = require("uuid").v4;
 
 module.exports = async (spider, options) => {
 	if (spider) {
@@ -40,7 +41,7 @@ async function runSpider(name, options) {
 
 const retryFetchCount = 5;
 const retryDelay = (count) => ((count - 1) * 1000) + 5000;
-async function fetch(url, settings) {
+async function fetchSingle(url, uuid, settings) {
 	async function run(count = 1) {
 		try {
 			const {data} = await axios(url);
@@ -52,10 +53,12 @@ async function fetch(url, settings) {
 				}
 			}
 
+			currentlyFetchingUUIDs.delete(uuid);
+			checkNextPendingFetch();
 			return data;
 		} catch (error) {
 			const newCount = count + 1;
-			if (newCount >= retryFetchCount) {
+			if (count <= retryFetchCount) {
 				await timeout(retryDelay(count));
 				return run(newCount);
 			} else {
@@ -65,6 +68,43 @@ async function fetch(url, settings) {
 	}
 
 	return run();
+}
+const maxConcurrentFetch = 10;
+const currentlyFetchingUUIDs = new Set();
+const pendingFetchRequests = [];
+function fetch(url, settings) {
+	const fetchUUID = uuid();
+
+	if (currentlyFetchingUUIDs.size >= maxConcurrentFetch) {
+		return new Promise((resolve, reject) => {
+			pendingFetchRequests.push({
+				url,
+				settings,
+				"uuid": fetchUUID,
+				resolve,
+				reject
+			});
+		});
+	} else {
+		currentlyFetchingUUIDs.add(fetchUUID);
+		return fetchSingle(url, fetchUUID, settings);
+	}
+}
+async function checkNextPendingFetch() {
+	if (currentlyFetchingUUIDs.size < maxConcurrentFetch) {
+		const request = pendingFetchRequests.shift();
+
+		if (request) {
+			currentlyFetchingUUIDs.add(request.uuid);
+
+			try {
+				const result = await fetchSingle(request.url, request.uuid, request.settings);
+				request.resolve(result);
+			} catch (error) {
+				request.reject(error);
+			}
+		}
+	}
 }
 
 async function crawl(name, options) {

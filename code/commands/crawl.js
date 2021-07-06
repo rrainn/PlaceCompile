@@ -46,7 +46,10 @@ async function fetch(url, settings) {
 			const {data} = await axios(url);
 
 			if (settings && settings.validate) {
-				await settings.validate(data);
+				const isValid = await settings.validate(data);
+				if (!isValid) {
+					throw new Error("Data is not valid");
+				}
 			}
 
 			return data;

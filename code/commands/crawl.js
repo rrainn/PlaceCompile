@@ -7,6 +7,7 @@ const fs = require("fs").promises;
 const path = require("path");
 const papaparse = require("papaparse");
 const cheerio = require("cheerio");
+const timeout = require("../utils/timeout");
 
 module.exports = async (spider, options) => {
 	if (spider) {
@@ -37,10 +38,26 @@ async function runSpider(name, options) {
 	}
 }
 
+const retryFetchCount = 5;
+const retryDelay = (count) => ((count - 1) * 1000) + 5000;
 async function fetch(url) {
-	const {data} = await axios(url);
+	async function run(count = 1) {
+		try {
+			const {data} = await axios(url);
 
-	return data;
+			return data;
+		} catch (error) {
+			const newCount = count + 1;
+			if (newCount >= retryFetchCount) {
+				await timeout(retryDelay(count));
+				return run(newCount);
+			} else {
+				throw error;
+			}
+		}
+	}
+
+	return run();
 }
 
 async function crawl(name, options) {

@@ -40,10 +40,14 @@ async function runSpider(name, options) {
 
 const retryFetchCount = 5;
 const retryDelay = (count) => ((count - 1) * 1000) + 5000;
-async function fetch(url) {
+async function fetch(url, settings) {
 	async function run(count = 1) {
 		try {
 			const {data} = await axios(url);
+
+			if (settings && settings.validate) {
+				await settings.validate(data);
+			}
 
 			return data;
 		} catch (error) {
@@ -80,7 +84,9 @@ async function crawl(name, options) {
 		break;
 	}
 
-	let features = await spider.parse(data);
+	let features = await spider.parse.call({
+		fetch
+	}, data);
 	features.forEach((_a, index) => {
 		features[index].properties = {
 			...spider.defaultAttributes,

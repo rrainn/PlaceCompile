@@ -18,7 +18,7 @@ module.exports = {
 			"parseTrueNumberOnly": true
 		}
 	},
-	"parse": (data) => {
+	"parse": function (data) {
 		return data.urlset.url.map((location) => {
 			const theatreObject = location.PageMap.DataObject.find((obj) => obj["@_type"] === "theatre").Attribute.reduce(dataObjectAttributeReducer, {});
 			const contentObject = location.PageMap.DataObject.find((obj) => obj["@_type"] === "content").Attribute.reduce(dataObjectAttributeReducer, {});

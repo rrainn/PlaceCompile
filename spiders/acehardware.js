@@ -21,13 +21,9 @@ module.exports = {
 		for (let i = 0; i < data.length; i++) {
 			const store = data[i];
 
-			let storeDetailData;
-			try {
-				storeDetailData = (await axios(`https://www.acehardware.com/store-details/${store.code}`)).data;
-			} catch (error) {
-				await timeout(5000);
-				storeDetailData = (await axios(`https://www.acehardware.com/store-details/${store.code}`)).data;
-			}
+			const storeDetailData = this.fetch(`https://www.acehardware.com/store-details/${store.code}`, {
+				"validate": (data) => data.includes("#data-mz-preload-store")
+			});
 			const $ = cheerio.load(storeDetailData);
 			const storeDetailJSON = JSON.parse($("#data-mz-preload-store").html());
 

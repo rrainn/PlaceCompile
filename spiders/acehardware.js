@@ -1,8 +1,7 @@
 const earthutils = require("earthutils");
-const capitalizefirstletter = require("../code/utils/capitalizefirstletter");
 const dayofweek = require("../code/utils/dayofweek");
 const cheerio = require("cheerio");
-const timeout = require("../code/utils/timeout");
+const openingHoursStringify = require("../code/utils/openingHoursStringify");
 
 module.exports = {
 	"defaultAttributes": {
@@ -55,39 +54,13 @@ module.exports = {
 				}
 			}
 
-			const openingHours = Object.keys(dayofweek.DayOfWeekAbbreviationsInverse).map((dayOfWeek) => dayOfWeek.toLowerCase()).map((dayOfWeek) => {
+			const openingHours = openingHoursStringify(Object.keys(dayofweek.DayOfWeekAbbreviationsInverse).map((dayOfWeek) => dayOfWeek.toLowerCase()).map((dayOfWeek) => {
 				if (store.regularHours[dayOfWeek].isClosed || !store.regularHours[dayOfWeek].openTime || !store.regularHours[dayOfWeek].closeTime) {
 					return null;
 				} else {
 					return [dayOfWeek, `${store.regularHours[dayOfWeek].openTime}-${store.regularHours[dayOfWeek].closeTime}`];
 				}
-			}).reduce((existingValue, value) => {
-				if (value === null) {
-					existingValue.push(value);
-					return existingValue;
-				}
-
-				const [dayOfWeek, time] = value;
-				const lastItem = existingValue[existingValue.length - 1];
-				const newDayOfWeek = dayofweek.DayOfWeekAbbreviationsInverse[capitalizefirstletter(dayOfWeek)];
-
-				if (lastItem) {
-					const [lastItemDay, lastItemTime] = lastItem.split(" ");
-
-					if (lastItemTime === time) {
-						if (lastItemDay.includes("-")) {
-							existingValue[existingValue.length - 1] = lastItem.replace(`-${lastItemDay.split("-")[1]}`, `-${newDayOfWeek}`);
-						} else {
-							existingValue[existingValue.length - 1] = `${lastItemDay}-${newDayOfWeek} ${lastItemTime}`;
-						}
-
-						return existingValue;
-					}
-				}
-
-				existingValue.push(`${newDayOfWeek} ${time}`);
-				return existingValue;
-			}, []).filter((a) => a !== null).join("; ");
+			}));
 			if (openingHours.length > 0) {
 				storeObject.properties["opening_hours"] = openingHours;
 			}

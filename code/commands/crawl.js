@@ -106,29 +106,34 @@ async function checkNextPendingFetch() {
 		}
 	}
 }
-
-async function crawl(name, options) {
-	const spider = require(`../../spiders/${name}`);
-	const initialPageData = await fetch(spider.initialURL);
-
-	const parserType = typeof spider.parser === "object" ? spider.parser.type : spider.parser;
-	const parserSettings = typeof spider.parser === "object" ? spider.parser.settings : undefined;
+function parse(pageData, settings) {
+	const parserType = typeof settings === "object" ? settings.type : settings;
+	const parserSettings = typeof settings === "object" ? settings.settings : undefined;
 
 	let data;
 	switch (parserType) {
 	case "xml":
-		data = xmlParser.parse(initialPageData, parserSettings);
+		data = xmlParser.parse(pageData, parserSettings);
 		break;
 	case "html":
-		data = cheerio.load(initialPageData);
+		data = cheerio.load(pageData);
 		break;
 	default:
 		console.error(`${spider.parser} parser is not a valid parser.`);
 		break;
 	}
+	return data;
+}
+
+async function crawl(name, options) {
+	const spider = require(`../../spiders/${name}`);
+	const initialPageData = await fetch(spider.initialURL);
+
+	const data = parse(initialPageData, spider.parser);
 
 	let features = await spider.parse.call({
-		fetch
+		fetch,
+		parse
 	}, data);
 	features.forEach((_a, index) => {
 		features[index].properties = {

@@ -1,7 +1,18 @@
 // export GLOBAL_AGENT_HTTP_PROXY=http://127.0.01:9090
-require("global-agent/bootstrap");
+// require("global-agent/bootstrap");
 
-const axios = require("axios");
+const http = require("http");
+const https = require("https");
+const httpAgent = new http.Agent({ "keepAlive": true });
+const httpsAgent = new https.Agent({ "keepAlive": true });
+const axiosPkg = require("axios");
+const axios = axiosPkg.create({
+	httpAgent,
+	httpsAgent,
+	"headers": {
+		"Connection": "keep-alive"
+	}
+});
 const xmlParser = require("fast-xml-parser");
 const fs = require("fs").promises;
 const path = require("path");

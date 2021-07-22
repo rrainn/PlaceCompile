@@ -2,7 +2,7 @@ const capitalizefirstletter = require("./capitalizefirstletter");
 const dayofweek = require("./dayofweek");
 
 module.exports = function(arr) {
-	return arr.reduce((existingValue, value) => {
+	const returnValue = arr.reduce((existingValue, value) => {
 		if (value === null) {
 			existingValue.push(value);
 			return existingValue;
@@ -30,4 +30,10 @@ module.exports = function(arr) {
 		existingValue.push([newDayOfWeek, time]);
 		return existingValue;
 	}, []).filter((a) => a !== null).map((item) => item.join(" ")).join("; ");
+
+	if (returnValue === "Mo-Su 00:00-00:00") {
+		return "24/7";
+	}
+
+	return returnValue;
 };

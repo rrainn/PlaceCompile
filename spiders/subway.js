@@ -86,11 +86,7 @@ module.exports = {
 				}
 			}));
 			if (openingHours.length > 0) {
-				if (openingHours === "Mo-Su 00:00-00:00") {
-					storeObject.properties["opening_hours"] = "24/7";
-				} else {
-					storeObject.properties["opening_hours"] = openingHours;
-				}
+				storeObject.properties["opening_hours"] = openingHours;
 			}
 
 			return storeObject;

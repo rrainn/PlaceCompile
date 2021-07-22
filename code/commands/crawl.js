@@ -133,7 +133,7 @@ function parse(pageData, settings) {
 		data = pageData;
 		break;
 	default:
-		console.error(`${spider.parser} parser is not a valid parser.`);
+		console.error(`${parserType} parser is not a valid parser.`);
 		break;
 	}
 	return data;

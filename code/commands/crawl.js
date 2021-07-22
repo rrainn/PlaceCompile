@@ -129,6 +129,9 @@ function parse(pageData, settings) {
 	case "html":
 		data = cheerio.load(pageData);
 		break;
+	case "json":
+		data = pageData;
+		break;
 	default:
 		console.error(`${spider.parser} parser is not a valid parser.`);
 		break;

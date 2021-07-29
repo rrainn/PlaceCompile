@@ -60,7 +60,7 @@ async function fetchSingle(url, uuid, settings) {
 			if (settings && settings.validate) {
 				const isValid = await settings.validate(data);
 				if (!isValid) {
-					throw new Error("Data is not valid");
+					throw new Error(`Data is not valid for URL: ${url}`);
 				}
 			}
 

@@ -14,6 +14,7 @@ module.exports = async (countryCode, mileRadius) => {
 		const cellSide = mileRadius / 2;
 		const options = {"units": "miles"};
 
+		/// TODO: Consider changing this to pointGrid
 		const hexgrid = turf.hexGrid(bbox, cellSide, options);
 		hexgrid.features = hexgrid.features.filter((feature) => {
 			// Check if feature overlaps with polygon

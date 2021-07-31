@@ -20410,7 +20410,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Ace Of Town N'Country Inc",
-                "opening_hours": "Mo-We 08:00-19:00; Th-Sa 08:30-18:30; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:30-18:30; Su 09:00-17:00",
                 "phone": "+1-813-884-1495",
                 "ref": "09496",
                 "website": "https://www.acehardware.com/store-details/09496"
@@ -24746,6 +24746,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -81.4895,
+                    28.6622
+                ]
+            },
+            "properties": {
+                "addr:city": "Apopka",
+                "addr:housenumber": "510",
+                "addr:postcode": "32703-4948",
+                "addr:state": "FL",
+                "addr:street": "South Hunt Club Boulevard",
+                "brand": "Ace Hardware",
+                "brand:wikidata": "Q4672981",
+                "name": "Carter's Ace Hardware of Hunt Club",
+                "opening_hours": "Mo-Sa 07:30-19:00",
+                "phone": "+1-000-000-0000",
+                "ref": "17765",
+                "website": "https://www.acehardware.com/store-details/17765"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -84.415005,
                     33.800943
                 ]
@@ -27309,30 +27333,6 @@
                 "phone": "+1-912-544-6453",
                 "ref": "16111",
                 "website": "https://www.acehardware.com/store-details/16111"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -84.702155,
-                    33.997985
-                ]
-            },
-            "properties": {
-                "addr:city": "Kennesaw",
-                "addr:housenumber": "1715",
-                "addr:postcode": "30152-7745",
-                "addr:state": "GA",
-                "addr:street": "Dennis Kemp Ln NW",
-                "brand": "Ace Hardware",
-                "brand:wikidata": "Q4672981",
-                "name": "Brookstone Ace Hardware",
-                "opening_hours": "Mo-Sa 08:00-18:00; Su 10:00-17:00",
-                "phone": "+1-770-514-1001",
-                "ref": "16236",
-                "website": "https://www.acehardware.com/store-details/16236"
             }
         },
         {
@@ -44009,7 +44009,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "White's Hardware Of Olney Inc",
-                "opening_hours": "Tu-We 11:00-16:00",
+                "opening_hours": "Tu-Th 11:00-16:00",
                 "phone": "+1-301-924-4080",
                 "ref": "03316",
                 "website": "https://www.acehardware.com/store-details/03316"
@@ -53963,6 +53963,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -94.5926,
+                    39.0126
+                ]
+            },
+            "properties": {
+                "addr:city": "Kansas City",
+                "addr:housenumber": "104",
+                "addr:postcode": "64113-1616",
+                "addr:state": "MO",
+                "addr:street": "West 63rd Street",
+                "brand": "Ace Hardware",
+                "brand:wikidata": "Q4672981",
+                "name": "Westlake Ace Hardware",
+                "opening_hours": "Mo-Sa 07:30-20:00; Su 09:00-18:00",
+                "phone": "+1-816-533-3223",
+                "ref": "17766",
+                "website": "https://www.acehardware.com/store-details/17766"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -89.517559,
                     34.363859
                 ]
@@ -60353,7 +60377,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Fox Ace Hardware",
-                "opening_hours": "Mo-Fr 07:00-17:00; Sa 07:00-16:00; Su 09:00-14:00",
+                "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-16:00; Su 09:00-14:00",
                 "phone": "+1-603-753-4811",
                 "ref": "17430",
                 "website": "https://www.acehardware.com/store-details/17430"
@@ -69605,30 +69629,6 @@
                 "phone": "+1-580-335-2834",
                 "ref": "03912",
                 "website": "https://www.acehardware.com/store-details/03912"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.148264,
-                    36.636074
-                ]
-            },
-            "properties": {
-                "addr:city": "Vinita",
-                "addr:housenumber": "601",
-                "addr:postcode": "74301-3313",
-                "addr:state": "OK",
-                "addr:street": "East Illinois Avenue",
-                "brand": "Ace Hardware",
-                "brand:wikidata": "Q4672981",
-                "name": "Ace Town & Country",
-                "opening_hours": "Mo-Sa 08:00-18:00; Su 13:00-17:00",
-                "phone": "+1-918-256-4223",
-                "ref": "04471",
-                "website": "https://www.acehardware.com/store-details/04471"
             }
         },
         {
@@ -96279,5 +96279,5 @@
             }
         }
     ],
-    "updated_at": 1627605650672
+    "updated_at": 1627718658507
 }

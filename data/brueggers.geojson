@@ -1,0 +1,4998 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-86.53860658407211",
+                    "34.671374784997376"
+                ]
+            },
+            "properties": {
+                "addr:city": "Huntsville",
+                "addr:country": "US",
+                "addr:housenumber": "2000",
+                "addr:postcode": "35802",
+                "addr:street": "Cecil Ashburn Drive SE",
+                "addr:unit": "101",
+                "addr:unitname": "Suite",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Bailey Cove",
+                "opening_hours": "Mo-Tu 06:00-14:00; We 06:00-21:00; Th-Sa 06:00-14:00; Su 07:00-14:00",
+                "phone": "+1-256-650-3755",
+                "ref": "2000-cecil-ashburn-drive-se",
+                "website": "https://locations.brueggers.com/us/al/huntsville/2000-cecil-ashburn-drive-se"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-86.7415691",
+                    "34.7076589"
+                ]
+            },
+            "properties": {
+                "addr:city": "Madison",
+                "addr:country": "US",
+                "addr:housenumber": "347",
+                "addr:postcode": "35758",
+                "addr:street": "Hughes Road",
+                "addr:unit": "C",
+                "addr:unitname": "Unit",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Hughes Road",
+                "opening_hours": "Mo-Fr 06:00-14:00; Sa 06:30-14:00; Su 07:00-14:00",
+                "phone": "+1-256-258-0880",
+                "ref": "347-hughes-road",
+                "website": "https://locations.brueggers.com/us/al/madison/347-hughes-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-110.97146272659302",
+                    "32.222030036126895"
+                ]
+            },
+            "properties": {
+                "addr:city": "Tucson",
+                "addr:country": "US",
+                "addr:housenumber": "1",
+                "addr:postcode": "85701",
+                "addr:state": "AZ",
+                "addr:street": "West Congress Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels West Congress",
+                "opening_hours": "Mo-Fr 05:30-15:00; Sa-Su 07:00-15:00",
+                "phone": "+1-520-206-0002",
+                "ref": "1-west-congress-street",
+                "website": "https://locations.brueggers.com/us/az/tucson/1-west-congress-street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-110.94360262155533",
+                    "32.23526710201354"
+                ]
+            },
+            "properties": {
+                "addr:city": "Tucson",
+                "addr:country": "US",
+                "addr:housenumber": "1064",
+                "addr:postcode": "85719",
+                "addr:state": "AZ",
+                "addr:street": "North Campbell Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Campbell",
+                "opening_hours": "Mo-Fr 05:30-15:00; Sa 05:30-16:00; Su 05:30-15:00",
+                "phone": "+1-520-325-4567",
+                "ref": "1064-n-campbell-avenue",
+                "website": "https://locations.brueggers.com/us/az/tucson/1064-n-campbell-avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-110.9962886",
+                    "32.4093023"
+                ]
+            },
+            "properties": {
+                "addr:city": "Tucson",
+                "addr:country": "US",
+                "addr:housenumber": "11165",
+                "addr:postcode": "85737",
+                "addr:state": "AZ",
+                "addr:street": "North La Canada",
+                "addr:unit": "161",
+                "addr:unitname": "Suite",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels La Canada",
+                "opening_hours": "Mo-Sa 05:30-16:00; Su 05:30-15:00",
+                "phone": "+1-520-575-0651",
+                "ref": "11165-north-la-canada",
+                "website": "https://locations.brueggers.com/us/az/tucson/11165-north-la-canada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-110.91008439660072",
+                    "32.22190750371469"
+                ]
+            },
+            "properties": {
+                "addr:city": "Tucson",
+                "addr:country": "US",
+                "addr:housenumber": "3843",
+                "addr:postcode": "85716",
+                "addr:state": "AZ",
+                "addr:street": "East Broadway Boulevard",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels San Clemente",
+                "opening_hours": "Mo-Su 05:30-15:00",
+                "phone": "+1-520-323-0033",
+                "ref": "3843-east-broadway-blvd",
+                "website": "https://locations.brueggers.com/us/az/tucson/3843-east-broadway-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-110.89318111538893",
+                    "32.30948620116492"
+                ]
+            },
+            "properties": {
+                "addr:city": "Tucson",
+                "addr:country": "US",
+                "addr:housenumber": "5665",
+                "addr:postcode": "85718",
+                "addr:state": "AZ",
+                "addr:street": "North Swan Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Swan & Sunrise",
+                "opening_hours": "Mo-Su 05:30-15:00",
+                "phone": "+1-520-529-7424",
+                "ref": "5665-north-swan-rd",
+                "website": "https://locations.brueggers.com/us/az/tucson/5665-north-swan-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-110.86048230528837",
+                    "32.22196053953856"
+                ]
+            },
+            "properties": {
+                "addr:city": "Tucson",
+                "addr:country": "US",
+                "addr:housenumber": "6165",
+                "addr:postcode": "85711",
+                "addr:state": "AZ",
+                "addr:street": "East Broadway Boulevard",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels East Broadway Boulevard",
+                "opening_hours": "Mo-Su 05:30-15:00",
+                "phone": "+1-520-745-0800",
+                "ref": "6165-east-broadway-blvd",
+                "website": "https://locations.brueggers.com/us/az/tucson/6165-east-broadway-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-110.83987623453146",
+                    "32.252372143540896"
+                ]
+            },
+            "properties": {
+                "addr:city": "Tucson",
+                "addr:country": "US",
+                "addr:housenumber": "7127",
+                "addr:postcode": "85715",
+                "addr:state": "AZ",
+                "addr:street": "East Tanque Verde",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Tanque Verde",
+                "opening_hours": "Mo-Su 05:30-15:00",
+                "phone": "+1-520-885-0123",
+                "ref": "7127-east-tanque-verde",
+                "website": "https://locations.brueggers.com/us/az/tucson/7127-east-tanque-verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-110.937326",
+                    "32.120306"
+                ]
+            },
+            "properties": {
+                "addr:city": "Tucson",
+                "addr:country": "US",
+                "addr:housenumber": "7250",
+                "addr:postcode": "85756",
+                "addr:state": "AZ",
+                "addr:street": "South Tucson Blvd Concourse B",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Tucson Airport - Concourse B",
+                "opening_hours": "Mo-Su 03:30-12:00",
+                "phone": "+1-888-822-5379",
+                "ref": "7250-s-tucson-blvd",
+                "website": "https://locations.brueggers.com/us/az/tucson/7250-s-tucson-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-110.77468916773796",
+                    "32.103901477376084"
+                ]
+            },
+            "properties": {
+                "addr:city": "Tucson",
+                "addr:country": "US",
+                "addr:housenumber": "8140",
+                "addr:postcode": "85747",
+                "addr:state": "AZ",
+                "addr:street": "South Houghton Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels The Shoppes at Rita Ranch",
+                "opening_hours": "Mo-Su 05:30-15:00",
+                "phone": "+1-520-664-1600",
+                "ref": "8140-s-houghton-road",
+                "website": "https://locations.brueggers.com/us/az/tucson/8140-s-houghton-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-110.97325712442398",
+                    "32.297260947955984"
+                ]
+            },
+            "properties": {
+                "addr:city": "Tucson",
+                "addr:country": "US",
+                "addr:housenumber": "88",
+                "addr:postcode": "85704",
+                "addr:state": "AZ",
+                "addr:street": "West River Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels River Road & Stone",
+                "opening_hours": "Mo-Su 05:30-15:00",
+                "phone": "+1-520-292-2111",
+                "ref": "88-west-river-rd",
+                "website": "https://locations.brueggers.com/us/az/tucson/88-west-river-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.7248634",
+                    "33.5710835"
+                ]
+            },
+            "properties": {
+                "addr:city": "Aliso Viejo",
+                "addr:country": "US",
+                "addr:housenumber": "26921",
+                "addr:postcode": "92656",
+                "addr:state": "CA",
+                "addr:street": "Aliso Creek Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Aliso Viejo",
+                "opening_hours": "Mo-Fr 05:30-15:00; Sa 06:00-15:00; Su 06:30-15:00",
+                "phone": "+1-949-360-8217",
+                "ref": "26921-aliso-creek-road",
+                "website": "https://locations.brueggers.com/us/ca/aliso-viejo/26921-aliso-creek-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.8675555",
+                    "33.9114487"
+                ]
+            },
+            "properties": {
+                "addr:city": "Brea",
+                "addr:country": "US",
+                "addr:housenumber": "2435",
+                "addr:postcode": "92821",
+                "addr:state": "CA",
+                "addr:street": "East Imperial Highway",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Imperial",
+                "opening_hours": "Mo-Fr 05:30-14:30; Sa 06:00-15:00; Su 07:00-15:00",
+                "phone": "+1-714-529-6492",
+                "ref": "2435-e-imperial-hwy",
+                "website": "https://locations.brueggers.com/us/ca/brea/2435-e-imperial-hwy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.26825684309006",
+                    "33.08591786866291"
+                ]
+            },
+            "properties": {
+                "addr:city": "Carlsbad",
+                "addr:country": "US",
+                "addr:housenumber": "7680",
+                "addr:postcode": "92009",
+                "addr:state": "CA",
+                "addr:street": "El Camino Real 102",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels La Costa",
+                "opening_hours": "Mo-Th 05:30-15:00; Fr 06:00-15:00; Sa-Su 06:00-15:30",
+                "phone": "+1-760-632-1432",
+                "ref": "7680-el-camino-real",
+                "website": "https://locations.brueggers.com/us/ca/carlsbad/7680-el-camino-real"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.8729085624218",
+                    "33.60097595070793"
+                ]
+            },
+            "properties": {
+                "addr:city": "Corona Del Mar",
+                "addr:country": "US",
+                "addr:housenumber": "2743",
+                "addr:postcode": "92625",
+                "addr:state": "CA",
+                "addr:street": "East Pacific Coast Highway",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Corona Del Mar",
+                "opening_hours": "Mo-Fr 06:00-15:00; Sa 06:30-14:30; Su 07:00-14:30",
+                "phone": "+1-949-723-4485",
+                "ref": "2743-e-pacific-coast-highway",
+                "website": "https://locations.brueggers.com/us/ca/corona-del-mar/2743-e-pacific-coast-highway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.1784919",
+                    "32.6833403"
+                ]
+            },
+            "properties": {
+                "addr:city": "Coronado",
+                "addr:country": "US",
+                "addr:housenumber": "1305",
+                "addr:postcode": "92118",
+                "addr:state": "CA",
+                "addr:street": "Orange Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Coronado",
+                "opening_hours": "Mo-Fr 05:30-15:00; Sa-Su 06:00-15:00",
+                "phone": "+1-619-435-3900",
+                "ref": "1305-orange-ave",
+                "website": "https://locations.brueggers.com/us/ca/coronado/1305-orange-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.7385562",
+                    "33.6543713"
+                ]
+            },
+            "properties": {
+                "addr:city": "Irvine",
+                "addr:country": "US",
+                "addr:housenumber": "15346",
+                "addr:postcode": "92612",
+                "addr:state": "CA",
+                "addr:street": "Alton Parkway",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Irvine",
+                "opening_hours": "Mo-Fr 05:30-14:30; Sa 06:30-14:00; Su 06:30-13:00",
+                "phone": "+1-949-788-0800",
+                "ref": "15346-alton-parkway",
+                "website": "https://locations.brueggers.com/us/ca/irvine/15346-alton-parkway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.77115148917915",
+                    "33.72202576062266"
+                ]
+            },
+            "properties": {
+                "addr:city": "Irvine",
+                "addr:country": "US",
+                "addr:housenumber": "3991",
+                "addr:postcode": "92602",
+                "addr:state": "CA",
+                "addr:street": "Irvine Boulevard",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Irvine Northpark",
+                "opening_hours": "Mo-Su 05:30-15:00",
+                "phone": "+1-714-669-1308",
+                "ref": "3991-irvine-blvd",
+                "website": "https://locations.brueggers.com/us/ca/irvine/3991-irvine-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.646995",
+                    "33.56328947003899"
+                ]
+            },
+            "properties": {
+                "addr:city": "Ladera Ranch",
+                "addr:country": "US",
+                "addr:housenumber": "27702",
+                "addr:postcode": "92694",
+                "addr:state": "CA",
+                "addr:street": "Crown Valley Parkway F3",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Ladera Ranch",
+                "opening_hours": "Mo-Fr 05:30-14:30; Sa 06:00-15:00; Su 06:30-15:00",
+                "phone": "+1-949-347-2470",
+                "ref": "27702-crown-valley-parkway",
+                "website": "https://locations.brueggers.com/us/ca/ladera-ranch/27702-crown-valley-parkway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.86468625068665",
+                    "33.67124705217729"
+                ]
+            },
+            "properties": {
+                "addr:city": "Newport Beach",
+                "addr:country": "US",
+                "addr:housenumber": "4678",
+                "addr:postcode": "92660",
+                "addr:state": "CA",
+                "addr:street": "Campus Drive",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Newport Beach",
+                "opening_hours": "Mo-Fr 05:30-15:00; Sa 06:00-14:00; Su 07:00-14:00",
+                "phone": "+1-949-852-9480",
+                "ref": "4678-campus-drive",
+                "website": "https://locations.brueggers.com/us/ca/newport-beach/4678-campus-drive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.59059265255928",
+                    "33.63806203069287"
+                ]
+            },
+            "properties": {
+                "addr:city": "Rancho Santa Margarita",
+                "addr:country": "US",
+                "addr:housenumber": "22361",
+                "addr:postcode": "92688",
+                "addr:state": "CA",
+                "addr:street": "Antonio Parkway E110",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Ranch Santa Margarita",
+                "opening_hours": "Mo-Fr 05:30-14:30; Sa 06:00-15:00; Su 07:00-15:00",
+                "phone": "+1-949-589-1790",
+                "ref": "22361-antonio-parkway",
+                "website": "https://locations.brueggers.com/us/ca/rancho-santa-margarita/22361-antonio-parkway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.09922805428505",
+                    "32.935651284442926"
+                ]
+            },
+            "properties": {
+                "addr:city": "San Diego",
+                "addr:country": "US",
+                "addr:housenumber": "10625",
+                "addr:postcode": "92131",
+                "addr:state": "CA",
+                "addr:street": "Scripps Poway Parkway",
+                "addr:unit": "B",
+                "addr:unitname": "Suite",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Scripps Ranch",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-858-577-0300",
+                "ref": "10625-scripps-poway-parkway",
+                "website": "https://locations.brueggers.com/us/ca/san-diego/10625-scripps-poway-parkway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.15506091713905",
+                    "32.71797484170451"
+                ]
+            },
+            "properties": {
+                "addr:city": "San Diego",
+                "addr:country": "US",
+                "addr:housenumber": "1080",
+                "addr:postcode": "92101",
+                "addr:state": "CA",
+                "addr:street": "B Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels B Street",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-619-546-8060",
+                "ref": "1080-b-street",
+                "website": "https://locations.brueggers.com/us/ca/san-diego/1080-b-street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.23570555448532",
+                    "32.80117263204003"
+                ]
+            },
+            "properties": {
+                "addr:city": "San Diego",
+                "addr:country": "US",
+                "addr:housenumber": "1886",
+                "addr:postcode": "92109",
+                "addr:state": "CA",
+                "addr:street": "Garnet Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Pacific Beach",
+                "opening_hours": "Mo-Th 05:30-16:00; Fr-Su 06:00-16:00",
+                "phone": "+1-858-273-3836",
+                "ref": "1886-garnet-avenue",
+                "website": "https://locations.brueggers.com/us/ca/san-diego/1886-garnet-avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.12554655969143",
+                    "32.68297857310517"
+                ]
+            },
+            "properties": {
+                "addr:city": "San Diego",
+                "addr:country": "US",
+                "addr:housenumber": "2850",
+                "addr:postcode": "92136",
+                "addr:state": "CA",
+                "addr:street": "Robertson Street",
+                "addr:unit": "3405",
+                "addr:unitname": "Building",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels San Diego Naval Base",
+                "opening_hours": "Mo-Fr 05:00-13:30; Sa-Su 05:00-13:00",
+                "phone": "+1-619-232-1500",
+                "ref": "2850-robertson-st",
+                "website": "https://locations.brueggers.com/us/ca/san-diego/2850-robertson-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.12084106994052",
+                    "32.68702499999999"
+                ]
+            },
+            "properties": {
+                "addr:city": "San Diego",
+                "addr:country": "US",
+                "addr:housenumber": "3705",
+                "addr:postcode": "92136",
+                "addr:state": "CA",
+                "addr:street": "Norman Scott Road",
+                "addr:unit": "3631",
+                "addr:unitname": "Building",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels San Diego Naval Base (Kiosk)",
+                "opening_hours": "Mo-Fr 05:00-13:30; Sa-Su 05:00-13:00",
+                "phone": "+1-619-232-2700",
+                "ref": "3705-norman-scott-rd",
+                "website": "https://locations.brueggers.com/us/ca/san-diego/3705-norman-scott-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.1685772",
+                    "32.715485"
+                ]
+            },
+            "properties": {
+                "addr:city": "San Diego",
+                "addr:country": "US",
+                "addr:housenumber": "655",
+                "addr:postcode": "92101",
+                "addr:state": "CA",
+                "addr:street": "West Broadway",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Broadway",
+                "opening_hours": "Mo-Fr 06:00-15:00; Sa-Su 06:00-14:30",
+                "phone": "+1-619-696-9390",
+                "ref": "655-west-broadway",
+                "website": "https://locations.brueggers.com/us/ca/san-diego/655-west-broadway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.83463478088379",
+                    "33.75841124467026"
+                ]
+            },
+            "properties": {
+                "addr:city": "Santa Ana",
+                "addr:country": "US",
+                "addr:housenumber": "2262",
+                "addr:postcode": "92705",
+                "addr:state": "CA",
+                "addr:street": "17th Street E",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels 17th & Tustin",
+                "opening_hours": "Mo-Fr 06:00-14:30; Sa-Su 07:00-14:30",
+                "phone": "+1-714-547-5369",
+                "ref": "2262-17th-street-e",
+                "website": "https://locations.brueggers.com/us/ca/santa-ana/2262-17th-street-e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.90736556053162",
+                    "33.70094162910661"
+                ]
+            },
+            "properties": {
+                "addr:city": "Santa Ana",
+                "addr:country": "US",
+                "addr:housenumber": "2841",
+                "addr:postcode": "92704",
+                "addr:state": "CA",
+                "addr:street": "West Macarthur Boulevard",
+                "addr:unit": "3E",
+                "addr:unitname": "Suite",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Macarthur & Fairview",
+                "opening_hours": "Mo-Sa 06:00-15:00; Su 07:00-15:00",
+                "phone": "+1-714-557-3855",
+                "ref": "2841-west-macarthur-blvd",
+                "website": "https://locations.brueggers.com/us/ca/santa-ana/2841-west-macarthur-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.14290160672022",
+                    "33.54135209762402"
+                ]
+            },
+            "properties": {
+                "addr:city": "Temecula",
+                "addr:country": "US",
+                "addr:housenumber": "39584",
+                "addr:postcode": "92590",
+                "addr:state": "CA",
+                "addr:street": "Winchester Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Temecula",
+                "opening_hours": "Mo-Fr 05:30-15:00; Sa 06:00-15:00; Su 06:30-15:00",
+                "phone": "+1-951-506-5860",
+                "ref": "39584-winchester-road",
+                "website": "https://locations.brueggers.com/us/ca/temecula/39584-winchester-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-104.95886309325402",
+                    "39.679976"
+                ]
+            },
+            "properties": {
+                "addr:city": "Denver",
+                "addr:country": "US",
+                "addr:housenumber": "2000",
+                "addr:postcode": "80210",
+                "addr:state": "CO",
+                "addr:street": "South University Boulevard",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Denver University",
+                "opening_hours": "Mo-Fr 05:30-15:00; Sa 05:30-16:00; Su 05:30-15:00",
+                "phone": "+1-303-777-7600",
+                "ref": "2000-s-university-boulevard",
+                "website": "https://locations.brueggers.com/us/co/denver/2000-s-university-boulevard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-104.9918532371521",
+                    "39.74705798323694"
+                ]
+            },
+            "properties": {
+                "addr:city": "Denver",
+                "addr:country": "US",
+                "addr:housenumber": "817",
+                "addr:postcode": "80202",
+                "addr:state": "CO",
+                "addr:street": "17th Street Bank Lofts Building",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels 17th & Stout",
+                "opening_hours": "Mo-Fr 05:30-13:30; Sa-Su 07:00-13:30",
+                "phone": "+1-303-675-0606",
+                "ref": "817-17th-street",
+                "website": "https://locations.brueggers.com/us/co/denver/817-17th-street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-105.13282760615158",
+                    "39.71288425322088"
+                ]
+            },
+            "properties": {
+                "addr:city": "Lakewood",
+                "addr:country": "US",
+                "addr:housenumber": "180",
+                "addr:postcode": "80228",
+                "addr:state": "CO",
+                "addr:street": "South Union Boulevard",
+                "addr:unit": "101",
+                "addr:unitname": "Suite",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Union Walk",
+                "phone": "+1-303-989-9393",
+                "ref": "180-south-union-blvd",
+                "website": "https://locations.brueggers.com/us/co/lakewood/180-south-union-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-72.82739818096167",
+                    "41.807357068484286"
+                ]
+            },
+            "properties": {
+                "addr:city": "Avon",
+                "addr:country": "US",
+                "addr:housenumber": "45",
+                "addr:postcode": "06001",
+                "addr:state": "CT",
+                "addr:street": "East Main Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Avon",
+                "opening_hours": "Mo-We 06:00-14:00; Th 06:00-17:00; Fr-Su 06:00-14:00",
+                "phone": "+1-860-674-1755",
+                "ref": "45-e-main-st",
+                "website": "https://locations.brueggers.com/us/ct/avon/45-e-main-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-72.61428930245984",
+                    "41.71909597194124"
+                ]
+            },
+            "properties": {
+                "addr:city": "Glastonbury",
+                "addr:country": "US",
+                "addr:housenumber": "2801",
+                "addr:postcode": "06033",
+                "addr:state": "CT",
+                "addr:street": "Main Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Glastonbury",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-860-659-4540",
+                "ref": "2801-main-st",
+                "website": "https://locations.brueggers.com/us/ct/glastonbury/2801-main-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-72.922367",
+                    "41.310519"
+                ]
+            },
+            "properties": {
+                "addr:city": "New Haven",
+                "addr:country": "US",
+                "addr:housenumber": "1",
+                "addr:postcode": "06510",
+                "addr:state": "CT",
+                "addr:street": "Whitney Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Whitney Grove/New Haven",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-203-773-3199",
+                "ref": "1-whitney-avenue",
+                "website": "https://locations.brueggers.com/us/ct/new-haven/1-whitney-avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-73.00100606127893",
+                    "41.267589207464816"
+                ]
+            },
+            "properties": {
+                "addr:city": "Orange",
+                "addr:country": "US",
+                "addr:housenumber": "263",
+                "addr:postcode": "06477",
+                "addr:state": "CT",
+                "addr:street": "275 Boston Post Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Crossroads Plaza",
+                "opening_hours": "Mo-We 06:00-14:00; Th-Sa 06:00-15:00; Su 06:00-14:00",
+                "phone": "+1-475-209-9170",
+                "ref": "263-275-boston-post-road",
+                "website": "https://locations.brueggers.com/us/ct/orange/263-275-boston-post-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-73.12913864851004",
+                    "41.27004946594558"
+                ]
+            },
+            "properties": {
+                "addr:city": "Shelton",
+                "addr:country": "US",
+                "addr:housenumber": "817",
+                "addr:postcode": "06484",
+                "addr:state": "CT",
+                "addr:street": "Bridgeport Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Bridgeport CT/Shelton",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-203-925-9377",
+                "ref": "817-bridgeport-ave",
+                "website": "https://locations.brueggers.com/us/ct/shelton/817-bridgeport-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-73.1961051",
+                    "41.2451794"
+                ]
+            },
+            "properties": {
+                "addr:city": "Trumbull",
+                "addr:country": "US",
+                "addr:housenumber": "900",
+                "addr:postcode": "06611",
+                "addr:state": "CT",
+                "addr:street": "C White Plains Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Trumbull",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-203-459-9156",
+                "ref": "900-c-white-plains-road",
+                "website": "https://locations.brueggers.com/us/ct/trumbull/900-c-white-plains-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-72.7424495",
+                    "41.7617053"
+                ]
+            },
+            "properties": {
+                "addr:city": "W Hartford",
+                "addr:country": "US",
+                "addr:housenumber": "1",
+                "addr:postcode": "06107",
+                "addr:state": "CT",
+                "addr:street": "South Main Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels South Main/W. Hartford",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-860-236-9565",
+                "ref": "1-s-main-st",
+                "website": "https://locations.brueggers.com/us/ct/w-hartford/1-s-main-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-72.80914843082428",
+                    "41.48691706124118"
+                ]
+            },
+            "properties": {
+                "addr:city": "Wallingford",
+                "addr:country": "US",
+                "addr:housenumber": "970",
+                "addr:postcode": "06492",
+                "addr:state": "CT",
+                "addr:street": "North Colony Road",
+                "addr:unit": "G",
+                "addr:unitname": "Building",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Wallingford",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-203-269-5666",
+                "ref": "970-n-colony-rd",
+                "website": "https://locations.brueggers.com/us/ct/wallingford/970-n-colony-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-84.2809745079345",
+                    "30.455334815091167"
+                ]
+            },
+            "properties": {
+                "addr:city": "Tallahassee",
+                "addr:country": "US",
+                "addr:housenumber": "1216",
+                "addr:postcode": "32303",
+                "addr:state": "FL",
+                "addr:street": "North Monroe Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels North Monroe",
+                "opening_hours": "Mo-Sa 06:00-14:00; Su 07:00-14:00",
+                "phone": "+1-850-224-1409",
+                "ref": "1216-north-monroe-street",
+                "website": "https://locations.brueggers.com/us/fl/tallahassee/1216-north-monroe-street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-84.225376",
+                    "30.4615355"
+                ]
+            },
+            "properties": {
+                "addr:city": "Tallahassee",
+                "addr:country": "US",
+                "addr:housenumber": "3122",
+                "addr:postcode": "32308",
+                "addr:state": "FL",
+                "addr:street": "Mahan Drive",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Mahan Village",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-850-309-0044",
+                "ref": "3122-mahan-drive",
+                "website": "https://locations.brueggers.com/us/fl/tallahassee/3122-mahan-drive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-82.4558486",
+                    "27.9477347"
+                ]
+            },
+            "properties": {
+                "addr:city": "Tampa",
+                "addr:country": "US",
+                "addr:housenumber": "501",
+                "addr:postcode": "33602",
+                "addr:state": "FL",
+                "addr:street": "East Kennedy Boulevard",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels M&I Plaza",
+                "opening_hours": "Mo-Fr 06:30-12:00",
+                "phone": "+1-813-402-2989",
+                "ref": "501-east-kennedy-blvd",
+                "website": "https://locations.brueggers.com/us/fl/tampa/501-east-kennedy-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-90.52184253931046",
+                    "41.53816308601708"
+                ]
+            },
+            "properties": {
+                "addr:city": "Bettendorf",
+                "addr:country": "US",
+                "addr:housenumber": "1503",
+                "addr:postcode": "52722",
+                "addr:state": "IA",
+                "addr:street": "Kimberly Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Duck Creek",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-563-359-4540",
+                "ref": "1503-kimberly-road",
+                "website": "https://locations.brueggers.com/us/ia/bettendorf/1503-kimberly-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-91.6202312707901",
+                    "41.97710541935668"
+                ]
+            },
+            "properties": {
+                "addr:city": "Cedar Rapids",
+                "addr:country": "US",
+                "addr:housenumber": "3310",
+                "addr:postcode": "52403",
+                "addr:state": "IA",
+                "addr:street": "Mt Vernon Rd SE",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Mt Vernon",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-319-364-6964",
+                "ref": "3310-mt-vernon-rd-se",
+                "website": "https://locations.brueggers.com/us/ia/cedar-rapids/3310-mt-vernon-rd-se"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-91.6196358203888",
+                    "42.02734003784916"
+                ]
+            },
+            "properties": {
+                "addr:city": "Cedar Rapids",
+                "addr:country": "US",
+                "addr:housenumber": "4870",
+                "addr:postcode": "52402",
+                "addr:state": "IA",
+                "addr:street": "1st Avenue NE",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Lindale Crossing",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-319-447-1029",
+                "ref": "4870-1st-avenue-ne",
+                "website": "https://locations.brueggers.com/us/ia/cedar-rapids/4870-1st-avenue-ne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.73671144247055",
+                    "41.606291625227506"
+                ]
+            },
+            "properties": {
+                "addr:city": "Clive",
+                "addr:country": "US",
+                "addr:housenumber": "1650",
+                "addr:postcode": "50325",
+                "addr:state": "IA",
+                "addr:street": "86th St, NW",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Clive",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-515-225-4444",
+                "ref": "1650-86th-st-nw",
+                "website": "https://locations.brueggers.com/us/ia/clive/1650-86th-st-nw"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-91.56581461429602",
+                    "41.672747533785554"
+                ]
+            },
+            "properties": {
+                "addr:city": "Coralville",
+                "addr:country": "US",
+                "addr:housenumber": "404",
+                "addr:postcode": "52241",
+                "addr:state": "IA",
+                "addr:street": "1st Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Coralville",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-319-337-2243",
+                "ref": "404-1st-avenue",
+                "website": "https://locations.brueggers.com/us/ia/coralville/404-1st-avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.66808712482447",
+                    "41.58609452956147"
+                ]
+            },
+            "properties": {
+                "addr:city": "Des Moines",
+                "addr:country": "US",
+                "addr:housenumber": "3730",
+                "addr:postcode": "50312",
+                "addr:state": "IA",
+                "addr:street": "Ingersoll Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Ingersoll",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-515-277-4030",
+                "ref": "3730-ingersoll-ave",
+                "website": "https://locations.brueggers.com/us/ia/des-moines/3730-ingersoll-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-91.53202682733536",
+                    "41.66101403812128"
+                ]
+            },
+            "properties": {
+                "addr:city": "Iowa City",
+                "addr:country": "US",
+                "addr:housenumber": "245",
+                "addr:postcode": "52240",
+                "addr:state": "IA",
+                "addr:street": "Iowa Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels and Caribou Coffee Iowa City",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-319-354-2278",
+                "ref": "245-iowa-ave",
+                "website": "https://locations.brueggers.com/us/ia/iowa-city/245-iowa-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-91.53990986011883",
+                    "41.650746020864645"
+                ]
+            },
+            "properties": {
+                "addr:city": "Iowa City",
+                "addr:country": "US",
+                "addr:housenumber": "708",
+                "addr:postcode": "52246",
+                "addr:state": "IA",
+                "addr:street": "South Riverside Drive",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels and Jamba Juice South Riverside",
+                "opening_hours": "Mo-Su 06:00-18:00",
+                "phone": "+1-319-333-0019",
+                "ref": "708-s-riverside-drive",
+                "website": "https://locations.brueggers.com/us/ia/iowa-city/708-s-riverside-drive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-84.65592435980227",
+                    "39.050039321708546"
+                ]
+            },
+            "properties": {
+                "addr:city": "Hebron",
+                "addr:country": "US",
+                "addr:housenumber": "3087",
+                "addr:postcode": "41048",
+                "addr:state": "KY",
+                "addr:street": "Terminal Drive Concourse B",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Cincinnati/Northern Kentucky Airport - Concourse B Food Court",
+                "opening_hours": "Mo-Su 05:00-13:00",
+                "phone": "+1-859-767-5812",
+                "ref": "3087-terminal-drive",
+                "website": "https://locations.brueggers.com/us/ky/hebron/3087-terminal-drive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-85.65444165889551",
+                    "38.25216914943168"
+                ]
+            },
+            "properties": {
+                "addr:city": "Louisville",
+                "addr:country": "US",
+                "addr:housenumber": "119",
+                "addr:postcode": "40207",
+                "addr:state": "KY",
+                "addr:street": "Breckenridge Lane",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels St. Matthews",
+                "opening_hours": "Mo-Fr 06:00-16:00; Sa-Su 07:00-16:00",
+                "phone": "+1-502-618-1158",
+                "ref": "119-breckenridge-lane",
+                "website": "https://locations.brueggers.com/us/ky/louisville/119-breckenridge-lane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-72.52027720212942",
+                    "42.378111134712626"
+                ]
+            },
+            "properties": {
+                "addr:city": "Amherst",
+                "addr:country": "US",
+                "addr:housenumber": "170",
+                "addr:postcode": "01002",
+                "addr:state": "MA",
+                "addr:street": "North Pleasant Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Amherst/Tuscan's",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-413-253-5713",
+                "ref": "170-n-pleasant-st",
+                "website": "https://locations.brueggers.com/us/ma/amherst/170-n-pleasant-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-71.24606430530548",
+                    "42.34700762065754"
+                ]
+            },
+            "properties": {
+                "addr:city": "Auburndale",
+                "addr:country": "US",
+                "addr:housenumber": "2050",
+                "addr:postcode": "02466",
+                "addr:state": "MA",
+                "addr:street": "Commonwealth Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Auburndale",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-617-964-9508",
+                "ref": "2050-commonwealth-ave",
+                "website": "https://locations.brueggers.com/us/ma/auburndale/2050-commonwealth-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-71.274642",
+                    "42.4908847"
+                ]
+            },
+            "properties": {
+                "addr:city": "Bedford",
+                "addr:country": "US",
+                "addr:housenumber": "158-K",
+                "addr:postcode": "01730",
+                "addr:state": "MA",
+                "addr:street": "Great Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels and Jamba Juice Bedford",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-781-778-2927",
+                "ref": "158-k-great-rd",
+                "website": "https://locations.brueggers.com/us/ma/bedford/158-k-great-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-71.17536664009094",
+                    "42.39706812034727"
+                ]
+            },
+            "properties": {
+                "addr:city": "Belmont",
+                "addr:country": "US",
+                "addr:housenumber": "41",
+                "addr:postcode": "02478",
+                "addr:state": "MA",
+                "addr:street": "Leonard Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Belmont",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-617-484-4655",
+                "ref": "41-leonard-st",
+                "website": "https://locations.brueggers.com/us/ma/belmont/41-leonard-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-71.10836505889893",
+                    "42.339753734140494"
+                ]
+            },
+            "properties": {
+                "addr:city": "Boston",
+                "addr:country": "US",
+                "addr:housenumber": "375",
+                "addr:postcode": "02215",
+                "addr:state": "MA",
+                "addr:street": "Longwood Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Longwood Medical",
+                "opening_hours": "Mo-Fr 06:00-14:00; Sa-Su 07:00-14:00",
+                "phone": "+1-617-731-8993",
+                "ref": "375-longwood-ave",
+                "website": "https://locations.brueggers.com/us/ma/boston/375-longwood-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-71.05856582522387",
+                    "42.35759849654192"
+                ]
+            },
+            "properties": {
+                "addr:city": "Boston",
+                "addr:country": "US",
+                "addr:housenumber": "7",
+                "addr:postcode": "02108",
+                "addr:state": "MA",
+                "addr:street": "School Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels School Street",
+                "opening_hours": "Mo-Fr 06:00-13:00; Sa 07:00-14:00; Su 07:00-13:00",
+                "phone": "+1-617-367-4702",
+                "ref": "7-school-street",
+                "website": "https://locations.brueggers.com/us/ma/boston/7-school-street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-71.12079307436943",
+                    "42.341333840295945"
+                ]
+            },
+            "properties": {
+                "addr:city": "Brookline",
+                "addr:country": "US",
+                "addr:housenumber": "253",
+                "addr:postcode": "02446",
+                "addr:state": "MA",
+                "addr:street": "Harvard Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Brookline",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-617-566-3983",
+                "ref": "253-harvard-st",
+                "website": "https://locations.brueggers.com/us/ma/brookline/253-harvard-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-71.15700960159296",
+                    "42.29643504411245"
+                ]
+            },
+            "properties": {
+                "addr:city": "Chestnut Hill",
+                "addr:country": "US",
+                "addr:housenumber": "667",
+                "addr:postcode": "02467",
+                "addr:state": "MA",
+                "addr:street": "Vfw Parkway",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels West Roxbury",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-617-327-6465",
+                "ref": "667-vfw-parkway",
+                "website": "https://locations.brueggers.com/us/ma/chestnut-hill/667-vfw-parkway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-70.9074993",
+                    "42.2495968"
+                ]
+            },
+            "properties": {
+                "addr:city": "Hingham",
+                "addr:country": "US",
+                "addr:housenumber": "211",
+                "addr:postcode": "02043",
+                "addr:state": "MA",
+                "addr:street": "Lincoln Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Anchor Plaza/Hingham",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-781-740-4871",
+                "ref": "211-lincoln-street",
+                "website": "https://locations.brueggers.com/us/ma/hingham/211-lincoln-street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-71.2348473072052",
+                    "42.434974814403574"
+                ]
+            },
+            "properties": {
+                "addr:city": "Lexington",
+                "addr:country": "US",
+                "addr:housenumber": "413",
+                "addr:postcode": "02421",
+                "addr:state": "MA",
+                "addr:street": "Waltham Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Lexington",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-781-674-2040",
+                "ref": "413-waltham-st",
+                "website": "https://locations.brueggers.com/us/ma/lexington/413-waltham-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-71.06549128890043",
+                    "42.455259329668785"
+                ]
+            },
+            "properties": {
+                "addr:city": "Melrose",
+                "addr:country": "US",
+                "addr:housenumber": "496",
+                "addr:postcode": "02176",
+                "addr:state": "MA",
+                "addr:street": "Main Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels and Jamba Juice Melrose",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-781-665-1913",
+                "ref": "496-main-street",
+                "website": "https://locations.brueggers.com/us/ma/melrose/496-main-street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-71.04153648018837",
+                    "42.259104754191945"
+                ]
+            },
+            "properties": {
+                "addr:city": "Milton",
+                "addr:country": "US",
+                "addr:housenumber": "360",
+                "addr:postcode": "02186",
+                "addr:state": "MA",
+                "addr:street": "Granite Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Milton/Granite Avenue",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-617-698-6154",
+                "ref": "360-granite-avenue",
+                "website": "https://locations.brueggers.com/us/ma/milton/360-granite-avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-71.30084842443466",
+                    "42.366701298592375"
+                ]
+            },
+            "properties": {
+                "addr:city": "Weston",
+                "addr:country": "US",
+                "addr:housenumber": "31",
+                "addr:postcode": "02493",
+                "addr:state": "MA",
+                "addr:street": "Center Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Weston",
+                "opening_hours": "Mo-Fr 06:00-13:00; Sa 06:00-14:00; Su 06:00-13:00",
+                "phone": "+1-781-642-0308",
+                "ref": "31-center-st",
+                "website": "https://locations.brueggers.com/us/ma/weston/31-center-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-71.13770171999931",
+                    "42.45369891106039"
+                ]
+            },
+            "properties": {
+                "addr:city": "Winchester",
+                "addr:country": "US",
+                "addr:housenumber": "600",
+                "addr:postcode": "01890",
+                "addr:state": "MA",
+                "addr:street": "Main Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Winchester",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-781-721-2204",
+                "ref": "600-main-street",
+                "website": "https://locations.brueggers.com/us/ma/winchester/600-main-street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-83.75198721885681",
+                    "42.253759556711"
+                ]
+            },
+            "properties": {
+                "addr:city": "Ann Arbor",
+                "addr:country": "US",
+                "addr:housenumber": "2260",
+                "addr:postcode": "48103",
+                "addr:state": "MI",
+                "addr:street": "South Main Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Ann Arbor/Woodland/South Main Street",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-734-213-2560",
+                "ref": "2260-s-main-st",
+                "website": "https://locations.brueggers.com/us/mi/ann-arbor/2260-s-main-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-83.7402665",
+                    "42.278881"
+                ]
+            },
+            "properties": {
+                "addr:city": "Ann Arbor",
+                "addr:country": "US",
+                "addr:housenumber": "709",
+                "addr:postcode": "48105",
+                "addr:state": "MI",
+                "addr:street": "North University Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels North University/Campus",
+                "opening_hours": "Mo-Su 08:00-14:00",
+                "phone": "+1-734-747-8561",
+                "ref": "709-n-university-ave",
+                "website": "https://locations.brueggers.com/us/mi/ann-arbor/709-n-university-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-83.24422895908356",
+                    "42.58353259514755"
+                ]
+            },
+            "properties": {
+                "addr:city": "Bloomfield Hills",
+                "addr:country": "US",
+                "addr:housenumber": "39568",
+                "addr:postcode": "48304",
+                "addr:state": "MI",
+                "addr:street": "North Woodward Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Bloomfield Hills",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-248-723-5080",
+                "ref": "39568-n-woodward-avenue",
+                "website": "https://locations.brueggers.com/us/mi/bloomfield-hills/39568-n-woodward-avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-84.47819799184799",
+                    "42.73397137852383"
+                ]
+            },
+            "properties": {
+                "addr:city": "East Lansing",
+                "addr:country": "US",
+                "addr:housenumber": "505",
+                "addr:postcode": "48823",
+                "addr:state": "MI",
+                "addr:street": "East Grand River Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels East Lansing",
+                "opening_hours": "Mo-Su 08:00-14:00",
+                "phone": "+1-517-332-9940",
+                "ref": "505-east-grand-river-avenue",
+                "website": "https://locations.brueggers.com/us/mi/east-lansing/505-east-grand-river-avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-83.15759629011154",
+                    "42.68263257328154"
+                ]
+            },
+            "properties": {
+                "addr:city": "Rochester Hills",
+                "addr:country": "US",
+                "addr:housenumber": "1398",
+                "addr:postcode": "48309",
+                "addr:state": "MI",
+                "addr:street": "Walton Boulevard",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Rochester Hills Plaza/Walton",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-248-650-5166",
+                "ref": "1398-walton-boulevard",
+                "website": "https://locations.brueggers.com/us/mi/rochester-hills/1398-walton-boulevard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-83.1439097",
+                    "42.4888486"
+                ]
+            },
+            "properties": {
+                "addr:city": "Royal Oak",
+                "addr:country": "US",
+                "addr:housenumber": "201",
+                "addr:postcode": "48067",
+                "addr:state": "MI",
+                "addr:street": "South Main Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Royal Oak",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-248-541-9899",
+                "ref": "201-south-main-street",
+                "website": "https://locations.brueggers.com/us/mi/royal-oak/201-south-main-street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.222503364418",
+                    "44.73246258165977"
+                ]
+            },
+            "properties": {
+                "addr:city": "Apple Valley",
+                "addr:country": "US",
+                "addr:housenumber": "7745",
+                "addr:postcode": "55124",
+                "addr:state": "MN",
+                "addr:street": "150th Street W",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Apple Valley",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-952-891-2422",
+                "ref": "7745-150th-st-w",
+                "website": "https://locations.brueggers.com/us/mn/apple-valley/7745-150th-st-w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.23732435703272",
+                    "45.19759412523571"
+                ]
+            },
+            "properties": {
+                "addr:city": "Blaine",
+                "addr:country": "US",
+                "addr:housenumber": "12525",
+                "addr:postcode": "55434",
+                "addr:state": "MN",
+                "addr:street": "Ulysses Street",
+                "addr:unit": "100",
+                "addr:unitname": "Suite",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Blaine",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-763-862-7830",
+                "ref": "12525-ulysses-st",
+                "website": "https://locations.brueggers.com/us/mn/blaine/12525-ulysses-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.3286685",
+                    "44.81041"
+                ]
+            },
+            "properties": {
+                "addr:city": "Bloomington",
+                "addr:country": "US",
+                "addr:housenumber": "3809",
+                "addr:postcode": "55431",
+                "addr:state": "MN",
+                "addr:street": "West Old Shakopee Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Shakopee/OSR/Old Shakopee Road",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-952-881-4898",
+                "ref": "3809-west-old-shakopee-rd",
+                "website": "https://locations.brueggers.com/us/mn/bloomington/3809-west-old-shakopee-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.30824100000001",
+                    "44.86106388918748"
+                ]
+            },
+            "properties": {
+                "addr:city": "Bloomington",
+                "addr:country": "US",
+                "addr:housenumber": "7801",
+                "addr:postcode": "55431",
+                "addr:state": "MN",
+                "addr:street": "Southtown Center",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Southtown",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-952-703-0443",
+                "ref": "7801-southtown-center",
+                "website": "https://locations.brueggers.com/us/mn/bloomington/7801-southtown-center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.21730971336365",
+                    "44.791128725579014"
+                ]
+            },
+            "properties": {
+                "addr:city": "Eagan",
+                "addr:country": "US",
+                "addr:housenumber": "2149A",
+                "addr:postcode": "55122",
+                "addr:state": "MN",
+                "addr:street": "Cliff Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Cliff Road",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-651-405-8895",
+                "ref": "2149a-cliff-road",
+                "website": "https://locations.brueggers.com/us/mn/eagan/2149a-cliff-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.1666106",
+                    "44.8325271"
+                ]
+            },
+            "properties": {
+                "addr:city": "Eagan",
+                "addr:country": "US",
+                "addr:housenumber": "3450",
+                "addr:postcode": "55122",
+                "addr:state": "MN",
+                "addr:street": "Pilot Knob Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Eagan Transit Station",
+                "opening_hours": "Mo-Fr 06:30-16:00; Sa-Su 06:30-15:00",
+                "phone": "+1-651-688-0400",
+                "ref": "3450-pilot-knob-road",
+                "website": "https://locations.brueggers.com/us/mn/eagan/3450-pilot-knob-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.48774377546317",
+                    "44.863586307830204"
+                ]
+            },
+            "properties": {
+                "addr:city": "Eden Prairie",
+                "addr:country": "US",
+                "addr:housenumber": "16528",
+                "addr:postcode": "55346",
+                "addr:state": "MN",
+                "addr:street": "West 78th Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Prairie Village",
+                "opening_hours": "Mo-Fr 06:00-14:00; Sa-Su 06:30-14:00",
+                "phone": "+1-952-974-9777",
+                "ref": "16528-west-78th-street",
+                "website": "https://locations.brueggers.com/us/mn/eden-prairie/16528-west-78th-street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.40063601732254",
+                    "44.836087326674296"
+                ]
+            },
+            "properties": {
+                "addr:city": "Eden Prairie",
+                "addr:country": "US",
+                "addr:housenumber": "9641",
+                "addr:postcode": "55344",
+                "addr:state": "MN",
+                "addr:street": "Anderson Lakes Parkway",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Preserve Village/Eden Prairie",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-952-829-9532",
+                "ref": "9641-anderson-lakes-parkway",
+                "website": "https://locations.brueggers.com/us/mn/eden-prairie/9641-anderson-lakes-parkway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.32932680845255",
+                    "44.92202137034885"
+                ]
+            },
+            "properties": {
+                "addr:city": "Edina",
+                "addr:country": "US",
+                "addr:housenumber": "4412",
+                "addr:postcode": "55410",
+                "addr:state": "MN",
+                "addr:street": "France Avenue S",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Edina/44th France",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-952-927-9446",
+                "ref": "4412-france-ave-s",
+                "website": "https://locations.brueggers.com/us/mn/edina/4412-france-ave-s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.32821905612946",
+                    "44.87441941824569"
+                ]
+            },
+            "properties": {
+                "addr:city": "Edina",
+                "addr:country": "US",
+                "addr:housenumber": "7101",
+                "addr:postcode": "55435",
+                "addr:state": "MN",
+                "addr:street": "France Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Leisure Lane",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-952-926-2696",
+                "ref": "7101-france-avenue",
+                "website": "https://locations.brueggers.com/us/mn/edina/7101-france-avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.44981399140164",
+                    "45.06878521908627"
+                ]
+            },
+            "properties": {
+                "addr:city": "Maple Grove",
+                "addr:country": "US",
+                "addr:housenumber": "13384",
+                "addr:postcode": "55311",
+                "addr:state": "MN",
+                "addr:street": "Bass Lake Road",
+                "addr:unit": "104",
+                "addr:unitname": "Suite",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels and Caribou Coffee Bass Lake & 494 with Caribou Coffee",
+                "opening_hours": "Mo-Su 06:00-15:00",
+                "phone": "+1-763-559-6968",
+                "ref": "13384-bass-lake-rd",
+                "website": "https://locations.brueggers.com/us/mn/maple-grove/13384-bass-lake-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.25636772883604",
+                    "44.987734235834594"
+                ]
+            },
+            "properties": {
+                "addr:city": "Minneapolis",
+                "addr:country": "US",
+                "addr:housenumber": "228",
+                "addr:postcode": "55414",
+                "addr:state": "MN",
+                "addr:street": "East Hennepin Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels East Hennepin",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-612-617-9617",
+                "ref": "228-east-hennepin-avenue",
+                "website": "https://locations.brueggers.com/us/mn/minneapolis/228-east-hennepin-avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.27840234299543",
+                    "44.91982325326148"
+                ]
+            },
+            "properties": {
+                "addr:city": "Minneapolis",
+                "addr:country": "US",
+                "addr:housenumber": "4554",
+                "addr:postcode": "55409",
+                "addr:state": "MN",
+                "addr:street": "Nicollet Avenue South",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Station 27",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-612-822-5401",
+                "ref": "4554-nicollet-avenue-south",
+                "website": "https://locations.brueggers.com/us/mn/minneapolis/4554-nicollet-avenue-south"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.271051",
+                    "44.977477"
+                ]
+            },
+            "properties": {
+                "addr:city": "Minneapolis",
+                "addr:country": "US",
+                "addr:housenumber": "651",
+                "addr:postcode": "55402",
+                "addr:state": "MN",
+                "addr:street": "Nicollet Mall",
+                "addr:unit": "139",
+                "addr:unitname": "",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Gaviidae",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-612-339-3311",
+                "ref": "651-nicollet-mall",
+                "website": "https://locations.brueggers.com/us/mn/minneapolis/651-nicollet-mall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.227309",
+                    "44.9735268"
+                ]
+            },
+            "properties": {
+                "addr:city": "Minneapolis",
+                "addr:country": "US",
+                "addr:housenumber": "720",
+                "addr:postcode": "55414",
+                "addr:state": "MN",
+                "addr:street": "Washington Avenue SE",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Stadium Village II",
+                "opening_hours": "Mo-Su 07:00-15:00",
+                "phone": "+1-612-378-2145",
+                "ref": "720-washington-avenue-se",
+                "website": "https://locations.brueggers.com/us/mn/minneapolis/720-washington-avenue-se"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.5012718",
+                    "44.9173881"
+                ]
+            },
+            "properties": {
+                "addr:city": "Minnetonka",
+                "addr:country": "US",
+                "addr:housenumber": "4781",
+                "addr:postcode": "55345",
+                "addr:state": "MN",
+                "addr:street": "County Road 101",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Westwind Plaza",
+                "opening_hours": "Mo-Fr 06:00-14:00; Sa-Su 06:30-14:00",
+                "phone": "+1-952-238-1388",
+                "ref": "4781-county-road-101",
+                "website": "https://locations.brueggers.com/us/mn/minnetonka/4781-county-road-101"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.37820470333105",
+                    "45.0210867037326"
+                ]
+            },
+            "properties": {
+                "addr:city": "New Hope",
+                "addr:country": "US",
+                "addr:housenumber": "3558",
+                "addr:postcode": "55427",
+                "addr:state": "MN",
+                "addr:street": "Winnetka Avenue N",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels New Hope",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-763-545-6783",
+                "ref": "3558-winnetka-ave-n",
+                "website": "https://locations.brueggers.com/us/mn/new-hope/3558-winnetka-ave-n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.1146240234375",
+                    "45.080146039553114"
+                ]
+            },
+            "properties": {
+                "addr:city": "North Oaks",
+                "addr:country": "US",
+                "addr:housenumber": "111",
+                "addr:postcode": "55127",
+                "addr:state": "MN",
+                "addr:street": "Village Center Drive",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels North Oaks/Village Center",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-651-486-7135",
+                "ref": "111-village-center-drive",
+                "website": "https://locations.brueggers.com/us/mn/north-oaks/111-village-center-drive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.45580351901441",
+                    "45.02862580009846"
+                ]
+            },
+            "properties": {
+                "addr:city": "Plymouth",
+                "addr:country": "US",
+                "addr:housenumber": "4000",
+                "addr:postcode": "55447",
+                "addr:state": "MN",
+                "addr:street": "Annapolis Lane",
+                "addr:unit": "109",
+                "addr:unitname": "Suite",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Rockford/Rock Rd",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-763-553-9893",
+                "ref": "4000-annapolis-lane",
+                "website": "https://locations.brueggers.com/us/mn/plymouth/4000-annapolis-lane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-92.46512192708451",
+                    "44.02192810686725"
+                ]
+            },
+            "properties": {
+                "addr:city": "Rochester",
+                "addr:country": "US",
+                "addr:housenumber": "155",
+                "addr:postcode": "55901",
+                "addr:state": "MN",
+                "addr:street": "1st Avenue SW",
+                "addr:unit": "140",
+                "addr:unitname": "Suite",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Rochester - Mayo Clinic",
+                "opening_hours": "Mo-Fr 06:00-14:00",
+                "phone": "+1-507-424-4777",
+                "ref": "155-1st-avenue-sw",
+                "website": "https://locations.brueggers.com/us/mn/rochester/155-1st-avenue-sw"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.1686283",
+                    "45.0225134"
+                ]
+            },
+            "properties": {
+                "addr:city": "Roseville",
+                "addr:country": "US",
+                "addr:housenumber": "2712",
+                "addr:postcode": "55113",
+                "addr:state": "MN",
+                "addr:street": "Lincoln Drive",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Roseville Crossings",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-651-635-0185",
+                "ref": "2712-lincoln-drive",
+                "website": "https://locations.brueggers.com/us/mn/roseville/2712-lincoln-drive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.01041752099991",
+                    "44.951722681788326"
+                ]
+            },
+            "properties": {
+                "addr:city": "Saint Paul",
+                "addr:country": "US",
+                "addr:housenumber": "2133",
+                "addr:postcode": "55119",
+                "addr:state": "MN",
+                "addr:street": "Hudson Road",
+                "addr:unit": "3",
+                "addr:unitname": "Suite",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels and Caribou Coffee Sun Ray",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-651-578-0580",
+                "ref": "2133-hudson-road",
+                "website": "https://locations.brueggers.com/us/mn/saint-paul/2133-hudson-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.1910057",
+                    "44.9173206"
+                ]
+            },
+            "properties": {
+                "addr:city": "Saint Paul",
+                "addr:country": "US",
+                "addr:housenumber": "2136",
+                "addr:postcode": "55116",
+                "addr:state": "MN",
+                "addr:street": "Ford Parkway",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Highland",
+                "phone": "+1-651-699-8011",
+                "ref": "2136-ford-parkway",
+                "website": "https://locations.brueggers.com/us/mn/saint-paul/2136-ford-parkway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.1944814324379",
+                    "44.97470534793569"
+                ]
+            },
+            "properties": {
+                "addr:city": "Saint Paul",
+                "addr:country": "US",
+                "addr:housenumber": "2233",
+                "addr:postcode": "55108",
+                "addr:state": "MN",
+                "addr:street": "Energy Park Drive",
+                "addr:unit": "100",
+                "addr:unitname": "Suite",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels St. Anthony Park",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-651-646-8632",
+                "ref": "2233-energy-park-dr",
+                "website": "https://locations.brueggers.com/us/mn/saint-paul/2233-energy-park-dr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.13366502523422",
+                    "44.93974945047463"
+                ]
+            },
+            "properties": {
+                "addr:city": "Saint Paul",
+                "addr:country": "US",
+                "addr:housenumber": "800",
+                "addr:postcode": "55105",
+                "addr:state": "MN",
+                "addr:street": "Grand Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Grand Avenue",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-651-221-1909",
+                "ref": "800-grand-ave",
+                "website": "https://locations.brueggers.com/us/mn/saint-paul/800-grand-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.34990203380585",
+                    "44.96612445838049"
+                ]
+            },
+            "properties": {
+                "addr:city": "St. Louis Park",
+                "addr:country": "US",
+                "addr:housenumber": "1650",
+                "addr:postcode": "55416",
+                "addr:state": "MN",
+                "addr:street": "Park Place Boulevard",
+                "addr:unit": "100",
+                "addr:unitname": "Suite",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Park Place Plaza",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-952-545-0398",
+                "ref": "1650-park-place-blvd",
+                "website": "https://locations.brueggers.com/us/mn/st-louis-park/1650-park-place-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-92.84173339605331",
+                    "45.038035525984476"
+                ]
+            },
+            "properties": {
+                "addr:city": "Stillwater",
+                "addr:country": "US",
+                "addr:housenumber": "1970",
+                "addr:postcode": "55082",
+                "addr:state": "MN",
+                "addr:street": "Market Drive",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Stillwater",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-651-439-3090",
+                "ref": "1970-market-dr",
+                "website": "https://locations.brueggers.com/us/mn/stillwater/1970-market-dr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.50062223313529",
+                    "44.97139889755473"
+                ]
+            },
+            "properties": {
+                "addr:city": "Wayzata",
+                "addr:country": "US",
+                "addr:housenumber": "1179A",
+                "addr:postcode": "55391",
+                "addr:state": "MN",
+                "addr:street": "East Wayzata Boulevard",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Wayzata",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-952-476-6587",
+                "ref": "1179a-e-wayzata-blvd",
+                "website": "https://locations.brueggers.com/us/mn/wayzata/1179a-e-wayzata-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-92.938481",
+                    "44.9206877"
+                ]
+            },
+            "properties": {
+                "addr:city": "Woodbury",
+                "addr:country": "US",
+                "addr:housenumber": "8320",
+                "addr:postcode": "55125",
+                "addr:state": "MN",
+                "addr:street": "City Centre Drive",
+                "addr:unit": "A",
+                "addr:unitname": "Suite",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels City Center/Woodbury",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-651-735-7711",
+                "ref": "8320-city-centre-dr",
+                "website": "https://locations.brueggers.com/us/mn/woodbury/8320-city-centre-dr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-78.86265327116394",
+                    "35.73853026568713"
+                ]
+            },
+            "properties": {
+                "addr:city": "Apex",
+                "addr:country": "US",
+                "addr:housenumber": "760",
+                "addr:postcode": "27502",
+                "addr:state": "NC",
+                "addr:street": "West Williams Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Haddon Hall",
+                "opening_hours": "Mo-Tu 06:00-13:00; We-Sa 06:00-14:00; Su 07:00-14:00",
+                "phone": "+1-919-367-7720",
+                "ref": "760-west-williams-street",
+                "website": "https://locations.brueggers.com/us/nc/apex/760-west-williams-street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-82.5418509542942",
+                    "35.56421789278944"
+                ]
+            },
+            "properties": {
+                "addr:city": "Asheville",
+                "addr:country": "US",
+                "addr:housenumber": "160",
+                "addr:postcode": "28803",
+                "addr:state": "NC",
+                "addr:street": "Hendersonville Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Biltmore",
+                "opening_hours": "Mo-Sa 06:00-15:00; Su 07:00-15:00",
+                "phone": "+1-828-277-1070",
+                "ref": "160-hendersonville-road",
+                "website": "https://locations.brueggers.com/us/nc/asheville/160-hendersonville-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-82.55424054232788",
+                    "35.62226573790665"
+                ]
+            },
+            "properties": {
+                "addr:city": "Asheville",
+                "addr:country": "US",
+                "addr:housenumber": "671",
+                "addr:postcode": "28804",
+                "addr:state": "NC",
+                "addr:street": "Merrimon Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Merrimon",
+                "opening_hours": "Mo-Sa 06:00-15:00; Su 07:00-15:00",
+                "phone": "+1-828-254-1560",
+                "ref": "671-merrimon-avenue",
+                "website": "https://locations.brueggers.com/us/nc/asheville/671-merrimon-avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-78.82689625024796",
+                    "35.79085219310949"
+                ]
+            },
+            "properties": {
+                "addr:city": "Cary",
+                "addr:country": "US",
+                "addr:housenumber": "4212",
+                "addr:postcode": "27513",
+                "addr:state": "NC",
+                "addr:street": "NW Cary Parkway",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Preston Corner",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-919-463-5563",
+                "ref": "4212-nw-cary-parkway",
+                "website": "https://locations.brueggers.com/us/nc/cary/4212-nw-cary-parkway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-78.7412946",
+                    "35.7461866"
+                ]
+            },
+            "properties": {
+                "addr:city": "Cary",
+                "addr:country": "US",
+                "addr:housenumber": "8204",
+                "addr:postcode": "27511",
+                "addr:state": "NC",
+                "addr:street": "Tryon Woods Road",
+                "addr:unit": "113",
+                "addr:unitname": "Suite",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Cary",
+                "opening_hours": "Mo-Fr 06:30-16:00; Sa-Su 07:00-16:00",
+                "phone": "+1-919-851-0906",
+                "ref": "8204-tryon-woods-rd",
+                "website": "https://locations.brueggers.com/us/nc/cary/8204-tryon-woods-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-79.0253716707229",
+                    "35.936526783488766"
+                ]
+            },
+            "properties": {
+                "addr:city": "Chapel Hill",
+                "addr:country": "US",
+                "addr:housenumber": "1800",
+                "addr:postcode": "27514",
+                "addr:state": "NC",
+                "addr:street": "East Franklin Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Eastgate",
+                "opening_hours": "Mo-Su 06:00-15:00",
+                "phone": "+1-919-929-5524",
+                "ref": "1800-east-franklin-street",
+                "website": "https://locations.brueggers.com/us/nc/chapel-hill/1800-east-franklin-street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-80.7995164",
+                    "35.1760244"
+                ]
+            },
+            "properties": {
+                "addr:city": "Charlotte",
+                "addr:country": "US",
+                "addr:housenumber": "106",
+                "addr:postcode": "28211",
+                "addr:state": "NC",
+                "addr:street": "South Sharon Amity Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Cotswold",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-704-367-0737",
+                "ref": "106-south-sharon-amity-rd",
+                "website": "https://locations.brueggers.com/us/nc/charlotte/106-south-sharon-amity-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-80.8477537",
+                    "35.1732143"
+                ]
+            },
+            "properties": {
+                "addr:city": "Charlotte",
+                "addr:country": "US",
+                "addr:housenumber": "4327",
+                "addr:postcode": "28209",
+                "addr:state": "NC",
+                "addr:street": "Park Road",
+                "addr:unit": "25",
+                "addr:unitname": "Building",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Park Road",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-704-525-5295",
+                "ref": "4327-park-road",
+                "website": "https://locations.brueggers.com/us/nc/charlotte/4327-park-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-80.878346",
+                    "35.4856343"
+                ]
+            },
+            "properties": {
+                "addr:city": "Cornelius",
+                "addr:country": "US",
+                "addr:housenumber": "20619",
+                "addr:postcode": "28031",
+                "addr:state": "NC",
+                "addr:street": "Torrence Chapel Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels South Lake",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-704-896-3199",
+                "ref": "20619-torrence-chapel-road",
+                "website": "https://locations.brueggers.com/us/nc/cornelius/20619-torrence-chapel-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-78.959893",
+                    "35.959818"
+                ]
+            },
+            "properties": {
+                "addr:city": "Durham",
+                "addr:country": "US",
+                "addr:housenumber": "1831",
+                "addr:postcode": "27707",
+                "addr:state": "NC",
+                "addr:street": "Martin Luther King Parkway",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Commons",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-919-401-3700",
+                "ref": "1831-martin-luther-king-parkway",
+                "website": "https://locations.brueggers.com/us/nc/durham/1831-martin-luther-king-parkway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-78.84932756423956",
+                    "35.86769963496262"
+                ]
+            },
+            "properties": {
+                "addr:city": "Durham",
+                "addr:country": "US",
+                "addr:housenumber": "4104",
+                "addr:postcode": "27703",
+                "addr:state": "NC",
+                "addr:street": "Surles Court",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Shiloh Crossing",
+                "opening_hours": "Mo-Sa 06:30-14:00; Su 07:00-14:00",
+                "phone": "+1-919-941-6306",
+                "ref": "4104-surles-court",
+                "website": "https://locations.brueggers.com/us/nc/durham/4104-surles-court"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-78.9219819009304",
+                    "36.007534347836774"
+                ]
+            },
+            "properties": {
+                "addr:city": "Durham",
+                "addr:country": "US",
+                "addr:housenumber": "626",
+                "addr:postcode": "27705",
+                "addr:state": "NC",
+                "addr:street": "Ninth Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Durham",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-919-286-4900",
+                "ref": "626-ninth-st",
+                "website": "https://locations.brueggers.com/us/nc/durham/626-ninth-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-79.83211406741202",
+                    "36.08427950926848"
+                ]
+            },
+            "properties": {
+                "addr:city": "Greensboro",
+                "addr:country": "US",
+                "addr:housenumber": "3116",
+                "addr:postcode": "27401",
+                "addr:state": "NC",
+                "addr:street": "West Friendly Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Friendly Shopping Center",
+                "opening_hours": "Mo-Su 06:00-13:00",
+                "phone": "+1-336-547-0510",
+                "ref": "3116-west-friendly-avenue",
+                "website": "https://locations.brueggers.com/us/nc/greensboro/3116-west-friendly-avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-79.84132647514343",
+                    "36.118990094254336"
+                ]
+            },
+            "properties": {
+                "addr:city": "Greensboro",
+                "addr:country": "US",
+                "addr:housenumber": "3211",
+                "addr:postcode": "27408",
+                "addr:state": "NC",
+                "addr:street": "Battleground Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Battleground",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-336-288-1030",
+                "ref": "3211-battleground-avenue",
+                "website": "https://locations.brueggers.com/us/nc/greensboro/3211-battleground-avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-80.70851093005945",
+                    "35.124546387575336"
+                ]
+            },
+            "properties": {
+                "addr:city": "Matthews",
+                "addr:country": "US",
+                "addr:housenumber": "1905",
+                "addr:postcode": "28105",
+                "addr:state": "NC",
+                "addr:street": "Matthews Township Parkway",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Festival/Matthews",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-704-849-7222",
+                "ref": "1905-matthews-township-parkway",
+                "website": "https://locations.brueggers.com/us/nc/matthews/1905-matthews-township-parkway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-78.7913206",
+                    "35.8791072"
+                ]
+            },
+            "properties": {
+                "addr:city": "Morrisville",
+                "addr:country": "US",
+                "addr:housenumber": "2600",
+                "addr:postcode": "27623",
+                "addr:state": "NC",
+                "addr:street": "West Terminal Boulevard Terminal 2",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Raleigh-Durham International Airport - Terminal 2 Gate C18",
+                "opening_hours": "Mo-Su 04:30-19:00",
+                "phone": "+1-919-384-3410",
+                "ref": "2600-w-terminal-boulevard",
+                "website": "https://locations.brueggers.com/us/nc/morrisville/2600-w-terminal-boulevard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-80.86714655092618",
+                    "35.08885888865407"
+                ]
+            },
+            "properties": {
+                "addr:city": "Pineville",
+                "addr:country": "US",
+                "addr:housenumber": "8706",
+                "addr:postcode": "28226",
+                "addr:state": "NC",
+                "addr:street": "Pineville Matthews Road",
+                "addr:unit": "100",
+                "addr:unitname": "Suite",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Pineville 2",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-704-543-4785",
+                "ref": "8706-pineville-matthews-road",
+                "website": "https://locations.brueggers.com/us/nc/pineville/8706-pineville-matthews-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-78.54122462698365",
+                    "35.9421536650811"
+                ]
+            },
+            "properties": {
+                "addr:city": "Raleigh",
+                "addr:country": "US",
+                "addr:housenumber": "10750",
+                "addr:postcode": "27614",
+                "addr:state": "NC",
+                "addr:street": "Wakefield Commons Drive",
+                "addr:unit": "111",
+                "addr:unitname": "Suite",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Wakefield Commons",
+                "opening_hours": "Mo-Fr 06:30-16:00; Sa-Su 07:00-16:00",
+                "phone": "+1-919-453-2700",
+                "ref": "10750-wakefield-commons-dr",
+                "website": "https://locations.brueggers.com/us/nc/raleigh/10750-wakefield-commons-dr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-78.67699295282358",
+                    "35.778266987538615"
+                ]
+            },
+            "properties": {
+                "addr:city": "Raleigh",
+                "addr:country": "US",
+                "addr:housenumber": "2231",
+                "addr:postcode": "27606",
+                "addr:state": "NC",
+                "addr:street": "Avent Ferry Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Mission Valley",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-919-828-1416",
+                "ref": "2231-avent-ferry-rd",
+                "website": "https://locations.brueggers.com/us/nc/raleigh/2231-avent-ferry-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-78.66594474355122",
+                    "35.78744332835205"
+                ]
+            },
+            "properties": {
+                "addr:city": "Raleigh",
+                "addr:country": "US",
+                "addr:housenumber": "2302",
+                "addr:postcode": "27607",
+                "addr:state": "NC",
+                "addr:street": "Hillsborough Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Hillsborough",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-919-828-7103",
+                "ref": "2302-hillsborough-st",
+                "website": "https://locations.brueggers.com/us/nc/raleigh/2302-hillsborough-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-78.68468284606934",
+                    "35.80154391779702"
+                ]
+            },
+            "properties": {
+                "addr:city": "Raleigh",
+                "addr:country": "US",
+                "addr:housenumber": "3510",
+                "addr:postcode": "27607",
+                "addr:state": "NC",
+                "addr:street": "Wade Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Ridgewood",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-919-828-1301",
+                "ref": "3510-wade-avenue",
+                "website": "https://locations.brueggers.com/us/nc/raleigh/3510-wade-avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-78.6788407",
+                    "35.8893952"
+                ]
+            },
+            "properties": {
+                "addr:city": "Raleigh",
+                "addr:country": "US",
+                "addr:housenumber": "7550",
+                "addr:postcode": "27613",
+                "addr:state": "NC",
+                "addr:street": "Creedmoor Road",
+                "addr:unit": "106",
+                "addr:unitname": "Suite",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Stonehenge",
+                "opening_hours": "Mo-Su 06:00-15:00",
+                "phone": "+1-919-848-4902",
+                "ref": "7550-creedmoor-road",
+                "website": "https://locations.brueggers.com/us/nc/raleigh/7550-creedmoor-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-78.7839597",
+                    "35.9087479"
+                ]
+            },
+            "properties": {
+                "addr:city": "Raleigh",
+                "addr:country": "US",
+                "addr:housenumber": "8211",
+                "addr:postcode": "27617",
+                "addr:state": "NC",
+                "addr:street": "103 Brier Creek Parkway",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Brier Creek",
+                "opening_hours": "Mo-Fr 06:30-16:00; Sa-Su 07:00-16:00",
+                "phone": "+1-919-484-8262",
+                "ref": "8211-103-brier-creek-parkway",
+                "website": "https://locations.brueggers.com/us/nc/raleigh/8211-103-brier-creek-parkway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-78.65734308958048",
+                    "35.90238901196732"
+                ]
+            },
+            "properties": {
+                "addr:city": "Raleigh",
+                "addr:country": "US",
+                "addr:housenumber": "9704",
+                "addr:postcode": "27615",
+                "addr:state": "NC",
+                "addr:street": "Strickland Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Harvest Plaza",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-919-846-0183",
+                "ref": "9704-strickland-road",
+                "website": "https://locations.brueggers.com/us/nc/raleigh/9704-strickland-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-96.7036034",
+                    "40.815622"
+                ]
+            },
+            "properties": {
+                "addr:city": "Lincoln",
+                "addr:country": "US",
+                "addr:housenumber": "1209",
+                "addr:postcode": "68508",
+                "addr:state": "NE",
+                "addr:street": "Q Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Lincoln Q Street",
+                "opening_hours": "Mo-Su 07:00-11:00",
+                "phone": "+1-402-474-6001",
+                "ref": "1209-q-street",
+                "website": "https://locations.brueggers.com/us/ne/lincoln/1209-q-street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-96.116266",
+                    "41.23351"
+                ]
+            },
+            "properties": {
+                "addr:city": "Omaha",
+                "addr:country": "US",
+                "addr:housenumber": "12989",
+                "addr:postcode": "68144",
+                "addr:state": "NE",
+                "addr:street": "West Center Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels 132nd & W. Center",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-402-333-8886",
+                "ref": "12989-w-center-rd",
+                "website": "https://locations.brueggers.com/us/ne/omaha/12989-w-center-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-96.09162227116394",
+                    "41.25956974968644"
+                ]
+            },
+            "properties": {
+                "addr:city": "Omaha",
+                "addr:country": "US",
+                "addr:housenumber": "228",
+                "addr:postcode": "68154",
+                "addr:state": "NE",
+                "addr:street": "North 114th Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Davenport",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-402-697-7888",
+                "ref": "228-n-114th-st",
+                "website": "https://locations.brueggers.com/us/ne/omaha/228-n-114th-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-95.9740698981476",
+                    "41.259267195669764"
+                ]
+            },
+            "properties": {
+                "addr:city": "Omaha",
+                "addr:country": "US",
+                "addr:housenumber": "4015",
+                "addr:postcode": "68131",
+                "addr:state": "NE",
+                "addr:street": "Dodge Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Dodge St",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-402-558-0800",
+                "ref": "4015-dodge-st",
+                "website": "https://locations.brueggers.com/us/ne/omaha/4015-dodge-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-73.838648",
+                    "42.683636"
+                ]
+            },
+            "properties": {
+                "addr:city": "Albany",
+                "addr:country": "US",
+                "addr:housenumber": "1475",
+                "addr:postcode": "12203",
+                "addr:state": "NY",
+                "addr:street": "Westen Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels - CLOSED Stuyvesant Plaza",
+                "phone": "+1-518-482-3579",
+                "ref": "1475-westen-ave",
+                "website": "https://locations.brueggers.com/us/ny/albany/1475-westen-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-73.84547782209012",
+                    "42.727779653142335"
+                ]
+            },
+            "properties": {
+                "addr:city": "Albany",
+                "addr:country": "US",
+                "addr:housenumber": "1770",
+                "addr:postcode": "12205",
+                "addr:state": "NY",
+                "addr:street": "Central Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Village Square",
+                "opening_hours": "Mo-Sa 06:00-14:00; Su 07:00-14:00",
+                "phone": "+1-518-464-0363",
+                "ref": "1770-central-ave",
+                "website": "https://locations.brueggers.com/us/ny/albany/1770-central-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-73.81290078163147",
+                    "42.717313783784675"
+                ]
+            },
+            "properties": {
+                "addr:city": "Albany",
+                "addr:country": "US",
+                "addr:housenumber": "98",
+                "addr:postcode": "12205",
+                "addr:state": "NY",
+                "addr:street": "Wolf Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Wolf Road",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-518-438-5014",
+                "ref": "98-wolf-rd",
+                "website": "https://locations.brueggers.com/us/ny/albany/98-wolf-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-73.78363251686096",
+                    "42.85963567790786"
+                ]
+            },
+            "properties": {
+                "addr:city": "Clifton Park",
+                "addr:country": "US",
+                "addr:housenumber": "19",
+                "addr:postcode": "12065",
+                "addr:state": "NY",
+                "addr:street": "Clifton Country Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Clifton Park",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-518-383-5814",
+                "ref": "19-clifton-country-rd",
+                "website": "https://locations.brueggers.com/us/ny/clifton-park/19-clifton-country-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-73.81252599999993",
+                    "42.62854615923236"
+                ]
+            },
+            "properties": {
+                "addr:city": "Delmar",
+                "addr:country": "US",
+                "addr:housenumber": "180",
+                "addr:postcode": "12054",
+                "addr:state": "NY",
+                "addr:street": "Delaware Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Delmar",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-518-439-0662",
+                "ref": "180-delaware-ave",
+                "website": "https://locations.brueggers.com/us/ny/delmar/180-delaware-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-76.0840435",
+                    "43.0558505"
+                ]
+            },
+            "properties": {
+                "addr:city": "Dewitt",
+                "addr:country": "US",
+                "addr:housenumber": "3065",
+                "addr:postcode": "13224",
+                "addr:state": "NY",
+                "addr:street": "Erie Boulevard East",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Erie Boulevard",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-315-517-3160",
+                "ref": "3065-erie-boulevard-east",
+                "website": "https://locations.brueggers.com/us/ny/dewitt/3065-erie-boulevard-east"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-73.7010493",
+                    "42.6437526"
+                ]
+            },
+            "properties": {
+                "addr:city": "East Greenbush",
+                "addr:country": "US",
+                "addr:housenumber": "279",
+                "addr:postcode": "12144",
+                "addr:state": "NY",
+                "addr:street": "Troy Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels East Greenbush - DT",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-518-283-2219",
+                "ref": "279-troy-road",
+                "website": "https://locations.brueggers.com/us/ny/east-greenbush/279-troy-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-77.4435486",
+                    "43.0708962"
+                ]
+            },
+            "properties": {
+                "addr:city": "Fairport",
+                "addr:country": "US",
+                "addr:housenumber": "585",
+                "addr:postcode": "14450",
+                "addr:state": "NY",
+                "addr:street": "Mosley Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Perinton",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-585-223-0450",
+                "ref": "585-mosley-rd",
+                "website": "https://locations.brueggers.com/us/ny/fairport/585-mosley-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-73.76109422453692",
+                    "42.72723735604898"
+                ]
+            },
+            "properties": {
+                "addr:city": "Latham",
+                "addr:country": "US",
+                "addr:housenumber": "594",
+                "addr:postcode": "12110",
+                "addr:state": "NY",
+                "addr:street": "New Loudon Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Latham",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-518-785-4961",
+                "ref": "594-new-loudon-rd",
+                "website": "https://locations.brueggers.com/us/ny/latham/594-new-loudon-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.97841575741762",
+                    "43.0010790645624"
+                ]
+            },
+            "properties": {
+                "addr:city": "Manlius",
+                "addr:country": "US",
+                "addr:housenumber": "112",
+                "addr:postcode": "13104",
+                "addr:state": "NY",
+                "addr:street": "East Seneca Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Manlius",
+                "opening_hours": "Mo-Su 06:00-15:00",
+                "phone": "+1-315-682-2575",
+                "ref": "112-e-seneca-st",
+                "website": "https://locations.brueggers.com/us/ny/manlius/112-e-seneca-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-77.4938571453095",
+                    "43.131800590249306"
+                ]
+            },
+            "properties": {
+                "addr:city": "Penfield",
+                "addr:country": "US",
+                "addr:housenumber": "1601",
+                "addr:postcode": "14625",
+                "addr:state": "NY",
+                "addr:street": "Penfield Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Panorama Trail",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-585-264-0550",
+                "ref": "1601-penfield-road",
+                "website": "https://locations.brueggers.com/us/ny/penfield/1601-penfield-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-77.47593462467199",
+                    "43.060596811368896"
+                ]
+            },
+            "properties": {
+                "addr:city": "Pittsford",
+                "addr:country": "US",
+                "addr:housenumber": "707-709",
+                "addr:postcode": "14534",
+                "addr:state": "NY",
+                "addr:street": "Pittsford Victor Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Bushnell Basin",
+                "opening_hours": "Mo-Su 06:00-15:00",
+                "phone": "+1-585-264-0060",
+                "ref": "707-709-pittsford-victor-road",
+                "website": "https://locations.brueggers.com/us/ny/pittsford/707-709-pittsford-victor-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-77.54731625318527",
+                    "43.11025331748263"
+                ]
+            },
+            "properties": {
+                "addr:city": "Rochester",
+                "addr:country": "US",
+                "addr:housenumber": "2951",
+                "addr:postcode": "14618",
+                "addr:state": "NY",
+                "addr:street": "Monroe Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Monroe-Clover",
+                "opening_hours": "Mo-Su 06:00-15:00",
+                "phone": "+1-585-697-0158",
+                "ref": "2951-monroe-avenue",
+                "website": "https://locations.brueggers.com/us/ny/rochester/2951-monroe-avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-77.6989289",
+                    "43.2517341"
+                ]
+            },
+            "properties": {
+                "addr:city": "Rochester",
+                "addr:country": "US",
+                "addr:housenumber": "3177",
+                "addr:postcode": "14612",
+                "addr:state": "NY",
+                "addr:street": "Latta Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Latta Pond",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-585-227-8030",
+                "ref": "3177-latta-rd",
+                "website": "https://locations.brueggers.com/us/ny/rochester/3177-latta-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-77.6424407958985",
+                    "43.08908042301102"
+                ]
+            },
+            "properties": {
+                "addr:city": "Rochester",
+                "addr:country": "US",
+                "addr:housenumber": "3333",
+                "addr:postcode": "14623",
+                "addr:state": "NY",
+                "addr:street": "West Henrietta Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Southtown Plaza - DT",
+                "opening_hours": "Mo-Su 06:00-15:00",
+                "phone": "+1-585-424-6110",
+                "ref": "3333-w-henrietta-rd",
+                "website": "https://locations.brueggers.com/us/ny/rochester/3333-w-henrietta-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-77.59255170822144",
+                    "43.146118495629835"
+                ]
+            },
+            "properties": {
+                "addr:city": "Rochester",
+                "addr:country": "US",
+                "addr:housenumber": "548",
+                "addr:postcode": "14607",
+                "addr:state": "NY",
+                "addr:street": "Monroe Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Monroe-Goodman",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-585-256-3410",
+                "ref": "548-monroe-ave",
+                "website": "https://locations.brueggers.com/us/ny/rochester/548-monroe-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-73.9038300932541",
+                    "42.804185316819705"
+                ]
+            },
+            "properties": {
+                "addr:city": "Schenectady",
+                "addr:country": "US",
+                "addr:housenumber": "1634",
+                "addr:postcode": "12309",
+                "addr:state": "NY",
+                "addr:street": "Union Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Union Street",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-518-355-7522",
+                "ref": "1634-union-st",
+                "website": "https://locations.brueggers.com/us/ny/schenectady/1634-union-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-76.1102073",
+                    "43.0284294"
+                ]
+            },
+            "properties": {
+                "addr:city": "Syracuse",
+                "addr:country": "US",
+                "addr:housenumber": "333",
+                "addr:postcode": "13214",
+                "addr:state": "NY",
+                "addr:street": "Nottingham Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Nottingham",
+                "opening_hours": "Mo-Fr 06:00-14:00; Sa-Su 06:00-15:00",
+                "phone": "+1-315-446-3934",
+                "ref": "333-nottingham-road",
+                "website": "https://locations.brueggers.com/us/ny/syracuse/333-nottingham-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-76.1572614312172",
+                    "43.121673964803186"
+                ]
+            },
+            "properties": {
+                "addr:city": "Syracuse",
+                "addr:country": "US",
+                "addr:housenumber": "5198",
+                "addr:postcode": "13212",
+                "addr:state": "NY",
+                "addr:street": "West Taft Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels West Taft Road",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-315-396-0371",
+                "ref": "5198-w-taft-rd",
+                "website": "https://locations.brueggers.com/us/ny/syracuse/5198-w-taft-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-73.69148238773153",
+                    "42.729045836497974"
+                ]
+            },
+            "properties": {
+                "addr:city": "Troy",
+                "addr:country": "US",
+                "addr:housenumber": "55",
+                "addr:postcode": "12180",
+                "addr:state": "NY",
+                "addr:street": "Congress Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Troy",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-518-274-4469",
+                "ref": "55-congress-st",
+                "website": "https://locations.brueggers.com/us/ny/troy/55-congress-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-77.50352382659912",
+                    "43.19167644918724"
+                ]
+            },
+            "properties": {
+                "addr:city": "Webster",
+                "addr:country": "US",
+                "addr:housenumber": "1950",
+                "addr:postcode": "14580",
+                "addr:state": "NY",
+                "addr:street": "Empire Boulevard",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Empire Boulevard",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-585-671-0720",
+                "ref": "1950-empire-blvd",
+                "website": "https://locations.brueggers.com/us/ny/webster/1950-empire-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-81.50744049570085",
+                    "41.46594748574922"
+                ]
+            },
+            "properties": {
+                "addr:city": "Beachwood",
+                "addr:country": "US",
+                "addr:housenumber": "24215",
+                "addr:postcode": "44122",
+                "addr:state": "OH",
+                "addr:street": "Chagrin Boulevard",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Pavilion/Beechwood",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-216-595-9915",
+                "ref": "24215-chagrin-blvd",
+                "website": "https://locations.brueggers.com/us/oh/beachwood/24215-chagrin-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-84.37628209590912",
+                    "39.23193942213361"
+                ]
+            },
+            "properties": {
+                "addr:city": "Blue Ash",
+                "addr:country": "US",
+                "addr:housenumber": "9590",
+                "addr:postcode": "45242",
+                "addr:state": "OH",
+                "addr:street": "Kenwood Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels City Centre/Blue Ash",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-513-984-5111",
+                "ref": "9590-kenwood-rd",
+                "website": "https://locations.brueggers.com/us/oh/blue-ash/9590-kenwood-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-81.62584332638932",
+                    "41.31965117701247"
+                ]
+            },
+            "properties": {
+                "addr:city": "Brecksville",
+                "addr:country": "US",
+                "addr:housenumber": "7322",
+                "addr:postcode": "44141",
+                "addr:state": "OH",
+                "addr:street": "Chippewa Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Brecksville",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-440-717-0028",
+                "ref": "7322-chippewa-road",
+                "website": "https://locations.brueggers.com/us/oh/brecksville/7322-chippewa-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-84.5196179",
+                    "39.1419051"
+                ]
+            },
+            "properties": {
+                "addr:city": "Cincinnati",
+                "addr:country": "US",
+                "addr:housenumber": "3317",
+                "addr:postcode": "45220",
+                "addr:state": "OH",
+                "addr:street": "Clifton Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Clifton",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-513-221-2243",
+                "ref": "3317-clifton-ave",
+                "website": "https://locations.brueggers.com/us/oh/cincinnati/3317-clifton-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-84.43827781349182",
+                    "39.116482025818364"
+                ]
+            },
+            "properties": {
+                "addr:city": "Cincinnati",
+                "addr:country": "US",
+                "addr:housenumber": "3515",
+                "addr:postcode": "45226",
+                "addr:state": "OH",
+                "addr:street": "Columbia Parkway",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Columbia Square",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-513-321-4400",
+                "ref": "3515-columbia-parkway",
+                "website": "https://locations.brueggers.com/us/oh/cincinnati/3515-columbia-parkway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-84.42725168220903",
+                    "39.14609375562471"
+                ]
+            },
+            "properties": {
+                "addr:city": "Cincinnati",
+                "addr:country": "US",
+                "addr:housenumber": "3842",
+                "addr:postcode": "45209",
+                "addr:state": "OH",
+                "addr:street": "Paxton Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Hyde Park",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-513-533-0900",
+                "ref": "3842-paxton-rd",
+                "website": "https://locations.brueggers.com/us/oh/cincinnati/3842-paxton-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-84.3635499",
+                    "39.1883414"
+                ]
+            },
+            "properties": {
+                "addr:city": "Cincinnati",
+                "addr:country": "US",
+                "addr:housenumber": "7005",
+                "addr:postcode": "45243",
+                "addr:state": "OH",
+                "addr:street": "Miami Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Madeira Crossing",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-513-272-1101",
+                "ref": "7005-miami-ave",
+                "website": "https://locations.brueggers.com/us/oh/cincinnati/7005-miami-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-81.838827",
+                    "41.410579"
+                ]
+            },
+            "properties": {
+                "addr:city": "Cleveland",
+                "addr:country": "US",
+                "addr:housenumber": "5300",
+                "addr:postcode": "44135",
+                "addr:state": "OH",
+                "addr:street": "Riverside Drive Main Terminal Food Court",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Cleveland Hopkins International Airport - Main Terminal Food Court",
+                "phone": "+1-216-265-8459",
+                "ref": "5300-riverside-drive",
+                "website": "https://locations.brueggers.com/us/oh/cleveland/5300-riverside-drive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-81.5928562",
+                    "41.5012333"
+                ]
+            },
+            "properties": {
+                "addr:city": "Cleveland Heights",
+                "addr:country": "US",
+                "addr:housenumber": "12443",
+                "addr:postcode": "44106",
+                "addr:state": "OH",
+                "addr:street": "Cedar Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Cedar Hill/Cleveland Heights",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-216-321-8933",
+                "ref": "12443-cedar-road",
+                "website": "https://locations.brueggers.com/us/oh/cleveland-heights/12443-cedar-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-83.01424026489258",
+                    "39.99463174390326"
+                ]
+            },
+            "properties": {
+                "addr:city": "Columbus",
+                "addr:country": "US",
+                "addr:housenumber": "1630",
+                "addr:postcode": "43201",
+                "addr:state": "OH",
+                "addr:street": "Neil Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Ohio State Campus",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-614-429-6042",
+                "ref": "1630-neil-avenue",
+                "website": "https://locations.brueggers.com/us/oh/columbus/1630-neil-avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-83.1064453730163",
+                    "40.09882500000001"
+                ]
+            },
+            "properties": {
+                "addr:city": "Dublin",
+                "addr:country": "US",
+                "addr:housenumber": "4425",
+                "addr:postcode": "43017",
+                "addr:state": "OH",
+                "addr:street": "West Dublin Granville Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels River Ridge",
+                "opening_hours": "Mo-Fr 06:30-14:00; Sa-Su 07:00-14:00",
+                "phone": "+1-614-761-3730",
+                "ref": "4425-w-dublin-granville-rd",
+                "website": "https://locations.brueggers.com/us/oh/dublin/4425-w-dublin-granville-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-81.634366",
+                    "41.136728"
+                ]
+            },
+            "properties": {
+                "addr:city": "Fairlawn",
+                "addr:country": "US",
+                "addr:housenumber": "3737",
+                "addr:postcode": "44333",
+                "addr:state": "OH",
+                "addr:street": "West Market Street",
+                "addr:unit": "C",
+                "addr:unitname": "Unit",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Fairlawn",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-330-665-1050",
+                "ref": "3737-w-market-st",
+                "website": "https://locations.brueggers.com/us/oh/fairlawn/3737-w-market-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-81.44532501697535",
+                    "41.23960925180694"
+                ]
+            },
+            "properties": {
+                "addr:city": "Hudson",
+                "addr:country": "US",
+                "addr:housenumber": "84",
+                "addr:postcode": "44236",
+                "addr:state": "OH",
+                "addr:street": "West Streetsboro Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Hudson/Acme Plaza",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-330-342-4708",
+                "ref": "84-west-streetsboro-street",
+                "website": "https://locations.brueggers.com/us/oh/hudson/84-west-streetsboro-street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-81.45990468220896",
+                    "41.520478975339046"
+                ]
+            },
+            "properties": {
+                "addr:city": "Mayfield Heights",
+                "addr:country": "US",
+                "addr:housenumber": "6075",
+                "addr:postcode": "44124",
+                "addr:state": "OH",
+                "addr:street": "Mayfield Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Mayfield Heights",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-440-473-1976",
+                "ref": "6075-mayfield-road",
+                "website": "https://locations.brueggers.com/us/oh/mayfield-heights/6075-mayfield-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-81.308923959732",
+                    "41.676898627319936"
+                ]
+            },
+            "properties": {
+                "addr:city": "Mentor",
+                "addr:country": "US",
+                "addr:housenumber": "9210",
+                "addr:postcode": "44060",
+                "addr:state": "OH",
+                "addr:street": "Mentor Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Mentor",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-440-974-9350",
+                "ref": "9210-mentor-ave",
+                "website": "https://locations.brueggers.com/us/oh/mentor/9210-mentor-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-81.43960000000004",
+                    "41.19972040132569"
+                ]
+            },
+            "properties": {
+                "addr:city": "Stow",
+                "addr:country": "US",
+                "addr:housenumber": "4963",
+                "addr:postcode": "44224",
+                "addr:state": "OH",
+                "addr:street": "Darrow Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Stow",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-330-342-4333",
+                "ref": "4963-darrow-road",
+                "website": "https://locations.brueggers.com/us/oh/stow/4963-darrow-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-81.83451354503632",
+                    "41.30609920781276"
+                ]
+            },
+            "properties": {
+                "addr:city": "Strongsville",
+                "addr:country": "US",
+                "addr:housenumber": "15035",
+                "addr:postcode": "44136",
+                "addr:state": "OH",
+                "addr:street": "Pearl Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Strongsville",
+                "opening_hours": "Mo-Fr 06:00-14:00; Sa-Su 06:00-16:00",
+                "phone": "+1-440-572-4646",
+                "ref": "15035-pearl-rd",
+                "website": "https://locations.brueggers.com/us/oh/strongsville/15035-pearl-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-83.05375691534425",
+                    "40.00667883652929"
+                ]
+            },
+            "properties": {
+                "addr:city": "Upper Arlington",
+                "addr:country": "US",
+                "addr:housenumber": "1621",
+                "addr:postcode": "43221",
+                "addr:state": "OH",
+                "addr:street": "Lane Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels The Shops on Lane Avenue",
+                "opening_hours": "Mo-Fr 06:30-14:00; Sa-Su 07:00-14:00",
+                "phone": "+1-614-486-7500",
+                "ref": "1621-lane-avenue",
+                "website": "https://locations.brueggers.com/us/oh/upper-arlington/1621-lane-avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-81.95294345767206",
+                    "41.4611008993836"
+                ]
+            },
+            "properties": {
+                "addr:city": "Westlake",
+                "addr:country": "US",
+                "addr:housenumber": "30155",
+                "addr:postcode": "44145",
+                "addr:state": "OH",
+                "addr:street": "Detroit Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Westlake",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-440-892-1250",
+                "ref": "30155-detroit-rd",
+                "website": "https://locations.brueggers.com/us/oh/westlake/30155-detroit-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-81.44071222453692",
+                    "41.607957895446184"
+                ]
+            },
+            "properties": {
+                "addr:city": "Willoughby",
+                "addr:country": "US",
+                "addr:housenumber": "5900",
+                "addr:postcode": "44094",
+                "addr:state": "OH",
+                "addr:street": "Som Center Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Pine Ridge Plaza/Willoughby",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-440-944-8865",
+                "ref": "5900-som-center-road",
+                "website": "https://locations.brueggers.com/us/oh/willoughby/5900-som-center-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-80.0233831",
+                    "40.3332042"
+                ]
+            },
+            "properties": {
+                "addr:city": "Bethel Park",
+                "addr:country": "US",
+                "addr:housenumber": "5213",
+                "addr:postcode": "15102",
+                "addr:state": "PA",
+                "addr:street": "Library Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels South Park",
+                "opening_hours": "Mo-Su 06:00-15:00",
+                "phone": "+1-412-833-9381",
+                "ref": "5213-library-road",
+                "website": "https://locations.brueggers.com/us/pa/bethel-park/5213-library-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.3254231",
+                    "40.0214451"
+                ]
+            },
+            "properties": {
+                "addr:city": "Bryn Mawr",
+                "addr:country": "US",
+                "addr:housenumber": "968",
+                "addr:postcode": "19010",
+                "addr:state": "PA",
+                "addr:street": "County Line Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Bruegger's Bagels - Bryn Mawr",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-610-520-2221",
+                "ref": "968-county-line-road",
+                "website": "https://locations.brueggers.com/us/pa/bryn-mawr/968-county-line-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-80.20857041104512",
+                    "40.50525"
+                ]
+            },
+            "properties": {
+                "addr:city": "Coraopolis",
+                "addr:country": "US",
+                "addr:housenumber": "1134",
+                "addr:postcode": "15108",
+                "addr:state": "PA",
+                "addr:street": "Thorn Run Rd Extension",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Thorn Run/Moon Township",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-412-264-2243",
+                "ref": "1134-thorn-run-rd-extension",
+                "website": "https://locations.brueggers.com/us/pa/coraopolis/1134-thorn-run-rd-extension"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.2510777288361",
+                    "39.874516584626186"
+                ]
+            },
+            "properties": {
+                "addr:city": "Philadelphia",
+                "addr:country": "US",
+                "addr:housenumber": "8000",
+                "addr:postcode": "19153",
+                "addr:state": "PA",
+                "addr:street": "Essington Ave W Terminal A",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Philadelphia International Airport - Gate A24",
+                "phone": "+1-215-365-4819",
+                "ref": "8000-essington-ave-w",
+                "website": "https://locations.brueggers.com/us/pa/philadelphia/8000-essington-ave-w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-80.2448517",
+                    "40.4945048"
+                ]
+            },
+            "properties": {
+                "addr:city": "Pittsburgh",
+                "addr:country": "US",
+                "addr:housenumber": "1000",
+                "addr:postcode": "15231",
+                "addr:state": "PA",
+                "addr:street": "Airport Blvd Space SE, 10A/B",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Pittsburgh Airport - Concourse B",
+                "opening_hours": "Mo-Su 04:30-18:00",
+                "phone": "+1-412-472-0693",
+                "ref": "1000-airport-blvd",
+                "website": "https://locations.brueggers.com/us/pa/pittsburgh/1000-airport-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-80.06158411502832",
+                    "40.39252760609029"
+                ]
+            },
+            "properties": {
+                "addr:city": "Pittsburgh",
+                "addr:country": "US",
+                "addr:housenumber": "1644",
+                "addr:postcode": "15220",
+                "addr:state": "PA",
+                "addr:street": "Cochran Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Cochran Rd",
+                "opening_hours": "Mo-Su 06:00-15:00",
+                "phone": "+1-412-561-5560",
+                "ref": "1644-cochran-rd",
+                "website": "https://locations.brueggers.com/us/pa/pittsburgh/1644-cochran-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-79.9227207899093",
+                    "40.43742530195143"
+                ]
+            },
+            "properties": {
+                "addr:city": "Pittsburgh",
+                "addr:country": "US",
+                "addr:housenumber": "1719",
+                "addr:postcode": "15217",
+                "addr:state": "PA",
+                "addr:street": "Murray Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Murray Avenue/Squirrel Hill",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-412-422-2814",
+                "ref": "1719-murray-ave",
+                "website": "https://locations.brueggers.com/us/pa/pittsburgh/1719-murray-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-79.98034939169884",
+                    "40.42895981799445"
+                ]
+            },
+            "properties": {
+                "addr:city": "Pittsburgh",
+                "addr:country": "US",
+                "addr:housenumber": "1801",
+                "addr:postcode": "15203",
+                "addr:state": "PA",
+                "addr:street": "East Carson Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Southside",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-412-381-2833",
+                "ref": "1801-east-carson-street",
+                "website": "https://locations.brueggers.com/us/pa/pittsburgh/1801-east-carson-street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-79.99847173690796",
+                    "40.43849706461744"
+                ]
+            },
+            "properties": {
+                "addr:city": "Pittsburgh",
+                "addr:country": "US",
+                "addr:housenumber": "429",
+                "addr:postcode": "15219",
+                "addr:state": "PA",
+                "addr:street": "4th Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels 4th Ave",
+                "opening_hours": "Mo-Fr 06:00-14:00",
+                "phone": "+1-412-434-0188",
+                "ref": "429-4th-ave",
+                "website": "https://locations.brueggers.com/us/pa/pittsburgh/429-4th-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-80.01041991170882",
+                    "40.529948484622054"
+                ]
+            },
+            "properties": {
+                "addr:city": "Pittsburgh",
+                "addr:country": "US",
+                "addr:housenumber": "4885",
+                "addr:postcode": "15237",
+                "addr:state": "PA",
+                "addr:street": "McKnight Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels McKnight/Siebert",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-412-369-7138",
+                "ref": "4885-mcknight-rd",
+                "website": "https://locations.brueggers.com/us/pa/pittsburgh/4885-mcknight-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-79.9964758",
+                    "40.4402542"
+                ]
+            },
+            "properties": {
+                "addr:city": "Pittsburgh",
+                "addr:country": "US",
+                "addr:housenumber": "531",
+                "addr:postcode": "15219",
+                "addr:state": "PA",
+                "addr:street": "Grant Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels and Jamba Juice Grant Street",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-412-471-9249",
+                "ref": "531-grant-st",
+                "website": "https://locations.brueggers.com/us/pa/pittsburgh/531-grant-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-79.9357315",
+                    "40.4507495"
+                ]
+            },
+            "properties": {
+                "addr:city": "Pittsburgh",
+                "addr:country": "US",
+                "addr:housenumber": "806",
+                "addr:postcode": "15232",
+                "addr:state": "PA",
+                "addr:street": "South Aiken Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Shadyside",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-412-621-2335",
+                "ref": "806-south-aiken-ave",
+                "website": "https://locations.brueggers.com/us/pa/pittsburgh/806-south-aiken-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-80.18116906285292",
+                    "40.54063814692046"
+                ]
+            },
+            "properties": {
+                "addr:city": "Sewickley",
+                "addr:country": "US",
+                "addr:housenumber": "422",
+                "addr:postcode": "15143",
+                "addr:state": "PA",
+                "addr:street": "Beaver Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Sewickley",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-412-741-3069",
+                "ref": "422-beaver-st",
+                "website": "https://locations.brueggers.com/us/pa/sewickley/422-beaver-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-80.97125638773161",
+                    "34.02046400402353"
+                ]
+            },
+            "properties": {
+                "addr:city": "Columbia",
+                "addr:country": "US",
+                "addr:housenumber": "4601",
+                "addr:postcode": "29206",
+                "addr:state": "SC",
+                "addr:street": "Forest Drive",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Forest Drive",
+                "opening_hours": "Mo-Su 07:30-14:00",
+                "phone": "+1-803-738-8112",
+                "ref": "4601-forest-drive",
+                "website": "https://locations.brueggers.com/us/sc/columbia/4601-forest-drive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-81.17249391534426",
+                    "34.08978256987219"
+                ]
+            },
+            "properties": {
+                "addr:city": "Irmo",
+                "addr:country": "US",
+                "addr:housenumber": "945",
+                "addr:postcode": "29063",
+                "addr:state": "SC",
+                "addr:street": "Lake Murray Boulevard",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Lake Murray Boulevard",
+                "opening_hours": "Mo-Su 07:30-14:00",
+                "phone": "+1-803-749-3000",
+                "ref": "945-lake-murray-blvd",
+                "website": "https://locations.brueggers.com/us/sc/irmo/945-lake-murray-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-86.7919648",
+                    "36.0254984"
+                ]
+            },
+            "properties": {
+                "addr:city": "Brentwood",
+                "addr:country": "US",
+                "addr:housenumber": "330",
+                "addr:postcode": "37027",
+                "addr:state": "TN",
+                "addr:street": "Franklin Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Franklin Road/Brentwood",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-615-661-5668",
+                "ref": "330-franklin-road",
+                "website": "https://locations.brueggers.com/us/tn/brentwood/330-franklin-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-86.87038443435853",
+                    "36.10091508966106"
+                ]
+            },
+            "properties": {
+                "addr:city": "Nashville",
+                "addr:country": "US",
+                "addr:housenumber": "5311",
+                "addr:postcode": "37205",
+                "addr:state": "TN",
+                "addr:street": "Harding Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Harding Road",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-615-352-1128",
+                "ref": "5311-harding-rd",
+                "website": "https://locations.brueggers.com/us/tn/nashville/5311-harding-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-97.80155904662706",
+                    "30.27465251953979"
+                ]
+            },
+            "properties": {
+                "addr:city": "Austin",
+                "addr:country": "US",
+                "addr:housenumber": "3267",
+                "addr:postcode": "78746",
+                "addr:state": "TX",
+                "addr:street": "Bee Cave Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels West Woods Shopping Center",
+                "opening_hours": "Mo-Su 07:00-15:00",
+                "phone": "+1-512-394-7174",
+                "ref": "3267-bee-cave-road",
+                "website": "https://locations.brueggers.com/us/tx/austin/3267-bee-cave-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-96.84996113988115",
+                    "32.84413800000002"
+                ]
+            },
+            "properties": {
+                "addr:city": "Dallas",
+                "addr:country": "US",
+                "addr:housenumber": "8008",
+                "addr:postcode": "75235",
+                "addr:state": "TX",
+                "addr:street": "Cedar Springs Road LB 16",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Dallas Love Field Airport - Pre Security",
+                "opening_hours": "Mo-Su 05:00-20:00",
+                "phone": "+1-972-629-9255",
+                "ref": "8008-cedar-springs-road",
+                "website": "https://locations.brueggers.com/us/tx/dallas/8008-cedar-springs-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-77.1077504754067",
+                    "38.88011136236991"
+                ]
+            },
+            "properties": {
+                "addr:city": "Arlington",
+                "addr:country": "US",
+                "addr:housenumber": "818",
+                "addr:postcode": "22203",
+                "addr:state": "VA",
+                "addr:street": "North Quincy Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Liberty Center",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-703-248-0980",
+                "ref": "818-n-quincy-street",
+                "website": "https://locations.brueggers.com/us/va/arlington/818-n-quincy-street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-80.42282241964341",
+                    "37.2312372874823"
+                ]
+            },
+            "properties": {
+                "addr:city": "Blacksburg",
+                "addr:country": "US",
+                "addr:housenumber": "430",
+                "addr:postcode": "24061",
+                "addr:state": "VA",
+                "addr:street": "Old Turner Street",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Virginia Tech - Turner Place at Lavery Hall",
+                "phone": "+1-540-231-2985",
+                "ref": "430-old-turner-street",
+                "website": "https://locations.brueggers.com/us/va/blacksburg/430-old-turner-street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-72.5660944",
+                    "42.8397278"
+                ]
+            },
+            "properties": {
+                "addr:city": "Brattleboro",
+                "addr:country": "US",
+                "addr:housenumber": "489",
+                "addr:postcode": "05301",
+                "addr:state": "VT",
+                "addr:street": "Canal Street",
+                "addr:unit": "4",
+                "addr:unitname": "Suite",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Brattleboro",
+                "opening_hours": "Mo-Su 05:30-15:00",
+                "phone": "+1-802-254-2763",
+                "ref": "489-canal-street",
+                "website": "https://locations.brueggers.com/us/vt/brattleboro/489-canal-street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-88.4816612",
+                    "43.095597"
+                ]
+            },
+            "properties": {
+                "addr:city": "Oconomowoc",
+                "addr:country": "US",
+                "addr:housenumber": "1043",
+                "addr:postcode": "53066",
+                "addr:state": "WI",
+                "addr:street": "East Summit Avenue",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Oconomowoc",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-262-569-8043",
+                "ref": "1043-east-summit-avenue",
+                "website": "https://locations.brueggers.com/us/wi/oconomowoc/1043-east-summit-avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-88.0172383",
+                    "43.03621"
+                ]
+            },
+            "properties": {
+                "addr:city": "Wauwatosa",
+                "addr:country": "US",
+                "addr:housenumber": "8340",
+                "addr:postcode": "53213",
+                "addr:state": "WI",
+                "addr:street": "West Bluemound Road",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Wauwatosa",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-414-443-1303",
+                "ref": "8340-west-bluemound-road",
+                "website": "https://locations.brueggers.com/us/wi/wauwatosa/8340-west-bluemound-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-87.90282368659979",
+                    "43.11822038852109"
+                ]
+            },
+            "properties": {
+                "addr:city": "Whitefish Bay",
+                "addr:country": "US",
+                "addr:housenumber": "601",
+                "addr:postcode": "53217",
+                "addr:state": "WI",
+                "addr:street": "East Silver Spring Drive",
+                "brand": "Bruegger's Bagels",
+                "brand:wikidata": "Q4978656",
+                "name": "Bruegger's Bagels Whitefish Bay",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-414-964-4600",
+                "ref": "601-e-silver-spring-drive",
+                "website": "https://locations.brueggers.com/us/wi/whitefish-bay/601-e-silver-spring-drive"
+            }
+        }
+    ],
+    "updated_at": 1629533108142
+}

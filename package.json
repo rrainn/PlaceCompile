@@ -21,7 +21,7 @@
     "axios": "^0.21.1",
     "cheerio": "*",
     "commander": "^8.0.0",
-    "earthutils": "0.3.0",
+    "earthutils": "0.4.0",
     "fast-xml-parser": "^3.19.0",
     "global-agent": "^2.2.0",
     "papaparse": "^5.3.1",

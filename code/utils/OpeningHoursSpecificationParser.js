@@ -9,15 +9,16 @@ module.exports = (openingHoursSpecification) => {
 
 	return openingHoursStringify(Object.keys(dayofweek.DayOfWeekAbbreviationsInverse).map((dayOfWeek) => {
 		const dayHourObject = openingHoursSpecification.find((obj) => obj.dayOfWeek === dayOfWeek);
-		if (!dayHourObject) {
+		if (!dayHourObject || !dayHourObject.opens || !dayHourObject.closes) {
 			return null;
 		} else {
-			const opens = dayHourObject.opens.replace(/:00$/gmu, "");
-			const closes = dayHourObject.closes.replace(/:00$/gmu, "");
+			const opensParts = dayHourObject.opens.split(":");
+			const closesParts = dayHourObject.closes.split(":");
 
-			if (opens.split(":").length !== 2 || closes.split(":").length !== 2) {
-				throw new Error("openingHoursSpecification is not valid");
-			}
+			// Get first two parts of open parts
+			const opens = opensParts[0] + ":" + opensParts[1];
+			// Get first two parts of close parts
+			const closes = closesParts[0] + ":" + closesParts[1];
 
 			return [dayOfWeek, `${opens}-${closes}`];
 		}

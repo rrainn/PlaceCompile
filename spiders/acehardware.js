@@ -32,6 +32,7 @@ module.exports = {
 					"addr:city": store.address.cityOrTown,
 					"addr:state": store.address.stateOrProvince,
 					"addr:postcode": `${store.address.postalOrZipCode}`,
+					"addr:country": store.address.countryCode,
 					"website": `https://www.acehardware.com/store-details/${store.code}`
 				}
 			};

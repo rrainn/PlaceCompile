@@ -25,7 +25,7 @@ module.exports = async () => {
 		.description("list the spiders")
 		.action(async () => {
 			const spiders = await require("./commands/spiders/list")();
-			console.log(spiders.join("\n"));
+			console.log(spiders.map((spider) => spider.split("/").pop()).join("\n"));
 		});
 
 	program.parse(process.argv);

@@ -29,7 +29,7 @@ module.exports = async (spider, options) => {
 
 		for (let i = 0; i < files.length; i++) {
 			const spider = files[i];
-			await runSpider(spider, options);
+			await runSpider(spider.split("/").pop(), options);
 		}
 	}
 };
@@ -140,7 +140,8 @@ function parse(pageData, settings) {
 }
 
 async function crawl(name, options) {
-	const spider = require(`../../spiders/${name}`);
+	const files = await require("./spiders/list")();
+	const spider = require(`../../spiders/${files.find((file) => file.endsWith(name))}`);
 	const initialPageData = await fetch(spider.initialURL);
 
 	const data = parse(initialPageData, spider.parser);

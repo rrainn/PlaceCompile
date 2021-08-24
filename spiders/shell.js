@@ -61,8 +61,9 @@ module.exports = {
 				store.properties["addr:state"] = earthutils.USStateAbbreviations.USStateAbbreviations[data.state];
 			}
 
-			if (data.telephone && data.telephone.startsWith("+1") && data.telephone.length === 15) {
-				store.properties.phone = `+1-${data.telephone[3]}${data.telephone[4]}${data.telephone[5]}-${data.telephone[7]}${data.telephone[8]}${data.telephone[9]}-${data.telephone[11]}${data.telephone[12]}${data.telephone[13]}${data.telephone[14]}`;
+			const phoneNumber = earthutils.TelephoneStandardize(data.telephone, {"country": storeObject.properties["addr:country"]});
+			if (phoneNumber) {
+				storeObject.properties.phone = phoneNumber;
 			}
 
 			if (data.amenities.includes("twenty_four_hour")) {

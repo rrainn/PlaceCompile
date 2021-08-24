@@ -49,10 +49,9 @@ module.exports = {
 				delete storeObject.geometry;
 			}
 
-			if (store.phone && store.phone.length === 10 && store.address.countryCode === "US") {
-				if (store.phone.length === 10) {
-					storeObject.properties.phone = `+1-${store.phone[0]}${store.phone[1]}${store.phone[2]}-${store.phone[3]}${store.phone[4]}${store.phone[5]}-${store.phone[6]}${store.phone[7]}${store.phone[8]}${store.phone[9]}`;
-				}
+			const phoneNumber = earthutils.TelephoneStandardize(store.phone, {"country": storeObject.properties["addr:country"]});
+			if (phoneNumber) {
+				storeObject.properties.phone = phoneNumber;
 			}
 
 			const openingHours = openingHoursStringify(Object.keys(dayofweek.DayOfWeekAbbreviationsInverse).map((dayOfWeek) => dayOfWeek.toLowerCase()).map((dayOfWeek) => {

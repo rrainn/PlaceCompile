@@ -1,8 +1,6 @@
 const earthutils = require("earthutils");
-const dayofweek = require("../code/utils/dayofweek");
-const openingHoursStringify = require("../code/utils/openingHoursStringify");
 const parseHref = require("../code/utils/parseHref");
-const insertString = require("../code/utils/insertString");
+const DayIntervalsArrayOpeningHoursParser = require("../code/utils/DayIntervalsArrayOpeningHoursParser");
 
 const initialURL = "https://restaurants.subway.com/";
 const parserSettings = {
@@ -73,18 +71,7 @@ module.exports = {
 				}
 			}
 
-			const openingHours = openingHoursStringify(Object.keys(dayofweek.DayOfWeekAbbreviationsInverse).map((dayOfWeek) => dayOfWeek.toUpperCase()).map((dayOfWeek) => {
-				const dayHourObject = (store.profile.hours || store.hours)?.normalHours.find((obj) => obj.day === dayOfWeek);
-				if (!dayHourObject || dayHourObject.isClosed || dayHourObject.intervals.length === 0) {
-					return null;
-				} else {
-					const hours = dayHourObject.intervals.reduce((arr, current) => {
-						arr.push(`${insertString(`${current.start}`.padStart(4, "0"), 2, ":")}-${insertString(`${current.end}`.padStart(4, "0"), 2, ":")}`);
-						return arr;
-					}, []).join(",");
-					return [dayOfWeek, hours];
-				}
-			}));
+			const openingHours = DayIntervalsArrayOpeningHoursParser((store.profile.hours || store.hours)?.normalHours);
 			if (openingHours.length > 0) {
 				storeObject.properties["opening_hours"] = openingHours;
 			}

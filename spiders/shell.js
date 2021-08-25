@@ -61,9 +61,9 @@ module.exports = {
 				store.properties["addr:state"] = earthutils.USStateAbbreviations.USStateAbbreviations[data.state];
 			}
 
-			const phoneNumber = earthutils.TelephoneStandardize(data.telephone, {"country": storeObject.properties["addr:country"]});
+			const phoneNumber = earthutils.TelephoneStandardize(data.telephone, {"country": store.properties["addr:country"]});
 			if (phoneNumber) {
-				storeObject.properties.phone = phoneNumber;
+				store.properties.phone = phoneNumber;
 			}
 
 			if (data.amenities.includes("twenty_four_hour")) {

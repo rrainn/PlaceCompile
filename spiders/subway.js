@@ -65,9 +65,11 @@ module.exports = {
 				storeObject.properties["addr:state"] = store.profile.address.region;
 			}
 
-			const phoneNumber = earthutils.TelephoneStandardize(store.profile.mainPhone, {"country": store.profile.mainPhone.countryCode});
-			if (phoneNumber) {
-				storeObject.properties.phone = phoneNumber;
+			if (store.profile.mainPhone) {
+				const phoneNumber = earthutils.TelephoneStandardize(store.profile.mainPhone.number, {"country": store.profile.mainPhone.countryCode});
+				if (phoneNumber) {
+					storeObject.properties.phone = phoneNumber;
+				}
 			}
 
 			const openingHours = DayIntervalsArrayOpeningHoursParser((store.profile.hours || store.hours)?.normalHours);

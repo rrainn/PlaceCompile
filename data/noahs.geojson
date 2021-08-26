@@ -1,0 +1,1442 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.27775357663631",
+                    "37.8916272076485"
+                ]
+            },
+            "properties": {
+                "addr:city": "Berkeley",
+                "addr:country": "US",
+                "addr:housenumber": "1883",
+                "addr:postcode": "94707",
+                "addr:state": "CA",
+                "addr:street": "Solano Avenue",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Solano",
+                "opening_hours": "Mo-Fr 05:30-14:00; Sa-Su 06:00-14:00",
+                "phone": "+1-510-525-4447",
+                "ref": "1883-solano-ave",
+                "website": "https://locations.noahs.com/us/ca/berkeley/1883-solano-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-118.31114396452904",
+                    "34.18241396613367"
+                ]
+            },
+            "properties": {
+                "addr:city": "Burbank",
+                "addr:country": "US",
+                "addr:housenumber": "311",
+                "addr:postcode": "91502",
+                "addr:state": "CA",
+                "addr:street": "North San Fernando Boulevard",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Burbank",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
+                "phone": "+1-818-562-1635",
+                "ref": "311-n-san-fernando-blvd",
+                "website": "https://locations.noahs.com/us/ca/burbank/311-n-san-fernando-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-119.067939",
+                    "34.2224383"
+                ]
+            },
+            "properties": {
+                "addr:city": "Camarillo",
+                "addr:country": "US",
+                "addr:housenumber": "608",
+                "addr:postcode": "93010",
+                "addr:state": "CA",
+                "addr:street": "Las Posas Road",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Camarillo",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 05:30-14:00",
+                "phone": "+1-805-388-5090",
+                "ref": "608-las-posas-rd",
+                "website": "https://locations.noahs.com/us/ca/camarillo/608-las-posas-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.3285053",
+                    "38.636463"
+                ]
+            },
+            "properties": {
+                "addr:city": "Carmichael",
+                "addr:country": "US",
+                "addr:housenumber": "7423",
+                "addr:postcode": "95608",
+                "addr:state": "CA",
+                "addr:street": "Fair Oaks Boulevard",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Carmichael",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-916-571-7612",
+                "ref": "7423-fair-oaks-blvd",
+                "website": "https://locations.noahs.com/us/ca/carmichael/7423-fair-oaks-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.9975162",
+                    "37.8189973"
+                ]
+            },
+            "properties": {
+                "addr:city": "Danville",
+                "addr:country": "US",
+                "addr:housenumber": "415",
+                "addr:postcode": "94526",
+                "addr:state": "CA",
+                "addr:street": "Railroad Avenue",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Iron Horse",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 05:30-14:00",
+                "phone": "+1-925-575-9025",
+                "ref": "415-railroad-ave",
+                "website": "https://locations.noahs.com/us/ca/danville/415-railroad-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.7652395",
+                    "38.5624365"
+                ]
+            },
+            "properties": {
+                "addr:city": "Davis",
+                "addr:country": "US",
+                "addr:housenumber": "1411",
+                "addr:postcode": "95616",
+                "addr:state": "CA",
+                "addr:street": "West Covell Boulevard",
+                "addr:unit": "114A",
+                "addr:unitname": "Suite",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Davis",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-530-750-5163",
+                "ref": "1411-w-covell-blvd",
+                "website": "https://locations.noahs.com/us/ca/davis/1411-w-covell-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-118.38346436619759",
+                    "33.90236089273689"
+                ]
+            },
+            "properties": {
+                "addr:city": "El Segundo",
+                "addr:country": "US",
+                "addr:housenumber": "2231",
+                "addr:postcode": "90245",
+                "addr:state": "CA",
+                "addr:street": "Rosecrans Avenue",
+                "addr:unit": "C",
+                "addr:unitname": "Suite",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels El Segundo",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
+                "phone": "+1-310-725-9160",
+                "ref": "2231-rosecrans-ave",
+                "website": "https://locations.noahs.com/us/ca/el-segundo/2231-rosecrans-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-118.3836279809475",
+                    "33.9274776863506"
+                ]
+            },
+            "properties": {
+                "addr:city": "El Segundo",
+                "addr:country": "US",
+                "addr:housenumber": "821",
+                "addr:postcode": "90245",
+                "addr:state": "CA",
+                "addr:street": "North Douglas Street",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Douglas",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa 06:00-13:00; Su 07:00-13:00",
+                "phone": "+1-310-535-2135",
+                "ref": "821-n-douglas-st",
+                "website": "https://locations.noahs.com/us/ca/el-segundo/821-n-douglas-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.22687548398972",
+                    "38.6625559703903"
+                ]
+            },
+            "properties": {
+                "addr:city": "Fair Oaks",
+                "addr:country": "US",
+                "addr:housenumber": "5249",
+                "addr:postcode": "95628",
+                "addr:state": "CA",
+                "addr:street": "Hazel Avenue",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Fair Oaks",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-916-863-5367",
+                "ref": "5249-hazel-ave",
+                "website": "https://locations.noahs.com/us/ca/fair-oaks/5249-hazel-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.1177018",
+                    "38.6474893"
+                ]
+            },
+            "properties": {
+                "addr:city": "Folsom",
+                "addr:country": "US",
+                "addr:housenumber": "210",
+                "addr:postcode": "95630",
+                "addr:state": "CA",
+                "addr:street": "Palladio Parkway",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Palladio",
+                "opening_hours": "Mo-Fr 06:00-14:00; Sa-Su 07:00-14:00",
+                "phone": "+1-916-458-4903",
+                "ref": "210-palladio-parkway",
+                "website": "https://locations.noahs.com/us/ca/folsom/210-palladio-parkway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.98704168200493",
+                    "37.54866466558838"
+                ]
+            },
+            "properties": {
+                "addr:city": "Fremont",
+                "addr:country": "US",
+                "addr:housenumber": "3958",
+                "addr:postcode": "94538",
+                "addr:state": "CA",
+                "addr:street": "Mowry Avenue",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Fremont",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
+                "phone": "+1-510-744-9142",
+                "ref": "3958-mowry-ave",
+                "website": "https://locations.noahs.com/us/ca/fremont/3958-mowry-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.52535432577133",
+                    "37.94622490812506"
+                ]
+            },
+            "properties": {
+                "addr:city": "Greenbrae",
+                "addr:country": "US",
+                "addr:housenumber": "170",
+                "addr:postcode": "94904",
+                "addr:state": "CA",
+                "addr:street": "Bon Air Center",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Bon Air",
+                "opening_hours": "Mo-Su 05:30-14:00",
+                "phone": "+1-415-925-9971",
+                "ref": "170-bon-air-ctr",
+                "website": "https://locations.noahs.com/us/ca/greenbrae/170-bon-air-ctr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.11816281080246",
+                    "37.89317346208929"
+                ]
+            },
+            "properties": {
+                "addr:city": "Lafayette",
+                "addr:country": "US",
+                "addr:housenumber": "3518",
+                "addr:postcode": "94549",
+                "addr:state": "CA",
+                "addr:street": "Mt Diablo Boulevard",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Lafayette CA",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa 05:30-14:00; Su 06:00-14:00",
+                "phone": "+1-925-299-0716",
+                "ref": "3518-mt-diablo-blvd",
+                "website": "https://locations.noahs.com/us/ca/lafayette/3518-mt-diablo-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.7793045938015",
+                    "37.678874294119275"
+                ]
+            },
+            "properties": {
+                "addr:city": "Livermore",
+                "addr:country": "US",
+                "addr:housenumber": "1412",
+                "addr:postcode": "94550",
+                "addr:state": "CA",
+                "addr:street": "1st Street",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Livermore",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
+                "phone": "+1-925-454-9836",
+                "ref": "1412-1st-st",
+                "website": "https://locations.noahs.com/us/ca/livermore/1412-1st-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-118.4449115",
+                    "34.0593537"
+                ]
+            },
+            "properties": {
+                "addr:city": "Los Angeles",
+                "addr:country": "US",
+                "addr:housenumber": "10910",
+                "addr:postcode": "90024",
+                "addr:state": "CA",
+                "addr:street": "Lindbrook Drive",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Westwood Village",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
+                "phone": "+1-310-209-8177",
+                "ref": "10910-lindbrook-dr",
+                "website": "https://locations.noahs.com/us/ca/los-angeles/10910-lindbrook-dr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-118.32341104745865",
+                    "34.076030062093785"
+                ]
+            },
+            "properties": {
+                "addr:city": "Los Angeles",
+                "addr:country": "US",
+                "addr:housenumber": "250",
+                "addr:postcode": "90004",
+                "addr:state": "CA",
+                "addr:street": "North Larchmont Boulevard",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Larchmont",
+                "opening_hours": "Mo-Su 05:00-14:00",
+                "phone": "+1-323-466-2924",
+                "ref": "250-n-larchmont-blvd",
+                "website": "https://locations.noahs.com/us/ca/los-angeles/250-n-larchmont-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-118.39286752045155",
+                    "34.027142782205026"
+                ]
+            },
+            "properties": {
+                "addr:city": "Los Angeles",
+                "addr:country": "US",
+                "addr:housenumber": "8985",
+                "addr:postcode": "90034",
+                "addr:state": "CA",
+                "addr:street": "Venice Boulevard",
+                "addr:unit": "B",
+                "addr:unitname": "Suite",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Culver City",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
+                "phone": "+1-310-280-0271",
+                "ref": "8985-venice-blvd",
+                "website": "https://locations.noahs.com/us/ca/los-angeles/8985-venice-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.9614075",
+                    "37.2357927"
+                ]
+            },
+            "properties": {
+                "addr:city": "Los Gatos",
+                "addr:country": "US",
+                "addr:housenumber": "15996",
+                "addr:postcode": "95032",
+                "addr:state": "CA",
+                "addr:street": "Los Gatos Boulevard",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Los Gatos",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-408-358-5895",
+                "ref": "15996-los-gatos-blvd",
+                "website": "https://locations.noahs.com/us/ca/los-gatos/15996-los-gatos-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-118.4087796",
+                    "33.8851708"
+                ]
+            },
+            "properties": {
+                "addr:city": "Manhattan Beach",
+                "addr:country": "US",
+                "addr:housenumber": "330",
+                "addr:postcode": "90266",
+                "addr:state": "CA",
+                "addr:street": "Manhattan Beach Boulevard",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Manhattan Beach",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
+                "phone": "+1-310-937-2206",
+                "ref": "330-manhattan-beach-blvd",
+                "website": "https://locations.noahs.com/us/ca/manhattan-beach/330-manhattan-beach-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-118.45975711941719",
+                    "33.983098227997075"
+                ]
+            },
+            "properties": {
+                "addr:city": "Marina Del Rey",
+                "addr:country": "US",
+                "addr:housenumber": "548",
+                "addr:postcode": "90292",
+                "addr:state": "CA",
+                "addr:street": "Washington Boulevard",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Marina Del Rey",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
+                "phone": "+1-310-574-1155",
+                "ref": "548-washington-blvd",
+                "website": "https://locations.noahs.com/us/ca/marina-del-rey/548-washington-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.9003976136446",
+                    "37.43463270210883"
+                ]
+            },
+            "properties": {
+                "addr:city": "Milpitas",
+                "addr:country": "US",
+                "addr:housenumber": "124",
+                "addr:postcode": "95035",
+                "addr:state": "CA",
+                "addr:street": "North Milpitas Boulevard",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Milpitas",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 05:30-14:00",
+                "phone": "+1-408-941-9440",
+                "ref": "124-n-milpitas-blvd",
+                "website": "https://locations.noahs.com/us/ca/milpitas/124-n-milpitas-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.20910243690014",
+                    "37.826476179118735"
+                ]
+            },
+            "properties": {
+                "addr:city": "Oakland",
+                "addr:country": "US",
+                "addr:housenumber": "2060",
+                "addr:postcode": "94611",
+                "addr:state": "CA",
+                "addr:street": "Mountain Boulevard",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Montclair",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-510-339-6663",
+                "ref": "2060-mountain-blvd",
+                "website": "https://locations.noahs.com/us/ca/oakland/2060-mountain-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.24340990185732",
+                    "37.81126305613605"
+                ]
+            },
+            "properties": {
+                "addr:city": "Oakland",
+                "addr:country": "US",
+                "addr:housenumber": "3351",
+                "addr:postcode": "94610",
+                "addr:state": "CA",
+                "addr:street": "Lakeshore Avenue",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Lakeshore",
+                "opening_hours": "Mo-Fr 05:30-14:00; Sa-Su 06:00-14:00",
+                "phone": "+1-510-452-3744",
+                "ref": "3351-lakeshore-ave",
+                "website": "https://locations.noahs.com/us/ca/oakland/3351-lakeshore-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.26322928282069",
+                    "37.83691870424726"
+                ]
+            },
+            "properties": {
+                "addr:city": "Oakland",
+                "addr:country": "US",
+                "addr:housenumber": "5095",
+                "addr:postcode": "94609",
+                "addr:state": "CA",
+                "addr:street": "Telegraph Avenue",
+                "addr:unit": "A-1",
+                "addr:unitname": "Suite",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Temescal",
+                "opening_hours": "Mo-Fr 05:30-14:00; Sa-Su 06:00-14:00",
+                "phone": "+1-510-379-5557",
+                "ref": "5095-telegraph-ave",
+                "website": "https://locations.noahs.com/us/ca/oakland/5095-telegraph-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-118.5255148261785",
+                    "34.0467113000913"
+                ]
+            },
+            "properties": {
+                "addr:city": "Pacific Palisades",
+                "addr:country": "US",
+                "addr:housenumber": "15270",
+                "addr:postcode": "90272",
+                "addr:state": "CA",
+                "addr:street": "Antioch Street",
+                "addr:unit": "15276",
+                "addr:unitname": "",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Pacific Palisades",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
+                "phone": "+1-310-230-1461",
+                "ref": "15270-antioch-st",
+                "website": "https://locations.noahs.com/us/ca/pacific-palisades/15270-antioch-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.62258037924767",
+                    "38.24964191603374"
+                ]
+            },
+            "properties": {
+                "addr:city": "Petaluma",
+                "addr:country": "US",
+                "addr:housenumber": "375",
+                "addr:postcode": "94954",
+                "addr:state": "CA",
+                "addr:street": "South McDowell Boulevard",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Petaluma",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
+                "phone": "+1-707-766-9651",
+                "ref": "375-s-mcdowell-blvd",
+                "website": "https://locations.noahs.com/us/ca/petaluma/375-s-mcdowell-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.30200409889221",
+                    "37.990411021733415"
+                ]
+            },
+            "properties": {
+                "addr:city": "Pinole",
+                "addr:country": "US",
+                "addr:housenumber": "1552",
+                "addr:postcode": "94564",
+                "addr:state": "CA",
+                "addr:street": "Fitzgerald Drive",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Pinole",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
+                "phone": "+1-510-758-2757",
+                "ref": "1552-fitzgerald-dr",
+                "website": "https://locations.noahs.com/us/ca/pinole/1552-fitzgerald-dr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.87391817569727",
+                    "37.675216565233434"
+                ]
+            },
+            "properties": {
+                "addr:city": "Pleasanton",
+                "addr:country": "US",
+                "addr:housenumber": "1737",
+                "addr:postcode": "94566",
+                "addr:state": "CA",
+                "addr:street": "Santa Rita Road",
+                "addr:unit": "400",
+                "addr:unitname": "Suite",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Pleasanton",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
+                "phone": "+1-925-485-1921",
+                "ref": "1737-santa-rita-rd",
+                "website": "https://locations.noahs.com/us/ca/pleasanton/1737-santa-rita-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.2309395",
+                    "37.4848696"
+                ]
+            },
+            "properties": {
+                "addr:city": "Redwood City",
+                "addr:country": "US",
+                "addr:housenumber": "1067",
+                "addr:postcode": "94063",
+                "addr:state": "CA",
+                "addr:street": "El Camino Real",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Redwood City",
+                "opening_hours": "Mo-Fr 05:30-14:00; Sa-Su 06:00-14:00",
+                "phone": "+1-650-299-9050",
+                "ref": "1067-el-camino-real",
+                "website": "https://locations.noahs.com/us/ca/redwood-city/1067-el-camino-real"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-118.3668427169323",
+                    "33.76933510542941"
+                ]
+            },
+            "properties": {
+                "addr:city": "Rolling Hills Estates",
+                "addr:country": "US",
+                "addr:housenumber": "895",
+                "addr:postcode": "90274",
+                "addr:state": "CA",
+                "addr:street": "Silver Spur Road",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Palos Verdes",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
+                "phone": "+1-310-541-7824",
+                "ref": "895-silver-spur-rd",
+                "website": "https://locations.noahs.com/us/ca/rolling-hills-estates/895-silver-spur-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.2515808",
+                    "38.7429924"
+                ]
+            },
+            "properties": {
+                "addr:city": "Roseville",
+                "addr:country": "US",
+                "addr:housenumber": "2030",
+                "addr:postcode": "95661",
+                "addr:state": "CA",
+                "addr:street": "Douglas Boulevard",
+                "addr:unit": "14",
+                "addr:unitname": "Suite",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Roseville",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-916-782-6772",
+                "ref": "2030-douglas-blvd",
+                "website": "https://locations.noahs.com/us/ca/roseville/2030-douglas-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.29962785152424",
+                    "38.7935701087795"
+                ]
+            },
+            "properties": {
+                "addr:city": "Roseville",
+                "addr:country": "US",
+                "addr:housenumber": "4201",
+                "addr:postcode": "95678",
+                "addr:state": "CA",
+                "addr:street": "Thrive Drive",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Freedom Pointe Plaza",
+                "opening_hours": "Mo-Fr 06:00-14:00; Sa-Su 07:00-14:00",
+                "phone": "+1-916-367-4349",
+                "ref": "4201-thrive-drive",
+                "website": "https://locations.noahs.com/us/ca/roseville/4201-thrive-drive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.491936",
+                    "38.5617299"
+                ]
+            },
+            "properties": {
+                "addr:city": "Sacramento",
+                "addr:country": "US",
+                "addr:housenumber": "1601",
+                "addr:postcode": "95818",
+                "addr:state": "CA",
+                "addr:street": "Broadway",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Sacramento - 16th & Broadway",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-916-248-4430",
+                "ref": "1601-broadway",
+                "website": "https://locations.noahs.com/us/ca/sacramento/1601-broadway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.4808659",
+                    "38.5771335"
+                ]
+            },
+            "properties": {
+                "addr:city": "Sacramento",
+                "addr:country": "US",
+                "addr:housenumber": "1901",
+                "addr:postcode": "95811",
+                "addr:state": "CA",
+                "addr:street": "J Street",
+                "addr:unit": "B",
+                "addr:unitname": "Suite",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Midtown",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-916-444-5887",
+                "ref": "1901-j-st",
+                "website": "https://locations.noahs.com/us/ca/sacramento/1901-j-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.4025187",
+                    "38.5749216"
+                ]
+            },
+            "properties": {
+                "addr:city": "Sacramento",
+                "addr:country": "US",
+                "addr:housenumber": "2559",
+                "addr:postcode": "95825",
+                "addr:state": "CA",
+                "addr:street": "Fair Oaks Boulevard",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Loehman's",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-916-973-8051",
+                "ref": "2559-fair-oaks-blvd",
+                "website": "https://locations.noahs.com/us/ca/sacramento/2559-fair-oaks-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.40083685517311",
+                    "38.61893051575151"
+                ]
+            },
+            "properties": {
+                "addr:city": "Sacramento",
+                "addr:country": "US",
+                "addr:housenumber": "2918",
+                "addr:postcode": "95821",
+                "addr:state": "CA",
+                "addr:street": "Fulton Avenue",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Town & Country",
+                "opening_hours": "Mo-Fr 06:00-14:00; Sa-Su 07:00-14:00",
+                "phone": "+1-916-973-1365",
+                "ref": "2918-fulton-ave",
+                "website": "https://locations.noahs.com/us/ca/sacramento/2918-fulton-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.3998367",
+                    "37.7914629"
+                ]
+            },
+            "properties": {
+                "addr:city": "San Francisco",
+                "addr:country": "US",
+                "addr:housenumber": "100",
+                "addr:postcode": "94104",
+                "addr:state": "CA",
+                "addr:street": "Bush Street",
+                "addr:unit": "102",
+                "addr:unitname": "Suite",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Bush/Battery",
+                "opening_hours": "Mo-Fr 05:00-13:00; Sa 06:00-12:00; Su 07:00-12:00",
+                "phone": "+1-415-433-9682",
+                "ref": "100-bush-st",
+                "website": "https://locations.noahs.com/us/ca/san-francisco/100-bush-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.4899402",
+                    "37.7324433"
+                ]
+            },
+            "properties": {
+                "addr:city": "San Francisco",
+                "addr:country": "US",
+                "addr:housenumber": "1521",
+                "addr:postcode": "94132",
+                "addr:state": "CA",
+                "addr:street": "Sloat Boulevard",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Sloat",
+                "opening_hours": "Mo-Fr 05:30-14:00; Sa-Su 06:00-14:00",
+                "phone": "+1-415-731-1700",
+                "ref": "1521-sloat-blvd",
+                "website": "https://locations.noahs.com/us/ca/san-francisco/1521-sloat-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.43736177682877",
+                    "37.800495440616324"
+                ]
+            },
+            "properties": {
+                "addr:city": "San Francisco",
+                "addr:country": "US",
+                "addr:housenumber": "2075",
+                "addr:postcode": "94123",
+                "addr:state": "CA",
+                "addr:street": "Chestnut Street",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Chestnut",
+                "opening_hours": "Mo-Fr 05:30-14:00; Sa-Su 06:00-14:00",
+                "phone": "+1-415-775-2910",
+                "ref": "2075-chestnut-st",
+                "website": "https://locations.noahs.com/us/ca/san-francisco/2075-chestnut-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.40790806706721",
+                    "37.76596988162717"
+                ]
+            },
+            "properties": {
+                "addr:city": "San Francisco",
+                "addr:country": "US",
+                "addr:housenumber": "2300",
+                "addr:postcode": "94103",
+                "addr:state": "CA",
+                "addr:street": "16th Street",
+                "addr:unit": "250",
+                "addr:unitname": "Suite",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Potrero Hill",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 05:30-14:00",
+                "phone": "+1-415-861-2802",
+                "ref": "2300-16th-st",
+                "website": "https://locations.noahs.com/us/ca/san-francisco/2300-16th-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.8973656",
+                    "37.3831105"
+                ]
+            },
+            "properties": {
+                "addr:city": "San Jose",
+                "addr:country": "US",
+                "addr:housenumber": "1095",
+                "addr:postcode": "95131",
+                "addr:state": "CA",
+                "addr:street": "East Brokaw Road",
+                "addr:unit": "10",
+                "addr:unitname": "Suite",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Brokaw & Old Oakland",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
+                "phone": "+1-408-797-2100",
+                "ref": "1095-e-brokaw-rd",
+                "website": "https://locations.noahs.com/us/ca/san-jose/1095-e-brokaw-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.90026015043259",
+                    "37.30782364416859"
+                ]
+            },
+            "properties": {
+                "addr:city": "San Jose",
+                "addr:country": "US",
+                "addr:housenumber": "1140",
+                "addr:postcode": "95125",
+                "addr:state": "CA",
+                "addr:street": "Lincoln Avenue",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Willow Glen",
+                "opening_hours": "Mo-Fr 05:30-14:00; Sa-Su 06:00-14:00",
+                "phone": "+1-408-298-8953",
+                "ref": "1140-lincoln-ave",
+                "website": "https://locations.noahs.com/us/ca/san-jose/1140-lincoln-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.9921731",
+                    "37.2904429"
+                ]
+            },
+            "properties": {
+                "addr:city": "San Jose",
+                "addr:country": "US",
+                "addr:housenumber": "1340",
+                "addr:postcode": "95130",
+                "addr:state": "CA",
+                "addr:street": "El Paseo De Saratoga",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels El Paseo",
+                "opening_hours": "Mo-Su 05:30-14:00",
+                "phone": "+1-408-871-0633",
+                "ref": "1340-el-paseo-de-saratoga",
+                "website": "https://locations.noahs.com/us/ca/san-jose/1340-el-paseo-de-saratoga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.93088293075562",
+                    "37.2946508531365"
+                ]
+            },
+            "properties": {
+                "addr:city": "San Jose",
+                "addr:country": "US",
+                "addr:housenumber": "1578",
+                "addr:postcode": "95125",
+                "addr:state": "CA",
+                "addr:street": "South Bascom Avenue",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Bascom",
+                "opening_hours": "Mo-Su 05:30-14:00",
+                "phone": "+1-408-371-8321",
+                "ref": "1578-s-bascom-ave",
+                "website": "https://locations.noahs.com/us/ca/san-jose/1578-s-bascom-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.32397675514221",
+                    "37.56283572305325"
+                ]
+            },
+            "properties": {
+                "addr:city": "San Mateo",
+                "addr:country": "US",
+                "addr:housenumber": "50",
+                "addr:postcode": "94401",
+                "addr:state": "CA",
+                "addr:street": "East 4th Avenue",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels San Mateo",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
+                "phone": "+1-650-347-2364",
+                "ref": "50-e-4th-ave",
+                "website": "https://locations.noahs.com/us/ca/san-mateo/50-e-4th-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.9681687",
+                    "37.3517237"
+                ]
+            },
+            "properties": {
+                "addr:city": "Santa Clara",
+                "addr:country": "US",
+                "addr:housenumber": "2380",
+                "addr:postcode": "95050",
+                "addr:state": "CA",
+                "addr:street": "El Camino Real",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels San Tomas",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 05:30-14:00",
+                "phone": "+1-408-249-9923",
+                "ref": "2380-el-camino-real",
+                "website": "https://locations.noahs.com/us/ca/santa-clara/2380-el-camino-real"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-118.45239445567131",
+                    "34.15125090255452"
+                ]
+            },
+            "properties": {
+                "addr:city": "Sherman Oaks",
+                "addr:country": "US",
+                "addr:housenumber": "14622",
+                "addr:postcode": "91403",
+                "addr:state": "CA",
+                "addr:street": "Ventura Boulevard",
+                "addr:unit": "105",
+                "addr:unitname": "Suite",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Sherman Oaks",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-818-907-9570",
+                "ref": "14622-ventura-blvd",
+                "website": "https://locations.noahs.com/us/ca/sherman-oaks/14622-ventura-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.32225600859829",
+                    "38.011186265754304"
+                ]
+            },
+            "properties": {
+                "addr:city": "Stockton",
+                "addr:country": "US",
+                "addr:housenumber": "123",
+                "addr:postcode": "95207",
+                "addr:state": "CA",
+                "addr:street": "Lincoln Center",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Stockton",
+                "opening_hours": "Mo-Fr 06:00-14:00; Sa-Su 07:00-14:00",
+                "phone": "+1-209-951-2284",
+                "ref": "123-lincoln-ctr",
+                "website": "https://locations.noahs.com/us/ca/stockton/123-lincoln-ctr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-118.87721747159958",
+                    "34.17989107821387"
+                ]
+            },
+            "properties": {
+                "addr:city": "Thousand Oaks",
+                "addr:country": "US",
+                "addr:housenumber": "33",
+                "addr:postcode": "91360",
+                "addr:state": "CA",
+                "addr:street": "North Moorpark Road",
+                "addr:unit": "I",
+                "addr:unitname": "Suite",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Thousand Oaks",
+                "opening_hours": "Mo-Su 05:30-14:00",
+                "phone": "+1-805-381-9893",
+                "ref": "33-n-moorpark-rd",
+                "website": "https://locations.noahs.com/us/ca/thousand-oaks/33-n-moorpark-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.8166467",
+                    "33.7133044"
+                ]
+            },
+            "properties": {
+                "addr:city": "Tustin",
+                "addr:country": "US",
+                "addr:housenumber": "15020",
+                "addr:postcode": "92780",
+                "addr:state": "CA",
+                "addr:street": "Kensington Park Drive",
+                "addr:unit": "J-400",
+                "addr:unitname": "Suite",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Tustin Legacy",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
+                "phone": "+1-657-210-6013",
+                "ref": "15020-kensington-park-drive",
+                "website": "https://locations.noahs.com/us/ca/tustin/15020-kensington-park-drive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.9600559771061",
+                    "38.368630969191635"
+                ]
+            },
+            "properties": {
+                "addr:city": "Vacaville",
+                "addr:country": "US",
+                "addr:housenumber": "1670",
+                "addr:postcode": "95688",
+                "addr:state": "CA",
+                "addr:street": "East Monte Vista Avenue",
+                "addr:unit": "104",
+                "addr:unitname": "Suite",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Nut Tree Plaza / Vacaville",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 05:30-14:00",
+                "phone": "+1-707-474-4359",
+                "ref": "1670-east-monte-vista-ave",
+                "website": "https://locations.noahs.com/us/ca/vacaville/1670-east-monte-vista-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-118.573247",
+                    "34.3922368"
+                ]
+            },
+            "properties": {
+                "addr:city": "Valencia",
+                "addr:country": "US",
+                "addr:housenumber": "25910",
+                "addr:postcode": "91381",
+                "addr:state": "CA",
+                "addr:street": "the Old Road",
+                "addr:unit": "C1",
+                "addr:unitname": "Suite",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Valencia",
+                "opening_hours": "Mo-Su 05:00-14:00",
+                "phone": "+1-661-254-9474",
+                "ref": "25910-the-old-rd",
+                "website": "https://locations.noahs.com/us/ca/valencia/25910-the-old-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-119.21279534697533",
+                    "34.26225529773472"
+                ]
+            },
+            "properties": {
+                "addr:city": "Ventura",
+                "addr:country": "US",
+                "addr:housenumber": "1413",
+                "addr:postcode": "93003",
+                "addr:state": "CA",
+                "addr:street": "South Victoria Avenue",
+                "addr:unit": "D",
+                "addr:unitname": "Suite",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Ventura",
+                "opening_hours": "Mo-Sa 06:00-14:00; Su 07:00-14:00",
+                "phone": "+1-805-650-1413",
+                "ref": "1413-s-victoria-ave",
+                "website": "https://locations.noahs.com/us/ca/ventura/1413-s-victoria-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.06715658307076",
+                    "37.89792949905731"
+                ]
+            },
+            "properties": {
+                "addr:city": "Walnut Creek",
+                "addr:country": "US",
+                "addr:housenumber": "1930",
+                "addr:postcode": "94596",
+                "addr:state": "CA",
+                "addr:street": "Mt Diablo Boulevard",
+                "addr:unit": "B",
+                "addr:unitname": "Unit",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Mt. Diablo - Walnut Creek",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 05:30-14:00",
+                "phone": "+1-925-357-6967",
+                "ref": "1930-mt-diablo-blvd",
+                "website": "https://locations.noahs.com/us/ca/walnut-creek/1930-mt-diablo-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.03995361924171",
+                    "37.92918215790386"
+                ]
+            },
+            "properties": {
+                "addr:city": "Walnut Creek",
+                "addr:country": "US",
+                "addr:housenumber": "730",
+                "addr:postcode": "94598",
+                "addr:state": "CA",
+                "addr:street": "Bancroft Road",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Walnut Creek",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 05:30-14:00",
+                "phone": "+1-925-256-8284",
+                "ref": "730-bancroft-rd",
+                "website": "https://locations.noahs.com/us/ca/walnut-creek/730-bancroft-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-118.6041471362114",
+                    "34.16866031622637"
+                ]
+            },
+            "properties": {
+                "addr:city": "Woodland Hills",
+                "addr:country": "US",
+                "addr:housenumber": "21917",
+                "addr:postcode": "91364",
+                "addr:state": "CA",
+                "addr:street": "Ventura Boulevard",
+                "brand": "Noah's NY Bagels",
+                "brand:wikidata": "Q64517373",
+                "name": "Noah's NY Bagels Woodland Hills",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 05:30-14:00",
+                "phone": "+1-818-999-9577",
+                "ref": "21917-ventura-blvd",
+                "website": "https://locations.noahs.com/us/ca/woodland-hills/21917-ventura-blvd"
+            }
+        }
+    ],
+    "updated_at": 1629944382114
+}

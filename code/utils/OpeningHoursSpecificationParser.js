@@ -8,7 +8,7 @@ module.exports = (openingHoursSpecification) => {
 	}
 
 	if (openingHoursSpecification.length > 7) {
-		throw new Error("openingHoursSpecification is too long");
+		throw new Error("openingHoursSpecification is too long", openingHoursSpecification);
 	}
 
 	return openingHoursStringify(Object.keys(dayofweek.DayOfWeekAbbreviationsInverse).map((dayOfWeek) => {

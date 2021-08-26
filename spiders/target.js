@@ -65,7 +65,7 @@ module.exports = {
 			}
 
 			const openingHours = OpeningHoursSpecificationParser(store.openingHoursSpecification);
-			if (openingHours.length > 0) {
+			if (openingHours && openingHours.length > 0) {
 				storeObject.properties["opening_hours"] = openingHours;
 			}
 

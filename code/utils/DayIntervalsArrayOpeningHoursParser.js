@@ -4,6 +4,10 @@ const openingHoursStringify = require("./openingHoursStringify");
 
 // [{"day":"MONDAY","intervals":[{"end":1500,"start":530}]},{"day":"TUESDAY","intervals":[{"end":1500,"start":530}]},{"day":"WEDNESDAY","intervals":[{"end":1500,"start":530}]},{"day":"THURSDAY","intervals":[{"end":1500,"start":530}]},{"day":"FRIDAY","intervals":[{"end":1500,"start":530}]},{"day":"SATURDAY","intervals":[{"end":1600,"start":530}]},{"day":"SUNDAY","intervals":[{"end":1500,"start":530}]}]
 module.exports = (hoursObj) => {
+	if (!hoursObj) {
+		return undefined;
+	}
+
 	return openingHoursStringify(Object.keys(dayofweek.DayOfWeekAbbreviationsInverse).map((dayOfWeek) => dayOfWeek.toUpperCase()).map((dayOfWeek) => {
 		const dayHourObject = hoursObj.find((obj) => obj.day === dayOfWeek);
 		if (!dayHourObject || dayHourObject.isClosed || dayHourObject.intervals.length === 0) {

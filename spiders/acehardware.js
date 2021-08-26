@@ -61,7 +61,7 @@ module.exports = {
 					return [dayOfWeek, `${store.regularHours[dayOfWeek].openTime}-${store.regularHours[dayOfWeek].closeTime}`];
 				}
 			}));
-			if (openingHours.length > 0) {
+			if (openingHours && openingHours.length > 0) {
 				storeObject.properties["opening_hours"] = openingHours;
 			}
 

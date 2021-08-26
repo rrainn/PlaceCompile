@@ -73,7 +73,7 @@ module.exports = {
 			}
 
 			const openingHours = DayIntervalsArrayOpeningHoursParser((store.profile.hours || store.hours)?.normalHours);
-			if (openingHours.length > 0) {
+			if (openingHours && openingHours.length > 0) {
 				storeObject.properties["opening_hours"] = openingHours;
 			}
 

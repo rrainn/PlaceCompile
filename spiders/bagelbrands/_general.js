@@ -90,7 +90,7 @@ module.exports = (settings) => {
 				}
 
 				const openingHours = DayIntervalsArrayOpeningHoursParser(JSON.parse(store("span.js-location-hours").attr("data-days")));
-				if (openingHours.length > 0) {
+				if (openingHours && openingHours.length > 0) {
 					storeObject.properties["opening_hours"] = openingHours;
 				}
 

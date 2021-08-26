@@ -3,6 +3,10 @@ const openingHoursStringify = require("./openingHoursStringify");
 
 // https://schema.org/openingHoursSpecification
 module.exports = (openingHoursSpecification) => {
+	if (!openingHoursSpecification) {
+		return undefined;
+	}
+
 	if (openingHoursSpecification.length > 7) {
 		throw new Error("openingHoursSpecification is too long");
 	}

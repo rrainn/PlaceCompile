@@ -1,0 +1,1584 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-119.21556434110454",
+                    "34.17627896239549"
+                ]
+            },
+            "properties": {
+                "addr:city": "Port Hueneme",
+                "addr:country": "US",
+                "addr:housenumber": "585",
+                "addr:postcode": "93041",
+                "addr:state": "CA",
+                "addr:street": "West Channel Islands Boulevard",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Port Hueneme",
+                "opening_hours": "Mo-Fr 06:00-16:00; Sa-Su 07:00-15:00",
+                "phone": "+1-805-984-3550",
+                "ref": "585-w-channel-islands-blvd",
+                "website": "https://locations.manhattanbagel.com/us/ca/port-hueneme/585-w-channel-islands-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-118.394084572792",
+                    "34.143297397113244"
+                ]
+            },
+            "properties": {
+                "addr:city": "Studio City",
+                "addr:country": "US",
+                "addr:housenumber": "12046",
+                "addr:postcode": "91604",
+                "addr:state": "CA",
+                "addr:street": "Ventura Boulevard",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Studio City",
+                "opening_hours": "Mo-Sa 06:00-15:00; Su 07:00-15:00",
+                "phone": "+1-818-766-9491",
+                "ref": "12046-ventura-blvd",
+                "website": "https://locations.manhattanbagel.com/us/ca/studio-city/12046-ventura-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-118.5700003",
+                    "34.1707215"
+                ]
+            },
+            "properties": {
+                "addr:city": "Woodland Hills",
+                "addr:country": "US",
+                "addr:housenumber": "20048",
+                "addr:postcode": "91364",
+                "addr:state": "CA",
+                "addr:street": "Ventura Boulevard",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Woodland Hills",
+                "opening_hours": "Mo-Su 06:00-14:30",
+                "phone": "+1-818-883-0166",
+                "ref": "20048-ventura-blvd",
+                "website": "https://locations.manhattanbagel.com/us/ca/woodland-hills/20048-ventura-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.72360954721267",
+                    "39.4489831362364"
+                ]
+            },
+            "properties": {
+                "addr:city": "Middletown",
+                "addr:country": "US",
+                "addr:housenumber": "400",
+                "addr:postcode": "19709",
+                "addr:state": "DE",
+                "addr:street": "West Main Street",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Middletown",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-302-378-8404",
+                "ref": "400-w-main-st",
+                "website": "https://locations.manhattanbagel.com/us/de/middletown/400-w-main-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.54760470986366",
+                    "39.80078422473933"
+                ]
+            },
+            "properties": {
+                "addr:city": "Wilmington",
+                "addr:country": "US",
+                "addr:housenumber": "3209B",
+                "addr:postcode": "19803",
+                "addr:state": "DE",
+                "addr:street": "Concord Pike",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Wilmington DE",
+                "opening_hours": "Mo-Su 06:00-12:00",
+                "phone": "+1-302-477-0700",
+                "ref": "3209b-concord-pike",
+                "website": "https://locations.manhattanbagel.com/us/de/wilmington/3209b-concord-pike"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.5433494",
+                    "39.8104301"
+                ]
+            },
+            "properties": {
+                "addr:city": "Wilmington",
+                "addr:country": "US",
+                "addr:housenumber": "3505",
+                "addr:postcode": "19810",
+                "addr:state": "DE",
+                "addr:street": "Silverside Road Concord Plaza",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Wilmington",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-302-543-7498",
+                "ref": "3505-silverside-road",
+                "website": "https://locations.manhattanbagel.com/us/de/wilmington/3505-silverside-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-80.25203838944441",
+                    "26.287523338258424"
+                ]
+            },
+            "properties": {
+                "addr:city": "Coral Springs",
+                "addr:country": "US",
+                "addr:housenumber": "4610",
+                "addr:postcode": "33067",
+                "addr:state": "FL",
+                "addr:street": "North University Drive",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Coral Springs",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-954-340-3233",
+                "ref": "4610-n-university-dr",
+                "website": "https://locations.manhattanbagel.com/us/fl/coral-springs/4610-n-university-dr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-80.7788431",
+                    "35.0969583"
+                ]
+            },
+            "properties": {
+                "addr:city": "Charlotte",
+                "addr:country": "US",
+                "addr:housenumber": "8040",
+                "addr:postcode": "28277",
+                "addr:state": "NC",
+                "addr:street": "Providence Road",
+                "addr:unit": "200",
+                "addr:unitname": "Suite",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel The Arboretum",
+                "opening_hours": "Mo-Fr 06:00-16:00; Sa 07:00-15:00; Su 07:00-14:00",
+                "phone": "+1-704-541-0833",
+                "ref": "8040-providence-rd",
+                "website": "https://locations.manhattanbagel.com/us/nc/charlotte/8040-providence-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.1121433583794",
+                    "40.67147080727416"
+                ]
+            },
+            "properties": {
+                "addr:city": "Bayonne",
+                "addr:country": "US",
+                "addr:housenumber": "709",
+                "addr:postcode": "07002",
+                "addr:state": "NJ",
+                "addr:street": "Broadway",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Bayonne",
+                "opening_hours": "Mo-Su 05:00-14:00",
+                "phone": "+1-201-354-9100",
+                "ref": "709-broadway",
+                "website": "https://locations.manhattanbagel.com/us/nj/bayonne/709-broadway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.1615",
+                    "39.920698"
+                ]
+            },
+            "properties": {
+                "addr:city": "Bayville",
+                "addr:country": "US",
+                "addr:housenumber": "333",
+                "addr:postcode": "08721",
+                "addr:state": "NJ",
+                "addr:street": "Atlantic City Boulevard",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Bayville",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-732-237-0055",
+                "ref": "333-atlantic-city-blvd",
+                "website": "https://locations.manhattanbagel.com/us/nj/bayville/333-atlantic-city-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.14328648708766",
+                    "40.06244612448361"
+                ]
+            },
+            "properties": {
+                "addr:city": "Brick",
+                "addr:country": "US",
+                "addr:housenumber": "702",
+                "addr:postcode": "08723",
+                "addr:state": "NJ",
+                "addr:street": "Route 70",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Brick (Rt. 70)",
+                "opening_hours": "Mo-Su 06:00-16:00",
+                "phone": "+1-732-477-7443",
+                "ref": "702-route-70",
+                "website": "https://locations.manhattanbagel.com/us/nj/brick/702-route-70"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.994559",
+                    "39.910294"
+                ]
+            },
+            "properties": {
+                "addr:city": "Cherry Hill",
+                "addr:country": "US",
+                "addr:housenumber": "190",
+                "addr:postcode": "08034",
+                "addr:state": "NJ",
+                "addr:street": "Barclay Farm",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Cherry Hill",
+                "opening_hours": "Mo-Sa 06:00-15:00; Su 07:00-14:00",
+                "phone": "+1-856-795-4944",
+                "ref": "190-barclay-farm",
+                "website": "https://locations.manhattanbagel.com/us/nj/cherry-hill/190-barclay-farm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.346282184124",
+                    "40.53572252966922"
+                ]
+            },
+            "properties": {
+                "addr:city": "Edison",
+                "addr:country": "US",
+                "addr:housenumber": "1199",
+                "addr:postcode": "08837",
+                "addr:state": "NJ",
+                "addr:street": "Amboy Avenue",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Edison",
+                "opening_hours": "Mo-Fr 06:00-15:00; Sa-Su 06:00-14:00",
+                "phone": "+1-732-549-9010",
+                "ref": "1199-amboy-ave",
+                "website": "https://locations.manhattanbagel.com/us/nj/edison/1199-amboy-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.1113807",
+                    "40.899295"
+                ]
+            },
+            "properties": {
+                "addr:city": "Elmwood Park",
+                "addr:country": "US",
+                "addr:housenumber": "445",
+                "addr:postcode": "07407",
+                "addr:state": "NJ",
+                "addr:street": "Market Street",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Elmwood Park",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-201-475-1115",
+                "ref": "445-market-st",
+                "website": "https://locations.manhattanbagel.com/us/nj/elmwood-park/445-market-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-73.97593847949787",
+                    "40.89432829232447"
+                ]
+            },
+            "properties": {
+                "addr:city": "Englewood",
+                "addr:country": "US",
+                "addr:housenumber": "14",
+                "addr:postcode": "07631",
+                "addr:state": "NJ",
+                "addr:street": "West Palisade Avenue",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Englewood",
+                "opening_hours": "Mo-Su 07:00-15:00",
+                "phone": "+1-201-816-0008",
+                "ref": "14-w-palisade-ave",
+                "website": "https://locations.manhattanbagel.com/us/nj/englewood/14-w-palisade-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.289691",
+                    "40.8807718"
+                ]
+            },
+            "properties": {
+                "addr:city": "Fairfield",
+                "addr:country": "US",
+                "addr:housenumber": "435",
+                "addr:postcode": "07004",
+                "addr:state": "NJ",
+                "addr:street": "Hollywood Avenue",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Fairfield",
+                "opening_hours": "Mo-Su 05:00-14:30",
+                "phone": "+1-973-227-2228",
+                "ref": "435-hollywood-ave",
+                "website": "https://locations.manhattanbagel.com/us/nj/fairfield/435-hollywood-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.19607579708094",
+                    "39.847718580319736"
+                ]
+            },
+            "properties": {
+                "addr:city": "Forked River",
+                "addr:country": "US",
+                "addr:housenumber": "336",
+                "addr:postcode": "08731",
+                "addr:state": "NJ",
+                "addr:street": "Lacey Road",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Forked River",
+                "opening_hours": "Mo-Su 05:30-14:30",
+                "phone": "+1-609-242-1616",
+                "ref": "336-lacey-rd",
+                "website": "https://locations.manhattanbagel.com/us/nj/forked-river/336-lacey-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.27162021398544",
+                    "40.24941854784276"
+                ]
+            },
+            "properties": {
+                "addr:city": "Freehold",
+                "addr:country": "US",
+                "addr:housenumber": "562",
+                "addr:postcode": "07728",
+                "addr:state": "NJ",
+                "addr:street": "Park Avenue",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Freehold",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-732-294-9500",
+                "ref": "562-park-ave",
+                "website": "https://locations.manhattanbagel.com/us/nj/freehold/562-park-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.72895562698363",
+                    "40.258861468812604"
+                ]
+            },
+            "properties": {
+                "addr:city": "Lawrenceville",
+                "addr:country": "US",
+                "addr:housenumber": "2495",
+                "addr:postcode": "08648",
+                "addr:state": "NJ",
+                "addr:street": "US Highway 1",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Lawrenceville",
+                "opening_hours": "Mo-Fr 06:00-14:00; Sa-Su 07:00-14:00",
+                "phone": "+1-609-406-9800",
+                "ref": "2495-us-highway-1",
+                "website": "https://locations.manhattanbagel.com/us/nj/lawrenceville/2495-us-highway-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.270279109478",
+                    "39.69706456711317"
+                ]
+            },
+            "properties": {
+                "addr:city": "Manahawkin",
+                "addr:country": "US",
+                "addr:housenumber": "297",
+                "addr:postcode": "08050",
+                "addr:state": "NJ",
+                "addr:street": "Route 72 W",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Lowes Shopping Center",
+                "opening_hours": "Mo-Su 07:00-14:00",
+                "phone": "+1-609-978-1788",
+                "ref": "297-route-72-w",
+                "website": "https://locations.manhattanbagel.com/us/nj/manahawkin/297-route-72-w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.6333273",
+                    "39.4516997"
+                ]
+            },
+            "properties": {
+                "addr:city": "Mays Landing",
+                "addr:country": "US",
+                "addr:housenumber": "2300",
+                "addr:postcode": "08330",
+                "addr:state": "NJ",
+                "addr:street": "Wrangleboro Road",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Mays Landing",
+                "opening_hours": "Mo-Su 07:00-18:00",
+                "phone": "+1-609-484-1366",
+                "ref": "2300-wrangleboro-rd",
+                "website": "https://locations.manhattanbagel.com/us/nj/mays-landing/2300-wrangleboro-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.980367",
+                    "39.957878"
+                ]
+            },
+            "properties": {
+                "addr:city": "Moorestown",
+                "addr:country": "US",
+                "addr:housenumber": "13",
+                "addr:postcode": "08057",
+                "addr:state": "NJ",
+                "addr:street": "West Camden Avenue",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Moorestown",
+                "opening_hours": "Mo-Fr 06:00-14:00; Sa-Su 07:00-14:00",
+                "phone": "+1-856-802-1083",
+                "ref": "13-w-camden-ave",
+                "website": "https://locations.manhattanbagel.com/us/nj/moorestown/13-w-camden-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.55444633045772",
+                    "39.37373858722239"
+                ]
+            },
+            "properties": {
+                "addr:city": "Northfield",
+                "addr:country": "US",
+                "addr:housenumber": "1205",
+                "addr:postcode": "08225",
+                "addr:state": "NJ",
+                "addr:street": "Tilton Road",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Northfield",
+                "opening_hours": "Mo-Sa 06:00-15:00; Su 06:00-14:00",
+                "phone": "+1-609-646-3604",
+                "ref": "1205-tilton-rd",
+                "website": "https://locations.manhattanbagel.com/us/nj/northfield/1205-tilton-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.18587797880173",
+                    "40.695924309785035"
+                ]
+            },
+            "properties": {
+                "addr:city": "Phillipsburg",
+                "addr:country": "US",
+                "addr:housenumber": "500",
+                "addr:postcode": "08865",
+                "addr:state": "NJ",
+                "addr:street": "Memorial Parkway",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Phillipsburg",
+                "opening_hours": "Mo-Sa 04:30-15:00; Su 05:00-14:00",
+                "phone": "+1-908-454-5623",
+                "ref": "500-memorial-pkwy",
+                "website": "https://locations.manhattanbagel.com/us/nj/phillipsburg/500-memorial-pkwy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.32777494192129",
+                    "40.82195510636311"
+                ]
+            },
+            "properties": {
+                "addr:city": "Roseland",
+                "addr:country": "US",
+                "addr:housenumber": "29",
+                "addr:postcode": "07068",
+                "addr:state": "NJ",
+                "addr:street": "Eisenhower Parkway",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Eagle Rock Commons",
+                "opening_hours": "Mo-Su 06:00-14:30",
+                "phone": "+1-973-226-4440",
+                "ref": "29-eisenhower-pkwy",
+                "website": "https://locations.manhattanbagel.com/us/nj/roseland/29-eisenhower-pkwy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.31866012513638",
+                    "40.47624282868943"
+                ]
+            },
+            "properties": {
+                "addr:city": "Sayreville",
+                "addr:country": "US",
+                "addr:housenumber": "881",
+                "addr:postcode": "08872",
+                "addr:state": "NJ",
+                "addr:street": "Main Street",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Sayreville",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-732-525-0696",
+                "ref": "881-main-st",
+                "website": "https://locations.manhattanbagel.com/us/nj/sayreville/881-main-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.3851635",
+                    "40.3973719"
+                ]
+            },
+            "properties": {
+                "addr:city": "Spotswood",
+                "addr:country": "US",
+                "addr:housenumber": "100",
+                "addr:postcode": "08884",
+                "addr:state": "NJ",
+                "addr:street": "Summerhill Road",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Spotswood",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-732-251-8857",
+                "ref": "100-summerhill-rd",
+                "website": "https://locations.manhattanbagel.com/us/nj/spotswood/100-summerhill-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.35696370442201",
+                    "40.71707695579719"
+                ]
+            },
+            "properties": {
+                "addr:city": "Summit",
+                "addr:country": "US",
+                "addr:housenumber": "25",
+                "addr:postcode": "07901",
+                "addr:state": "NJ",
+                "addr:street": "Union Place",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Summit",
+                "opening_hours": "Mo-Fr 05:30-14:30; Sa-Su 06:00-14:30",
+                "phone": "+1-908-516-2641",
+                "ref": "25-union-pl",
+                "website": "https://locations.manhattanbagel.com/us/nj/summit/25-union-pl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.19890150427818",
+                    "39.96418848193625"
+                ]
+            },
+            "properties": {
+                "addr:city": "Toms River",
+                "addr:country": "US",
+                "addr:housenumber": "14",
+                "addr:postcode": "08753",
+                "addr:state": "NJ",
+                "addr:street": "Route 37 E",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Toms River - RT 37",
+                "opening_hours": "Mo-Su 06:00-15:00",
+                "phone": "+1-732-240-0177",
+                "ref": "14-route-37-e",
+                "website": "https://locations.manhattanbagel.com/us/nj/toms-river/14-route-37-e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.1476089",
+                    "40.0107691"
+                ]
+            },
+            "properties": {
+                "addr:city": "Toms River",
+                "addr:country": "US",
+                "addr:housenumber": "1822A",
+                "addr:postcode": "08753",
+                "addr:state": "NJ",
+                "addr:street": "Hooper Avenue",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Silverton",
+                "opening_hours": "Mo-Fr 06:00-15:00; Sa-Su 06:00-14:00",
+                "phone": "+1-732-864-0200",
+                "ref": "1822a-hooper-ave",
+                "website": "https://locations.manhattanbagel.com/us/nj/toms-river/1822a-hooper-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.13683992394249",
+                    "39.972059499788934"
+                ]
+            },
+            "properties": {
+                "addr:city": "Toms River",
+                "addr:country": "US",
+                "addr:housenumber": "860",
+                "addr:postcode": "08753",
+                "addr:state": "NJ",
+                "addr:street": "Fischer Boulevard",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Toms River-Fischer Blvd",
+                "opening_hours": "Mo-Fr 06:00-15:00; Sa-Su 06:00-14:00",
+                "phone": "+1-732-929-3998",
+                "ref": "860-fischer-blvd",
+                "website": "https://locations.manhattanbagel.com/us/nj/toms-river/860-fischer-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.22139719128609",
+                    "40.89724841433122"
+                ]
+            },
+            "properties": {
+                "addr:city": "Totowa",
+                "addr:country": "US",
+                "addr:housenumber": "650",
+                "addr:postcode": "07512",
+                "addr:state": "NJ",
+                "addr:street": "Union Boulevard",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Totowa",
+                "opening_hours": "Mo-Sa 05:30-15:00; Su 06:00-15:00",
+                "phone": "+1-973-785-2275",
+                "ref": "650-union-blvd",
+                "website": "https://locations.manhattanbagel.com/us/nj/totowa/650-union-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.2684954404831",
+                    "40.67744344849241"
+                ]
+            },
+            "properties": {
+                "addr:city": "Union",
+                "addr:country": "US",
+                "addr:housenumber": "1350",
+                "addr:postcode": "07083",
+                "addr:state": "NJ",
+                "addr:street": "Galloping Hill Road",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Union",
+                "opening_hours": "Mo-Su 06:00-15:00",
+                "phone": "+1-908-687-4900",
+                "ref": "1350-galloping-hill-rd",
+                "website": "https://locations.manhattanbagel.com/us/nj/union/1350-galloping-hill-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.0573856",
+                    "40.1543947"
+                ]
+            },
+            "properties": {
+                "addr:city": "Wall Township",
+                "addr:country": "US",
+                "addr:housenumber": "1933",
+                "addr:postcode": "07719",
+                "addr:state": "NJ",
+                "addr:street": "Route 35",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Wall",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-732-974-3988",
+                "ref": "1933-route-35",
+                "website": "https://locations.manhattanbagel.com/us/nj/wall-township/1933-route-35"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.2044147849083",
+                    "40.944271367918695"
+                ]
+            },
+            "properties": {
+                "addr:city": "Wayne",
+                "addr:country": "US",
+                "addr:housenumber": "163",
+                "addr:postcode": "07470",
+                "addr:state": "NJ",
+                "addr:street": "Hamburg Turnpike",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Wayne",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-973-925-4000",
+                "ref": "163-hamburg-turnpike",
+                "website": "https://locations.manhattanbagel.com/us/nj/wayne/163-hamburg-turnpike"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.29503931779095",
+                    "40.84895878538837"
+                ]
+            },
+            "properties": {
+                "addr:city": "West Caldwell",
+                "addr:country": "US",
+                "addr:housenumber": "764",
+                "addr:postcode": "07006",
+                "addr:state": "NJ",
+                "addr:street": "Bloomfield Avenue",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel West Caldwell",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-973-808-5193",
+                "ref": "764-bloomfield-ave",
+                "website": "https://locations.manhattanbagel.com/us/nj/west-caldwell/764-bloomfield-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.28234779038837",
+                    "40.77001758981662"
+                ]
+            },
+            "properties": {
+                "addr:city": "West Orange",
+                "addr:country": "US",
+                "addr:housenumber": "581",
+                "addr:postcode": "07052",
+                "addr:state": "NJ",
+                "addr:street": "Northfield Avenue",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel West Orange",
+                "opening_hours": "Mo-Su 06:00-15:00",
+                "phone": "+1-973-669-0160",
+                "ref": "581-northfield-ave",
+                "website": "https://locations.manhattanbagel.com/us/nj/west-orange/581-northfield-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.34454008936876",
+                    "40.64957365849734"
+                ]
+            },
+            "properties": {
+                "addr:city": "Westfield",
+                "addr:country": "US",
+                "addr:housenumber": "210",
+                "addr:postcode": "07090",
+                "addr:state": "NJ",
+                "addr:street": "South Avenue W",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Westfield",
+                "opening_hours": "Mo-Su 06:00-15:00",
+                "phone": "+1-908-654-0525",
+                "ref": "210-south-ave-w",
+                "website": "https://locations.manhattanbagel.com/us/nj/westfield/210-south-ave-w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.56945940852165",
+                    "40.90620200290712"
+                ]
+            },
+            "properties": {
+                "addr:city": "Wharton",
+                "addr:country": "US",
+                "addr:housenumber": "321",
+                "addr:postcode": "07885",
+                "addr:state": "NJ",
+                "addr:street": "Route 15",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Wharton",
+                "opening_hours": "Mo-Su 06:00-14:30",
+                "phone": "+1-973-328-2619",
+                "ref": "321-route-15",
+                "website": "https://locations.manhattanbagel.com/us/nj/wharton/321-route-15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.5245442",
+                    "40.5968154"
+                ]
+            },
+            "properties": {
+                "addr:city": "Allentown",
+                "addr:country": "US",
+                "addr:housenumber": "3058",
+                "addr:postcode": "18104",
+                "addr:state": "PA",
+                "addr:street": "West Tilghman Street",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Allentown",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-610-433-8555",
+                "ref": "3058-w-tilghman-st",
+                "website": "https://locations.manhattanbagel.com/us/pa/allentown/3058-w-tilghman-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.20777821540827",
+                    "40.28610201466019"
+                ]
+            },
+            "properties": {
+                "addr:city": "Chalfont",
+                "addr:country": "US",
+                "addr:housenumber": "5",
+                "addr:postcode": "18914",
+                "addr:state": "PA",
+                "addr:street": "East Butler Avenue",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Chalfont",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-215-997-8100",
+                "ref": "5-e-butler-ave",
+                "website": "https://locations.manhattanbagel.com/us/pa/chalfont/5-e-butler-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.64878358895487",
+                    "40.067171527416484"
+                ]
+            },
+            "properties": {
+                "addr:city": "Chester Springs",
+                "addr:country": "US",
+                "addr:housenumber": "487",
+                "addr:postcode": "19425",
+                "addr:state": "PA",
+                "addr:street": "East Uwchlan Avenue",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Chester Springs",
+                "opening_hours": "Mo-Fr 06:00-14:00; Sa-Su 07:00-14:00",
+                "phone": "+1-484-874-2133",
+                "ref": "487-east-uwchlan-ave",
+                "website": "https://locations.manhattanbagel.com/us/pa/chester-springs/487-east-uwchlan-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.4563074",
+                    "40.073965"
+                ]
+            },
+            "properties": {
+                "addr:city": "Chesterbrook",
+                "addr:country": "US",
+                "addr:housenumber": "500",
+                "addr:postcode": "19087",
+                "addr:state": "PA",
+                "addr:street": "Chesterbrook Boulevard",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Chesterbrook",
+                "opening_hours": "Mo-Su 07:00-13:00",
+                "phone": "+1-610-251-0600",
+                "ref": "500-chesterbrook-blvd",
+                "website": "https://locations.manhattanbagel.com/us/pa/chesterbrook/500-chesterbrook-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.15227928757668",
+                    "40.34148753886073"
+                ]
+            },
+            "properties": {
+                "addr:city": "Doylestown",
+                "addr:country": "US",
+                "addr:housenumber": "1456",
+                "addr:postcode": "18901",
+                "addr:state": "PA",
+                "addr:street": "Ferry Road",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Doylestown",
+                "opening_hours": "Mo-Su 07:00-14:00",
+                "phone": "+1-215-348-1669",
+                "ref": "1456-ferry-rd",
+                "website": "https://locations.manhattanbagel.com/us/pa/doylestown/1456-ferry-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.99456137418741",
+                    "40.14552918185073"
+                ]
+            },
+            "properties": {
+                "addr:city": "Feasterville Trevose",
+                "addr:country": "US",
+                "addr:housenumber": "313",
+                "addr:postcode": "19053",
+                "addr:state": "PA",
+                "addr:street": "East Street Road",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Feasterville",
+                "opening_hours": "Mo-Fr 05:30-14:00; Sa-Su 06:00-14:00",
+                "phone": "+1-215-942-9505",
+                "ref": "313-e-street-rd",
+                "website": "https://locations.manhattanbagel.com/us/pa/feasterville-trevose/313-e-street-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.29278010129929",
+                    "39.90512131992228"
+                ]
+            },
+            "properties": {
+                "addr:city": "Glenolden",
+                "addr:country": "US",
+                "addr:housenumber": "4",
+                "addr:postcode": "19036",
+                "addr:state": "PA",
+                "addr:street": "South Macdade Boulevard",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Glendolen",
+                "phone": "+1-610-237-0586",
+                "ref": "4-s-macdade-blvd",
+                "website": "https://locations.manhattanbagel.com/us/pa/glenolden/4-s-macdade-blvd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.08120074868208",
+                    "40.177735943969665"
+                ]
+            },
+            "properties": {
+                "addr:city": "Hatboro",
+                "addr:country": "US",
+                "addr:housenumber": "477",
+                "addr:postcode": "19040",
+                "addr:state": "PA",
+                "addr:street": "East County Line Road",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Hatboro",
+                "opening_hours": "Mo-Fr 05:30-14:00; Sa-Su 06:00-14:00",
+                "phone": "+1-215-773-8232",
+                "ref": "477-e-county-line-rd",
+                "website": "https://locations.manhattanbagel.com/us/pa/hatboro/477-e-county-line-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.32216922453688",
+                    "39.97425411093178"
+                ]
+            },
+            "properties": {
+                "addr:city": "Havertown",
+                "addr:country": "US",
+                "addr:housenumber": "1345",
+                "addr:postcode": "19083",
+                "addr:state": "PA",
+                "addr:street": "West Chester Pike",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Havertown",
+                "opening_hours": "Mo-Fr 06:00-15:00; Sa-Su 07:00-15:00",
+                "phone": "+1-610-789-9230",
+                "ref": "1345-w-chester-pike",
+                "website": "https://locations.manhattanbagel.com/us/pa/havertown/1345-w-chester-pike"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.90599857672112",
+                    "40.181958901588885"
+                ]
+            },
+            "properties": {
+                "addr:city": "Langhorne",
+                "addr:country": "US",
+                "addr:housenumber": "108",
+                "addr:postcode": "19047",
+                "addr:state": "PA",
+                "addr:street": "North Flowers Mill Road",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Langhorne",
+                "opening_hours": "Mo-Fr 06:00-14:00; Sa-Su 07:00-14:00",
+                "phone": "+1-215-702-0528",
+                "ref": "108-n-flowers-mill-rd",
+                "website": "https://locations.manhattanbagel.com/us/pa/langhorne/108-n-flowers-mill-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.2882625",
+                    "40.2363588"
+                ]
+            },
+            "properties": {
+                "addr:city": "Lansdale",
+                "addr:country": "US",
+                "addr:housenumber": "401",
+                "addr:postcode": "19446",
+                "addr:state": "PA",
+                "addr:street": "South Broad Street",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Lansdale",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-215-647-9990",
+                "ref": "401-s-broad-street",
+                "website": "https://locations.manhattanbagel.com/us/pa/lansdale/401-s-broad-street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.3800881",
+                    "39.915263"
+                ]
+            },
+            "properties": {
+                "addr:city": "Media",
+                "addr:country": "US",
+                "addr:housenumber": "502",
+                "addr:postcode": "19063",
+                "addr:state": "PA",
+                "addr:street": "East Baltimore Pike",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Media",
+                "opening_hours": "Mo-Fr 06:00-14:00; Sa-Su 07:00-14:00",
+                "phone": "+1-610-891-7790",
+                "ref": "502-e-baltimore-pike",
+                "website": "https://locations.manhattanbagel.com/us/pa/media/502-e-baltimore-pike"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.25984056674594",
+                    "40.011040253136755"
+                ]
+            },
+            "properties": {
+                "addr:city": "Narberth",
+                "addr:country": "US",
+                "addr:housenumber": "856",
+                "addr:postcode": "19072",
+                "addr:state": "PA",
+                "addr:street": "Montgomery Avenue",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Narberth",
+                "opening_hours": "Mo-Su 06:00-14:30",
+                "phone": "+1-610-668-0400",
+                "ref": "856-montgomery-ave",
+                "website": "https://locations.manhattanbagel.com/us/pa/narberth/856-montgomery-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.3961841",
+                    "39.9850436"
+                ]
+            },
+            "properties": {
+                "addr:city": "Newtown Square",
+                "addr:country": "US",
+                "addr:housenumber": "3530",
+                "addr:postcode": "19073",
+                "addr:state": "PA",
+                "addr:street": "West Chester Pike",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Newtown Square",
+                "opening_hours": "Mo-Fr 06:00-15:00; Sa-Su 07:00-14:00",
+                "phone": "+1-610-359-6223",
+                "ref": "3530-w-chester-pike",
+                "website": "https://locations.manhattanbagel.com/us/pa/newtown-square/3530-w-chester-pike"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.22679775953293",
+                    "40.209122415942616"
+                ]
+            },
+            "properties": {
+                "addr:city": "North Wales",
+                "addr:country": "US",
+                "addr:housenumber": "1210",
+                "addr:postcode": "19454",
+                "addr:state": "PA",
+                "addr:street": "Bethlehem Pike",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel North Wales",
+                "opening_hours": "Mo-Su 07:00-14:00",
+                "phone": "+1-215-619-0155",
+                "ref": "1210-bethlehem-pike",
+                "website": "https://locations.manhattanbagel.com/us/pa/north-wales/1210-bethlehem-pike"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.17030507326126",
+                    "39.95080411908646"
+                ]
+            },
+            "properties": {
+                "addr:city": "Philadelphia",
+                "addr:country": "US",
+                "addr:housenumber": "125",
+                "addr:postcode": "19103",
+                "addr:state": "PA",
+                "addr:street": "South 18th Street",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Phila. - Center City",
+                "opening_hours": "Mo-Su 07:00-17:00",
+                "phone": "+1-215-564-4340",
+                "ref": "125-s-18th-st",
+                "website": "https://locations.manhattanbagel.com/us/pa/philadelphia/125-s-18th-st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.01553624868393",
+                    "40.12461284614196"
+                ]
+            },
+            "properties": {
+                "addr:city": "Philadelphia",
+                "addr:country": "US",
+                "addr:housenumber": "13032",
+                "addr:postcode": "19116",
+                "addr:state": "PA",
+                "addr:street": "Bustleton Avenue",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Trevose/Bustleton Ave",
+                "opening_hours": "Mo-Su 05:30-14:00",
+                "phone": "+1-215-677-6066",
+                "ref": "13032-bustleton-ave",
+                "website": "https://locations.manhattanbagel.com/us/pa/philadelphia/13032-bustleton-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.21278724074364",
+                    "40.0319191924726"
+                ]
+            },
+            "properties": {
+                "addr:city": "Philadelphia",
+                "addr:country": "US",
+                "addr:housenumber": "6001",
+                "addr:postcode": "19128",
+                "addr:state": "PA",
+                "addr:street": "Ridge Avenue",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Roxborough",
+                "opening_hours": "Mo-Fr 06:00-14:00; Sa-Su 07:00-14:00",
+                "phone": "+1-215-508-3633",
+                "ref": "6001-ridge-ave",
+                "website": "https://locations.manhattanbagel.com/us/pa/philadelphia/6001-ridge-ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.01577727039148",
+                    "40.20838034888812"
+                ]
+            },
+            "properties": {
+                "addr:city": "Richboro",
+                "addr:country": "US",
+                "addr:housenumber": "722",
+                "addr:postcode": "18954",
+                "addr:state": "PA",
+                "addr:street": "2nd Street Pike",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Richboro",
+                "opening_hours": "Mo-Su 07:00-14:00",
+                "phone": "+1-215-942-2244",
+                "ref": "722-2nd-street-pike",
+                "website": "https://locations.manhattanbagel.com/us/pa/richboro/722-2nd-street-pike"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.12862698280338",
+                    "40.268193881651584"
+                ]
+            },
+            "properties": {
+                "addr:city": "Warrington",
+                "addr:country": "US",
+                "addr:housenumber": "1661",
+                "addr:postcode": "18976",
+                "addr:state": "PA",
+                "addr:street": "Easton Road",
+                "addr:unit": "B6",
+                "addr:unitname": "Suite",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Warrington",
+                "opening_hours": "Mo-Su 07:00-14:00",
+                "phone": "+1-215-491-3333",
+                "ref": "1661-easton-rd",
+                "website": "https://locations.manhattanbagel.com/us/pa/warrington/1661-easton-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.11629611253744",
+                    "40.1450535092953"
+                ]
+            },
+            "properties": {
+                "addr:city": "Willow Grove",
+                "addr:country": "US",
+                "addr:housenumber": "200",
+                "addr:postcode": "19090",
+                "addr:state": "PA",
+                "addr:street": "York Road",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Willow Grove",
+                "opening_hours": "Mo-Su 07:00-14:00",
+                "phone": "+1-215-658-0144",
+                "ref": "200-york-rd",
+                "website": "https://locations.manhattanbagel.com/us/pa/willow-grove/200-york-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-77.414710521698",
+                    "38.833577689407875"
+                ]
+            },
+            "properties": {
+                "addr:city": "Clifton",
+                "addr:country": "US",
+                "addr:housenumber": "5710",
+                "addr:postcode": "20124",
+                "addr:state": "VA",
+                "addr:street": "Union Mill Road",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Clifton",
+                "opening_hours": "Mo-Su 06:00-15:00",
+                "phone": "+1-703-830-4992",
+                "ref": "5710-union-mill-rd",
+                "website": "https://locations.manhattanbagel.com/us/va/clifton/5710-union-mill-rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-77.26947158575058",
+                    "38.89760452137206"
+                ]
+            },
+            "properties": {
+                "addr:city": "Vienna",
+                "addr:country": "US",
+                "addr:housenumber": "310",
+                "addr:postcode": "22180",
+                "addr:state": "VA",
+                "addr:street": "Maple Avenue W",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Vienna",
+                "opening_hours": "Mo-Su 07:00-14:00",
+                "phone": "+1-703-938-8100",
+                "ref": "310-maple-ave-w",
+                "website": "https://locations.manhattanbagel.com/us/va/vienna/310-maple-ave-w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-76.72186844050884",
+                    "37.28909002247063"
+                ]
+            },
+            "properties": {
+                "addr:city": "Williamsburg",
+                "addr:country": "US",
+                "addr:housenumber": "1437",
+                "addr:postcode": "23185",
+                "addr:state": "VA",
+                "addr:street": "Richmond Road",
+                "brand": "Manhattan Bagel",
+                "brand:wikidata": "Q64517333",
+                "name": "Manhattan Bagel Williamsburg",
+                "opening_hours": "Mo-Su 06:30-14:00",
+                "phone": "+1-757-259-9221",
+                "ref": "1437-richmond-rd",
+                "website": "https://locations.manhattanbagel.com/us/va/williamsburg/1437-richmond-rd"
+            }
+        }
+    ],
+    "updated_at": 1629944374984
+}

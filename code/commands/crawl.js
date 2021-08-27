@@ -78,6 +78,7 @@ async function fetchSingle(url, uuid, settings) {
 				await timeout(retryDelay(count));
 				return run(newCount);
 			} else {
+				next();
 				throw error;
 			}
 		}

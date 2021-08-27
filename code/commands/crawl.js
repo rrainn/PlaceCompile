@@ -53,6 +53,12 @@ async function runSpider(name, options) {
 const retryFetchCount = 5;
 const retryDelay = (count) => ((count - 1) * 1000) + 5000;
 async function fetchSingle(url, uuid, settings) {
+	// This function cleans up thee url from the currently fetching list, and runs the next item in the queue.
+	async function next() {
+		currentlyFetchingUUIDs.delete(uuid);
+		checkNextPendingFetch();
+	}
+
 	async function run(count = 1) {
 		try {
 			const {data} = await axios(url);
@@ -64,8 +70,7 @@ async function fetchSingle(url, uuid, settings) {
 				}
 			}
 
-			currentlyFetchingUUIDs.delete(uuid);
-			checkNextPendingFetch();
+			next();
 			return data;
 		} catch (error) {
 			const newCount = count + 1;

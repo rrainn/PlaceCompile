@@ -28,5 +28,12 @@ module.exports = async () => {
 			console.log(spiders.map((spider) => spider.split("/").pop()).join("\n"));
 		});
 
+	program
+		.command("generate-all")
+		.description("combines all data files into a single geojson data file")
+		.action(async () => {
+			require("./commands/generate-all")();
+		})
+
 	program.parse(process.argv);
 };

@@ -75,7 +75,7 @@ async function fetchSingle(url, uuid, settings) {
 		} catch (error) {
 			const newCount = count + 1;
 			const isRetryAllowed = count <= retryFetchCount; // Represents if the request is allowed to be retried based on the number of tries it has already done and the max number of retries allowed.
-			const isStatusCodeAllowedForRetry = !settings.ignoreRetryStatusCodes || !error.response || !settings.ignoreRetryStatusCodes.includes(error.response.status); // Represents if the status code is allowed to be retried based on the status code.
+			const isStatusCodeAllowedForRetry = !settings || !settings.ignoreRetryStatusCodes || !error.response || !settings.ignoreRetryStatusCodes.includes(error.response.status); // Represents if the status code is allowed to be retried based on the status code.
 			if (isRetryAllowed && isStatusCodeAllowedForRetry) {
 				await timeout(retryDelay(count));
 				return run(newCount);

@@ -6,13 +6,14 @@ const https = require("https");
 const httpAgent = new http.Agent({ "keepAlive": true });
 const httpsAgent = new https.Agent({ "keepAlive": true });
 const axiosPkg = require("axios");
-const axios = axiosPkg.create({
+const axiosOptions = process.env.GLOBAL_AGENT_HTTP_PROXY ? {} : {
 	httpAgent,
 	httpsAgent,
 	"headers": {
 		"Connection": "keep-alive"
 	}
-});
+};
+const axios = axiosPkg.create(axiosOptions);
 const xmlParser = require("fast-xml-parser");
 const fs = require("fs").promises;
 const path = require("path");

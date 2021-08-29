@@ -17,10 +17,12 @@ const axios = axiosPkg.create(axiosOptions);
 const xmlParser = require("fast-xml-parser");
 const fs = require("fs").promises;
 const path = require("path");
+const os = require("os");
 const papaparse = require("papaparse");
 const cheerio = require("cheerio");
 const timeout = require("../utils/timeout");
 const uuid = require("uuid").v4;
+const fileExists = require("../utils/fileExists");
 
 module.exports = async (spider, options) => {
 	if (spider) {
@@ -151,10 +153,36 @@ function parse(pageData, settings) {
 async function crawl(name, options) {
 	const files = await require("./spiders/list")();
 	const spider = require(`../../spiders/${files.find((file) => file.endsWith(name))}`);
-	const initialPageData = await fetch(spider.initialURL);
 
-	const data = parse(initialPageData, spider.parser);
+	const tmpFolder = path.join(os.tmpdir(), "placecompile", "crawl", "download", "cache");
+	const cachedFile = path.join(tmpFolder, `${name}.json`);
 
+	const canUseCache = spider.download && options.cache && await fileExists(cachedFile);
+
+	let initialPageData, initialPageDataParsed;
+	if (!canUseCache) {
+		initialPageData = await fetch(spider.initialURL);
+		initialPageDataParsed = parse(initialPageData, spider.parser);
+	}
+
+	let data = initialPageDataParsed;
+	if (spider.download) {
+		const tmpFolder = path.join(os.tmpdir(), "placecompile", "crawl", "download", "cache");
+		const cachedFile = path.join(tmpFolder, `${name}.json`);
+
+		if (canUseCache) {
+			data = JSON.parse(await fs.readFile(cachedFile, "utf8"));
+		} else {
+			data = await spider.download.call({
+				fetch,
+				parse
+			}, initialPageDataParsed);
+
+			// Save data in temporary directory.
+			await fs.mkdir(tmpFolder, {"recursive": true});
+			await fs.writeFile(cachedFile, JSON.stringify(data));
+		}
+	}
 	let features = await spider.parse.call({
 		fetch,
 		parse

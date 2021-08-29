@@ -20,7 +20,7 @@ module.exports = (settings) => {
 	return {
 		initialURL,
 		"parser": parserSettings,
-		"parse": async function (data) {
+		"download": async function (data) {
 			let stores = [];
 			const self = this;
 			async function parsePage(pageData, urlString) {
@@ -49,13 +49,18 @@ module.exports = (settings) => {
 					urlString = urlModifier(urlString);
 					const detailPageData = await self.fetch(urlString);
 					const detailParsedPageData = await self.parse(detailPageData, parserSettings);
-					stores.push({"store": detailParsedPageData, "url": urlString});
+					stores.push({"storeHTML": detailParsedPageData.html(), "url": urlString});
 				}
 			}
 			await parsePage(data, initialURL);
 
-			return stores.map((obj) => {
-				const {store, url} = obj;
+			return stores;
+		},
+		"parse": async function (stores) {
+			const self = this;
+			return Promise.all(stores.map(async (obj) => {
+				const {storeHTML, url} = obj;
+				const store = await self.parse(storeHTML, parserSettings);
 
 				const urlParts = url.split("/");
 				const storeObject = {
@@ -95,7 +100,7 @@ module.exports = (settings) => {
 				}
 
 				return storeObject;
-			});
+			}));
 		}
 	};
 };

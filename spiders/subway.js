@@ -14,7 +14,7 @@ module.exports = {
 	},
 	initialURL,
 	"parser": parserSettings,
-	"parse": async function (data) {
+	"download": async function (data) {
 		let stores = [];
 		const self = this;
 		async function parsePage(pageData, urlString) {
@@ -31,7 +31,6 @@ module.exports = {
 				await parsePage(fetchParsed, newURL);
 			}
 
-
 			if (linksArray.length === 0) {
 				let storeDetailJSON = JSON.parse(pageData("script.js-hours-config").html()) || JSON.parse(pageData("script.js-map-config").html()).entities[0];
 				storeDetailJSON.url = urlString;
@@ -40,7 +39,10 @@ module.exports = {
 		}
 		await parsePage(data, initialURL);
 
-		return stores.map((store) => {
+		return stores;
+	},
+	"parse": function (data) {
+		return data.map((store) => {
 			const storeObject = {
 				"type": "Feature",
 				"geometry": {

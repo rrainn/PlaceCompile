@@ -12,15 +12,25 @@ module.exports = {
 	"parser": {
 		"type": "html"
 	},
-	"parse": function (data) {
+	"download": function (data) {
 		data = JSON.parse(data("#data-mz-preload-storeDirectory").html());
 
+		const self = this;
 		return Promise.all(data.map(async (store) => {
-			const storeDetailData = await this.fetch(`https://www.acehardware.com/store-details/${store.code}`, {
+			const storeDetailData = await self.fetch(`https://www.acehardware.com/store-details/${store.code}`, {
 				"validate": (data) => data.includes("data-mz-preload-store")
 			});
-			const $ = cheerio.load(storeDetailData);
-			const storeDetailJSON = JSON.parse($("#data-mz-preload-store").html());
+			const storeHTML = await self.parse(storeDetailData, {"type": "html"});
+			const storeDetailJSON = JSON.parse(storeHTML("#data-mz-preload-store").html());
+			return {
+				store,
+				storeDetailJSON
+			};
+		}));
+	},
+	"parse": function (data) {
+		return Promise.all(data.map(async (obj) => {
+			const {store, storeDetailJSON} = obj;
 
 			const storeObject = {
 				"type": "Feature",

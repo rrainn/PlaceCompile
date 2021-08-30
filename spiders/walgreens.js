@@ -13,7 +13,7 @@ module.exports = {
 	},
 	initialURL,
 	"parser": parserSettings,
-	"parse": async function (data) {
+	"download": async function (data) {
 		let stores = [];
 
 		const storeURLs = data.urlset.url.map((url) => url.loc);
@@ -26,7 +26,10 @@ module.exports = {
 			stores.push({...storeDetailJSON, "url": storeURL});
 		}));
 
-		return stores.map((store) => {
+		return stores;
+	},
+	"parse": function (data) {
+		return data.map((store) => {
 			store.openingHoursSpecification = store.openingHoursSpecification.map((openingHoursSpecification) => {
 				return {
 					...openingHoursSpecification,

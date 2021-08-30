@@ -173,10 +173,10 @@ async function crawl(name, options) {
 		if (canUseCache) {
 			data = JSON.parse(await fs.readFile(cachedFile, "utf8"));
 		} else {
-			data = await spider.download.call({
+			data = (await spider.download.call({
 				fetch,
 				parse
-			}, initialPageDataParsed);
+			}, initialPageDataParsed)).filter(Boolean);
 
 			// Save data in temporary directory.
 			await fs.mkdir(tmpFolder, {"recursive": true});

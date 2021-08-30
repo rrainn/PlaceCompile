@@ -18,7 +18,7 @@ module.exports = {
 	initialURL,
 	"parser": parserSettings,
 	"download": async function (data) {
-		let storeURLs = data.urlset.url.map((url) => url.loc);
+		const storeURLs = data.urlset.url.map((url) => url.loc);
 
 		return Promise.all(storeURLs.map(async (storeURL) => {
 			const fetchResponse = await this.fetch(storeURL);

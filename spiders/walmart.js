@@ -16,11 +16,9 @@ module.exports = {
 	initialURL,
 	"parser": parserSettings,
 	"download": async function (data) {
-		let stores = [];
-
 		const storeURLs = data.urlset.url.map((url) => url.loc).filter((url) => url.endsWith("/details"));
 
-		await Promise.all(storeURLs.map(async (storeURL) => {
+		return Promise.all(storeURLs.map(async (storeURL) => {
 			let fetchResponse;
 			try {
 				// ignoreRetryStatusCodes means we will bail early and not retry the request if the status code is 404
@@ -47,10 +45,8 @@ module.exports = {
 			};
 
 			const storeDetailJSON = JSON.parse(jsonData[0].replace(/^window\.__WML_REDUX_INITIAL_STATE__ = \{/gmu, "{").replace(/\};$/gmu, "}"));
-			stores.push({...storeDetailJSON, "url": storeURL});
+			return {...storeDetailJSON, "url": storeURL};
 		}));
-
-		return stores;
 	},
 	"parse": function (data) {
 		return data.map((store) => {

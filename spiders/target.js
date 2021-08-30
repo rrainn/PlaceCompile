@@ -17,19 +17,14 @@ module.exports = {
 	initialURL,
 	"parser": parserSettings,
 	"download": async function (data) {
-		let stores = [];
-
 		const storeURLs = data.urlset.url.map((url) => url.loc);
 
-		for (let i = 0; i < storeURLs.length; i++) {
-			const storeURL = storeURLs[i];
+		return Promise.all(storeURLs.map(async (storeURL) => {
 			const fetchResponse = await this.fetch(storeURL);
 			const pageData = await this.parse(fetchResponse, {"type": "html"});
 			const storeDetailJSON = JSON.parse(pageData("script[type=application/ld+json]").html().replaceAll("&quot;", "\""));
-			stores.push({...storeDetailJSON, "url": storeURL});
-		}
-
-		return stores;
+			return {...storeDetailJSON, "url": storeURL};
+		}));
 	},
 	"parse": function (data) {
 		return data.map((store) => {

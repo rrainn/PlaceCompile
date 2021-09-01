@@ -37,11 +37,19 @@ module.exports = async () => {
 		});
 
 	program
-		.command("clear-cache")
+		.command("cache-clear")
 		.description("delete cache for given spider")
 		.argument("[spider]", "spider to delete cache for. if no spider is specified, it will run on all spiders.")
 		.action((spider, options) => {
-			require("./commands/clear-cache")(spider, options);
+			require("./commands/cache/clear")(spider, options);
+		});
+
+	program
+		.command("cache-location")
+		.description("prints the location of the cache")
+		.action(() => {
+			const location = require("./commands/cache/location")();
+			console.log(location);
 		});
 
 	program.parse(process.argv);

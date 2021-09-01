@@ -1,5 +1,5 @@
 // export GLOBAL_AGENT_HTTP_PROXY=http://127.0.01:9090
-// require("global-agent/bootstrap");
+require("global-agent/bootstrap");
 
 const http = require("http");
 const https = require("https");
@@ -154,10 +154,14 @@ async function crawl(name, options) {
 	const files = await require("./spiders/list")();
 	const spider = require(`../../spiders/${files.find((file) => file.endsWith(name))}`);
 
-	const tmpFolder = path.join(os.tmpdir(), "placecompile", "crawl", "download", "cache");
+	if (spider.type === "single" && !spider.download) {
+		throw new Error(`Spider ${name} should include download function when using type=single.`);
+	}
+
+	let tmpFolder = require("../commands/cache/location")();
 	const cachedFile = path.join(tmpFolder, `${name}.json`);
 
-	const canUseCache = spider.download && options.cache && await fileExists(cachedFile);
+	const canUseCache = spider.download && options.cache && (spider.type === "single" ? await fileExists(path.join(tmpFolder, name)) : await fileExists(cachedFile));
 
 	let initialPageData, initialPageDataParsed;
 	if (!canUseCache) {
@@ -167,26 +171,57 @@ async function crawl(name, options) {
 
 	let data = initialPageDataParsed;
 	if (spider.download) {
-		const tmpFolder = path.join(os.tmpdir(), "placecompile", "crawl", "download", "cache");
-		const cachedFile = path.join(tmpFolder, `${name}.json`);
+		if (spider.type === "single") {
+			tmpFolder = path.join(tmpFolder, name);
+			if (canUseCache) {
+				data = (await fs.readdir(tmpFolder)).filter((item) => item.endsWith(".json")).map((item) => path.join(tmpFolder, item));
+			} else {
+				const urls = (await spider.download.call({
+					fetch,
+					parse
+				}, initialPageDataParsed)).filter(Boolean);
 
-		if (canUseCache) {
-			data = JSON.parse(await fs.readFile(cachedFile, "utf8"));
+				await fs.mkdir(tmpFolder, {"recursive": true});
+				const downloadPaths = await Promise.all(urls.map(async (url) => {
+					const html = await fetch(url);
+					const filePath = path.join(tmpFolder, `${uuid()}.json`);
+					await fs.writeFile(filePath, JSON.stringify({html, url}));
+
+					return filePath;
+				}));
+				data = downloadPaths;
+			}
 		} else {
-			data = (await spider.download.call({
-				fetch,
-				parse
-			}, initialPageDataParsed)).filter(Boolean);
+			if (canUseCache) {
+				data = JSON.parse(await fs.readFile(cachedFile, "utf8"));
+			} else {
+				data = (await spider.download.call({
+					fetch,
+					parse
+				}, initialPageDataParsed)).filter(Boolean);
 
-			// Save data in temporary directory.
-			await fs.mkdir(tmpFolder, {"recursive": true});
-			await fs.writeFile(cachedFile, JSON.stringify(data));
+				// Save data in temporary directory.
+				await fs.mkdir(tmpFolder, {"recursive": true});
+				await fs.writeFile(cachedFile, JSON.stringify(data));
+			}
 		}
 	}
-	let features = await spider.parse.call({
-		fetch,
-		parse
-	}, data);
+	let features;
+
+	if (spider.type === "single") {
+		features = await Promise.all(data.map(async (filePath) => {
+			const content = JSON.parse(await fs.readFile(filePath, "utf8"));
+			return spider.parse.call({
+				fetch,
+				parse
+			}, content);
+		}));
+	} else {
+		features = await spider.parse.call({
+			fetch,
+			parse
+		}, data);
+	}
 	features.forEach((_a, index) => {
 		features[index].properties = {
 			...spider.defaultAttributes,

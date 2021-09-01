@@ -34,7 +34,15 @@ module.exports = async () => {
 		.description("combines all data files into a single geojson data file")
 		.action(async () => {
 			require("./commands/generate-all")();
-		})
+		});
+
+	program
+		.command("clear-cache")
+		.description("delete cache for given spider")
+		.argument("[spider]", "spider to delete cache for. if no spider is specified, it will run on all spiders.")
+		.action((spider, options) => {
+			require("./commands/clear-cache")(spider, options);
+		});
 
 	program.parse(process.argv);
 };

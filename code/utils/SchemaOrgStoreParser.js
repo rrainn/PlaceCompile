@@ -95,14 +95,17 @@ module.exports = (store) => {
 		},
 		"properties": {
 			"name": store.name,
-			"ref": store["@id"],
+			"ref": store["@id"] || store.url,
 			...earthutils.AddressParser(store.address.streetAddress, {"standardizeStreet": true}),
 			"addr:city": store.address.addressLocality,
-			"addr:postcode": `${store.address.postalCode}`,
 			"addr:country": store.address.addressCountry,
 			"website": store.url
 		}
 	};
+
+	if (store.address.postalCode !== undefined) {
+		storeObject.properties["addr:postcode"] = `${store.address.postalCode}`;
+	}
 
 	if (storeObject.properties["addr:country"] === "US") {
 		storeObject.properties["addr:state"] = store.address.addressRegion;

@@ -68,8 +68,8 @@ module.exports = (settings) => {
 					"geometry": {
 						"type": "Point",
 						"coordinates": [
-							store("meta[itemprop=longitude]").attr("content"),
-							store("meta[itemprop=latitude]").attr("content")
+							parseFloat(store("meta[itemprop=longitude]").attr("content")),
+							parseFloat(store("meta[itemprop=latitude]").attr("content"))
 						]
 					},
 					"properties": {

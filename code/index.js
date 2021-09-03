@@ -30,6 +30,13 @@ module.exports = async () => {
 		});
 
 	program
+		.command("lint")
+		.description("lint all data files")
+		.action(async () => {
+			require("./commands/lint")();
+		});
+
+	program
 		.command("generate-all")
 		.description("combines all data files into a single geojson data file")
 		.action(async () => {

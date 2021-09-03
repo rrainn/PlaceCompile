@@ -39,6 +39,9 @@ function lint(data, spider) {
 		if (feature.geometry.coordinates[1] < -90 || feature.geometry.coordinates[1] > 90) {
 			console.error(`${spider}: ${feature.properties.ref} has invalid latitude`);
 		}
+		if (feature.geometry.coordinates[0] === feature.geometry.coordinates[1]) {
+			console.error(`${spider}: ${feature.properties.ref} coordinates are identical`);
+		}
 
 		Object.entries(feature.properties).forEach(([key, value]) => {
 			if (value === "") {

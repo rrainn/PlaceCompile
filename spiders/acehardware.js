@@ -1,6 +1,5 @@
 const earthutils = require("earthutils");
 const dayofweek = require("../code/utils/dayofweek");
-const cheerio = require("cheerio");
 const openingHoursStringify = require("../code/utils/openingHoursStringify");
 
 module.exports = {

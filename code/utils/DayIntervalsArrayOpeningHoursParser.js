@@ -10,7 +10,7 @@ module.exports = (hoursObj) => {
 
 	return openingHoursStringify(Object.keys(dayofweek.DayOfWeekAbbreviationsInverse).map((dayOfWeek) => dayOfWeek.toUpperCase()).map((dayOfWeek) => {
 		const dayHourObject = hoursObj.find((obj) => obj.day === dayOfWeek);
-		if (!dayHourObject || dayHourObject.isClosed || dayHourObject.intervals.length === 0) {
+		if (!dayHourObject || dayHourObject.isClosed || dayHourObject.intervals === null || dayHourObject.intervals.length === 0) {
 			return null;
 		} else {
 			const hours = dayHourObject.intervals.reduce((arr, current) => {

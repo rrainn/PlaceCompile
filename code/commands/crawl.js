@@ -182,13 +182,23 @@ async function crawl(name, options) {
 				}, initialPageDataParsed)).filter(Boolean);
 
 				await fs.mkdir(tmpFolder, {"recursive": true});
-				const downloadPaths = await Promise.all(urls.map(async (url) => {
-					const html = await fetch(url);
+				const downloadPaths = (await Promise.all(urls.map(async (url) => {
+					let html;
+					const discardStatusCodes = spider.downloadFetchSettings?.ignoreRetryStatusCodes ?? [];
+					try {
+						html = await fetch(url,  {"ignoreRetryStatusCodes": discardStatusCodes});
+					} catch (error) {
+						if (spider.downloadFetchSettings.discardStatusCodes.includes(error.response.status)) {
+							return null;
+						} else {
+							throw error;
+						}
+					}
 					const filePath = path.join(tmpFolder, `${uuid()}.json`);
 					await fs.writeFile(filePath, JSON.stringify({html, url}));
 
 					return filePath;
-				}));
+				}))).filter(Boolean);
 				data = downloadPaths;
 			}
 		} else {

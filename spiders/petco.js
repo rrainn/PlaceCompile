@@ -53,7 +53,7 @@ module.exports = {
 					"type": "Point",
 					"coordinates": [
 						parseFloat(store.geo.longitude),
-						parseFloat(store.geo.longitude)
+						parseFloat(store.geo.latitude)
 					]
 				},
 				"properties": {

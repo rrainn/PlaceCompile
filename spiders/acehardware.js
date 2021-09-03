@@ -29,7 +29,7 @@ module.exports = {
 		}));
 	},
 	"parse": function (data) {
-		return Promise.all(data.map(async (obj) => {
+		return data.map((obj) => {
 			const {store, storeDetailJSON} = obj;
 
 			const storeObject = {

@@ -17,7 +17,6 @@ const axios = axiosPkg.create(axiosOptions);
 const xmlParser = require("fast-xml-parser");
 const fs = require("fs").promises;
 const path = require("path");
-const os = require("os");
 const papaparse = require("papaparse");
 const cheerio = require("cheerio");
 const timeout = require("../utils/timeout");
@@ -32,7 +31,9 @@ module.exports = async (spider, options) => {
 
 		for (let i = 0; i < files.length; i++) {
 			const spider = files[i];
+			console.log(`[${Date.now()}] Running spider: ${spider}`);
 			await runSpider(spider.split("/").pop(), options);
+			console.log(`[${Date.now()}] Finished running spider: ${spider}`);
 		}
 	}
 };

@@ -220,13 +220,14 @@ async function crawl(name, options) {
 	let features;
 
 	if (spider.type === "single") {
-		features = await Promise.all(data.map(async (filePath) => {
+		features = [];
+		for (let filePath of data) {
 			const content = JSON.parse(await fs.readFile(filePath, "utf8"));
-			return spider.parse.call({
+			features.push(spider.parse.call({
 				fetch,
 				parse
-			}, content);
-		}));
+			}, content));
+		}
 	} else {
 		features = await spider.parse.call({
 			fetch,

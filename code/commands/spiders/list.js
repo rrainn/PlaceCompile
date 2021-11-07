@@ -11,7 +11,7 @@ module.exports = async () => {
 
 		if (!isDirectory) {
 			array.push(spider);
-		} else {
+		} else if (spider !== ".disabled") {
 			const directoryContents = (await fs.readdir(path.join(__dirname, "..", "..", "..", "spiders", spider)));
 			array.push(...directoryContents.map((file) => `${spider}/${file}`));
 		}

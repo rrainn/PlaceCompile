@@ -1,7 +1,7 @@
 const earthutils = require("earthutils");
-const dayofweek = require("../code/utils/dayofweek");
-const openingHoursStringify = require("../code/utils/openingHoursStringify");
-const timeTo24HourTime = require("../code/utils/timeTo24HourTime");
+const dayofweek = require("../../code/utils/dayofweek");
+const openingHoursStringify = require("../../code/utils/openingHoursStringify");
+const timeTo24HourTime = require("../../code/utils/timeTo24HourTime");
 
 module.exports = {
 	"defaultAttributes": {

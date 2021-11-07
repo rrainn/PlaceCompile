@@ -30,7 +30,7 @@ module.exports = {
 					throw e;
 				}
 			}
-			const pageData = await this.parse(fetchResponse, {"type": "html"});
+			const pageData = this.parse(fetchResponse, {"type": "html"});
 
 			const jsonData = [];
 			pageData("script").each((_, b) => {

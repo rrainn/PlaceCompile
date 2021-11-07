@@ -22,7 +22,7 @@ module.exports = {
 
 		return Promise.all(storeURLs.map(async (storeURL) => {
 			const fetchResponse = await this.fetch(storeURL);
-			const pageData = await this.parse(fetchResponse, {"type": "html"});
+			const pageData = this.parse(fetchResponse, {"type": "html"});
 
 			const jsonData = [];
 			pageData("script").each((_, b) => {

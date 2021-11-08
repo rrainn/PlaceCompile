@@ -1548,11 +1548,11 @@
                 "addr:street": "West Division Street",
                 "brand": "Target",
                 "brand:wikidata": "Q1046951",
-                "name": "Target Store - st-cloud",
+                "name": "Target Store - st-cloud-crossroads",
                 "opening_hours": "Mo-Su 08:00-22:00",
                 "phone": "+1-320-253-4740",
-                "ref": "https://www.target.com/sl/st-cloud/215",
-                "website": "https://www.target.com/sl/st-cloud/215"
+                "ref": "https://www.target.com/sl/st-cloud-crossroads/215",
+                "website": "https://www.target.com/sl/st-cloud-crossroads/215"
             }
         },
         {
@@ -2240,7 +2240,7 @@
                 ]
             },
             "properties": {
-                "addr:city": "St Louis Park",
+                "addr:city": "Minneapolis",
                 "addr:country": "US",
                 "addr:housenumber": "3601",
                 "addr:postcode": "55416-2500",
@@ -6147,11 +6147,11 @@
                 "addr:street": "Valley Creek Plaza",
                 "brand": "Target",
                 "brand:wikidata": "Q1046951",
-                "name": "Target Store - woodbury",
+                "name": "Target Store - woodbury-valley-creek-plaza",
                 "opening_hours": "Mo-Su 07:00-22:00",
                 "phone": "+1-651-735-7083",
-                "ref": "https://www.target.com/sl/woodbury/694",
-                "website": "https://www.target.com/sl/woodbury/694"
+                "ref": "https://www.target.com/sl/woodbury-valley-creek-plaza/694",
+                "website": "https://www.target.com/sl/woodbury-valley-creek-plaza/694"
             }
         },
         {
@@ -21834,7 +21834,7 @@
                 "brand": "Target",
                 "brand:wikidata": "Q1046951",
                 "name": "Target Store - metairie",
-                "opening_hours": "Mo-Fr 08:00-22:00; Sa 08:00-17:00",
+                "opening_hours": "Mo-Su 08:00-22:00",
                 "phone": "+1-504-888-2184",
                 "ref": "https://www.target.com/sl/metairie/1449",
                 "website": "https://www.target.com/sl/metairie/1449"
@@ -21859,7 +21859,7 @@
                 "brand": "Target",
                 "brand:wikidata": "Q1046951",
                 "name": "Target Store - houma",
-                "opening_hours": "Mo-Fr 08:00-22:00; Sa 08:00-12:00",
+                "opening_hours": "Mo-Su 08:00-22:00",
                 "phone": "+1-985-223-2575",
                 "ref": "https://www.target.com/sl/houma/1450",
                 "website": "https://www.target.com/sl/houma/1450"
@@ -21884,7 +21884,7 @@
                 "brand": "Target",
                 "brand:wikidata": "Q1046951",
                 "name": "Target Store - harvey",
-                "opening_hours": "Mo-Sa 08:00-22:00",
+                "opening_hours": "Mo-Su 08:00-22:00",
                 "phone": "+1-504-227-2014",
                 "ref": "https://www.target.com/sl/harvey/1451",
                 "website": "https://www.target.com/sl/harvey/1451"
@@ -23638,7 +23638,7 @@
                 "brand": "Target",
                 "brand:wikidata": "Q1046951",
                 "name": "Target Store - silverthorne",
-                "opening_hours": "Mo-Sa 08:00-22:00; Su 08:00-21:00",
+                "opening_hours": "Mo-Su 08:00-20:00",
                 "phone": "+1-970-468-2268",
                 "ref": "https://www.target.com/sl/silverthorne/1525",
                 "website": "https://www.target.com/sl/silverthorne/1525"
@@ -27219,7 +27219,7 @@
                 "brand": "Target",
                 "brand:wikidata": "Q1046951",
                 "name": "Target Store - covington",
-                "opening_hours": "Mo-Sa 08:00-22:00",
+                "opening_hours": "Mo-Su 08:00-22:00",
                 "phone": "+1-985-871-7093",
                 "ref": "https://www.target.com/sl/covington/1876",
                 "website": "https://www.target.com/sl/covington/1876"
@@ -38907,11 +38907,11 @@
                 "addr:street": "Commerce Drive",
                 "brand": "Target",
                 "brand:wikidata": "Q1046951",
-                "name": "Target Store - woodbury-east",
+                "name": "Target Store - woodbury-commerce-drive",
                 "opening_hours": "Mo-Su 07:00-22:00",
                 "phone": "+1-651-239-1874",
-                "ref": "https://www.target.com/sl/woodbury-east/2406",
-                "website": "https://www.target.com/sl/woodbury-east/2406"
+                "ref": "https://www.target.com/sl/woodbury-commerce-drive/2406",
+                "website": "https://www.target.com/sl/woodbury-commerce-drive/2406"
             }
         },
         {
@@ -41208,7 +41208,7 @@
                 "brand": "Target",
                 "brand:wikidata": "Q1046951",
                 "name": "Target Store - hammond",
-                "opening_hours": "Mo-Sa 08:00-22:00",
+                "opening_hours": "Mo-Su 08:00-22:00",
                 "phone": "+1-985-277-3203",
                 "ref": "https://www.target.com/sl/hammond/2531",
                 "website": "https://www.target.com/sl/hammond/2531"
@@ -41283,7 +41283,7 @@
                 "brand": "Target",
                 "brand:wikidata": "Q1046951",
                 "name": "Target Store - kenner",
-                "opening_hours": "Mo-Fr 08:00-22:00; Sa 08:00-13:00",
+                "opening_hours": "Mo-Su 08:00-22:00",
                 "phone": "+1-504-617-4859",
                 "ref": "https://www.target.com/sl/kenner/2534",
                 "website": "https://www.target.com/sl/kenner/2534"
@@ -43184,7 +43184,7 @@
                 "brand": "Target",
                 "brand:wikidata": "Q1046951",
                 "name": "Target Store - seattle-pike-plaza",
-                "opening_hours": "Mo-Su 07:00-21:00",
+                "opening_hours": "Mo-Su 08:00-20:00",
                 "phone": "+1-206-494-3250",
                 "ref": "https://www.target.com/sl/seattle-pike-plaza/2786",
                 "website": "https://www.target.com/sl/seattle-pike-plaza/2786"
@@ -43334,7 +43334,7 @@
                 "brand": "Target",
                 "brand:wikidata": "Q1046951",
                 "name": "Target Store - escondido-south",
-                "opening_hours": "Mo-Su 08:00-21:00",
+                "opening_hours": "Mo-Sa 08:00-22:00; Su 08:00-21:00",
                 "phone": "+1-760-705-9019",
                 "ref": "https://www.target.com/sl/escondido-south/2802",
                 "website": "https://www.target.com/sl/escondido-south/2802"
@@ -44222,6 +44222,56 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -87.913061,
+                    43.121446
+                ]
+            },
+            "properties": {
+                "addr:city": "Glendale",
+                "addr:country": "US",
+                "addr:housenumber": "5701",
+                "addr:postcode": "53217-4537",
+                "addr:state": "WI",
+                "addr:street": "North Lydell Avenue",
+                "brand": "Target",
+                "brand:wikidata": "Q1046951",
+                "name": "Target Store - glendale-north-shore",
+                "opening_hours": "Mo-Sa 08:00-22:00; Su 08:00-21:00",
+                "phone": "+1-414-516-1236",
+                "ref": "https://www.target.com/sl/glendale-north-shore/2877",
+                "website": "https://www.target.com/sl/glendale-north-shore/2877"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.595368,
+                    39.325122
+                ]
+            },
+            "properties": {
+                "addr:city": "Somers Point",
+                "addr:country": "US",
+                "addr:housenumber": "250",
+                "addr:postcode": "08244-2177",
+                "addr:state": "NJ",
+                "addr:street": "New Road",
+                "brand": "Target",
+                "brand:wikidata": "Q1046951",
+                "name": "Target Store - somers-point",
+                "opening_hours": "Mo-Sa 08:00-22:00; Su 08:00-21:00",
+                "phone": "+1-609-365-3542",
+                "ref": "https://www.target.com/sl/somers-point/2878",
+                "website": "https://www.target.com/sl/somers-point/2878"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -93.235075,
                     44.981616
                 ]
@@ -44790,7 +44840,7 @@
                 "brand": "Target",
                 "brand:wikidata": "Q1046951",
                 "name": "Target Store - tribeca",
-                "opening_hours": "Mo-Su 07:00-22:00",
+                "opening_hours": "Mo-Su 08:00-21:00",
                 "phone": "+1-917-438-2214",
                 "ref": "https://www.target.com/sl/tribeca/3229",
                 "website": "https://www.target.com/sl/tribeca/3229"
@@ -45194,7 +45244,7 @@
                 "brand": "Target",
                 "brand:wikidata": "Q1046951",
                 "name": "Target Store - manhattan-east-village",
-                "opening_hours": "Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00",
+                "opening_hours": "Mo-Su 08:00-21:00",
                 "phone": "+1-917-994-3522",
                 "ref": "https://www.target.com/sl/manhattan-east-village/3249",
                 "website": "https://www.target.com/sl/manhattan-east-village/3249"
@@ -45514,8 +45564,8 @@
             "properties": {
                 "addr:city": "San Francisco",
                 "addr:country": "US",
-                "addr:housenumber": "233",
-                "addr:postcode": "94132-1901",
+                "addr:housenumber": "285",
+                "addr:postcode": "94132-1921",
                 "addr:state": "CA",
                 "addr:street": "Winston Drive",
                 "brand": "Target",
@@ -45596,7 +45646,7 @@
                 "brand": "Target",
                 "brand:wikidata": "Q1046951",
                 "name": "Target Store - manhattan-hells-kitchen",
-                "opening_hours": "Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00",
+                "opening_hours": "Mo-Su 08:00-21:00",
                 "phone": "+1-212-389-1418",
                 "ref": "https://www.target.com/sl/manhattan-hells-kitchen/3268",
                 "website": "https://www.target.com/sl/manhattan-hells-kitchen/3268"
@@ -45952,7 +46002,7 @@
                 "brand": "Target",
                 "brand:wikidata": "Q1046951",
                 "name": "Target Store - lower-east-side-grand-and-clinton",
-                "opening_hours": "Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00",
+                "opening_hours": "Mo-Su 08:00-21:00",
                 "phone": "+1-917-994-3500",
                 "ref": "https://www.target.com/sl/lower-east-side-grand-and-clinton/3284",
                 "website": "https://www.target.com/sl/lower-east-side-grand-and-clinton/3284"
@@ -46510,7 +46560,7 @@
                 "brand": "Target",
                 "brand:wikidata": "Q1046951",
                 "name": "Target Store - upper-east-side-70th-and-3rd",
-                "opening_hours": "Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00",
+                "opening_hours": "Mo-Su 08:00-21:00",
                 "phone": "+1-332-204-1718",
                 "ref": "https://www.target.com/sl/upper-east-side-70th-and-3rd/3312",
                 "website": "https://www.target.com/sl/upper-east-side-70th-and-3rd/3312"
@@ -46739,7 +46789,7 @@
                 "brand": "Target",
                 "brand:wikidata": "Q1046951",
                 "name": "Target Store - kips-bay",
-                "opening_hours": "Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00",
+                "opening_hours": "Mo-Su 08:00-21:00",
                 "phone": "+1-646-822-4567",
                 "ref": "https://www.target.com/sl/kips-bay/3321",
                 "website": "https://www.target.com/sl/kips-bay/3321"
@@ -46795,6 +46845,31 @@
                 "phone": "+1-508-534-7878",
                 "ref": "https://www.target.com/sl/hyannis-cape-cod/3324",
                 "website": "https://www.target.com/sl/hyannis-cape-cod/3324"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.029299,
+                    42.275401
+                ]
+            },
+            "properties": {
+                "addr:city": "Quincy",
+                "addr:country": "US",
+                "addr:housenumber": "289",
+                "addr:postcode": "02171",
+                "addr:state": "MA",
+                "addr:street": "Hancock Street",
+                "brand": "Target",
+                "brand:wikidata": "Q1046951",
+                "name": "Target Store - north-quincy-t-station",
+                "opening_hours": "Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00",
+                "phone": "+1-617-706-9953",
+                "ref": "https://www.target.com/sl/north-quincy-t-station/3325",
+                "website": "https://www.target.com/sl/north-quincy-t-station/3325"
             }
         },
         {
@@ -46895,7 +46970,7 @@
                 "brand": "Target",
                 "brand:wikidata": "Q1046951",
                 "name": "Target Store - manhattan-washington-heights",
-                "opening_hours": "Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00",
+                "opening_hours": "Mo-Su 08:00-21:00",
                 "phone": "+1-646-346-7725",
                 "ref": "https://www.target.com/sl/manhattan-washington-heights/3329",
                 "website": "https://www.target.com/sl/manhattan-washington-heights/3329"
@@ -46972,7 +47047,7 @@
                 "brand": "Target",
                 "brand:wikidata": "Q1046951",
                 "name": "Target Store - upper-west-side-61st-and-broadway",
-                "opening_hours": "Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00",
+                "opening_hours": "Mo-Su 08:00-21:00",
                 "phone": "+1-646-429-3934",
                 "ref": "https://www.target.com/sl/upper-west-side-61st-and-broadway/3334",
                 "website": "https://www.target.com/sl/upper-west-side-61st-and-broadway/3334"
@@ -47099,7 +47174,7 @@
                 "brand": "Target",
                 "brand:wikidata": "Q1046951",
                 "name": "Target Store - champaign-campustown",
-                "opening_hours": "Mo-Fr 07:00-22:00; Sa-Su 07:00-23:00",
+                "opening_hours": "Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00",
                 "phone": "+1-217-402-9137",
                 "ref": "https://www.target.com/sl/champaign-campustown/3341",
                 "website": "https://www.target.com/sl/champaign-campustown/3341"
@@ -47870,6 +47945,56 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -73.955141,
+                    40.779116
+                ]
+            },
+            "properties": {
+                "addr:city": "New York",
+                "addr:country": "US",
+                "addr:housenumber": "150",
+                "addr:postcode": "10028-2118",
+                "addr:state": "NY",
+                "addr:street": "East 86th Street",
+                "brand": "Target",
+                "brand:wikidata": "Q1046951",
+                "name": "Target Store - upper-east-side-86th-and-lex",
+                "opening_hours": "Mo-Su 08:00-21:00",
+                "phone": "+1-646-758-8596",
+                "ref": "https://www.target.com/sl/upper-east-side-86th-and-lex/3387",
+                "website": "https://www.target.com/sl/upper-east-side-86th-and-lex/3387"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.283075,
+                    40.00322
+                ]
+            },
+            "properties": {
+                "addr:city": "Wynnewood",
+                "addr:country": "US",
+                "addr:housenumber": "250",
+                "addr:postcode": "19096-2126",
+                "addr:state": "PA",
+                "addr:street": "East Lancaster Avenue",
+                "brand": "Target",
+                "brand:wikidata": "Q1046951",
+                "name": "Target Store - wynnewood",
+                "opening_hours": "Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00",
+                "phone": "+1-610-228-2731",
+                "ref": "https://www.target.com/sl/wynnewood/3389",
+                "website": "https://www.target.com/sl/wynnewood/3389"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -118.265935,
                     34.069283
                 ]
@@ -47911,10 +48036,62 @@
                 "brand": "Target",
                 "brand:wikidata": "Q1046951",
                 "name": "Target Store - upper-west-side-98th-and-columbus",
-                "opening_hours": "Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00",
+                "opening_hours": "Mo-Su 08:00-21:00",
                 "phone": "+1-646-758-8424",
                 "ref": "https://www.target.com/sl/upper-west-side-98th-and-columbus/3394",
                 "website": "https://www.target.com/sl/upper-west-side-98th-and-columbus/3394"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -159.376905,
+                    21.968771
+                ]
+            },
+            "properties": {
+                "addr:city": "Lihue",
+                "addr:country": "US",
+                "addr:housenumber": "4303",
+                "addr:postcode": "96766-9581",
+                "addr:state": "HI",
+                "addr:street": "Nawiliwili Road",
+                "brand": "Target",
+                "brand:wikidata": "Q1046951",
+                "name": "Target Store - lihue-kauai",
+                "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+                "phone": "+1-808-212-0223",
+                "ref": "https://www.target.com/sl/lihue-kauai/3400",
+                "website": "https://www.target.com/sl/lihue-kauai/3400"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.322002,
+                    43.633682
+                ]
+            },
+            "properties": {
+                "addr:city": "West Lebanon",
+                "addr:country": "US",
+                "addr:housenumber": "200",
+                "addr:postcode": "03784-2014",
+                "addr:state": "NH",
+                "addr:street": "South Main Street",
+                "addr:unit": "24",
+                "addr:unitname": "Unit",
+                "brand": "Target",
+                "brand:wikidata": "Q1046951",
+                "name": "Target Store - west-lebanon-main-st",
+                "opening_hours": "Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00",
+                "phone": "+1-603-276-4316",
+                "ref": "https://www.target.com/sl/west-lebanon-main-st/3401",
+                "website": "https://www.target.com/sl/west-lebanon-main-st/3401"
             }
         },
         {
@@ -47941,7 +48118,132 @@
                 "ref": "https://www.target.com/sl/chicago-river-north/3402",
                 "website": "https://www.target.com/sl/chicago-river-north/3402"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.904373,
+                    39.717432
+                ]
+            },
+            "properties": {
+                "addr:city": "Denver",
+                "addr:country": "US",
+                "addr:housenumber": "93",
+                "addr:postcode": "80230",
+                "addr:state": "CO",
+                "addr:street": "North Quebec Street",
+                "brand": "Target",
+                "brand:wikidata": "Q1046951",
+                "name": "Target Store - denver-lowry",
+                "opening_hours": "Mo-Sa 08:00-22:00; Su 08:00-21:00",
+                "phone": "+1-303-218-5430",
+                "ref": "https://www.target.com/sl/denver-lowry/3403",
+                "website": "https://www.target.com/sl/denver-lowry/3403"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.39611,
+                    43.07494
+                ]
+            },
+            "properties": {
+                "addr:city": "Madison",
+                "addr:country": "US",
+                "addr:housenumber": "610",
+                "addr:postcode": "53703-1016",
+                "addr:state": "WI",
+                "addr:street": "State Street",
+                "brand": "Target",
+                "brand:wikidata": "Q1046951",
+                "name": "Target Store - madison-state-street",
+                "opening_hours": "Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00",
+                "phone": "+1-608-722-4849",
+                "ref": "https://www.target.com/sl/madison-state-street/3405",
+                "website": "https://www.target.com/sl/madison-state-street/3405"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.031286,
+                    46.734048
+                ]
+            },
+            "properties": {
+                "addr:city": "Moscow",
+                "addr:country": "US",
+                "addr:housenumber": "2132",
+                "addr:postcode": "83843-4011",
+                "addr:state": "ID",
+                "addr:street": "West Pullman Road",
+                "brand": "Target",
+                "brand:wikidata": "Q1046951",
+                "name": "Target Store - moscow-west-pullman-road",
+                "opening_hours": "Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00",
+                "phone": "+1-208-997-3293",
+                "ref": "https://www.target.com/sl/moscow-west-pullman-road/3407",
+                "website": "https://www.target.com/sl/moscow-west-pullman-road/3407"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.740708,
+                    42.279427
+                ]
+            },
+            "properties": {
+                "addr:city": "Ann Arbor",
+                "addr:country": "US",
+                "addr:housenumber": "231",
+                "addr:postcode": "48104-2005",
+                "addr:state": "MI",
+                "addr:street": "South State Street",
+                "brand": "Target",
+                "brand:wikidata": "Q1046951",
+                "name": "Target Store - ann-arbor-state-street",
+                "opening_hours": "Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00",
+                "phone": "+1-734-205-1869",
+                "ref": "https://www.target.com/sl/ann-arbor-state-street/3415",
+                "website": "https://www.target.com/sl/ann-arbor-state-street/3415"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.076255,
+                    40.582317
+                ]
+            },
+            "properties": {
+                "addr:city": "Fort Collins",
+                "addr:country": "US",
+                "addr:housenumber": "460",
+                "addr:postcode": "80524-2992",
+                "addr:state": "CO",
+                "addr:street": "South College Avenue",
+                "brand": "Target",
+                "brand:wikidata": "Q1046951",
+                "name": "Target Store - fort-collins-old-town",
+                "opening_hours": "Mo-Su 08:00-22:00",
+                "phone": "+1-970-797-3960",
+                "ref": "https://www.target.com/sl/fort-collins-old-town/3416",
+                "website": "https://www.target.com/sl/fort-collins-old-town/3416"
+            }
         }
     ],
-    "updated_at": 1630183069513
+    "updated_at": 1636336926151
 }

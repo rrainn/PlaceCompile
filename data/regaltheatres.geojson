@@ -2497,7 +2497,7 @@
                 "addr:street": "Sunset Drive",
                 "brand": "Regal Theatres",
                 "brand:wikidata": "Q835638",
-                "name": "Regal Dania Point 4DX, RPX & VIP",
+                "name": "Regal Dania Pointe 4DX, RPX & VIP",
                 "ref": "1474",
                 "website": "https://www.regmovies.com/theatres/regal-dania-point-4dx-rpx-vip"
             }
@@ -6091,29 +6091,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -99.448,
-                    27.561
-                ]
-            },
-            "properties": {
-                "addr:city": "Laredo",
-                "addr:country": "US",
-                "addr:housenumber": "2401",
-                "addr:postcode": "78041",
-                "addr:state": "TX",
-                "addr:street": "Jacaman Road",
-                "brand": "Regal Theatres",
-                "brand:wikidata": "Q835638",
-                "name": "Regal Laredo & RPX",
-                "ref": "1637",
-                "website": "https://www.regmovies.com/theatres/regal-laredo-rpx"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -82.7845,
                     27.8946
                 ]
@@ -6989,29 +6966,6 @@
                 "name": "Regal Mission Marketplace & RPX",
                 "ref": "1470",
                 "website": "https://www.regmovies.com/theatres/regal-mission-marketplace-rpx"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -88.1116,
-                    30.6527
-                ]
-            },
-            "properties": {
-                "addr:city": "Mobile",
-                "addr:country": "US",
-                "addr:housenumber": "1250",
-                "addr:postcode": "36606",
-                "addr:state": "AL",
-                "addr:street": "Satchell Paige Drive",
-                "brand": "Regal Theatres",
-                "brand:wikidata": "Q835638",
-                "name": "Regal Mobile",
-                "ref": "1605",
-                "website": "https://www.regmovies.com/theatres/regal-mobile"
             }
         },
         {
@@ -8473,29 +8427,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -85.7567,
-                    38.3132
-                ]
-            },
-            "properties": {
-                "addr:city": "Clarksville",
-                "addr:country": "US",
-                "addr:housenumber": "951",
-                "addr:postcode": "47129",
-                "addr:state": "IN",
-                "addr:street": "East Lewis & Clark Parkway",
-                "brand": "Regal Theatres",
-                "brand:wikidata": "Q835638",
-                "name": "Regal River Falls",
-                "ref": "1537",
-                "website": "https://www.regmovies.com/theatres/regal-river-falls"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -105.0084,
                     39.6529
                 ]
@@ -9836,29 +9767,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.2166,
-                    41.7519
-                ]
-            },
-            "properties": {
-                "addr:city": "Swansea",
-                "addr:country": "US",
-                "addr:housenumber": "207",
-                "addr:postcode": "02777",
-                "addr:state": "MA",
-                "addr:street": "Swansea Mall Drive",
-                "brand": "Regal Theatres",
-                "brand:wikidata": "Q835638",
-                "name": "Regal Swansea",
-                "ref": "0685",
-                "website": "https://www.regmovies.com/theatres/regal-swansea"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -102.1516,
                     32.0232
                 ]
@@ -10623,29 +10531,6 @@
                 "name": "Regal UA Denver Pavilions 4DX & RPX",
                 "ref": "1315",
                 "website": "https://www.regmovies.com/theatres/regal-ua-denver-pavilions-rpx"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -105.1593,
-                    39.7349
-                ]
-            },
-            "properties": {
-                "addr:city": "Lakewood",
-                "addr:country": "US",
-                "addr:housenumber": "14225",
-                "addr:postcode": "80401",
-                "addr:state": "CO",
-                "addr:street": "West Colfax Avenue",
-                "brand": "Regal Theatres",
-                "brand:wikidata": "Q835638",
-                "name": "Regal UA Denver West Village",
-                "ref": "1287",
-                "website": "https://www.regmovies.com/theatres/regal-ua-denver-west-village"
             }
         },
         {
@@ -11942,29 +11827,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -81.9975,
-                    34.9505
-                ]
-            },
-            "properties": {
-                "addr:city": "Spartanburg",
-                "addr:country": "US",
-                "addr:housenumber": "205",
-                "addr:postcode": "29301",
-                "addr:state": "SC",
-                "addr:street": "Blackstock Road",
-                "brand": "Regal Theatres",
-                "brand:wikidata": "Q835638",
-                "name": "Regal Westgate Mall Cinema",
-                "ref": "0224",
-                "website": "https://www.regmovies.com/theatres/regal-westgate-mall-cinema"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -76.7763,
                     39.9718
                 ]
@@ -12287,5 +12149,5 @@
             }
         }
     ],
-    "updated_at": 1630168995316
+    "updated_at": 1636333437872
 }

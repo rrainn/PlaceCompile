@@ -69,7 +69,7 @@ module.exports = {
 				}
 			};
 
-			const phoneNumber = earthutils.TelephoneStandardize(pageData("div.nap-phone-wrapper a.c-phone-main-number-link").attr("href").replace("tel:", ""), {"country": storeObject.properties["addr:country"]});
+			const phoneNumber = pageData("div.nap-phone-wrapper a.c-phone-main-number-link").attr("href") && earthutils.TelephoneStandardize(pageData("div.nap-phone-wrapper a.c-phone-main-number-link").attr("href").replace("tel:", ""), {"country": storeObject.properties["addr:country"]});
 			if (phoneNumber) {
 				storeObject.properties.phone = phoneNumber;
 			}

@@ -32,13 +32,14 @@ module.exports = async (spider, options) => {
 		for (let i = 0; i < files.length; i++) {
 			const spider = files[i];
 			console.log(`[${Date.now()}] Running spider: ${spider}`);
+			let didError = false;
 			try {
 				await runSpider(spider.split("/").pop(), options);
 			} catch (error) {
-				console.error(error);
-				console.error(`[${Date.now()}] Error while running spider: ${spider}`);
+				didError = true;
+				console.error(`[${Date.now()}] Error while running spider: ${spider}\n`, error);
 			}
-			console.log(`[${Date.now()}] Finished running spider: ${spider}`);
+			console.log(`[${Date.now()}] Finished running spider${didError ? " (error)" : ""}: ${spider}`);
 		}
 	}
 };

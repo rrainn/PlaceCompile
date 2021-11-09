@@ -7,7 +7,8 @@ const escapedCharacters = {
 	"©": "%C2%A9",
 	"¨": "%C2%A8",
 	"ß": "%C3%9F",
-	"½": "%C2%BD"
+	"½": "%C2%BD",
+	"±": "%C2%B1",
 };
 
 module.exports = function (href, baseURLString) {

@@ -79,7 +79,7 @@ module.exports = {
 				const dayOfWeekAbbreviation = dayOfWeek.substr(0, 3);
 				const open = store.StoreHours[dayOfWeekAbbreviation + "Open"];
 				const close = store.StoreHours[dayOfWeekAbbreviation + "Close"];
-				if (!open || !close || open === "Closed" || close === "Closed") {
+				if (!open || !close || open.toLowerCase() === "closed" || close.toLowerCase() === "closed") {
 					return null;
 				} else {
 					return [dayOfWeek.toLowerCase(), `${timeTo24HourTime(open)}-${timeTo24HourTime(close)}`];

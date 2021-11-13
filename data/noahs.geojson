@@ -274,7 +274,7 @@
                 "brand": "Noah's NY Bagels",
                 "brand:wikidata": "Q64517373",
                 "name": "Noah's NY Bagels Fremont",
-                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
+                "opening_hours": "Mo-Su 06:00-13:00",
                 "phone": "+1-510-744-9142",
                 "ref": "3958-mowry-ave",
                 "website": "https://locations.noahs.com/us/ca/fremont/3958-mowry-ave"
@@ -1438,5 +1438,5 @@
             }
         }
     ],
-    "updated_at": 1636330625267
+    "updated_at": 1636790873769
 }

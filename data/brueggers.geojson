@@ -2778,7 +2778,7 @@
                 "brand": "Bruegger's Bagels",
                 "brand:wikidata": "Q4978656",
                 "name": "Bruegger's Bagels Eastgate",
-                "opening_hours": "Mo-Su 06:00-15:00",
+                "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-919-929-5524",
                 "ref": "1800-east-franklin-street",
                 "website": "https://locations.brueggers.com/us/nc/chapel-hill/1800-east-franklin-street"
@@ -3186,7 +3186,7 @@
                 "brand": "Bruegger's Bagels",
                 "brand:wikidata": "Q4978656",
                 "name": "Bruegger's Bagels Stonehenge",
-                "opening_hours": "Mo-Su 06:00-15:00",
+                "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-919-848-4902",
                 "ref": "7550-creedmoor-road",
                 "website": "https://locations.brueggers.com/us/nc/raleigh/7550-creedmoor-road"
@@ -4991,5 +4991,5 @@
             }
         }
     ],
-    "updated_at": 1636330307858
+    "updated_at": 1636790714654
 }

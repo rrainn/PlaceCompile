@@ -949,7 +949,8 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Colorado Springs",
-                "opening_hours": "Mo-Th 11:15-21:00; Fr-Sa 11:15-22:00; Su 11:15-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "phone": "+1-719-208-4550",
                 "ref": "co/colorado-springs/1358-interquest-parkway",
                 "website": "https://locations.noodles.com/co/colorado-springs/1358-interquest-parkway.html"
             }
@@ -2592,8 +2593,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -87.6350345,
-                    41.8816263
+                    -87.63511352761276,
+                    41.88137497585252
                 ]
             },
             "properties": {
@@ -5483,7 +5484,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Ann Arbor - State Street",
-                "opening_hours": "Mo-Su 11:00-20:00",
+                "opening_hours": "Mo-Sa 12:00-20:00; Su 14:00-20:00",
                 "phone": "+1-734-327-9041",
                 "ref": "mi/ann-arbor/320-south-state-street",
                 "website": "https://locations.noodles.com/mi/ann-arbor/320-south-state-street.html"
@@ -5533,7 +5534,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Bingham Farms",
-                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Fr 11:00-20:00; Sa 11:00-17:00",
                 "phone": "+1-248-630-1844",
                 "ref": "mi/bingham-farms/30130-telegraph-road",
                 "website": "https://locations.noodles.com/mi/bingham-farms/30130-telegraph-road.html"
@@ -5735,7 +5736,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Livonia",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 12:00-21:00",
                 "phone": "+1-734-525-2288",
                 "ref": "mi/livonia/29459-plymouth-rd",
                 "website": "https://locations.noodles.com/mi/livonia/29459-plymouth-rd.html"
@@ -5937,7 +5938,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Rochester Hills",
-                "opening_hours": "Mo-Su 11:00-20:00",
+                "opening_hours": "Mo-Su 11:00-21:00",
                 "phone": "+1-248-375-5000",
                 "ref": "mi/rochester-hills/184-n-adams-rd",
                 "website": "https://locations.noodles.com/mi/rochester-hills/184-n-adams-rd.html"
@@ -7941,7 +7942,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "South Creek",
-                "opening_hours": "Mo-Tu 15:00-21:00; Th-Su 15:00-21:00",
+                "opening_hours": "Mo-Su 15:00-21:00",
                 "phone": "+1-701-356-4003",
                 "ref": "nd/fargo/2603-kirsten-lane",
                 "website": "https://locations.noodles.com/nd/fargo/2603-kirsten-lane.html"
@@ -7966,7 +7967,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "45th St - Fargo",
-                "opening_hours": "Tu-Sa 15:00-19:00",
+                "opening_hours": "Mo-Su 15:00-19:00",
                 "phone": "+1-701-356-3004",
                 "ref": "nd/fargo/4501-15th-avenue-south",
                 "website": "https://locations.noodles.com/nd/fargo/4501-15th-avenue-south.html"
@@ -7991,7 +7992,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Plaza 32",
-                "opening_hours": "Mo-Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 11:00-20:00",
                 "phone": "+1-701-757-1720",
                 "ref": "nd/grand-forks/3000-32nd-ave",
                 "website": "https://locations.noodles.com/nd/grand-forks/3000-32nd-ave.html"
@@ -8866,7 +8867,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "57th & Louise",
-                "opening_hours": "Mo 11:00-17:00; Tu 11:00-19:00; We 11:00-17:00; Th-Sa 11:00-19:00",
+                "opening_hours": "Mo-Su 11:00-17:00",
                 "phone": "+1-605-610-1439",
                 "ref": "sd/sioux-falls/5005-s--louise-ave",
                 "website": "https://locations.noodles.com/sd/sioux-falls/5005-s--louise-ave.html"
@@ -9252,8 +9253,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -111.89125872683348,
-                    40.56371924526737
+                    -111.8912471,
+                    40.5637198
                 ]
             },
             "properties": {
@@ -11286,5 +11287,5 @@
             }
         }
     ],
-    "updated_at": 1636331419109
+    "updated_at": 1636791556238
 }

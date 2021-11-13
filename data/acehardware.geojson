@@ -1702,7 +1702,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Hayneville Ace Hardware",
-                "opening_hours": "Mo-Th 07:00-18:00; Fr-Sa 07:30-17:00",
+                "opening_hours": "Mo-Th 07:00-17:30; Fr-Sa 07:30-17:00",
                 "phone": "+1-334-548-5002",
                 "ref": "16756",
                 "website": "https://www.acehardware.com/store-details/16756"
@@ -2406,7 +2406,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "S & S Home Center",
-                "opening_hours": "Mo-Fr 07:00-17:30; Sa 08:00-13:00",
+                "opening_hours": "Mo-Fr 07:00-17:00; Sa 08:00-13:00",
                 "phone": "+1-870-234-6060",
                 "ref": "10241",
                 "website": "https://www.acehardware.com/store-details/10241"
@@ -4624,7 +4624,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Ace Hardware",
-                "opening_hours": "Mo-Sa 06:00-17:00; Su 07:30-15:30",
+                "opening_hours": "Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su 07:30-15:30",
                 "phone": "+1-520-625-4772",
                 "ref": "14576",
                 "website": "https://www.acehardware.com/store-details/14576"
@@ -7578,6 +7578,31 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -116.054965,
+                    34.159978
+                ]
+            },
+            "properties": {
+                "addr:city": "Twentynine Palms",
+                "addr:country": "US",
+                "addr:housenumber": "5152",
+                "addr:postcode": "92277-1804",
+                "addr:state": "CA",
+                "addr:street": "Adobe Road",
+                "brand": "Ace Hardware",
+                "brand:wikidata": "Q4672981",
+                "name": "Desert Hardware",
+                "opening_hours": "Mo-Fr 07:00-17:30; Sa 08:00-16:00; Su 09:00-14:00",
+                "phone": "+1-760-367-9125",
+                "ref": "03968",
+                "website": "https://www.acehardware.com/store-details/03968"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -122.483499,
                     38.316244
                 ]
@@ -7617,7 +7642,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Frazier Park Lumber & Hardware",
-                "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 08:00-16:00",
+                "opening_hours": "Mo-Fr 07:00-17:00; Sa 08:00-17:00; Su 08:00-16:00",
                 "phone": "+1-661-245-3301",
                 "ref": "04152",
                 "website": "https://www.acehardware.com/store-details/04152"
@@ -7694,7 +7719,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "L B Johnson Hardware Commerce",
-                "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 10:00-15:00",
+                "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:00-18:00; Su 10:00-15:00",
                 "phone": "+1-323-728-1399",
                 "ref": "04320",
                 "website": "https://www.acehardware.com/store-details/04320"
@@ -10324,7 +10349,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Cannings Ace Hardware",
-                "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 09:00-18:00",
+                "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-19:00; Su 09:00-18:00",
                 "phone": "+1-562-697-8118",
                 "ref": "11140",
                 "website": "https://www.acehardware.com/store-details/11140"
@@ -10649,7 +10674,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Ace Hardware Prunedale",
-                "opening_hours": "Mo-Sa 07:30-19:00; Su 08:00-17:30",
+                "opening_hours": "Mo-Sa 07:30-18:30; Su 08:00-17:30",
                 "phone": "+1-831-663-2610",
                 "ref": "11670",
                 "website": "https://www.acehardware.com/store-details/11670"
@@ -11778,7 +11803,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Ace Hardware",
-                "opening_hours": "Mo-Sa 07:00-19:00; Su 08:00-18:00",
+                "opening_hours": "Mo-Sa 07:00-19:00; Su 08:00-17:00",
                 "phone": "+1-619-445-8100",
                 "ref": "15065",
                 "website": "https://www.acehardware.com/store-details/15065"
@@ -13788,7 +13813,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Floyd's General Store",
-                "opening_hours": "Mo 07:30-19:00; Tu-Fr 07:30-18:00; Sa 08:00-18:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-18:00; Su 09:00-17:00",
                 "phone": "+1-661-327-5105",
                 "ref": "17079",
                 "website": "https://www.acehardware.com/store-details/17079"
@@ -13813,7 +13838,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Floyd's General Store",
-                "opening_hours": "Mo 07:30-19:00; Tu-Fr 07:30-18:00; Sa 08:00-18:00; Su 09:00-18:00",
+                "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-18:00; Su 09:00-18:00",
                 "phone": "+1-661-833-5450",
                 "ref": "17081",
                 "website": "https://www.acehardware.com/store-details/17081"
@@ -14846,7 +14871,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Ace City Hardware",
-                "opening_hours": "Mo-Sa 07:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-18:00; Su 09:00-17:00",
                 "phone": "+1-760-373-1116",
                 "ref": "17551",
                 "website": "https://www.acehardware.com/store-details/17551"
@@ -15475,7 +15500,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Poulsen Ace Hardware Inc",
-                "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Fr 07:00-18:30; Sa 08:00-18:00; Su 09:00-17:00",
                 "phone": "+1-970-454-2542",
                 "ref": "05326",
                 "website": "https://www.acehardware.com/store-details/05326"
@@ -15673,8 +15698,8 @@
                 "addr:housenumber": "74",
                 "addr:postcode": "80466",
                 "addr:state": "CO",
-                "addr:street": "Hwy 119 South",
-                "addr:unit": "1550",
+                "addr:street": "Hwy 119 S",
+                "addr:unit": "1450",
                 "addr:unitname": "",
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
@@ -16155,7 +16180,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Edgewater Ace Hardware",
-                "opening_hours": "Mo-Sa 08:00-20:00; Su 08:00-18:00",
+                "opening_hours": "Mo-Fr 08:00-20:00; Sa-Su 08:00-18:00",
                 "phone": "+1-303-233-4810",
                 "ref": "11439",
                 "website": "https://www.acehardware.com/store-details/11439"
@@ -16480,7 +16505,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Windsor Ace Hardware",
-                "opening_hours": "Mo-Sa 07:00-20:00; Su 08:00-18:00",
+                "opening_hours": "Mo-Fr 07:00-20:00; Sa 07:00-18:00; Su 08:00-18:00",
                 "phone": "+1-970-686-1470",
                 "ref": "14194",
                 "website": "https://www.acehardware.com/store-details/14194"
@@ -16763,7 +16788,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Ace Hdwe Highlands Ranch",
-                "opening_hours": "Mo-Sa 07:00-20:00; Su 08:00-18:00",
+                "opening_hours": "Mo-Fr 07:00-20:00; Sa 07:00-19:00; Su 08:00-18:00",
                 "phone": "+1-303-683-6300",
                 "ref": "14920",
                 "website": "https://www.acehardware.com/store-details/14920"
@@ -17821,7 +17846,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Ace Hardware of Buckley Square",
-                "opening_hours": "Mo-Sa 08:00-20:00; Su 09:00-18:00",
+                "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-18:00",
                 "phone": "+1-303-745-7177",
                 "ref": "17489",
                 "website": "https://www.acehardware.com/store-details/17489"
@@ -18273,7 +18298,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-19:00; Su 09:00-17:00",
                 "phone": "+1-860-871-5495",
                 "ref": "14472",
                 "website": "https://www.acehardware.com/store-details/14472"
@@ -18298,7 +18323,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Windsor Ace Hardware",
-                "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su 09:00-14:00",
+                "opening_hours": "Mo-Fr 08:00-17:30; Sa 08:00-16:00; Su 09:00-14:00",
                 "phone": "+1-860-688-8373",
                 "ref": "14625",
                 "website": "https://www.acehardware.com/store-details/14625"
@@ -20050,7 +20075,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Hagan Ace Hardware",
-                "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-18:00; Su 09:00-17:00",
                 "phone": "+1-904-272-1414",
                 "ref": "04878",
                 "website": "https://www.acehardware.com/store-details/04878"
@@ -20302,7 +20327,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Ace Home Helpers",
-                "opening_hours": "Mo-Sa 07:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 07:00-18:00; Su 09:00-17:00",
                 "phone": "+1-850-234-0314",
                 "ref": "05547",
                 "website": "https://www.acehardware.com/store-details/05547"
@@ -21756,7 +21781,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Turner Ace Hardware",
-                "opening_hours": "Mo-Sa 08:00-18:30; Su 09:00-18:30",
+                "opening_hours": "Mo-Sa 08:00-17:30; Su 09:00-17:30",
                 "phone": "+1-904-743-8888",
                 "ref": "11356",
                 "website": "https://www.acehardware.com/store-details/11356"
@@ -22106,7 +22131,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Consolidated Ace Hardware",
-                "opening_hours": "Mo-Sa 07:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 07:00-18:00; Su 09:00-17:00",
                 "phone": "+1-850-892-2033",
                 "ref": "11879",
                 "website": "https://www.acehardware.com/store-details/11879"
@@ -22435,7 +22460,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-We 08:00-19:00; Th 08:00-20:00; Fr-Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-18:00; Su 09:00-17:00",
                 "phone": "+1-772-283-2470",
                 "ref": "14296",
                 "website": "https://www.acehardware.com/store-details/14296"
@@ -22460,7 +22485,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Ace Home & Garden Ctr",
-                "opening_hours": "Mo-Sa 07:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 07:00-18:00; Su 09:00-17:00",
                 "phone": "+1-850-522-0314",
                 "ref": "14304",
                 "website": "https://www.acehardware.com/store-details/14304"
@@ -22610,7 +22635,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-19:00; Su 09:00-17:00",
                 "phone": "+1-561-746-3118",
                 "ref": "14408",
                 "website": "https://www.acehardware.com/store-details/14408"
@@ -22760,7 +22785,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-We 08:00-19:00; Th 08:00-20:00; Fr-Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-19:00; Su 09:00-17:00",
                 "phone": "+1-772-343-0999",
                 "ref": "14530",
                 "website": "https://www.acehardware.com/store-details/14530"
@@ -22810,7 +22835,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-19:00; Su 09:00-17:00",
                 "phone": "+1-561-753-9998",
                 "ref": "14706",
                 "website": "https://www.acehardware.com/store-details/14706"
@@ -23575,6 +23600,31 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -82.400781,
+                    28.555939
+                ]
+            },
+            "properties": {
+                "addr:city": "Brooksville",
+                "addr:country": "US",
+                "addr:housenumber": "800",
+                "addr:postcode": "34601-2532",
+                "addr:state": "FL",
+                "addr:street": "West Jefferson Street",
+                "brand": "Ace Hardware",
+                "brand:wikidata": "Q4672981",
+                "name": "Pickett's Ace Hdwe",
+                "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 10:00-17:00",
+                "phone": "+1-352-796-9479",
+                "ref": "15750",
+                "website": "https://www.acehardware.com/store-details/15750"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -82.799149,
                     29.613652
                 ]
@@ -24274,7 +24324,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Lynn Haven Ace Hardware",
-                "opening_hours": "Mo-Sa 07:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 07:00-18:00; Su 09:00-17:00",
                 "phone": "+1-850-571-3415",
                 "ref": "16416",
                 "website": "https://www.acehardware.com/store-details/16416"
@@ -24526,7 +24576,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Tavernier Ace Hardware",
-                "opening_hours": "Mo-Sa 08:00-17:30; Su 08:00-14:00",
+                "opening_hours": "Mo-Sa 08:00-17:30; Su 08:00-15:00",
                 "phone": "+1-305-852-2511",
                 "ref": "16596",
                 "website": "https://www.acehardware.com/store-details/16596"
@@ -24830,7 +24880,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Elistway Ace Hardware",
-                "opening_hours": "Mo-Sa 08:00-17:30; Su 10:00-15:00",
+                "opening_hours": "Mo-Sa 08:30-17:15; Su 10:00-15:00",
                 "phone": "+1-904-813-7622",
                 "ref": "16808",
                 "website": "https://www.acehardware.com/store-details/16808"
@@ -24955,7 +25005,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Palmetto Hardware and More",
-                "opening_hours": "Mo-Th 07:00-18:30; Fr 07:00-19:00; Sa 07:00-18:30; Su 09:00-15:00",
+                "opening_hours": "Mo-Sa 07:00-18:30; Su 09:00-15:00",
                 "phone": "+1-941-212-6004",
                 "ref": "16914",
                 "website": "https://www.acehardware.com/store-details/16914"
@@ -26111,7 +26161,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Cowan Hardware Company",
-                "opening_hours": "Mo-Sa 07:30-18:30; Su 10:00-18:00",
+                "opening_hours": "Mo-Sa 07:30-18:30; Su 10:00-17:00",
                 "phone": "+1-770-483-8818",
                 "ref": "02717",
                 "website": "https://www.acehardware.com/store-details/02717"
@@ -26611,7 +26661,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Cowan Hardware Company",
-                "opening_hours": "Mo-Sa 08:00-18:30; Su 10:00-18:00",
+                "opening_hours": "Mo-Sa 08:00-18:30; Su 10:00-17:00",
                 "phone": "+1-770-760-0410",
                 "ref": "06232",
                 "website": "https://www.acehardware.com/store-details/06232"
@@ -27962,7 +28012,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Southern Home & Garden Ace Hardware",
-                "opening_hours": "Mo-Sa 09:00-18:00; Su 12:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-18:00",
                 "phone": "+1-770-832-0114",
                 "ref": "15265",
                 "website": "https://www.acehardware.com/store-details/15265"
@@ -31898,7 +31948,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Kellogg Ace Hardware",
-                "opening_hours": "Mo-Fr 08:00-17:30; Sa 09:00-17:00",
+                "opening_hours": "Mo-Fr 08:00-17:30; Sa-Su 08:00-16:00",
                 "phone": "+1-208-784-5001",
                 "ref": "14597",
                 "website": "https://www.acehardware.com/store-details/14597"
@@ -39413,31 +39463,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -86.0515,
-                    40.2844
-                ]
-            },
-            "properties": {
-                "addr:city": "Tipton",
-                "addr:country": "US",
-                "addr:housenumber": "844",
-                "addr:postcode": "46072-8750",
-                "addr:state": "IN",
-                "addr:street": "East Jefferson Street",
-                "brand": "Ace Hardware",
-                "brand:wikidata": "Q4672981",
-                "name": "Tipton Ace Hardware",
-                "opening_hours": "Mo-Sa 08:00-20:00; Su 09:00-18:00",
-                "phone": "+1-765-675-6740",
-                "ref": "17784",
-                "website": "https://www.acehardware.com/store-details/17784"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -98.739522,
                     37.646204
                 ]
@@ -39677,7 +39702,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Midwest Ace Hardware",
-                "opening_hours": "Mo-Fr 07:30-19:00; Sa 08:00-18:00; Su 10:00-17:00",
+                "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-18:00; Su 10:00-17:00",
                 "phone": "+1-785-776-9454",
                 "ref": "04155",
                 "website": "https://www.acehardware.com/store-details/04155"
@@ -41306,7 +41331,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Ace Hardware",
-                "opening_hours": "Mo-Th 08:00-20:00; Fr 08:00-18:00; Sa-Su 08:00-17:00",
+                "opening_hours": "Mo-Th 08:00-19:00; Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-17:00",
                 "phone": "+1-502-839-8880",
                 "ref": "14882",
                 "website": "https://www.acehardware.com/store-details/14882"
@@ -41756,7 +41781,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Bath County Ace Hardware",
-                "opening_hours": "Mo-Sa 08:00-19:00; Su 10:00-18:00",
+                "opening_hours": "Mo-Sa 08:00-18:00; Su 10:00-17:00",
                 "phone": "+1-606-674-2022",
                 "ref": "16562",
                 "website": "https://www.acehardware.com/store-details/16562"
@@ -43185,7 +43210,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Sterlington Ace Hardware",
-                "opening_hours": "Mo-Sa 07:00-19:00; Su 12:00-17:00",
+                "opening_hours": "Mo-Sa 07:00-18:00; Su 12:00-17:00",
                 "phone": "+1-318-665-0001",
                 "ref": "15616",
                 "website": "https://www.acehardware.com/store-details/15616"
@@ -43509,7 +43534,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-19:00; Su 09:00-17:00",
                 "phone": "+1-508-376-9524",
                 "ref": "03384",
                 "website": "https://www.acehardware.com/store-details/03384"
@@ -43534,7 +43559,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-19:00; Su 09:00-17:00",
                 "phone": "+1-978-794-8571",
                 "ref": "03578",
                 "website": "https://www.acehardware.com/store-details/03578"
@@ -43659,7 +43684,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-19:00; Su 09:00-17:00",
                 "phone": "+1-413-781-0350",
                 "ref": "05410",
                 "website": "https://www.acehardware.com/store-details/05410"
@@ -43684,7 +43709,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-19:00; Su 09:00-17:00",
                 "phone": "+1-413-525-4224",
                 "ref": "05412",
                 "website": "https://www.acehardware.com/store-details/05412"
@@ -43709,7 +43734,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 07:00-19:00; Su 09:00-17:00",
                 "phone": "+1-413-786-6776",
                 "ref": "05414",
                 "website": "https://www.acehardware.com/store-details/05414"
@@ -43734,7 +43759,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-19:00; Su 09:00-17:00",
                 "phone": "+1-413-538-8327",
                 "ref": "05416",
                 "website": "https://www.acehardware.com/store-details/05416"
@@ -43809,7 +43834,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-19:00; Su 09:00-17:00",
                 "phone": "+1-413-589-0991",
                 "ref": "06184",
                 "website": "https://www.acehardware.com/store-details/06184"
@@ -43834,7 +43859,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 07:00-19:00; Su 09:00-17:00",
                 "phone": "+1-413-568-9251",
                 "ref": "06432",
                 "website": "https://www.acehardware.com/store-details/06432"
@@ -44109,7 +44134,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 07:00-19:00; Su 09:00-17:00",
                 "phone": "+1-413-781-0578",
                 "ref": "08654",
                 "website": "https://www.acehardware.com/store-details/08654"
@@ -44334,7 +44359,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-19:00; Su 09:00-17:00",
                 "phone": "+1-508-883-2068",
                 "ref": "09794",
                 "website": "https://www.acehardware.com/store-details/09794"
@@ -44359,7 +44384,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-18:00; Su 09:00-17:00",
                 "phone": "+1-781-961-9117",
                 "ref": "09836",
                 "website": "https://www.acehardware.com/store-details/09836"
@@ -44384,7 +44409,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-19:00; Su 09:00-17:00",
                 "phone": "+1-978-369-5181",
                 "ref": "10090",
                 "website": "https://www.acehardware.com/store-details/10090"
@@ -44459,7 +44484,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-We 08:00-19:00; Th 08:00-20:00; Fr-Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-19:00; Su 09:00-17:00",
                 "phone": "+1-781-293-0560",
                 "ref": "10720",
                 "website": "https://www.acehardware.com/store-details/10720"
@@ -44484,7 +44509,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-19:00; Su 09:00-17:00",
                 "phone": "+1-508-393-5428",
                 "ref": "10748",
                 "website": "https://www.acehardware.com/store-details/10748"
@@ -44509,7 +44534,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-19:00; Su 09:00-17:00",
                 "phone": "+1-781-821-3012",
                 "ref": "10788",
                 "website": "https://www.acehardware.com/store-details/10788"
@@ -44534,7 +44559,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-19:00; Su 09:00-17:00",
                 "phone": "+1-508-673-9433",
                 "ref": "11110",
                 "website": "https://www.acehardware.com/store-details/11110"
@@ -44609,7 +44634,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-19:00; Su 09:00-17:00",
                 "phone": "+1-508-660-1695",
                 "ref": "11460",
                 "website": "https://www.acehardware.com/store-details/11460"
@@ -44634,7 +44659,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-We 08:00-19:00; Th 08:00-20:00; Fr-Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-18:00; Su 09:00-17:00",
                 "phone": "+1-978-343-4700",
                 "ref": "11708",
                 "website": "https://www.acehardware.com/store-details/11708"
@@ -44784,7 +44809,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-19:00; Su 09:00-17:00",
                 "phone": "+1-413-283-2840",
                 "ref": "14470",
                 "website": "https://www.acehardware.com/store-details/14470"
@@ -44959,7 +44984,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-We 08:00-19:00; Th 08:00-20:00; Fr-Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-19:00; Su 09:00-17:00",
                 "phone": "+1-508-210-0647",
                 "ref": "15150",
                 "website": "https://www.acehardware.com/store-details/15150"
@@ -44984,7 +45009,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-We 08:00-19:00; Th 08:00-20:00; Fr-Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-19:00; Su 09:00-17:00",
                 "phone": "+1-774-202-3384",
                 "ref": "15152",
                 "website": "https://www.acehardware.com/store-details/15152"
@@ -45184,7 +45209,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-18:00; Su 09:00-17:00",
                 "phone": "+1-978-624-7694",
                 "ref": "16178",
                 "website": "https://www.acehardware.com/store-details/16178"
@@ -45561,7 +45586,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-18:00; Su 09:00-17:00",
                 "phone": "+1-508-639-5932",
                 "ref": "17320",
                 "website": "https://www.acehardware.com/store-details/17320"
@@ -45661,7 +45686,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-19:00; Su 09:00-17:00",
                 "phone": "+1-774-420-2688",
                 "ref": "17520",
                 "website": "https://www.acehardware.com/store-details/17520"
@@ -45936,7 +45961,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Odenton Hardware Inc",
-                "opening_hours": "Mo-Sa 07:30-20:00; Su 09:00-18:00",
+                "opening_hours": "Mo-Sa 08:00-18:00; Su 09:00-17:00",
                 "phone": "+1-410-674-5222",
                 "ref": "07137",
                 "website": "https://www.acehardware.com/store-details/07137"
@@ -47492,7 +47517,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-We 07:00-19:00; Th 07:00-20:00; Fr-Sa 07:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-17:00",
                 "phone": "+1-207-443-6089",
                 "ref": "16450",
                 "website": "https://www.acehardware.com/store-details/16450"
@@ -53193,7 +53218,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Crosslake Ace Hardware",
-                "opening_hours": "Mo-Sa 08:00-18:00; Su 09:00-16:00",
+                "opening_hours": "Mo-Sa 08:00-17:30; Su 09:00-16:00",
                 "phone": "+1-218-692-1230",
                 "ref": "15216",
                 "website": "https://www.acehardware.com/store-details/15216"
@@ -54142,7 +54167,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Crosby Ace Hardware",
-                "opening_hours": "Mo-Su 09:00-17:00",
+                "opening_hours": "Mo-Fr 07:00-18:00; Sa-Su 09:00-17:00",
                 "phone": "+1-218-866-0033",
                 "ref": "17089",
                 "website": "https://www.acehardware.com/store-details/17089"
@@ -61212,7 +61237,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Grand Island Ace Hdwe & Garden Ctr",
-                "opening_hours": "Mo-Tu 07:30-18:00; We 07:30-17:45; Th-Sa 07:30-18:00; Su 09:00-18:00",
+                "opening_hours": "Mo-Sa 07:30-18:00; Su 09:00-18:00",
                 "phone": "+1-308-382-1874",
                 "ref": "00339",
                 "website": "https://www.acehardware.com/store-details/00339"
@@ -62389,7 +62414,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-We 08:00-19:00; Th 08:00-20:00; Fr-Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-18:00; Su 09:00-17:00",
                 "phone": "+1-603-742-0225",
                 "ref": "03290",
                 "website": "https://www.acehardware.com/store-details/03290"
@@ -62589,7 +62614,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-18:00; Su 09:00-17:00",
                 "phone": "+1-603-229-1380",
                 "ref": "10240",
                 "website": "https://www.acehardware.com/store-details/10240"
@@ -63088,7 +63113,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Anco Home Center",
-                "opening_hours": "Mo-Sa 08:00-18:00; Su 08:00-17:00",
+                "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-18:00; Su 08:00-17:00",
                 "phone": "+1-609-886-2701",
                 "ref": "04762",
                 "website": "https://www.acehardware.com/store-details/04762"
@@ -64063,7 +64088,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-We 08:00-19:00; Th 08:00-20:00; Fr-Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-19:00; Su 09:00-17:00",
                 "phone": "+1-908-689-1353",
                 "ref": "17653",
                 "website": "https://www.acehardware.com/store-details/17653"
@@ -73549,7 +73574,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "D & J Ace Hardware",
-                "opening_hours": "Mo-Sa 08:00-19:00; Su 13:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-18:00; Su 13:00-17:00",
                 "phone": "+1-580-657-3264",
                 "ref": "16337",
                 "website": "https://www.acehardware.com/store-details/16337"
@@ -73949,7 +73974,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Fields Home Center",
-                "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 09:00-16:00",
+                "opening_hours": "Mo-Fr 07:00-17:30; Sa 08:00-17:00; Su 09:00-16:00",
                 "phone": "+1-541-862-2111",
                 "ref": "07367",
                 "website": "https://www.acehardware.com/store-details/07367"
@@ -78512,7 +78537,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-We 08:00-19:00; Th 07:00-20:00; Fr-Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-19:00; Su 09:00-17:00",
                 "phone": "+1-610-515-9800",
                 "ref": "17416",
                 "website": "https://www.acehardware.com/store-details/17416"
@@ -79089,7 +79114,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Rocky's Ace Hardware",
-                "opening_hours": "Mo-We 08:00-19:00; Th 08:00-20:00; Fr-Sa 08:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 08:00-19:00; Su 09:00-17:00",
                 "phone": "+1-401-949-1150",
                 "ref": "16248",
                 "website": "https://www.acehardware.com/store-details/16248"
@@ -80392,31 +80417,6 @@
                 "phone": "+1-864-889-9000",
                 "ref": "15636",
                 "website": "https://www.acehardware.com/store-details/15636"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.253518,
-                    34.713728
-                ]
-            },
-            "properties": {
-                "addr:city": "Simpsonville",
-                "addr:country": "US",
-                "addr:housenumber": "30",
-                "addr:postcode": "29680-7505",
-                "addr:state": "SC",
-                "addr:street": "Ray E Talley Court",
-                "brand": "Ace Hardware",
-                "brand:wikidata": "Q4672981",
-                "name": "Simpsonville Ace Hardware",
-                "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 13:00-17:00",
-                "phone": "+1-864-757-8312",
-                "ref": "15753",
-                "website": "https://www.acehardware.com/store-details/15753"
             }
         },
         {
@@ -82515,7 +82515,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Ace Hardware",
-                "opening_hours": "Mo-Sa 07:00-19:00; Su 10:00-17:00",
+                "opening_hours": "Mo-Sa 07:00-18:00; Su 10:00-17:00",
                 "phone": "+1-731-847-4030",
                 "ref": "05696",
                 "website": "https://www.acehardware.com/store-details/05696"
@@ -82992,7 +82992,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Hart Ace Hardware",
-                "opening_hours": "Mo-Fr 07:30-19:00; Sa 08:00-18:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-17:00; Su 11:00-17:00",
                 "phone": "+1-615-662-6767",
                 "ref": "11079",
                 "website": "https://www.acehardware.com/store-details/11079"
@@ -83142,7 +83142,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Hart Ace Hardware",
-                "opening_hours": "Mo-Fr 07:30-19:00; Sa 08:00-18:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-17:00; Su 11:00-17:00",
                 "phone": "+1-615-352-5252",
                 "ref": "12109",
                 "website": "https://www.acehardware.com/store-details/12109"
@@ -88894,7 +88894,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Yoakum Ace Hardware",
-                "opening_hours": "Mo-Sa 08:00-19:00; Su 09:00-18:00",
+                "opening_hours": "Mo-Sa 07:30-18:30; Su 09:00-18:00",
                 "phone": "+1-361-427-4040",
                 "ref": "17100",
                 "website": "https://www.acehardware.com/store-details/17100"
@@ -88969,7 +88969,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Ace Hardware of Burkburnett",
-                "opening_hours": "Mo-Sa 08:00-18:00",
+                "opening_hours": "Mo-Sa 08:00-19:00",
                 "phone": "+1-940-434-2216",
                 "ref": "17337",
                 "website": "https://www.acehardware.com/store-details/17337"
@@ -89473,7 +89473,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Ace Hardware of Iowa Park",
-                "opening_hours": "Mo-Sa 08:00-18:00",
+                "opening_hours": "Mo-Sa 08:00-19:00",
                 "phone": "+1-940-592-4681",
                 "ref": "17769",
                 "website": "https://www.acehardware.com/store-details/17769"
@@ -90425,7 +90425,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Ace Hardware Spanish Fork",
-                "opening_hours": "Mo-Tu 08:00-21:00; We 07:45-21:00; Th-Sa 08:00-21:00; Su 09:00-18:00",
+                "opening_hours": "Mo-Sa 08:00-20:00; Su 09:00-18:00",
                 "phone": "+1-385-200-5940",
                 "ref": "16589",
                 "website": "https://www.acehardware.com/store-details/16589"
@@ -94996,7 +94996,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "Hero Ace Hardware",
-                "opening_hours": "Mo-Fr 08:00-18:00; Sa 10:00-17:00; Su 10:00-15:00",
+                "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su 10:00-17:00",
                 "phone": "+1-206-454-7999",
                 "ref": "15649",
                 "website": "https://www.acehardware.com/store-details/15649"
@@ -95952,7 +95952,7 @@
                 "brand": "Ace Hardware",
                 "brand:wikidata": "Q4672981",
                 "name": "DuPont Ace",
-                "opening_hours": "Mo-We 09:00-20:00; Th 09:00-12:00; Fr-Sa 09:00-20:00; Su 10:00-18:00",
+                "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00",
                 "phone": "+1-253-244-7201",
                 "ref": "17361",
                 "website": "https://www.acehardware.com/store-details/17361"
@@ -100283,5 +100283,5 @@
             }
         }
     ],
-    "updated_at": 1636330224905
+    "updated_at": 1636790683427
 }

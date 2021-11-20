@@ -11920,7 +11920,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels W Exchange Street & Hawkins",
-                "opening_hours": "Mo-Su 06:00-14:00",
+                "opening_hours": "Mo-Su 06:00-13:00",
                 "phone": "+1-330-865-1515",
                 "ref": "1751-w-exchange-st",
                 "website": "https://locations.einsteinbros.com/us/oh/akron/1751-w-exchange-st"
@@ -15833,7 +15833,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -97.93862709999999,
+                    -97.9386271,
                     29.8885351
                 ]
             },
@@ -15847,7 +15847,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Texas State University",
-                "opening_hours": "Mo-Th 07:00-19:00; Fr 07:00-14:00",
+                "opening_hours": "Mo-Th 07:30-17:00; Fr 07:30-14:00",
                 "phone": "+1-512-245-9925",
                 "ref": "260-old-main-drive",
                 "website": "https://locations.einsteinbros.com/us/tx/san-marcos/260-old-main-drive"
@@ -16453,7 +16453,6 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels US Patent Trade Office",
-                "opening_hours": "Mo-Fr 07:00-16:00",
                 "phone": "+1-703-535-1584",
                 "ref": "401-dulany-st",
                 "website": "https://locations.einsteinbros.com/us/va/alexandria/401-dulany-st"
@@ -17724,5 +17723,5 @@
             }
         }
     ],
-    "updated_at": 1636790850185
+    "updated_at": 1637395711232
 }

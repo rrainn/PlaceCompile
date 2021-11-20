@@ -3920,7 +3920,7 @@
                 "brand": "Walmart",
                 "brand:wikidata": "Q483551",
                 "name": "Anadarko Supercenter",
-                "opening_hours": "Mo-Su 06:00-22:00",
+                "opening_hours": "Mo-Su 06:00-23:00",
                 "phone": "+1-405-247-2535",
                 "ref": "162",
                 "website": "http://www.walmart.com/store/162"
@@ -11847,7 +11847,7 @@
                 "brand": "Walmart",
                 "brand:wikidata": "Q483551",
                 "name": "Galliano Supercenter",
-                "opening_hours": "Mo-Su 07:00-21:00",
+                "opening_hours": "Mo-Su 06:00-23:00",
                 "phone": "+1-985-632-4040",
                 "ref": "502",
                 "website": "http://www.walmart.com/store/502"
@@ -47863,14 +47863,14 @@
             "properties": {
                 "addr:city": "Ceres",
                 "addr:country": "US",
-                "addr:housenumber": "1670",
+                "addr:housenumber": "3960",
                 "addr:postcode": "95307",
                 "addr:state": "CA",
                 "addr:street": "Mitchell Road",
                 "brand": "Walmart",
                 "brand:wikidata": "Q483551",
-                "name": "Ceres Store",
-                "opening_hours": "Mo-Su 07:00-23:00",
+                "name": "Ceres Supercenter",
+                "opening_hours": "Mo-Su 06:00-23:00",
                 "phone": "+1-209-541-0253",
                 "ref": "1983",
                 "website": "http://www.walmart.com/store/1983"
@@ -54298,7 +54298,7 @@
                 "brand": "Walmart",
                 "brand:wikidata": "Q483551",
                 "name": "West Boylston Store",
-                "opening_hours": "Mo-Su 08:00-22:00",
+                "opening_hours": "Mo-Sa 07:00-22:00; Su 08:00-22:00",
                 "phone": "+1-508-835-1101",
                 "ref": "2267",
                 "website": "http://www.walmart.com/store/2267"
@@ -61993,7 +61993,7 @@
                 "brand": "Walmart",
                 "brand:wikidata": "Q483551",
                 "name": "Saginaw Supercenter",
-                "opening_hours": "Mo-Su 06:00-23:00",
+                "opening_hours": "Mo-Th 06:00-23:00; Fr 06:00-14:00; Su 06:00-23:00",
                 "phone": "+1-989-497-8102",
                 "ref": "2644",
                 "website": "http://www.walmart.com/store/2644"
@@ -67794,7 +67794,7 @@
                 "brand": "Walmart",
                 "brand:wikidata": "Q483551",
                 "name": "Boutte Supercenter",
-                "opening_hours": "Mo-Su 10:00-16:00",
+                "opening_hours": "Mo-Su 07:00-23:00",
                 "phone": "+1-985-785-0855",
                 "ref": "2913",
                 "website": "http://www.walmart.com/store/2913"
@@ -78227,6 +78227,7 @@
                 "brand": "Walmart",
                 "brand:wikidata": "Q483551",
                 "name": "Houma Supercenter",
+                "opening_hours": "Mo-Su 07:00-23:00",
                 "phone": "+1-985-917-0151",
                 "ref": "3483",
                 "website": "http://www.walmart.com/store/3483"
@@ -78853,7 +78854,7 @@
                 "brand": "Walmart",
                 "brand:wikidata": "Q483551",
                 "name": "Hayden Supercenter",
-                "opening_hours": "Mo-Su 06:00-20:00",
+                "opening_hours": "Mo-Su 06:00-23:00",
                 "phone": "+1-208-209-4044",
                 "ref": "3511",
                 "website": "http://www.walmart.com/store/3511"
@@ -87326,7 +87327,6 @@
                 "brand": "Walmart",
                 "brand:wikidata": "Q483551",
                 "name": "Edgewood Supercenter",
-                "opening_hours": "Mo-Su 06:00-22:00",
                 "phone": "+1-505-286-3043",
                 "ref": "4201",
                 "website": "http://www.walmart.com/store/4201"
@@ -98534,7 +98534,7 @@
                 "brand": "Walmart",
                 "brand:wikidata": "Q483551",
                 "name": "Algood Supercenter",
-                "opening_hours": "Mo 07:00-23:00; Tu 06:00-23:00; We-Su 07:00-23:00",
+                "opening_hours": "Mo-Su 06:00-23:00",
                 "phone": "+1-931-537-3880",
                 "ref": "5175",
                 "website": "http://www.walmart.com/store/5175"
@@ -101213,7 +101213,7 @@
                 "brand": "Walmart",
                 "brand:wikidata": "Q483551",
                 "name": "Gardner Supercenter",
-                "opening_hours": "Mo 07:00-23:00; Tu 06:00-23:00; We-Su 07:00-23:00",
+                "opening_hours": "Mo-Su 06:00-23:00",
                 "phone": "+1-913-884-8004",
                 "ref": "5307",
                 "website": "http://www.walmart.com/store/5307"
@@ -105671,7 +105671,7 @@
                 "brand": "Walmart",
                 "brand:wikidata": "Q483551",
                 "name": "Brooklyn Center Supercenter",
-                "opening_hours": "Mo 07:00-23:00; Tu 06:00-23:00; We-Su 07:00-23:00",
+                "opening_hours": "Mo-Su 06:00-23:00",
                 "phone": "+1-763-354-1941",
                 "ref": "5625",
                 "website": "http://www.walmart.com/store/5625"
@@ -107402,6 +107402,31 @@
                 "phone": "+1-479-750-4683",
                 "ref": "5738",
                 "website": "http://www.walmart.com/store/5738"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.105083,
+                    30.669712
+                ]
+            },
+            "properties": {
+                "addr:city": "Mobile",
+                "addr:country": "US",
+                "addr:housenumber": "2570",
+                "addr:postcode": "36606",
+                "addr:state": "AL",
+                "addr:street": "Government Boulevard",
+                "brand": "Walmart",
+                "brand:wikidata": "Q483551",
+                "name": "Mobile Neighborhood Market",
+                "opening_hours": "Mo 06:00-23:00; Tu 07:00-23:00; We-Su 06:00-23:00",
+                "phone": "+1-251-586-6481",
+                "ref": "5740",
+                "website": "http://www.walmart.com/store/5740"
             }
         },
         {
@@ -109423,7 +109448,7 @@
                 "brand": "Walmart",
                 "brand:wikidata": "Q483551",
                 "name": "Miami Supercenter",
-                "opening_hours": "Mo 06:00-23:00; Tu 07:00-23:00; We-Su 06:00-23:00",
+                "opening_hours": "Mo-Su 06:00-23:00",
                 "phone": "+1-305-351-0725",
                 "ref": "5854",
                 "website": "http://www.walmart.com/store/5854"
@@ -110850,7 +110875,7 @@
                 "brand": "Walmart",
                 "brand:wikidata": "Q483551",
                 "name": "Chicago Supercenter",
-                "opening_hours": "Mo 06:00-22:00; Tu 07:00-22:00; We-Su 06:00-22:00",
+                "opening_hours": "Mo 06:00-23:00; Tu 07:00-23:00; We-Su 06:00-23:00",
                 "phone": "+1-773-344-9016",
                 "ref": "5965",
                 "website": "http://www.walmart.com/store/5965"
@@ -110950,7 +110975,7 @@
                 "brand": "Walmart",
                 "brand:wikidata": "Q483551",
                 "name": "Burnsville Supercenter",
-                "opening_hours": "Mo 06:00-23:00; Tu 07:00-23:00; We-Su 06:00-23:00",
+                "opening_hours": "Mo-Su 06:00-23:00",
                 "phone": "+1-952-356-0018",
                 "ref": "5977",
                 "website": "http://www.walmart.com/store/5977"
@@ -115684,5 +115709,5 @@
             }
         }
     ],
-    "updated_at": 1636806615653
+    "updated_at": 1637414152460
 }

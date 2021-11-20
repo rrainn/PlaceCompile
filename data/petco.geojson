@@ -11126,6 +11126,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -111.981,
+                    43.4661
+                ]
+            },
+            "properties": {
+                "addr:city": "Ammon",
+                "addr:country": "US",
+                "addr:housenumber": "3549",
+                "addr:postcode": "83406",
+                "addr:state": "ID",
+                "addr:street": "South 25th E",
+                "brand": "Petco",
+                "brand:wikidata": "Q7171798",
+                "name": "Petco",
+                "ref": "id/ammon/pet-supplies-ammon-id-1298",
+                "website": "https://stores.petco.com/id/ammon/pet-supplies-ammon-id-1298.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -116.1877,
                     43.5708
                 ]
@@ -34059,5 +34082,5 @@
             }
         }
     ],
-    "updated_at": 1636792562317
+    "updated_at": 1637397627078
 }

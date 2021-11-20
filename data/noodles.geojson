@@ -1110,31 +1110,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -104.96084421873093,
-                    39.74028717694424
-                ]
-            },
-            "properties": {
-                "addr:city": "Denver",
-                "addr:country": "US",
-                "addr:housenumber": "2205",
-                "addr:postcode": "80206",
-                "addr:state": "CO",
-                "addr:street": "East Colfax Avenue",
-                "brand": "Noodles & Company",
-                "brand:wikidata": "Q7049673",
-                "name": "Colfax & Gaylord",
-                "opening_hours": "Mo-Su 11:00-20:00",
-                "phone": "+1-303-355-2889",
-                "ref": "co/denver/2205-east-colfax-ave",
-                "website": "https://locations.noodles.com/co/denver/2205-east-colfax-ave.html"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -104.9888401,
                     39.7427599
                 ]
@@ -2455,7 +2430,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Bloomington",
-                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-21:00",
                 "phone": "+1-309-661-6300",
                 "ref": "il/bloomington/305-n--veterans-pkwy",
                 "website": "https://locations.noodles.com/il/bloomington/305-n--veterans-pkwy.html"
@@ -5534,7 +5509,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Bingham Farms",
-                "opening_hours": "Mo-Fr 11:00-20:00; Sa 11:00-17:00",
+                "opening_hours": "Mo-Su 11:00-21:00",
                 "phone": "+1-248-630-1844",
                 "ref": "mi/bingham-farms/30130-telegraph-road",
                 "website": "https://locations.noodles.com/mi/bingham-farms/30130-telegraph-road.html"
@@ -7942,7 +7917,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "South Creek",
-                "opening_hours": "Mo-Su 15:00-21:00",
+                "opening_hours": "Mo-Su 11:00-21:00",
                 "phone": "+1-701-356-4003",
                 "ref": "nd/fargo/2603-kirsten-lane",
                 "website": "https://locations.noodles.com/nd/fargo/2603-kirsten-lane.html"
@@ -7967,7 +7942,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "45th St - Fargo",
-                "opening_hours": "Mo-Su 15:00-19:00",
+                "opening_hours": "Mo-Su 15:00-21:00",
                 "phone": "+1-701-356-3004",
                 "ref": "nd/fargo/4501-15th-avenue-south",
                 "website": "https://locations.noodles.com/nd/fargo/4501-15th-avenue-south.html"
@@ -7992,7 +7967,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Plaza 32",
-                "opening_hours": "Mo-Sa 11:00-20:00",
+                "opening_hours": "Mo-Su 11:00-17:00",
                 "phone": "+1-701-757-1720",
                 "ref": "nd/grand-forks/3000-32nd-ave",
                 "website": "https://locations.noodles.com/nd/grand-forks/3000-32nd-ave.html"
@@ -8867,7 +8842,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "57th & Louise",
-                "opening_hours": "Mo-Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 11:00-20:00",
                 "phone": "+1-605-610-1439",
                 "ref": "sd/sioux-falls/5005-s--louise-ave",
                 "website": "https://locations.noodles.com/sd/sioux-falls/5005-s--louise-ave.html"
@@ -9028,8 +9003,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -111.9801873,
-                    41.0895841
+                    -111.98026567697525,
+                    41.08946568159453
                 ]
             },
             "properties": {
@@ -11287,5 +11262,5 @@
             }
         }
     ],
-    "updated_at": 1636791556238
+    "updated_at": 1637396519038
 }

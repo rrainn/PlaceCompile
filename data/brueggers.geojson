@@ -249,7 +249,7 @@
                 "brand": "Bruegger's Bagels",
                 "brand:wikidata": "Q4978656",
                 "name": "Bruegger's Bagels Tucson Airport - Concourse B",
-                "opening_hours": "Mo-Su 03:30-12:00",
+                "opening_hours": "Mo-Su 04:00-16:00",
                 "phone": "+1-888-822-5379",
                 "ref": "7250-s-tucson-blvd",
                 "website": "https://locations.brueggers.com/us/az/tucson/7250-s-tucson-blvd"
@@ -4384,7 +4384,7 @@
                 "brand": "Bruegger's Bagels",
                 "brand:wikidata": "Q4978656",
                 "name": "Bruegger's Bagels South Park",
-                "opening_hours": "Mo-Su 06:00-15:00",
+                "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-412-833-9381",
                 "ref": "5213-library-road",
                 "website": "https://locations.brueggers.com/us/pa/bethel-park/5213-library-road"
@@ -4508,7 +4508,7 @@
                 "brand": "Bruegger's Bagels",
                 "brand:wikidata": "Q4978656",
                 "name": "Bruegger's Bagels Cochran Rd",
-                "opening_hours": "Mo-Su 06:00-15:00",
+                "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-412-561-5560",
                 "ref": "1644-cochran-rd",
                 "website": "https://locations.brueggers.com/us/pa/pittsburgh/1644-cochran-rd"
@@ -4991,5 +4991,5 @@
             }
         }
     ],
-    "updated_at": 1636790714654
+    "updated_at": 1637395543217
 }

@@ -2499,7 +2499,7 @@
                 "brand:wikidata": "Q835638",
                 "name": "Regal Dania Pointe 4DX, RPX & VIP",
                 "ref": "1474",
-                "website": "https://www.regmovies.com/theatres/regal-dania-point-4dx-rpx-vip"
+                "website": "https://www.regmovies.com/theatres/regal-dania-pointe-4dx-rpx-vip"
             }
         },
         {
@@ -11512,7 +11512,7 @@
                 "addr:country": "US",
                 "addr:housenumber": "5905",
                 "addr:postcode": "73110",
-                "addr:state": "Oklahoma",
+                "addr:state": "OK",
                 "addr:street": "SE 15th Street",
                 "brand": "Regal Theatres",
                 "brand:wikidata": "Q835638",
@@ -12149,5 +12149,5 @@
             }
         }
     ],
-    "updated_at": 1636793442502
+    "updated_at": 1637401771826
 }

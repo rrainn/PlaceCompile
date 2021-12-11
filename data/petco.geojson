@@ -10911,29 +10911,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -157.7540832,
-                    21.2788305
-                ]
-            },
-            "properties": {
-                "addr:city": "Honolulu",
-                "addr:country": "US",
-                "addr:housenumber": "820",
-                "addr:postcode": "96821",
-                "addr:state": "HI",
-                "addr:street": "West Hind Drive, Suite 1224",
-                "brand": "Petco",
-                "brand:wikidata": "Q7171798",
-                "name": "Petco",
-                "ref": "hi/honolulu/pet-supplies-honolulu-hi-4182",
-                "website": "https://stores.petco.com/hi/honolulu/pet-supplies-honolulu-hi-4182.html"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -157.7053375,
                     21.27861404
                 ]
@@ -11257,29 +11234,6 @@
                 "name": "Petco",
                 "ref": "id/eagle/pet-supplies-eagle-id-1285",
                 "website": "https://stores.petco.com/id/eagle/pet-supplies-eagle-id-1285.html"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -111.9854,
-                    43.4821
-                ]
-            },
-            "properties": {
-                "addr:city": "Idaho Falls",
-                "addr:country": "US",
-                "addr:housenumber": "2375",
-                "addr:postcode": "83404",
-                "addr:state": "ID",
-                "addr:street": "East 17th Street",
-                "brand": "Petco",
-                "brand:wikidata": "Q7171798",
-                "name": "Petco",
-                "ref": "id/idahofalls/pet-supplies-idahofalls-id-207",
-                "website": "https://stores.petco.com/id/idahofalls/pet-supplies-idahofalls-id-207.html"
             }
         },
         {
@@ -30033,8 +29987,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -95.0445202,
-                    29.5648677
+                    -95.0445275,
+                    29.5648626
                 ]
             },
             "properties": {
@@ -34082,5 +34036,5 @@
             }
         }
     ],
-    "updated_at": 1637397627078
+    "updated_at": 1639212372208
 }

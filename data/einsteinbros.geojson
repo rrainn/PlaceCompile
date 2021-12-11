@@ -6,8 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -85.48678636550903,
-                    32.60341010294708
+                    -85.4868767,
+                    32.603779
                 ]
             },
             "properties": {
@@ -150,8 +150,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -85.956019,
-                    31.80125
+                    -85.955916,
+                    31.8014168
                 ]
             },
             "properties": {
@@ -4925,7 +4925,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Riverview & Harbor City Blvd",
-                "opening_hours": "Mo-Sa 06:00-14:00; Su 07:00-13:00",
+                "opening_hours": "Mo-Fr 05:30-14:00; Sa 06:00-14:00; Su 07:00-13:00",
                 "phone": "+1-321-802-4587",
                 "ref": "1511-s-harbor-city-blvd",
                 "website": "https://locations.einsteinbros.com/us/fl/melbourne/1511-s-harbor-city-blvd"
@@ -7024,7 +7024,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Dearborn & Kinzie",
-                "opening_hours": "Mo-Fr 06:00-12:00; Sa 07:00-12:00",
+                "opening_hours": "Mo-Su 06:00-13:00",
                 "phone": "+1-312-755-0413",
                 "ref": "400-n-dearborn-st",
                 "website": "https://locations.einsteinbros.com/us/il/chicago/400-n-dearborn-st"
@@ -7887,8 +7887,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -94.91602,
-                    39.344275
+                    -94.9171218,
+                    39.3446159
                 ]
             },
             "properties": {
@@ -9405,7 +9405,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Rochester & Auburn",
-                "opening_hours": "Mo-Su 06:00-13:00",
+                "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-248-606-4519",
                 "ref": "2972-s-rochester-road",
                 "website": "https://locations.einsteinbros.com/us/mi/rochester-hills/2972-s-rochester-road"
@@ -12120,7 +12120,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Huntington Center",
-                "opening_hours": "Mo-Fr 06:00-13:00",
+                "opening_hours": "Mo-Fr 06:00-14:00",
                 "phone": "+1-614-463-1290",
                 "ref": "41-s-high-st",
                 "website": "https://locations.einsteinbros.com/us/oh/columbus/41-s-high-st"
@@ -14139,7 +14139,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels MoPac & William Cannon Dr",
-                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
+                "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-512-605-6470",
                 "ref": "6611-s-mopac-expy",
                 "website": "https://locations.einsteinbros.com/us/tx/austin/6611-s-mopac-expy"
@@ -15071,7 +15071,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Bissonnet & Kirby",
-                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
+                "opening_hours": "Mo-Fr 05:30-14:00; Sa-Su 06:00-14:00",
                 "phone": "+1-713-528-1992",
                 "ref": "5300-kirby-dr",
                 "website": "https://locations.einsteinbros.com/us/tx/houston/5300-kirby-dr"
@@ -15510,7 +15510,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels FM 685 & Pflugerville Pkwy",
-                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
+                "opening_hours": "Mo-Fr 05:30-14:00; Sa-Su 06:00-14:00",
                 "phone": "+1-512-358-4752",
                 "ref": "2424-fm-685",
                 "website": "https://locations.einsteinbros.com/us/tx/pflugerville/2424-fm-685"
@@ -16226,7 +16226,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels South River Rd & E100S",
-                "opening_hours": "Mo-Th 05:30-14:00; Fr-Su 06:30-15:00",
+                "opening_hours": "Mo-Th 05:30-14:00; Fr 05:30-15:00; Sa-Su 06:30-15:00",
                 "phone": "+1-435-703-9484",
                 "ref": "15-s-river-rd",
                 "website": "https://locations.einsteinbros.com/us/ut/saint-george/15-s-river-rd"
@@ -16649,7 +16649,6 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels W Broad & Spring St",
-                "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-703-663-1831",
                 "ref": "913-w-broad-st",
                 "website": "https://locations.einsteinbros.com/us/va/falls-church/913-w-broad-st"
@@ -17723,5 +17722,5 @@
             }
         }
     ],
-    "updated_at": 1637395711232
+    "updated_at": 1639210169275
 }

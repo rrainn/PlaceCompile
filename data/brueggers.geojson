@@ -2600,7 +2600,7 @@
                 "brand:wikidata": "Q4978656",
                 "name": "Bruegger's Bagels Wayzata",
                 "opening_hours": "Mo-Su 06:00-14:00",
-                "phone": "+1-651-583-5456",
+                "phone": "+1-952-395-3601",
                 "ref": "1179a-e-wayzata-blvd",
                 "website": "https://locations.brueggers.com/us/mn/wayzata/1179a-e-wayzata-blvd"
             }
@@ -3934,7 +3934,7 @@
                 "brand": "Bruegger's Bagels",
                 "brand:wikidata": "Q4978656",
                 "name": "Bruegger's Bagels Brecksville",
-                "opening_hours": "Mo-Su 06:00-13:00",
+                "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-440-717-0028",
                 "ref": "7322-chippewa-road",
                 "website": "https://locations.brueggers.com/us/oh/brecksville/7322-chippewa-road"
@@ -4284,7 +4284,7 @@
                 "brand": "Bruegger's Bagels",
                 "brand:wikidata": "Q4978656",
                 "name": "Bruegger's Bagels Strongsville",
-                "opening_hours": "Mo-Fr 06:00-14:00; Sa-Su 06:00-16:00",
+                "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-440-572-4646",
                 "ref": "15035-pearl-rd",
                 "website": "https://locations.brueggers.com/us/oh/strongsville/15035-pearl-rd"
@@ -4309,7 +4309,7 @@
                 "brand": "Bruegger's Bagels",
                 "brand:wikidata": "Q4978656",
                 "name": "Bruegger's Bagels The Shops on Lane Avenue",
-                "opening_hours": "Mo-We 06:30-13:00; Th-Fr 06:30-12:00; Sa-Su 07:00-14:00",
+                "opening_hours": "Mo-We 06:30-13:00; Th-Fr 06:30-12:00; Sa-Su 07:00-13:00",
                 "phone": "+1-614-486-7500",
                 "ref": "1621-lane-avenue",
                 "website": "https://locations.brueggers.com/us/oh/upper-arlington/1621-lane-avenue"
@@ -4869,8 +4869,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -80.42282241964341,
-                    37.2312372874823
+                    -80.4226943,
+                    37.230948
                 ]
             },
             "properties": {
@@ -4991,5 +4991,5 @@
             }
         }
     ],
-    "updated_at": 1637395543217
+    "updated_at": 1639209980053
 }

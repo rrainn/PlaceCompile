@@ -74,10 +74,20 @@ module.exports = {
 				storeObject.properties.phone = phoneNumber;
 			}
 
-			const hours = JSON.parse(pageData("div.js-location-hours").attr("data-days"));
-			const openingHours = DayIntervalsArrayOpeningHoursParser(hours);
-			if (openingHours && openingHours.length > 0) {
-				storeObject.properties["opening_hours"] = openingHours;
+			const hoursContent = pageData("div.js-location-hours").attr("data-days");
+			let hours;
+			try {
+				if (hoursContent) {
+					hours = JSON.parse(hoursContent);
+				}
+			} catch (error) {
+				console.error(`Can't parse JSON content. ${hoursContent}`);
+			}
+			if (hours) {
+				const openingHours = DayIntervalsArrayOpeningHoursParser(hours);
+				if (openingHours && openingHours.length > 0) {
+					storeObject.properties["opening_hours"] = openingHours;
+				}
 			}
 
 			return storeObject;

@@ -274,7 +274,7 @@
                 "brand": "Noah's NY Bagels",
                 "brand:wikidata": "Q64517373",
                 "name": "Noah's NY Bagels Fremont",
-                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
+                "opening_hours": "Mo-Su 06:00-13:00",
                 "phone": "+1-510-744-9142",
                 "ref": "3958-mowry-ave",
                 "website": "https://locations.noahs.com/us/ca/fremont/3958-mowry-ave"
@@ -551,7 +551,7 @@
                 "brand": "Noah's NY Bagels",
                 "brand:wikidata": "Q64517373",
                 "name": "Noah's NY Bagels Montclair",
-                "opening_hours": "Mo-Su 06:00-14:00",
+                "opening_hours": "Mo-Su 06:00-12:00",
                 "phone": "+1-510-339-6663",
                 "ref": "2060-mountain-blvd",
                 "website": "https://locations.noahs.com/us/ca/oakland/2060-mountain-blvd"
@@ -576,7 +576,7 @@
                 "brand": "Noah's NY Bagels",
                 "brand:wikidata": "Q64517373",
                 "name": "Noah's NY Bagels Lakeshore",
-                "opening_hours": "Mo-Fr 05:30-14:00; Sa-Su 06:00-14:00",
+                "opening_hours": "Mo-Su 06:00-12:00",
                 "phone": "+1-510-452-3744",
                 "ref": "3351-lakeshore-ave",
                 "website": "https://locations.noahs.com/us/ca/oakland/3351-lakeshore-ave"
@@ -1381,7 +1381,7 @@
                 "brand": "Noah's NY Bagels",
                 "brand:wikidata": "Q64517373",
                 "name": "Noah's NY Bagels Mt. Diablo - Walnut Creek",
-                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 05:30-14:00",
+                "opening_hours": "Mo-Tu 05:00-14:00; We-Fr 05:00-12:00; Sa-Su 05:30-14:00",
                 "phone": "+1-925-357-6967",
                 "ref": "1930-mt-diablo-blvd",
                 "website": "https://locations.noahs.com/us/ca/walnut-creek/1930-mt-diablo-blvd"
@@ -1438,5 +1438,5 @@
             }
         }
     ],
-    "updated_at": 1636330625267
+    "updated_at": 1639210201037
 }

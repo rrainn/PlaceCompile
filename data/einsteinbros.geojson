@@ -6,8 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -85.48678636550903,
-                    32.60341010294708
+                    -85.4868767,
+                    32.603779
                 ]
             },
             "properties": {
@@ -150,8 +150,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -85.956019,
-                    31.80125
+                    -85.955916,
+                    31.8014168
                 ]
             },
             "properties": {
@@ -606,7 +606,7 @@
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Bell - Glendale AZ",
                 "opening_hours": "Mo-Su 06:00-15:00",
-                "phone": "+1-623-277-4261",
+                "phone": "+1-623-253-1029",
                 "ref": "7942-w-bell-rd",
                 "website": "https://locations.einsteinbros.com/us/az/glendale/7942-w-bell-rd"
             }
@@ -1405,7 +1405,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Encinitas Ranch",
-                "opening_hours": "Mo-Fr 06:00-13:00; Sa-Su 06:00-14:00",
+                "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-760-753-6514",
                 "ref": "1006-n-el-camino-real",
                 "website": "https://locations.einsteinbros.com/us/ca/encinitas/1006-n-el-camino-real"
@@ -3861,7 +3861,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Wisconsin Ave & S Street",
-                "opening_hours": "Mo-Su 06:00-13:00",
+                "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-202-448-9473",
                 "ref": "2233-wisconsin-ave-nw",
                 "website": "https://locations.einsteinbros.com/us/dc/washington/2233-wisconsin-ave-nw"
@@ -4925,7 +4925,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Riverview & Harbor City Blvd",
-                "opening_hours": "Mo-Sa 06:00-14:00; Su 07:00-13:00",
+                "opening_hours": "Mo-Fr 05:30-14:00; Sa 06:00-14:00; Su 07:00-13:00",
                 "phone": "+1-321-802-4587",
                 "ref": "1511-s-harbor-city-blvd",
                 "website": "https://locations.einsteinbros.com/us/fl/melbourne/1511-s-harbor-city-blvd"
@@ -7024,7 +7024,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Dearborn & Kinzie",
-                "opening_hours": "Mo-Fr 06:00-12:00; Sa 07:00-12:00",
+                "opening_hours": "Mo-Su 06:00-13:00",
                 "phone": "+1-312-755-0413",
                 "ref": "400-n-dearborn-st",
                 "website": "https://locations.einsteinbros.com/us/il/chicago/400-n-dearborn-st"
@@ -7887,8 +7887,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -94.91602,
-                    39.344275
+                    -94.9171218,
+                    39.3446159
                 ]
             },
             "properties": {
@@ -8506,7 +8506,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Solomons Island Rd & Somerville Rd",
-                "opening_hours": "Mo-Fr 05:00-13:00; Sa-Su 06:00-13:00",
+                "opening_hours": "Mo-Fr 05:30-14:00; Sa-Su 06:00-14:00",
                 "phone": "+1-443-603-0493",
                 "ref": "2101-somerville-rd",
                 "website": "https://locations.einsteinbros.com/us/md/annapolis/2101-somerville-rd"
@@ -8682,7 +8682,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Connecticut Ave & Manor Rd",
-                "opening_hours": "Mo-Fr 06:00-13:00; Sa-Su 06:00-14:00",
+                "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-301-656-0766",
                 "ref": "8542-connecticut-ave",
                 "website": "https://locations.einsteinbros.com/us/md/chevy-chase/8542-connecticut-ave"
@@ -8732,7 +8732,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Montgomery Village",
-                "opening_hours": "Mo-Su 06:00-13:00",
+                "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-301-926-8509",
                 "ref": "19114-montgomery-village-ave",
                 "website": "https://locations.einsteinbros.com/us/md/gaithersburg/19114-montgomery-village-ave"
@@ -8757,7 +8757,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Firstfield & Quince Orchard Rd.",
-                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
+                "opening_hours": "Mo-Fr 05:30-14:00; Sa-Su 06:00-14:00",
                 "phone": "+1-301-947-4208",
                 "ref": "531-quince-orchard-rd",
                 "website": "https://locations.einsteinbros.com/us/md/gaithersburg/531-quince-orchard-rd"
@@ -9056,7 +9056,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels N Canton & Ford Rd",
-                "opening_hours": "Mo-Fr 06:00-14:00; Sa 06:00-15:00; Su 07:00-14:00",
+                "opening_hours": "Mo-Sa 06:00-14:00; Su 07:00-14:00",
                 "phone": "+1-734-667-2269",
                 "ref": "2230-n-canton-center-rd",
                 "website": "https://locations.einsteinbros.com/us/mi/canton/2230-n-canton-center-rd"
@@ -9192,8 +9192,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -82.9180826,
-                    42.3893105
+                    -82.91802138090128,
+                    42.389174199204426
                 ]
             },
             "properties": {
@@ -9405,7 +9405,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Rochester & Auburn",
-                "opening_hours": "Mo-Su 06:00-13:00",
+                "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-248-606-4519",
                 "ref": "2972-s-rochester-road",
                 "website": "https://locations.einsteinbros.com/us/mi/rochester-hills/2972-s-rochester-road"
@@ -11328,7 +11328,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Tropicana & Paradise",
-                "opening_hours": "Mo-Su 06:00-14:00",
+                "opening_hours": "Mo-Su 06:00-13:00",
                 "phone": "+1-702-262-1619",
                 "ref": "360-e-tropicana-ave",
                 "website": "https://locations.einsteinbros.com/us/nv/las-vegas/360-e-tropicana-ave"
@@ -11920,7 +11920,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels W Exchange Street & Hawkins",
-                "opening_hours": "Mo-Su 06:00-14:00",
+                "opening_hours": "Mo-Su 06:00-13:00",
                 "phone": "+1-330-865-1515",
                 "ref": "1751-w-exchange-st",
                 "website": "https://locations.einsteinbros.com/us/oh/akron/1751-w-exchange-st"
@@ -12120,7 +12120,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Huntington Center",
-                "opening_hours": "Mo-Fr 06:00-13:00",
+                "opening_hours": "Mo-Fr 06:00-14:00",
                 "phone": "+1-614-463-1290",
                 "ref": "41-s-high-st",
                 "website": "https://locations.einsteinbros.com/us/oh/columbus/41-s-high-st"
@@ -13054,7 +13054,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Fourth Avenue & Market Square",
-                "opening_hours": "Mo-Su 06:00-14:00",
+                "opening_hours": "Mo-Fr 06:00-14:00",
                 "phone": "+1-412-434-0343",
                 "ref": "3-ppg-pl",
                 "website": "https://locations.einsteinbros.com/us/pa/pittsburgh/3-ppg-pl"
@@ -13079,7 +13079,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels 7th & Grant",
-                "opening_hours": "Mo-Su 06:00-14:00",
+                "opening_hours": "Mo-Fr 06:00-14:00",
                 "phone": "+1-412-904-1491",
                 "ref": "436-7th-ave",
                 "website": "https://locations.einsteinbros.com/us/pa/pittsburgh/436-7th-ave"
@@ -14139,7 +14139,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels MoPac & William Cannon Dr",
-                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
+                "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-512-605-6470",
                 "ref": "6611-s-mopac-expy",
                 "website": "https://locations.einsteinbros.com/us/tx/austin/6611-s-mopac-expy"
@@ -15071,7 +15071,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Bissonnet & Kirby",
-                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
+                "opening_hours": "Mo-Fr 05:30-14:00; Sa-Su 06:00-14:00",
                 "phone": "+1-713-528-1992",
                 "ref": "5300-kirby-dr",
                 "website": "https://locations.einsteinbros.com/us/tx/houston/5300-kirby-dr"
@@ -15510,7 +15510,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels FM 685 & Pflugerville Pkwy",
-                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
+                "opening_hours": "Mo-Fr 05:30-14:00; Sa-Su 06:00-14:00",
                 "phone": "+1-512-358-4752",
                 "ref": "2424-fm-685",
                 "website": "https://locations.einsteinbros.com/us/tx/pflugerville/2424-fm-685"
@@ -15833,24 +15833,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -97.944514,
-                    29.889384
+                    -97.9386271,
+                    29.8885351
                 ]
             },
             "properties": {
                 "addr:city": "San Marcos",
                 "addr:country": "US",
-                "addr:housenumber": "700",
+                "addr:housenumber": "260",
                 "addr:postcode": "78666",
                 "addr:state": "TX",
-                "addr:street": "Moore Street",
+                "addr:street": "Old Main Drive",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Texas State University",
-                "opening_hours": "Mo-Th 07:00-19:00; Fr 07:00-14:00",
+                "opening_hours": "Mo-Th 07:30-17:00; Fr 07:30-14:00",
                 "phone": "+1-512-245-9925",
-                "ref": "700-moore-street",
-                "website": "https://locations.einsteinbros.com/us/tx/san-marcos/700-moore-street"
+                "ref": "260-old-main-drive",
+                "website": "https://locations.einsteinbros.com/us/tx/san-marcos/260-old-main-drive"
             }
         },
         {
@@ -16226,7 +16226,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels South River Rd & E100S",
-                "opening_hours": "Mo-Th 05:30-14:00; Fr-Su 06:30-15:00",
+                "opening_hours": "Mo-Th 05:30-14:00; Fr 05:30-15:00; Sa-Su 06:30-15:00",
                 "phone": "+1-435-703-9484",
                 "ref": "15-s-river-rd",
                 "website": "https://locations.einsteinbros.com/us/ut/saint-george/15-s-river-rd"
@@ -16453,7 +16453,6 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels US Patent Trade Office",
-                "opening_hours": "Mo-Fr 07:00-16:00",
                 "phone": "+1-703-535-1584",
                 "ref": "401-dulany-st",
                 "website": "https://locations.einsteinbros.com/us/va/alexandria/401-dulany-st"
@@ -16650,7 +16649,6 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels W Broad & Spring St",
-                "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-703-663-1831",
                 "ref": "913-w-broad-st",
                 "website": "https://locations.einsteinbros.com/us/va/falls-church/913-w-broad-st"
@@ -17724,5 +17722,5 @@
             }
         }
     ],
-    "updated_at": 1636330578081
+    "updated_at": 1639210169275
 }

@@ -17,27 +17,35 @@ module.exports = {
 	"download": async function (data) {
 		let stores = [];
 		const self = this;
-		async function parsePage(pageData, urlString) {
-			const linksArray = pageData(".Directory-listLinks .Directory-listItem:not(.is-hidden) a,.Directory-listTeasers a").toArray();
 
-			for (let i = 0; i < linksArray.length; i++) {
-				const element = linksArray[i];
-
-				const href = pageData(element).attr("href");
-
-				const newURL = parseHref(href, urlString);
-				const fetchResponse = await self.fetch(newURL);
-				const fetchParsed = await self.parse(fetchResponse, parserSettings);
-				await parsePage(fetchParsed, newURL);
+		const urlsToCrawl = [];
+		do {
+			let urlString;
+			if (!data) {
+				urlString = urlsToCrawl.shift();
+				const fetchResponse = await self.fetch(urlString);
+				data = await self.parse(fetchResponse, parserSettings);
+			} else {
+				urlString = initialURL;
 			}
+
+			const linksArray = data(".Directory-listLinks .Directory-listItem:not(.is-hidden) a,.Directory-listTeasers a").toArray();
 
 			if (linksArray.length === 0) {
-				let storeDetailJSON = JSON.parse(pageData("script.js-hours-config").html()) || JSON.parse(pageData("script.js-map-config").html()).entities[0];
+				let storeDetailJSON = JSON.parse(data("script.js-hours-config").html()) || JSON.parse(data("script.js-map-config").html()).entities[0];
 				storeDetailJSON.url = urlString;
 				stores.push(storeDetailJSON);
+			} else {
+				for (const element of linksArray) {
+					const href = data(element).attr("href");
+
+					const newURL = parseHref(href, urlString);
+					urlsToCrawl.push(newURL);
+				}
 			}
-		}
-		await parsePage(data, initialURL);
+
+			data = null;
+		} while (urlsToCrawl.length > 0);
 
 		return stores;
 	},

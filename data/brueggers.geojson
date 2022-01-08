@@ -1784,7 +1784,7 @@
                 "brand": "Bruegger's Bagels",
                 "brand:wikidata": "Q4978656",
                 "name": "Bruegger's Bagels North University/Campus",
-                "opening_hours": "Mo-Su 08:00-14:00",
+                "opening_hours": "Mo-Su 08:00-12:00",
                 "phone": "+1-734-747-8561",
                 "ref": "709-n-university-ave",
                 "website": "https://locations.brueggers.com/us/mi/ann-arbor/709-n-university-ave"
@@ -2251,8 +2251,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -93.227309,
-                    44.9735268
+                    -93.22738945484161,
+                    44.9734112756383
                 ]
             },
             "properties": {
@@ -2315,7 +2315,7 @@
                 "brand": "Bruegger's Bagels",
                 "brand:wikidata": "Q4978656",
                 "name": "Bruegger's Bagels New Hope",
-                "opening_hours": "Mo-Su 06:00-14:00",
+                "opening_hours": "Mo-Tu 07:00-14:00; We-Sa 06:00-14:00; Su 07:00-14:00",
                 "phone": "+1-763-545-6783",
                 "ref": "3558-winnetka-ave-n",
                 "website": "https://locations.brueggers.com/us/mn/new-hope/3558-winnetka-ave-n"
@@ -2474,33 +2474,6 @@
                 "phone": "+1-651-699-8011",
                 "ref": "2136-ford-parkway",
                 "website": "https://locations.brueggers.com/us/mn/saint-paul/2136-ford-parkway"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -93.1944814324379,
-                    44.97470534793569
-                ]
-            },
-            "properties": {
-                "addr:city": "Saint Paul",
-                "addr:country": "US",
-                "addr:housenumber": "2233",
-                "addr:postcode": "55108",
-                "addr:state": "MN",
-                "addr:street": "Energy Park Drive",
-                "addr:unit": "100",
-                "addr:unitname": "Suite",
-                "brand": "Bruegger's Bagels",
-                "brand:wikidata": "Q4978656",
-                "name": "Bruegger's Bagels St. Anthony Park",
-                "opening_hours": "Mo-Su 06:00-14:00",
-                "phone": "+1-651-646-8632",
-                "ref": "2233-energy-park-dr",
-                "website": "https://locations.brueggers.com/us/mn/saint-paul/2233-energy-park-dr"
             }
         },
         {
@@ -2814,8 +2787,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -80.8477537,
-                    35.1732143
+                    -80.84771594477468,
+                    35.17323500438094
                 ]
             },
             "properties": {
@@ -4284,7 +4257,7 @@
                 "brand": "Bruegger's Bagels",
                 "brand:wikidata": "Q4978656",
                 "name": "Bruegger's Bagels Strongsville",
-                "opening_hours": "Mo-Su 06:00-14:00",
+                "opening_hours": "Mo-Su 06:00-12:00",
                 "phone": "+1-440-572-4646",
                 "ref": "15035-pearl-rd",
                 "website": "https://locations.brueggers.com/us/oh/strongsville/15035-pearl-rd"
@@ -4991,5 +4964,5 @@
             }
         }
     ],
-    "updated_at": 1639209980053
+    "updated_at": 1641629156514
 }

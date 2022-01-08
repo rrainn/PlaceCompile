@@ -2557,7 +2557,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Champaign - 6th & Green",
-                "opening_hours": "Mo-Su 11:00-22:00",
+                "opening_hours": "Mo-Su 11:00-20:00",
                 "phone": "+1-217-367-2000",
                 "ref": "il/champaign/528-east-green",
                 "website": "https://locations.noodles.com/il/champaign/528-east-green.html"
@@ -3182,7 +3182,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Niles",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-847-647-2544",
                 "ref": "il/niles/5681-west-touhy-avenue",
                 "website": "https://locations.noodles.com/il/niles/5681-west-touhy-avenue.html"
@@ -3411,31 +3411,6 @@
                 "phone": "+1-815-397-7910",
                 "ref": "il/rockford/6430-e--state-st",
                 "website": "https://locations.noodles.com/il/rockford/6430-e--state-st.html"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.9958064854145,
-                    42.050685835016225
-                ]
-            },
-            "properties": {
-                "addr:city": "Rolling Meadows",
-                "addr:country": "US",
-                "addr:housenumber": "1327",
-                "addr:postcode": "60008",
-                "addr:state": "IL",
-                "addr:street": "Golf Road",
-                "brand": "Noodles & Company",
-                "brand:wikidata": "Q7049673",
-                "name": "Rolling Meadows",
-                "opening_hours": "Mo-Su 11:00-21:00",
-                "phone": "+1-847-981-1175",
-                "ref": "il/rolling-meadows/1327-golf-road",
-                "website": "https://locations.noodles.com/il/rolling-meadows/1327-golf-road.html"
             }
         },
         {
@@ -4220,6 +4195,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -86.23585515582496,
+                    41.69161400000107
+                ]
+            },
+            "properties": {
+                "addr:city": "South Bend",
+                "addr:country": "US",
+                "addr:housenumber": "1233",
+                "addr:postcode": "46617",
+                "addr:state": "IN",
+                "addr:street": "North Eddy Street",
+                "brand": "Noodles & Company",
+                "brand:wikidata": "Q7049673",
+                "name": "South Bend",
+                "opening_hours": "Mo-Su 11:00-22:00",
+                "ref": "in/south-bend/1233-n-eddy-street",
+                "website": "https://locations.noodles.com/in/south-bend/1233-n-eddy-street.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -87.0263621,
                     41.4677031
                 ]
@@ -4284,7 +4283,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Ames",
-                "opening_hours": "Mo-Su 10:30-22:00",
+                "opening_hours": "Mo-Su 11:00-21:00",
                 "phone": "+1-515-233-4312",
                 "ref": "ia/ames/400-s-duff-avenue",
                 "website": "https://locations.noodles.com/ia/ames/400-s-duff-avenue.html"
@@ -4334,7 +4333,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Cedar Rapids",
-                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-319-373-1827",
                 "ref": "ia/cedar-rapids/310-collins-road-ne",
                 "website": "https://locations.noodles.com/ia/cedar-rapids/310-collins-road-ne.html"
@@ -4409,7 +4408,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Ingersoll",
-                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 11:00-21:00",
                 "phone": "+1-515-288-2541",
                 "ref": "ia/des-moines/2105-ingersoll-ave",
                 "website": "https://locations.noodles.com/ia/des-moines/2105-ingersoll-ave.html"
@@ -4434,7 +4433,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Merle Hay",
-                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 11:00-21:00",
                 "phone": "+1-515-278-4294",
                 "ref": "ia/des-moines/5840-douglas-ave",
                 "website": "https://locations.noodles.com/ia/des-moines/5840-douglas-ave.html"
@@ -4459,7 +4458,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Iowa City",
-                "opening_hours": "Mo-Su 10:30-22:00",
+                "opening_hours": "Mo-Su 11:00-21:00",
                 "phone": "+1-319-351-3824",
                 "ref": "ia/iowa-city/201-s-clinton",
                 "website": "https://locations.noodles.com/ia/iowa-city/201-s-clinton.html"
@@ -4484,7 +4483,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Waterloo",
-                "opening_hours": "Mo-Su 10:30-21:00",
+                "opening_hours": "Mo-Su 11:00-21:00",
                 "phone": "+1-319-232-6369",
                 "ref": "ia/waterloo/2833-crossroads-blvd",
                 "website": "https://locations.noodles.com/ia/waterloo/2833-crossroads-blvd.html"
@@ -4545,8 +4544,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -96.5603689,
-                    39.1862252
+                    -96.56038284301752,
+                    39.186206508195916
                 ]
             },
             "properties": {
@@ -4713,6 +4712,31 @@
                 "phone": "+1-316-630-8009",
                 "ref": "ks/wichita/3300-north-rock-road",
                 "website": "https://locations.noodles.com/ks/wichita/3300-north-rock-road.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.46355,
+                    37.7522
+                ]
+            },
+            "properties": {
+                "addr:city": "Wichita",
+                "addr:country": "US",
+                "addr:housenumber": "3807",
+                "addr:postcode": "67101",
+                "addr:state": "KS",
+                "addr:street": "North Maize Road",
+                "addr:unit": "130",
+                "addr:unitname": "Suite",
+                "brand": "Noodles & Company",
+                "brand:wikidata": "Q7049673",
+                "name": "Wichita",
+                "ref": "ks/wichita/3807-n--maize-road",
+                "website": "https://locations.noodles.com/ks/wichita/3807-n--maize-road.html"
             }
         },
         {
@@ -4984,7 +5008,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Columbia Mall",
-                "opening_hours": "Mo-Th 11:00-19:00; Fr-Sa 11:00-20:00; Su 11:00-18:00",
+                "opening_hours": "Mo-Sa 11:00-20:00; Su 12:00-18:00",
                 "phone": "+1-410-730-0207",
                 "ref": "md/columbia/10300-little-patuxent-parkway",
                 "website": "https://locations.noodles.com/md/columbia/10300-little-patuxent-parkway.html"
@@ -5370,8 +5394,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.5845236,
-                    39.3968396
+                    -76.58461622428604,
+                    39.39681499129377
                 ]
             },
             "properties": {
@@ -5838,7 +5862,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Novi",
-                "opening_hours": "Mo-Sa 14:00-20:00; Su 15:00-20:00",
+                "opening_hours": "Mo-Su 11:00-21:00",
                 "phone": "+1-248-468-1704",
                 "ref": "mi/novi/26425-novi-road",
                 "website": "https://locations.noodles.com/mi/novi/26425-novi-road.html"
@@ -5963,7 +5987,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Troy - Crooks Road",
-                "opening_hours": "Mo-Sa 11:00-20:00; Su 15:00-20:00",
+                "opening_hours": "Mo-Su 11:00-21:00",
                 "phone": "+1-248-280-4300",
                 "ref": "mi/troy/3119-crooks-road",
                 "website": "https://locations.noodles.com/mi/troy/3119-crooks-road.html"
@@ -6613,7 +6637,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Holiday Mall",
-                "opening_hours": "Mo-Sa 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-21:00",
                 "phone": "+1-218-512-2040",
                 "ref": "mn/moorhead/922-holiday-drive",
                 "website": "https://locations.noodles.com/mn/moorhead/922-holiday-drive.html"
@@ -7878,8 +7902,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -100.7870262,
-                    46.8027307
+                    -100.7872438,
+                    46.8028209
                 ]
             },
             "properties": {
@@ -7942,7 +7966,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "45th St - Fargo",
-                "opening_hours": "Mo-Su 15:00-21:00",
+                "opening_hours": "Mo-Su 11:00-21:00",
                 "phone": "+1-701-356-3004",
                 "ref": "nd/fargo/4501-15th-avenue-south",
                 "website": "https://locations.noodles.com/nd/fargo/4501-15th-avenue-south.html"
@@ -8692,7 +8716,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "South Hills Village",
-                "opening_hours": "Mo-We 11:00-20:00; Th-Sa 11:00-21:00; Su 11:00-18:00",
+                "opening_hours": "Mo-Th 11:00-20:00; Fr-Sa 11:00-21:00; Su 12:00-18:00",
                 "phone": "+1-412-835-3900",
                 "ref": "pa/pittsburgh/301-south-hills-village",
                 "website": "https://locations.noodles.com/pa/pittsburgh/301-south-hills-village.html"
@@ -8717,7 +8741,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Pittsburgh (Oakland)",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Su 11:00-22:00",
+                "opening_hours": "Mo-Su 11:00-21:00",
                 "phone": "+1-412-621-0890",
                 "ref": "pa/pittsburgh/3805-forbes-ave",
                 "website": "https://locations.noodles.com/pa/pittsburgh/3805-forbes-ave.html"
@@ -8796,6 +8820,30 @@
                 "phone": "+1-717-699-2220",
                 "ref": "pa/york/2108-south-queen-st",
                 "website": "https://locations.noodles.com/pa/york/2108-south-queen-st.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.98868585910931,
+                    33.64191639123142
+                ]
+            },
+            "properties": {
+                "addr:city": "Myrtle Beach",
+                "addr:country": "US",
+                "addr:housenumber": "116",
+                "addr:postcode": "29588",
+                "addr:state": "SC",
+                "addr:street": "Loyola Drive",
+                "brand": "Noodles & Company",
+                "brand:wikidata": "Q7049673",
+                "name": "Myrtle Beach",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "ref": "sc/myrtle-beach/116-loyola-drive",
+                "website": "https://locations.noodles.com/sc/myrtle-beach/116-loyola-drive.html"
             }
         },
         {
@@ -10951,7 +10999,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Oak Creek",
-                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-414-571-4206",
                 "ref": "wi/oak-creek/8609-s-howell-ave",
                 "website": "https://locations.noodles.com/wi/oak-creek/8609-s-howell-ave.html"
@@ -11141,6 +11189,32 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -89.5217639467163,
+                    42.99386025861835
+                ]
+            },
+            "properties": {
+                "addr:city": "Verona",
+                "addr:country": "US",
+                "addr:housenumber": "611",
+                "addr:postcode": "53593",
+                "addr:state": "WI",
+                "addr:street": "Hometown Circle",
+                "addr:unit": "105",
+                "addr:unitname": "Suite",
+                "brand": "Noodles & Company",
+                "brand:wikidata": "Q7049673",
+                "name": "Verona",
+                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
+                "ref": "wi/verona/611-hometown-circle",
+                "website": "https://locations.noodles.com/wi/verona/611-hometown-circle.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -88.25751341414167,
                     42.98891878011784
                 ]
@@ -11262,5 +11336,5 @@
             }
         }
     ],
-    "updated_at": 1637396519038
+    "updated_at": 1641630052570
 }

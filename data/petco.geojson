@@ -5424,29 +5424,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -120.6772,
-                    35.2633
-                ]
-            },
-            "properties": {
-                "addr:city": "San Luis Obispo",
-                "addr:country": "US",
-                "addr:housenumber": "271",
-                "addr:postcode": "93405",
-                "addr:state": "CA",
-                "addr:street": "Madonna Road",
-                "brand": "Petco",
-                "brand:wikidata": "Q7171798",
-                "name": "Petco",
-                "ref": "ca/sanluisobispo/pet-supplies-sanluisobispo-ca-1511",
-                "website": "https://stores.petco.com/ca/sanluisobispo/pet-supplies-sanluisobispo-ca-1511.html"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -117.1919,
                     33.1423
                 ]
@@ -14890,31 +14867,6 @@
                 "name": "Petco",
                 "ref": "md/laplata/pet-supplies-laplata-md-2739",
                 "website": "https://stores.petco.com/md/laplata/pet-supplies-laplata-md-2739.html"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.8459,
-                    38.9214
-                ]
-            },
-            "properties": {
-                "addr:city": "Lanham",
-                "addr:country": "US",
-                "addr:housenumber": "2250",
-                "addr:postcode": "20706",
-                "addr:state": "MD",
-                "addr:street": "Petrie Lane",
-                "addr:unit": "518",
-                "addr:unitname": "Suite",
-                "brand": "Petco",
-                "brand:wikidata": "Q7171798",
-                "name": "Petco",
-                "ref": "md/lanham/pet-supplies-lanham-md-2805",
-                "website": "https://stores.petco.com/md/lanham/pet-supplies-lanham-md-2805.html"
             }
         },
         {
@@ -24616,29 +24568,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.7953,
-                    45.4068
-                ]
-            },
-            "properties": {
-                "addr:city": "Tigard",
-                "addr:country": "US",
-                "addr:housenumber": "15660",
-                "addr:postcode": "97224",
-                "addr:state": "OR",
-                "addr:street": "S.w. Pacific Highway",
-                "brand": "Petco",
-                "brand:wikidata": "Q7171798",
-                "name": "Petco",
-                "ref": "or/tigard/pet-supplies-tigard-or-1259",
-                "website": "https://stores.petco.com/or/tigard/pet-supplies-tigard-or-1259.html"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -122.7573,
                     45.4369
                 ]
@@ -24655,6 +24584,29 @@
                 "name": "Petco",
                 "ref": "or/tigard/pet-supplies-tigard-or-212",
                 "website": "https://stores.petco.com/or/tigard/pet-supplies-tigard-or-212.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7953,
+                    45.4068
+                ]
+            },
+            "properties": {
+                "addr:city": "Tigard",
+                "addr:country": "US",
+                "addr:housenumber": "15660",
+                "addr:postcode": "97224",
+                "addr:state": "OR",
+                "addr:street": "S.w. Pacific Highway",
+                "brand": "Petco",
+                "brand:wikidata": "Q7171798",
+                "name": "Petco",
+                "ref": "or/tigard/pet-supplies-tigard-or-1259",
+                "website": "https://stores.petco.com/or/tigard/pet-supplies-tigard-or-1259.html"
             }
         },
         {
@@ -33524,29 +33476,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -88.0952,
-                    44.5238
-                ]
-            },
-            "properties": {
-                "addr:city": "Green Bay",
-                "addr:country": "US",
-                "addr:housenumber": "2515",
-                "addr:postcode": "54303",
-                "addr:state": "WI",
-                "addr:street": "West Mason Street",
-                "brand": "Petco",
-                "brand:wikidata": "Q7171798",
-                "name": "Petco",
-                "ref": "wi/greenbay/pet-supplies-greenbay-wi-610",
-                "website": "https://stores.petco.com/wi/greenbay/pet-supplies-greenbay-wi-610.html"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -88.0083,
                     42.9547
                 ]
@@ -34036,5 +33965,5 @@
             }
         }
     ],
-    "updated_at": 1639212372208
+    "updated_at": 1641630817993
 }

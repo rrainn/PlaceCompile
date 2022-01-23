@@ -14,7 +14,7 @@ jobs:
         with:
           node-version: 16.x
       - run: npm i
-      - run: node placecompile crawl --output=file
+      - run: node --max_old_space_size=4096 placecompile crawl --output=file
       - name: Commit & Push
         uses: actions-x/commit@v2
         with:

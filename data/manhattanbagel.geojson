@@ -70,7 +70,7 @@
                 "brand": "Manhattan Bagel",
                 "brand:wikidata": "Q64517333",
                 "name": "Manhattan Bagel Woodland Hills",
-                "opening_hours": "Mo-Su 06:00-14:30",
+                "opening_hours": "Mo-Su 06:30-14:30",
                 "phone": "+1-818-883-0166",
                 "ref": "20048-ventura-blvd",
                 "website": "https://locations.manhattanbagel.com/us/ca/woodland-hills/20048-ventura-blvd"
@@ -1172,6 +1172,7 @@
                 "brand": "Manhattan Bagel",
                 "brand:wikidata": "Q64517333",
                 "name": "Manhattan Bagel Glendolen",
+                "opening_hours": "Mo-Sa 06:00-14:00; Su 07:00-14:00",
                 "phone": "+1-610-237-0586",
                 "ref": "4-s-macdade-blvd",
                 "website": "https://locations.manhattanbagel.com/us/pa/glenolden/4-s-macdade-blvd"
@@ -1605,5 +1606,5 @@
             }
         }
     ],
-    "updated_at": 1639210186275
+    "updated_at": 1641629351935
 }

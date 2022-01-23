@@ -342,9 +342,7 @@
                 "addr:housenumber": "1101",
                 "addr:postcode": "98001",
                 "addr:state": "WA",
-                "addr:street": "Super Mall Way",
-                "addr:unit": "901",
-                "addr:unitname": "Suite",
+                "addr:street": "Outlet Collection Way",
                 "brand": "Regal Theatres",
                 "brand:wikidata": "Q835638",
                 "name": "Regal Auburn - Washington",
@@ -12149,5 +12147,5 @@
             }
         }
     ],
-    "updated_at": 1639212516725
+    "updated_at": 1641630884115
 }

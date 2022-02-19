@@ -433,31 +433,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -117.2103693,
-                    32.8706728
-                ]
-            },
-            "properties": {
-                "addr:city": "San Diego",
-                "addr:country": "US",
-                "addr:housenumber": "4545",
-                "addr:postcode": "92122",
-                "addr:state": "CA",
-                "addr:street": "La Jolla Village Drive",
-                "brand": "Noodles & Company",
-                "brand:wikidata": "Q7049673",
-                "name": "University Town Center",
-                "opening_hours": "Mo-Su 11:00-21:00",
-                "phone": "+1-858-558-8511",
-                "ref": "ca/san-diego/4545-la-jolla-village-drive",
-                "website": "https://locations.noodles.com/ca/san-diego/4545-la-jolla-village-drive.html"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -121.8746083,
                     37.2586048
                 ]
@@ -1889,8 +1864,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -104.9423625,
-                    39.9134292
+                    -104.9424858391285,
+                    39.913397326452525
                 ]
             },
             "properties": {
@@ -2003,7 +1978,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Glastonbury",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-20:30; Th-Sa 11:00-21:00; Su 11:00-20:30",
                 "phone": "+1-860-430-6888",
                 "ref": "ct/glastonbury/41-hebron-avenue",
                 "website": "https://locations.noodles.com/ct/glastonbury/41-hebron-avenue.html"
@@ -2157,6 +2132,32 @@
                 "phone": "+1-407-333-0207",
                 "ref": "fl/lake-mary/850-south-sun-drive",
                 "website": "https://locations.noodles.com/fl/lake-mary/850-south-sun-drive.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.20908628282069,
+                    28.598308637151035
+                ]
+            },
+            "properties": {
+                "addr:city": "Orlando",
+                "addr:country": "US",
+                "addr:housenumber": "12101",
+                "addr:postcode": "32817",
+                "addr:state": "FL",
+                "addr:street": "University Boulevard",
+                "addr:unit": "219",
+                "addr:unitname": "Suite",
+                "brand": "Noodles & Company",
+                "brand:wikidata": "Q7049673",
+                "name": "UCF",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "ref": "fl/orlando/12101-university-blvd",
+                "website": "https://locations.noodles.com/fl/orlando/12101-university-blvd.html"
             }
         },
         {
@@ -2557,7 +2558,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Champaign - 6th & Green",
-                "opening_hours": "Mo-Su 11:00-20:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-217-367-2000",
                 "ref": "il/champaign/528-east-green",
                 "website": "https://locations.noodles.com/il/champaign/528-east-green.html"
@@ -2818,6 +2819,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -88.01290095767128,
+                    41.80828919926378
+                ]
+            },
+            "properties": {
+                "addr:city": "Downers Grove",
+                "addr:country": "US",
+                "addr:housenumber": "1111",
+                "addr:postcode": "60515",
+                "addr:state": "IL",
+                "addr:street": "Ogden Avenue",
+                "brand": "Noodles & Company",
+                "brand:wikidata": "Q7049673",
+                "name": "Downer’s Grove",
+                "phone": "+1-630-283-6902",
+                "ref": "il/downers-grove/1111-ogden-ave",
+                "website": "https://locations.noodles.com/il/downers-grove/1111-ogden-ave.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -89.5841085,
                     40.6703405
                 ]
@@ -2982,7 +3007,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Glenview",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-21:00",
                 "phone": "+1-847-729-5555",
                 "ref": "il/glenview/1851-tower-drive",
                 "website": "https://locations.noodles.com/il/glenview/1851-tower-drive.html"
@@ -3959,7 +3984,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Greenwood Place",
-                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-317-882-9100",
                 "ref": "in/indianapolis/7853-s--us-31-at-shelby-st",
                 "website": "https://locations.noodles.com/in/indianapolis/7853-s--us-31-at-shelby-st.html"
@@ -3984,7 +4009,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Keystone Fashion Mall",
-                "opening_hours": "Mo-Th 11:00-19:00; Fr-Sa 11:00-20:00; Su 12:00-17:00",
+                "opening_hours": "Mo-Th 11:00-19:00; Fr-Sa 11:00-20:00; Su 12:00-18:00",
                 "phone": "+1-317-574-1770",
                 "ref": "in/indianapolis/8702-keystone-crossing",
                 "website": "https://locations.noodles.com/in/indianapolis/8702-keystone-crossing.html"
@@ -4159,7 +4184,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Plainfield",
-                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr 11:00-22:00; Sa-Su 11:00-21:00",
                 "phone": "+1-317-839-8600",
                 "ref": "in/plainfield/190-s--perry-rd",
                 "website": "https://locations.noodles.com/in/plainfield/190-s--perry-rd.html"
@@ -4208,8 +4233,9 @@
                 "addr:street": "North Eddy Street",
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
-                "name": "South Bend",
-                "opening_hours": "Mo-Su 11:00-22:00",
+                "name": "Notre Dame",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "phone": "+1-574-208-1551",
                 "ref": "in/south-bend/1233-n-eddy-street",
                 "website": "https://locations.noodles.com/in/south-bend/1233-n-eddy-street.html"
             }
@@ -4458,7 +4484,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Iowa City",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-319-351-3824",
                 "ref": "ia/iowa-city/201-s-clinton",
                 "website": "https://locations.noodles.com/ia/iowa-city/201-s-clinton.html"
@@ -4508,7 +4534,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Jordan Creek",
-                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 11:00-21:00",
                 "phone": "+1-515-221-2341",
                 "ref": "ia/west-des-moines/6630-mills-civic-parkway",
                 "website": "https://locations.noodles.com/ia/west-des-moines/6630-mills-civic-parkway.html"
@@ -5558,7 +5584,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Chesterfield - 23 Mile",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-586-649-1937",
                 "ref": "mi/chesterfield/27315-23-mile-road",
                 "website": "https://locations.noodles.com/mi/chesterfield/27315-23-mile-road.html"
@@ -5583,7 +5609,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "E. Lansing - E Grand River",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-517-827-4852",
                 "ref": "mi/east-lansing/101-e--grand-river-ave",
                 "website": "https://locations.noodles.com/mi/east-lansing/101-e--grand-river-ave.html"
@@ -5608,7 +5634,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Grand Rapids - E. Beltline",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-616-361-2600",
                 "ref": "mi/grand-rapids/2289-east-beltline",
                 "website": "https://locations.noodles.com/mi/grand-rapids/2289-east-beltline.html"
@@ -5633,7 +5659,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Grand Rapids - 28th St.",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-616-226-3322",
                 "ref": "mi/grand-rapids/5070-28th-street-se",
                 "website": "https://locations.noodles.com/mi/grand-rapids/5070-28th-street-se.html"
@@ -5658,7 +5684,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Rivertown Parkway",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-616-219-0002",
                 "ref": "mi/grandville/3871-rivertown-parkway-sw",
                 "website": "https://locations.noodles.com/mi/grandville/3871-rivertown-parkway-sw.html"
@@ -5685,7 +5711,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Westshore",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-616-795-9930",
                 "ref": "mi/holland/12371-james-street",
                 "website": "https://locations.noodles.com/mi/holland/12371-james-street.html"
@@ -5710,7 +5736,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Kalamazoo",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-269-382-4100",
                 "ref": "mi/kalamazoo/5363-w-main-st",
                 "website": "https://locations.noodles.com/mi/kalamazoo/5363-w-main-st.html"
@@ -5760,7 +5786,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Macomb",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-586-884-8970",
                 "ref": "mi/macomb/15575-hall-road",
                 "website": "https://locations.noodles.com/mi/macomb/15575-hall-road.html"
@@ -5887,7 +5913,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Okemos",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-517-347-1400",
                 "ref": "mi/okemos/1965-w-grand-river-ave",
                 "website": "https://locations.noodles.com/mi/okemos/1965-w-grand-river-ave.html"
@@ -5912,7 +5938,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Portage",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-269-359-1350",
                 "ref": "mi/portage/6150-s--westnedge-avenue",
                 "website": "https://locations.noodles.com/mi/portage/6150-s--westnedge-avenue.html"
@@ -5937,7 +5963,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Rochester Hills",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-248-375-5000",
                 "ref": "mi/rochester-hills/184-n-adams-rd",
                 "website": "https://locations.noodles.com/mi/rochester-hills/184-n-adams-rd.html"
@@ -7814,7 +7840,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Greenville",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Su 11:00-22:00",
                 "phone": "+1-252-756-6735",
                 "ref": "nc/greenville/3030-evans-st",
                 "website": "https://locations.noodles.com/nc/greenville/3030-evans-st.html"
@@ -7891,7 +7917,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Brier Creek",
-                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-919-806-1330",
                 "ref": "nc/raleigh/8411-brier-creek-parkway",
                 "website": "https://locations.noodles.com/nc/raleigh/8411-brier-creek-parkway.html"
@@ -7991,7 +8017,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Plaza 32",
-                "opening_hours": "Mo-Su 11:00-17:00",
+                "opening_hours": "Mo-Su 11:00-21:00",
                 "phone": "+1-701-757-1720",
                 "ref": "nd/grand-forks/3000-32nd-ave",
                 "website": "https://locations.noodles.com/nd/grand-forks/3000-32nd-ave.html"
@@ -8741,7 +8767,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Pittsburgh (Oakland)",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-412-621-0890",
                 "ref": "pa/pittsburgh/3805-forbes-ave",
                 "website": "https://locations.noodles.com/pa/pittsburgh/3805-forbes-ave.html"
@@ -8842,6 +8868,7 @@
                 "brand:wikidata": "Q7049673",
                 "name": "Myrtle Beach",
                 "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "phone": "+1-843-310-0311",
                 "ref": "sc/myrtle-beach/116-loyola-drive",
                 "website": "https://locations.noodles.com/sc/myrtle-beach/116-loyola-drive.html"
             }
@@ -9190,7 +9217,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Orem",
-                "opening_hours": "Mo-Sa 11:00-22:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-801-226-0776",
                 "ref": "ut/orem/293-east-university-parkway",
                 "website": "https://locations.noodles.com/ut/orem/293-east-university-parkway.html"
@@ -9553,8 +9580,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.3889142,
-                    38.8589702
+                    -77.38893297288314,
+                    38.85895481033975
                 ]
             },
             "properties": {
@@ -9819,7 +9846,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Ghent Norfolk",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Su 11:00-22:00",
                 "phone": "+1-757-622-1200",
                 "ref": "va/norfolk/1520-colley-ave",
                 "website": "https://locations.noodles.com/va/norfolk/1520-colley-ave.html"
@@ -9944,7 +9971,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Lynnhaven",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Su 11:00-22:00",
                 "phone": "+1-757-340-5384",
                 "ref": "va/virginia-beach/687-lynnhaven-parkway",
                 "website": "https://locations.noodles.com/va/virginia-beach/687-lynnhaven-parkway.html"
@@ -11206,6 +11233,7 @@
                 "brand:wikidata": "Q7049673",
                 "name": "Verona",
                 "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
+                "phone": "+1-608-409-3003",
                 "ref": "wi/verona/611-hometown-circle",
                 "website": "https://locations.noodles.com/wi/verona/611-hometown-circle.html"
             }
@@ -11254,7 +11282,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Wausau - Town Center",
-                "opening_hours": "Mo-Th 11:00-20:00; Fr-Sa 11:00-21:00; Su 11:00-20:00",
+                "opening_hours": "Mo-Su 11:00-21:00",
                 "phone": "+1-715-845-5554",
                 "ref": "wi/wausau/1800-stewart-st",
                 "website": "https://locations.noodles.com/wi/wausau/1800-stewart-st.html"
@@ -11336,5 +11364,5 @@
             }
         }
     ],
-    "updated_at": 1641630052570
+    "updated_at": 1645258968495
 }

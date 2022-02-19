@@ -622,7 +622,7 @@
                 "brand": "Manhattan Bagel",
                 "brand:wikidata": "Q64517333",
                 "name": "Manhattan Bagel Phillipsburg",
-                "opening_hours": "Mo-Sa 04:30-15:00; Su 05:00-14:00",
+                "opening_hours": "Mo-Sa 05:00-14:00; Su 05:30-14:00",
                 "phone": "+1-908-454-5623",
                 "ref": "500-memorial-pkwy",
                 "website": "https://locations.manhattanbagel.com/us/nj/phillipsburg/500-memorial-pkwy"
@@ -1606,5 +1606,5 @@
             }
         }
     ],
-    "updated_at": 1641629351935
+    "updated_at": 1645258153344
 }

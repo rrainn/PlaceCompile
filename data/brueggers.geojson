@@ -1410,7 +1410,7 @@
                 "brand": "Bruegger's Bagels",
                 "brand:wikidata": "Q4978656",
                 "name": "Bruegger's Bagels Amherst/Tuscan's",
-                "opening_hours": "Mo-Su 06:00-14:00",
+                "opening_hours": "Mo-Su 06:30-13:00",
                 "phone": "+1-413-253-5713",
                 "ref": "170-n-pleasant-st",
                 "website": "https://locations.brueggers.com/us/ma/amherst/170-n-pleasant-st"
@@ -2315,7 +2315,7 @@
                 "brand": "Bruegger's Bagels",
                 "brand:wikidata": "Q4978656",
                 "name": "Bruegger's Bagels New Hope",
-                "opening_hours": "Mo-Tu 07:00-14:00; We-Sa 06:00-14:00; Su 07:00-14:00",
+                "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-763-545-6783",
                 "ref": "3558-winnetka-ave-n",
                 "website": "https://locations.brueggers.com/us/mn/new-hope/3558-winnetka-ave-n"
@@ -3557,7 +3557,7 @@
                 "brand": "Bruegger's Bagels",
                 "brand:wikidata": "Q4978656",
                 "name": "Bruegger's Bagels Manlius",
-                "opening_hours": "Mo-Su 06:00-15:00",
+                "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-315-682-2575",
                 "ref": "112-e-seneca-st",
                 "website": "https://locations.brueggers.com/us/ny/manlius/112-e-seneca-st"
@@ -3743,8 +3743,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.1102073,
-                    43.0284294
+                    -76.110477998786,
+                    43.02803293300832
                 ]
             },
             "properties": {
@@ -3757,7 +3757,7 @@
                 "brand": "Bruegger's Bagels",
                 "brand:wikidata": "Q4978656",
                 "name": "Bruegger's Bagels Nottingham",
-                "opening_hours": "Mo-Fr 06:00-14:00; Sa-Su 06:00-15:00",
+                "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-315-446-3934",
                 "ref": "333-nottingham-road",
                 "website": "https://locations.brueggers.com/us/ny/syracuse/333-nottingham-road"
@@ -4456,7 +4456,7 @@
                 "brand": "Bruegger's Bagels",
                 "brand:wikidata": "Q4978656",
                 "name": "Bruegger's Bagels Pittsburgh Airport - Concourse B",
-                "opening_hours": "Mo-Su 04:30-18:00",
+                "opening_hours": "Mo-Su 05:00-16:00",
                 "phone": "+1-412-472-0693",
                 "ref": "1000-airport-blvd",
                 "website": "https://locations.brueggers.com/us/pa/pittsburgh/1000-airport-blvd"
@@ -4964,5 +4964,5 @@
             }
         }
     ],
-    "updated_at": 1641629156514
+    "updated_at": 1645257944182
 }

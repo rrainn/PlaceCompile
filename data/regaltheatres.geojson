@@ -713,7 +713,7 @@
                 "addr:street": "Hartford Avenue",
                 "brand": "Regal Theatres",
                 "brand:wikidata": "Q835638",
-                "name": "Regal Bellingham RPX",
+                "name": "Regal Bellingham & RPX",
                 "ref": "1713",
                 "website": "https://www.regmovies.com/theatres/regal-bellingham"
             }
@@ -762,28 +762,6 @@
                 "name": "Regal Benders Landing 4DX, ScreenX, RPX & VIP",
                 "ref": "1469",
                 "website": "https://www.regmovies.com/theatres/regal-benders-landing-screenx-4dx-rpx-vip"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.2093,
-                    42.4906
-                ]
-            },
-            "properties": {
-                "addr:city": "Lanesboro",
-                "addr:country": "US",
-                "addr:postcode": "01237",
-                "addr:state": "MA",
-                "addr:street": "Route 8 & Old State Road",
-                "brand": "Regal Theatres",
-                "brand:wikidata": "Q835638",
-                "name": "Regal Berkshire Mall",
-                "ref": "1714",
-                "website": "https://www.regmovies.com/theatres/regal-berkshire-mall"
             }
         },
         {
@@ -908,29 +886,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -93.7083,
-                    32.532
-                ]
-            },
-            "properties": {
-                "addr:city": "Bossier City",
-                "addr:country": "US",
-                "addr:housenumber": "2800",
-                "addr:postcode": "71111",
-                "addr:state": "LA",
-                "addr:street": "Shed Road",
-                "brand": "Regal Theatres",
-                "brand:wikidata": "Q835638",
-                "name": "Regal Bossier Corners Cinema",
-                "ref": "0188",
-                "website": "https://www.regmovies.com/theatres/regal-bossier-corners-cinema"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -115.0851,
                     36.1319
                 ]
@@ -1039,29 +994,6 @@
                 "name": "Regal Brandywine Town Center",
                 "ref": "0509",
                 "website": "https://www.regmovies.com/theatres/regal-brandywine-town-center"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -72.7864,
-                    41.2927
-                ]
-            },
-            "properties": {
-                "addr:city": "Branford",
-                "addr:country": "US",
-                "addr:housenumber": "325",
-                "addr:postcode": "06405",
-                "addr:state": "CT",
-                "addr:street": "East Main Street",
-                "brand": "Regal Theatres",
-                "brand:wikidata": "Q835638",
-                "name": "Regal Branford",
-                "ref": "1701",
-                "website": "https://www.regmovies.com/theatres/regal-branford"
             }
         },
         {
@@ -1620,29 +1552,6 @@
                 "name": "Regal Cinebarre Movieland",
                 "ref": "1959",
                 "website": "https://www.regmovies.com/theatres/regal-cinebarre-movieland"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.8628,
-                    32.7939
-                ]
-            },
-            "properties": {
-                "addr:city": "Mt Pleasant",
-                "addr:country": "US",
-                "addr:housenumber": "963",
-                "addr:postcode": "29464",
-                "addr:state": "SC",
-                "addr:street": "Houston Northcutt Boulevard",
-                "brand": "Regal Theatres",
-                "brand:wikidata": "Q835638",
-                "name": "Regal Cinebarre Mt. Pleasant",
-                "ref": "1956",
-                "website": "https://www.regmovies.com/theatres/regal-cinebarre-mt-pleasant"
             }
         },
         {
@@ -7144,7 +7053,7 @@
                 "addr:street": "Hollywood Drive",
                 "brand": "Regal Theatres",
                 "brand:wikidata": "Q835638",
-                "name": "Regal Naples 4DX & IMAX",
+                "name": "Regal Naples IMAX & 4DX",
                 "ref": "0465",
                 "website": "https://www.regmovies.com/theatres/regal-naples-4dx-imax"
             }
@@ -8053,29 +7962,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -120.8351,
-                    38.7318
-                ]
-            },
-            "properties": {
-                "addr:city": "Placerville",
-                "addr:country": "US",
-                "addr:housenumber": "337",
-                "addr:postcode": "95667",
-                "addr:state": "CA",
-                "addr:street": "Placerville Drive",
-                "brand": "Regal Theatres",
-                "brand:wikidata": "Q835638",
-                "name": "Regal Placerville",
-                "ref": "1824",
-                "website": "https://www.regmovies.com/theatres/regal-placerville"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -75.3061,
                     40.0994
                 ]
@@ -8372,29 +8258,6 @@
                 "name": "Regal Richland Crossing",
                 "ref": "0377",
                 "website": "https://www.regmovies.com/theatres/regal-richland-crossing"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.4971,
-                    41.5404
-                ]
-            },
-            "properties": {
-                "addr:city": "Richmond Heights",
-                "addr:country": "US",
-                "addr:housenumber": "631",
-                "addr:postcode": "44143",
-                "addr:state": "OH",
-                "addr:street": "Richmond Road",
-                "brand": "Regal Theatres",
-                "brand:wikidata": "Q835638",
-                "name": "Regal Richmond Town Square",
-                "ref": "1965",
-                "website": "https://www.regmovies.com/theatres/regal-richmond-town-square"
             }
         },
         {
@@ -9696,29 +9559,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -86.6444,
-                    30.4249
-                ]
-            },
-            "properties": {
-                "addr:city": "Fort Walton Beach",
-                "addr:country": "US",
-                "addr:housenumber": "427",
-                "addr:postcode": "32548",
-                "addr:state": "FL",
-                "addr:street": "Mary Esther Boulevard",
-                "brand": "Regal Theatres",
-                "brand:wikidata": "Q835638",
-                "name": "Regal Sun Plaza",
-                "ref": "1861",
-                "website": "https://www.regmovies.com/theatres/regal-sun-plaza"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -115.0426,
                     36.0636
                 ]
@@ -10481,29 +10321,6 @@
                 "name": "Regal UA Cottonwood",
                 "ref": "1307",
                 "website": "https://www.regmovies.com/theatres/regal-ua-cottonwood"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.9929,
-                    40.6906
-                ]
-            },
-            "properties": {
-                "addr:city": "Brooklyn",
-                "addr:country": "US",
-                "addr:housenumber": "106",
-                "addr:postcode": "11201",
-                "addr:state": "NY",
-                "addr:street": "Court Street",
-                "brand": "Regal Theatres",
-                "brand:wikidata": "Q835638",
-                "name": "Regal UA Court Street & RPX",
-                "ref": "1332",
-                "website": "https://www.regmovies.com/theatres/regal-ua-court-street-rpx"
             }
         },
         {
@@ -12147,5 +11964,5 @@
             }
         }
     ],
-    "updated_at": 1641630884115
+    "updated_at": 1645259053977
 }

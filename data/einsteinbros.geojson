@@ -393,7 +393,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Chandler Festival",
-                "opening_hours": "Mo-Su 05:00-13:00",
+                "opening_hours": "Mo-Fr 05:00-13:00; Sa-Su 06:00-13:00",
                 "phone": "+1-480-855-5955",
                 "ref": "2560-w-chandler-blvd",
                 "website": "https://locations.einsteinbros.com/us/az/chandler/2560-w-chandler-blvd"
@@ -471,7 +471,7 @@
                 "addr:unitname": "Building",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels Northern Arizona University",
+                "name": "Einstein Bros. Bagels Northern Arizona University",
                 "opening_hours": "Mo-Fr 07:00-15:00",
                 "phone": "+1-800-224-3563",
                 "ref": "306-east-pine-knoll-drive",
@@ -496,7 +496,7 @@
                 "addr:street": "East Williams Field Road",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels Val Vista & Williams Field",
+                "name": "Einstein Bros. Bagels Val Vista & Williams Field",
                 "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
                 "phone": "+1-480-857-0486",
                 "ref": "1447-e-williams-field-rd",
@@ -735,7 +735,7 @@
                 "addr:unitname": "Suite",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels 21st & Northern",
+                "name": "Einstein Bros. Bagels 21st & Northern",
                 "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
                 "phone": "+1-602-973-1556",
                 "ref": "2080-w-northern-ave",
@@ -940,7 +940,7 @@
                 "addr:street": "North 90th Street",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels 90th & Shea",
+                "name": "Einstein Bros. Bagels 90th & Shea",
                 "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
                 "phone": "+1-480-451-1796",
                 "ref": "10250-n-90th-st",
@@ -1196,7 +1196,7 @@
                 "addr:street": "South Rural Road",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels Rural & University",
+                "name": "Einstein Bros. Bagels Rural & University",
                 "opening_hours": "Mo-Su 06:00-13:00",
                 "phone": "+1-480-303-6606",
                 "ref": "725-south-rural-road",
@@ -1384,31 +1384,6 @@
                 "phone": "+1-760-753-6514",
                 "ref": "1006-n-el-camino-real",
                 "website": "https://locations.einsteinbros.com/us/ca/encinitas/1006-n-el-camino-real"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -116.68541438465576,
-                    35.257223087616374
-                ]
-            },
-            "properties": {
-                "addr:city": "Fort Irwin",
-                "addr:country": "US",
-                "addr:housenumber": "918",
-                "addr:postcode": "92310",
-                "addr:state": "CA",
-                "addr:street": "Langford Lake Road",
-                "brand": "Einstein Bros. Bagels",
-                "brand:wikidata": "Q5349788",
-                "name": "Einstein Bros. Bagels Fort Irwin",
-                "opening_hours": "Mo-Fr 07:00-14:00",
-                "phone": "+1-760-386-2002",
-                "ref": "918-langford-lake-rd",
-                "website": "https://locations.einsteinbros.com/us/ca/fort-irwin/918-langford-lake-rd"
             }
         },
         {
@@ -2383,7 +2358,7 @@
                 "addr:unitname": "Suite",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels 40th Ave & Airport Rd",
+                "name": "Einstein Bros. Bagels 40th Ave & Airport Rd",
                 "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-303-307-1234",
                 "ref": "16495-east-40th-circle",
@@ -2535,8 +2510,8 @@
                 "addr:street": "Limelight Avenue",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels Limelight and Meadows Pkwy",
-                "opening_hours": "Mo-Su 06:00-15:00",
+                "name": "Einstein Bros. Bagels Limelight and Meadows Pkwy",
+                "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-303-802-8589",
                 "ref": "3993-limelight-ave",
                 "website": "https://locations.einsteinbros.com/us/co/castle-rock/3993-limelight-ave"
@@ -2612,7 +2587,7 @@
                 "addr:street": "East Woodmen Road",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels Woodman Commons",
+                "name": "Einstein Bros. Bagels Woodman Commons",
                 "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-719-265-8610",
                 "ref": "1706-e-woodmen-rd",
@@ -2662,7 +2637,7 @@
                 "addr:street": "North Tejon Street",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels Tejon & Kiowa",
+                "name": "Einstein Bros. Bagels Tejon & Kiowa",
                 "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-719-445-4795",
                 "ref": "32-n-tejon-street",
@@ -2914,8 +2889,8 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels ",
-                "opening_hours": "Mo-Fr 07:00-17:00; Sa-Su 08:00-16:00",
-                "phone": "+1-303-315-5277",
+                "opening_hours": "Mo-Fr 07:00-15:00; Sa 07:00-14:00",
+                "phone": "+1-303-315-1151",
                 "ref": "318-walnut-st",
                 "website": "https://locations.einsteinbros.com/us/co/denver/318-walnut-st"
             }
@@ -3296,7 +3271,7 @@
                 "addr:street": "East County Line Road",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels Quebec & County Line",
+                "name": "Einstein Bros. Bagels Quebec & County Line",
                 "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-303-779-0756",
                 "ref": "7120-e-county-line-road",
@@ -3425,7 +3400,7 @@
                 "addr:street": "Wadsworth Boulevard",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels Wadsworth",
+                "name": "Einstein Bros. Bagels Wadsworth",
                 "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-303-232-3922",
                 "ref": "120-wadsworth-blvd",
@@ -3581,7 +3556,7 @@
                 "addr:unitname": "",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels Hwy 287 & 29th St",
+                "name": "Einstein Bros. Bagels Hwy 287 & 29th St",
                 "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-970-612-4000",
                 "ref": "104-e-29th-street",
@@ -3618,6 +3593,31 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -104.637826,
+                    38.261824
+                ]
+            },
+            "properties": {
+                "addr:city": "Pueblo",
+                "addr:country": "US",
+                "addr:housenumber": "900",
+                "addr:postcode": "81004",
+                "addr:state": "CO",
+                "addr:street": "West Orman Drive",
+                "brand": "Einstein Bros. Bagels",
+                "brand:wikidata": "Q5349788",
+                "name": "Einstein Bros. Bagels ",
+                "opening_hours": "Mo-Fr 07:00-14:00",
+                "phone": "+1-719-201-1561",
+                "ref": "900-w-orman-drive",
+                "website": "https://locations.einsteinbros.com/us/co/pueblo/900-w-orman-drive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -104.99425649642939,
                     39.956306211131945
                 ]
@@ -3633,7 +3633,7 @@
                 "addr:unitname": "Suite",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels Orchard Place",
+                "name": "Einstein Bros. Bagels Orchard Place",
                 "opening_hours": "Mo-Su 06:00-15:00",
                 "phone": "+1-720-214-7987",
                 "ref": "14315-orchard-parkway",
@@ -4211,7 +4211,7 @@
                 "addr:street": "NE Pine Island Road",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels Pine Island",
+                "name": "Einstein Bros. Bagels Pine Island",
                 "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-239-829-6495",
                 "ref": "2068-ne-pine-island-rd",
@@ -4261,7 +4261,7 @@
                 "addr:street": "North McMullen Booth Road",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels Safety Harbor",
+                "name": "Einstein Bros. Bagels Safety Harbor",
                 "opening_hours": "Mo-Fr 05:30-14:00; Sa-Su 06:00-14:00",
                 "phone": "+1-727-791-3909",
                 "ref": "2519-n-mcmullen-booth-rd",
@@ -5626,7 +5626,7 @@
                 "addr:street": "South Tamiami Trail",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels Bee Ridge & U.S. 41",
+                "name": "Einstein Bros. Bagels Bee Ridge & U.S. 41",
                 "opening_hours": "Mo-Fr 05:30-14:00; Sa-Su 06:00-14:00",
                 "phone": "+1-941-952-0300",
                 "ref": "3800-s-tamiami-trail",
@@ -5751,7 +5751,7 @@
                 "addr:street": "North Dale Mabry Highway",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels N.  Dale Mabry Hwy & Floyd Rd",
+                "name": "Einstein Bros. Bagels N.  Dale Mabry Hwy & Floyd Rd",
                 "opening_hours": "Mo-Fr 05:30-14:00; Sa-Su 06:00-14:00",
                 "phone": "+1-813-968-8868",
                 "ref": "10802-n-dale-mabry-highway",
@@ -6155,9 +6155,9 @@
                 "addr:street": "14th Street NE",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels Atlantic House",
+                "name": "Einstein Bros. Bagels Atlantic House",
                 "opening_hours": "Mo-Su 05:30-14:00",
-                "phone": "+1-678-608-3918",
+                "phone": "+1-404-287-0167",
                 "ref": "17-14th-street-ne",
                 "website": "https://locations.einsteinbros.com/us/ga/atlanta/17-14th-street-ne"
             }
@@ -6617,7 +6617,7 @@
                 "addr:unitname": "Suite",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels Meridian Shopping Center",
+                "name": "Einstein Bros. Bagels Meridian Shopping Center",
                 "opening_hours": "Mo-Fr 05:30-14:00; Sa-Su 06:00-14:00",
                 "phone": "+1-678-722-3131",
                 "ref": "4324-lavista-road",
@@ -7135,32 +7135,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -87.79802307486534,
-                    42.08034898132433
-                ]
-            },
-            "properties": {
-                "addr:city": "Glenview",
-                "addr:country": "US",
-                "addr:housenumber": "1401",
-                "addr:postcode": "60025",
-                "addr:state": "IL",
-                "addr:street": "Waukegan Road",
-                "addr:unit": "B",
-                "addr:unitname": "Suite",
-                "brand": "Einstein Bros. Bagels",
-                "brand:wikidata": "Q5349788",
-                "name": "Einstein Bros. Bagels Lake & Waukegan",
-                "phone": "+1-847-486-8700",
-                "ref": "1401-waukegan-rd",
-                "website": "https://locations.einsteinbros.com/us/il/glenview/1401-waukegan-rd"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -87.847762,
                     42.1052889
                 ]
@@ -7601,7 +7575,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Broad Ripple & Compton",
-                "opening_hours": "Mo-Su 06:00-12:00",
+                "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-317-722-9888",
                 "ref": "1055-broad-ripple-ave",
                 "website": "https://locations.einsteinbros.com/us/in/indianapolis/1055-broad-ripple-ave"
@@ -7626,7 +7600,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels 86th & Purdue",
-                "opening_hours": "Mo-Su 06:00-11:00",
+                "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-317-802-9888",
                 "ref": "3450-w-86th-st",
                 "website": "https://locations.einsteinbros.com/us/in/indianapolis/3450-w-86th-st"
@@ -7800,7 +7774,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Northwestern & North St",
-                "opening_hours": "Mo-Su 06:00-14:00",
+                "opening_hours": "Mo-Su 06:00-12:00",
                 "phone": "+1-765-743-8988",
                 "ref": "201-northwestern-ave",
                 "website": "https://locations.einsteinbros.com/us/in/west-lafayette/201-northwestern-ave"
@@ -8237,33 +8211,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -92.073751,
-                    32.52771
-                ]
-            },
-            "properties": {
-                "addr:city": "Monroe",
-                "addr:country": "US",
-                "addr:housenumber": "700",
-                "addr:postcode": "71209",
-                "addr:state": "LA",
-                "addr:street": "University Avenue",
-                "addr:unit": "121",
-                "addr:unitname": "",
-                "brand": "Einstein Bros. Bagels",
-                "brand:wikidata": "Q5349788",
-                "name": "Einstein Bros. Bagels University of LA Monroe",
-                "opening_hours": "Mo-Fr 07:00-14:00",
-                "phone": "+1-318-342-1997",
-                "ref": "700-university-ave",
-                "website": "https://locations.einsteinbros.com/us/la/monroe/700-university-ave"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -90.10465174913406,
                     29.984680860545733
                 ]
@@ -8353,7 +8300,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Umass Lowell- ARAMARK",
-                "opening_hours": "Mo-Th 07:00-19:00; Fr 07:00-17:00",
+                "opening_hours": "Mo-Fr 07:00-14:00",
                 "phone": "+1-978-934-5764",
                 "ref": "1-university-ave",
                 "website": "https://locations.einsteinbros.com/us/ma/lowell/1-university-ave"
@@ -9378,7 +9325,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Lawrence Technological University",
-                "opening_hours": "Mo-Fr 07:30-14:00",
+                "opening_hours": "Mo-We 08:30-14:00; Th 09:00-14:00; Fr 07:30-14:00",
                 "phone": "+1-248-204-3203",
                 "ref": "21000-w-10-mile-rd",
                 "website": "https://locations.einsteinbros.com/us/mi/southfield/21000-w-10-mile-rd"
@@ -9453,7 +9400,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Crooks & Big Beaver",
-                "opening_hours": "Mo-Sa 06:00-14:00; Su 07:00-13:00",
+                "opening_hours": "Mo-Su 06:00-11:00",
                 "phone": "+1-248-816-9980",
                 "ref": "3043-crooks-rd",
                 "website": "https://locations.einsteinbros.com/us/mi/troy/3043-crooks-rd"
@@ -9681,7 +9628,7 @@
                 "addr:unitname": "Suite",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels Wells Fargo Tower",
+                "name": "Einstein Bros. Bagels Wells Fargo Tower",
                 "opening_hours": "Mo-Fr 06:00-13:00",
                 "phone": "+1-612-333-9088",
                 "ref": "550-s-4th-street",
@@ -10482,7 +10429,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Charlotte Airport",
-                "opening_hours": "Mo-Su 06:00-18:00",
+                "opening_hours": "Mo-Su 07:30-15:00",
                 "phone": "+1-704-359-0199",
                 "ref": "5501-josh-birmingham-pkwy",
                 "website": "https://locations.einsteinbros.com/us/nc/charlotte/5501-josh-birmingham-pkwy"
@@ -11155,8 +11102,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -108.2845791,
-                    32.7764991
+                    -108.282566,
+                    32.776986
                 ]
             },
             "properties": {
@@ -12494,7 +12441,7 @@
                 "addr:street": "East Apache Street",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels Tulsa Airport Pre-Security",
+                "name": "Einstein Bros. Bagels Tulsa Airport Pre-Security",
                 "opening_hours": "Mo-Su 04:30-22:00",
                 "phone": "+1-918-398-6526",
                 "ref": "7777-e-apache-street-11004913",
@@ -12595,7 +12542,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Southern Oregon Univ",
-                "opening_hours": "Mo-Fr 07:30-17:00",
+                "opening_hours": "Mo-Th 08:00-17:00; Fr 08:00-14:00",
                 "phone": "+1-541-552-8000",
                 "ref": "1250-siskiyou-blvd",
                 "website": "https://locations.einsteinbros.com/us/or/ashland/1250-siskiyou-blvd"
@@ -13427,8 +13374,8 @@
                 "addr:street": "Mount Rushmore Road",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels Mount Rushmore & Colmbus",
-                "opening_hours": "Mo-Su 06:00-15:00",
+                "name": "Einstein Bros. Bagels Mount Rushmore & Colmbus",
+                "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-605-341-3266",
                 "ref": "902-mount-rushmore-road",
                 "website": "https://locations.einsteinbros.com/us/sd/rapid-city/902-mount-rushmore-road"
@@ -14033,7 +13980,7 @@
                 "addr:street": "Presidential Boulevard",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels Austin-Bergstrom International Airport",
+                "name": "Einstein Bros. Bagels Austin-Bergstrom International Airport",
                 "opening_hours": "Mo-Su 04:30-22:00",
                 "phone": "+1-512-530-2900",
                 "ref": "3600-presidential-blvd",
@@ -15172,7 +15119,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Keller Parkway",
-                "opening_hours": "Mo-Su 06:00-13:00",
+                "opening_hours": "Mo-Fr 05:00-15:00; Sa-Su 06:00-15:00",
                 "phone": "+1-682-593-0853",
                 "ref": "751-keller-pkwy",
                 "website": "https://locations.einsteinbros.com/us/tx/keller/751-keller-pkwy"
@@ -15299,7 +15246,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels #287 & Cooper Rd",
-                "opening_hours": "Mo-Su 05:00-14:00",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-15:00",
                 "phone": "+1-817-435-5674",
                 "ref": "2016-highway",
                 "website": "https://locations.einsteinbros.com/us/tx/mansfield/2016-highway"
@@ -15409,6 +15356,30 @@
                 "phone": "+1-830-358-5055",
                 "ref": "156-s-state-highway-46",
                 "website": "https://locations.einsteinbros.com/us/tx/new-braunfels/156-s-state-highway-46"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.182738,
+                    30.229975
+                ]
+            },
+            "properties": {
+                "addr:city": "Paige",
+                "addr:country": "US",
+                "addr:postcode": "78942",
+                "addr:state": "TX",
+                "addr:street": "Hwy 290 & 291",
+                "brand": "Einstein Bros. Bagels",
+                "brand:wikidata": "Q5349788",
+                "name": "Einstein Bros. Bagels ",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-979-542-2340",
+                "ref": "hwy-290-&-291",
+                "website": "https://locations.einsteinbros.com/us/tx/paige/hwy-290-&-291"
             }
         },
         {
@@ -16473,6 +16444,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels George Mason University - Merten Hall",
+                "opening_hours": "Mo-Fr 07:30-17:00",
                 "phone": "+1-703-593-7084",
                 "ref": "4441-george-mason-blvd",
                 "website": "https://locations.einsteinbros.com/us/va/fairfax/4441-george-mason-blvd"
@@ -16497,6 +16469,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels George Mason University - Engineering",
+                "opening_hours": "Mo-Fr 08:00-13:00",
                 "phone": "+1-703-993-5573",
                 "ref": "4511-patriot-circle",
                 "website": "https://locations.einsteinbros.com/us/va/fairfax/4511-patriot-circle"
@@ -16598,7 +16571,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Liberty University - Tinney Cafe",
-                "opening_hours": "Mo-Fr 07:30-20:00",
+                "opening_hours": "Mo-Fr 07:30-15:00; Sa 09:00-14:00",
                 "phone": "+1-434-582-3079",
                 "ref": "1971-university-blvd",
                 "website": "https://locations.einsteinbros.com/us/va/lynchburg/1971-university-blvd"
@@ -16796,7 +16769,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Virginia Comm. Univ- Shafer",
-                "opening_hours": "Mo-Fr 08:00-15:00",
+                "opening_hours": "Mo-Fr 08:00-14:00",
                 "phone": "+1-804-828-7298",
                 "ref": "810-cathedral-pl",
                 "website": "https://locations.einsteinbros.com/us/va/richmond/810-cathedral-pl"
@@ -17050,7 +17023,7 @@
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Washington State Univ",
                 "opening_hours": "Mo-Fr 07:30-22:00; Sa-Su 10:30-22:00",
-                "phone": "+1-509-335-1393",
+                "phone": "+1-509-335-1381",
                 "ref": "100-dairy-road",
                 "website": "https://locations.einsteinbros.com/us/wa/pullman/100-dairy-road"
             }
@@ -17087,8 +17060,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.2966959,
-                    47.6621415
+                    -122.296785,
+                    47.662245
                 ]
             },
             "properties": {
@@ -17177,7 +17150,7 @@
                 "addr:unitname": "Suite",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels Bluemound & Calhoun",
+                "name": "Einstein Bros. Bagels Bluemound & Calhoun",
                 "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-262-860-9088",
                 "ref": "17000-w-bluemound-road",
@@ -17204,7 +17177,7 @@
                 "addr:unitname": "Suite",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels I94 & Moorland",
+                "name": "Einstein Bros. Bagels I94 & Moorland",
                 "opening_hours": "Mo-Fr 06:00-13:00; Sa-Su 06:00-14:00",
                 "phone": "+1-262-649-2269",
                 "ref": "880-s-moorland-road",
@@ -17256,7 +17229,7 @@
                 "addr:unitname": "Suite",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels Fish Hatchery Road",
+                "name": "Einstein Bros. Bagels Fish Hatchery Road",
                 "opening_hours": "Mo-Th 06:00-13:30; Fr-Su 06:00-14:00",
                 "phone": "+1-608-709-7944",
                 "ref": "2839-fish-hatchery-road",
@@ -17358,7 +17331,7 @@
                 "addr:unitname": "Unit",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels University of Wisconsin - Madison",
+                "name": "Einstein Bros. Bagels University of Wisconsin - Madison",
                 "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-608-661-1399",
                 "ref": "2701-university-ave",
@@ -17383,7 +17356,7 @@
                 "addr:street": "North Port Washington Road",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels Port Washington Rd & Mequon",
+                "name": "Einstein Bros. Bagels Port Washington Rd & Mequon",
                 "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-262-241-9878",
                 "ref": "10950-n-port-washington-rd",
@@ -17433,7 +17406,7 @@
                 "addr:street": "South 27th Street",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels 27th & Oklahoma",
+                "name": "Einstein Bros. Bagels 27th & Oklahoma",
                 "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-414-385-9888",
                 "ref": "3129-south-27th-street",
@@ -17458,7 +17431,7 @@
                 "addr:street": "East Ogden Avenue",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels Ogden & Jackson",
+                "name": "Einstein Bros. Bagels Ogden & Jackson",
                 "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-414-276-9888",
                 "ref": "544-east-ogden-ave",
@@ -17508,7 +17481,7 @@
                 "addr:street": "North Oakland Avenue",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels Oakland & Marion",
+                "name": "Einstein Bros. Bagels Oakland & Marion",
                 "opening_hours": "Mo-Th 06:00-13:00; Fr-Su 06:00-14:00",
                 "phone": "+1-414-962-9888",
                 "ref": "4301-north-oakland-ave",
@@ -17560,7 +17533,7 @@
                 "addr:unitname": "Suite",
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
-                "name": "Coffee & Bagels Sunset Crossings",
+                "name": "Einstein Bros. Bagels Sunset Crossings",
                 "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-262-513-2820",
                 "ref": "180-east-sunset-drive",
@@ -17613,12 +17586,12 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels University of Wyoming",
-                "opening_hours": "Mo-Fr 07:30-19:00",
+                "opening_hours": "Mo-Fr 08:00-14:00",
                 "phone": "+1-307-766-3626",
                 "ref": "1000-e-university-ave",
                 "website": "https://locations.einsteinbros.com/us/wy/laramie/1000-e-university-ave"
             }
         }
     ],
-    "updated_at": 1645258139586
+    "updated_at": 1647072442515
 }

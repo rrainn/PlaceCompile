@@ -375,7 +375,7 @@
                 "brand:wikidata": "Q4978656",
                 "name": "Bruegger's Bagels La Costa",
                 "opening_hours": "Mo-Th 05:30-15:00; Fr 06:00-15:00; Sa-Su 06:00-15:30",
-                "phone": "+1-760-632-1432",
+                "phone": "+1-760-652-5075",
                 "ref": "7680-el-camino-real",
                 "website": "https://locations.brueggers.com/us/ca/carlsbad/7680-el-camino-real"
             }
@@ -2162,7 +2162,7 @@
                 "addr:unitname": "Suite",
                 "brand": "Bruegger's Bagels",
                 "brand:wikidata": "Q4978656",
-                "name": "Bruegger's Bagels and Caribou Coffee Bass Lake & 494 with Caribou Coffee",
+                "name": "Bruegger's Bagels Bass Lake & 494 with Caribou Coffee",
                 "opening_hours": "Mo-Su 06:00-15:00",
                 "phone": "+1-763-559-6968",
                 "ref": "13384-bass-lake-rd",
@@ -4257,7 +4257,7 @@
                 "brand": "Bruegger's Bagels",
                 "brand:wikidata": "Q4978656",
                 "name": "Bruegger's Bagels Strongsville",
-                "opening_hours": "Mo-Su 06:00-12:00",
+                "opening_hours": "Mo-Su 06:00-14:00",
                 "phone": "+1-440-572-4646",
                 "ref": "15035-pearl-rd",
                 "website": "https://locations.brueggers.com/us/oh/strongsville/15035-pearl-rd"
@@ -4893,8 +4893,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -88.4816612,
-                    43.095597
+                    -88.48182889814757,
+                    43.09555573927564
                 ]
             },
             "properties": {
@@ -4964,5 +4964,5 @@
             }
         }
     ],
-    "updated_at": 1645257944182
+    "updated_at": 1647072321239
 }

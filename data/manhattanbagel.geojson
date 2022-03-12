@@ -31,31 +31,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -118.394084572792,
-                    34.143297397113244
-                ]
-            },
-            "properties": {
-                "addr:city": "Studio City",
-                "addr:country": "US",
-                "addr:housenumber": "12046",
-                "addr:postcode": "91604",
-                "addr:state": "CA",
-                "addr:street": "Ventura Boulevard",
-                "brand": "Manhattan Bagel",
-                "brand:wikidata": "Q64517333",
-                "name": "Manhattan Bagel Studio City",
-                "opening_hours": "Mo-Sa 06:00-15:00; Su 07:00-15:00",
-                "phone": "+1-818-766-9491",
-                "ref": "12046-ventura-blvd",
-                "website": "https://locations.manhattanbagel.com/us/ca/studio-city/12046-ventura-blvd"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -118.5700003,
                     34.1707215
                 ]
@@ -1606,5 +1581,5 @@
             }
         }
     ],
-    "updated_at": 1645258153344
+    "updated_at": 1647072453379
 }

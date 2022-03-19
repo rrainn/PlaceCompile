@@ -20,7 +20,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Santan",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-480-963-0255",
                 "ref": "az/gilbert/2975-south-market-street",
                 "website": "https://locations.noodles.com/az/gilbert/2975-south-market-street.html"
@@ -69,7 +69,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Arrowhead Crossing",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-623-979-9477",
                 "ref": "az/peoria/7541-west-bell-road",
                 "website": "https://locations.noodles.com/az/peoria/7541-west-bell-road.html"
@@ -94,7 +94,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Deer Valley Towne Center",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-623-587-0767",
                 "ref": "az/phoenix/2805-west-agua-fria-freeway",
                 "website": "https://locations.noodles.com/az/phoenix/2805-west-agua-fria-freeway.html"
@@ -119,7 +119,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Ahwatukee Foothills Towne Center",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-480-893-1774",
                 "ref": "az/phoenix/4901-e--ray-road",
                 "website": "https://locations.noodles.com/az/phoenix/4901-e--ray-road.html"
@@ -144,7 +144,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Tempe Marketplace",
-                "opening_hours": "Mo-Su 11:00-22:00",
+                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-480-921-3500",
                 "ref": "az/tempe/2000-e--rio-salado-parkway",
                 "website": "https://locations.noodles.com/az/tempe/2000-e--rio-salado-parkway.html"
@@ -546,7 +546,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Arvada - 64th & Yank",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-303-423-3800",
                 "ref": "co/arvada/6408-yank-way",
                 "website": "https://locations.noodles.com/co/arvada/6408-yank-way.html"
@@ -571,7 +571,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Wadsworth",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Tu 10:30-21:00; We-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-303-432-0066",
                 "ref": "co/arvada/8071-wadsworth-blvd",
                 "website": "https://locations.noodles.com/co/arvada/8071-wadsworth-blvd.html"
@@ -596,7 +596,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Havana Gardens",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-303-695-6000",
                 "ref": "co/aurora/10550-e-garden-drive",
                 "website": "https://locations.noodles.com/co/aurora/10550-e-garden-drive.html"
@@ -621,7 +621,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Fitzsimons",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-720-262-4451",
                 "ref": "co/aurora/13700-e-colfax",
                 "website": "https://locations.noodles.com/co/aurora/13700-e-colfax.html"
@@ -646,7 +646,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "I-70 & Tower",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-303-371-6889",
                 "ref": "co/aurora/3450-north-tower-rd",
                 "website": "https://locations.noodles.com/co/aurora/3450-north-tower-rd.html"
@@ -671,7 +671,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Quincy & Buckley",
-                "opening_hours": "Mo-Su 11:00-22:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-303-400-0947",
                 "ref": "co/aurora/4261-s--buckley-road",
                 "website": "https://locations.noodles.com/co/aurora/4261-s--buckley-road.html"
@@ -696,7 +696,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Southlands",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-303-243-5270",
                 "ref": "co/aurora/6200-south-main-st",
                 "website": "https://locations.noodles.com/co/aurora/6200-south-main-st.html"
@@ -796,7 +796,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Highway 287",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-303-404-3400",
                 "ref": "co/broomfield/1100-hwy-287-at-miramonte",
                 "website": "https://locations.noodles.com/co/broomfield/1100-hwy-287-at-miramonte.html"
@@ -821,7 +821,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Broomfield Corners",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-303-460-7044",
                 "ref": "co/broomfield/4530-w--121st-ave",
                 "website": "https://locations.noodles.com/co/broomfield/4530-w--121st-ave.html"
@@ -846,7 +846,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Interlocken",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-720-887-5700",
                 "ref": "co/broomfield/635a-flatiron-marketplace-dr",
                 "website": "https://locations.noodles.com/co/broomfield/635a-flatiron-marketplace-dr.html"
@@ -871,7 +871,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Castle Rock",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-303-814-1148",
                 "ref": "co/castle-rock/34-e-allen-street",
                 "website": "https://locations.noodles.com/co/castle-rock/34-e-allen-street.html"
@@ -896,7 +896,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Arapahoe & Peoria",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-303-792-5454",
                 "ref": "co/centennial/12023-e-arapahoe-rd",
                 "website": "https://locations.noodles.com/co/centennial/12023-e-arapahoe-rd.html"
@@ -921,7 +921,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Southglenn",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-303-730-2707",
                 "ref": "co/centennial/2370-east-arapahoe",
                 "website": "https://locations.noodles.com/co/centennial/2370-east-arapahoe.html"
@@ -948,7 +948,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Colorado Springs",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-719-208-4550",
                 "ref": "co/colorado-springs/1358-interquest-parkway",
                 "website": "https://locations.noodles.com/co/colorado-springs/1358-interquest-parkway.html"
@@ -973,7 +973,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Broadmoor",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-719-385-0800",
                 "ref": "co/colorado-springs/1812-southgate-rd",
                 "website": "https://locations.noodles.com/co/colorado-springs/1812-southgate-rd.html"
@@ -998,7 +998,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Montebello",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-719-594-5871",
                 "ref": "co/colorado-springs/2455-montebello-square-dr",
                 "website": "https://locations.noodles.com/co/colorado-springs/2455-montebello-square-dr.html"
@@ -1023,7 +1023,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "University Village",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-719-598-7777",
                 "ref": "co/colorado-springs/5166-n-nevada-ave",
                 "website": "https://locations.noodles.com/co/colorado-springs/5166-n-nevada-ave.html"
@@ -1048,7 +1048,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Powers & Barnes",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-719-597-4950",
                 "ref": "co/colorado-springs/5844-barnes-road",
                 "website": "https://locations.noodles.com/co/colorado-springs/5844-barnes-road.html"
@@ -1073,7 +1073,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "North Academy",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-719-264-0022",
                 "ref": "co/colorado-springs/7234-north-academy-blvd",
                 "website": "https://locations.noodles.com/co/colorado-springs/7234-north-academy-blvd.html"
@@ -1098,7 +1098,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Colorado Boulevard",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-303-504-0082",
                 "ref": "co/denver/1502-s--colorado-blvd",
                 "website": "https://locations.noodles.com/co/denver/1502-s--colorado-blvd.html"
@@ -1125,7 +1125,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "16th & Court - Republic Plaza",
-                "opening_hours": "Mo-Su 11:00-20:00",
+                "opening_hours": "Mo-Su 10:30-20:00",
                 "phone": "+1-303-623-1700",
                 "ref": "co/denver/303-16th-street",
                 "website": "https://locations.noodles.com/co/denver/303-16th-street.html"
@@ -1150,7 +1150,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Leetsdale & Cherry",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-303-377-1119",
                 "ref": "co/denver/4590-leetsdale",
                 "website": "https://locations.noodles.com/co/denver/4590-leetsdale.html"
@@ -1177,7 +1177,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "6th and Broadway",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-303-832-6000",
                 "ref": "co/denver/550-broadway",
                 "website": "https://locations.noodles.com/co/denver/550-broadway.html"
@@ -1202,7 +1202,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "I-25 Hampden",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-303-759-3817",
                 "ref": "co/denver/6300-east-hampden",
                 "website": "https://locations.noodles.com/co/denver/6300-east-hampden.html"
@@ -1227,7 +1227,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "E 29th Town Center",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-303-780-0044",
                 "ref": "co/denver/7401-e--29th-ave",
                 "website": "https://locations.noodles.com/co/denver/7401-e--29th-ave.html"
@@ -1252,7 +1252,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Dillon",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-970-468-1222",
                 "ref": "co/dillon/265-dillon-ridge-rd",
                 "website": "https://locations.noodles.com/co/dillon/265-dillon-ridge-rd.html"
@@ -1277,7 +1277,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Hampden",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Tu 10:30-21:00; We-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-303-781-0225",
                 "ref": "co/englewood/697-w-hampden-ave",
                 "website": "https://locations.noodles.com/co/englewood/697-w-hampden-ave.html"
@@ -1302,7 +1302,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Horsetooth",
-                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-970-282-9357",
                 "ref": "co/fort-collins/3519-south-college-ave",
                 "website": "https://locations.noodles.com/co/fort-collins/3519-south-college-ave.html"
@@ -1327,7 +1327,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Timberline",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-970-223-2808",
                 "ref": "co/fort-collins/4733-s--timberline-rd",
                 "website": "https://locations.noodles.com/co/fort-collins/4733-s--timberline-rd.html"
@@ -1352,7 +1352,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "East Laurel Street",
-                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-970-472-2023",
                 "ref": "co/fort-collins/648-s--college-avenue",
                 "website": "https://locations.noodles.com/co/fort-collins/648-s--college-avenue.html"
@@ -1377,7 +1377,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Fountain",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-719-382-3287",
                 "ref": "co/fountain/6825-mesa-ridge-pkwy",
                 "website": "https://locations.noodles.com/co/fountain/6825-mesa-ridge-pkwy.html"
@@ -1402,7 +1402,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Grand Junction",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-970-245-7652",
                 "ref": "co/grand-junction/2474-highway-6---50",
                 "website": "https://locations.noodles.com/co/grand-junction/2474-highway-6---50.html"
@@ -1427,7 +1427,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Greeley",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-970-336-0303",
                 "ref": "co/greeley/4318-west-9th-street-rd",
                 "website": "https://locations.noodles.com/co/greeley/4318-west-9th-street-rd.html"
@@ -1452,7 +1452,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Highway 34 - Greeley",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-970-339-3162",
                 "ref": "co/greeley/4650-centerplace-dr",
                 "website": "https://locations.noodles.com/co/greeley/4650-centerplace-dr.html"
@@ -1477,7 +1477,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Highlands Ranch Town Center",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-303-346-4322",
                 "ref": "co/highlands-ranch/1601-mayberry-dr",
                 "website": "https://locations.noodles.com/co/highlands-ranch/1601-mayberry-dr.html"
@@ -1502,7 +1502,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "South University",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-720-348-1522",
                 "ref": "co/highlands-ranch/9563-south-university-blvd",
                 "website": "https://locations.noodles.com/co/highlands-ranch/9563-south-university-blvd.html"
@@ -1552,7 +1552,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Denver West",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-303-278-0582",
                 "ref": "co/lakewood/14025-w--colfax-dr",
                 "website": "https://locations.noodles.com/co/lakewood/14025-w--colfax-dr.html"
@@ -1577,7 +1577,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "2nd & Union",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-303-985-7000",
                 "ref": "co/lakewood/375-union-blvd",
                 "website": "https://locations.noodles.com/co/lakewood/375-union-blvd.html"
@@ -1602,7 +1602,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Lakewood - Belmar",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-303-716-3550",
                 "ref": "co/lakewood/7740-west-alameda",
                 "website": "https://locations.noodles.com/co/lakewood/7740-west-alameda.html"
@@ -1627,7 +1627,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Aspen Grove",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-303-738-3900",
                 "ref": "co/littleton/7301-s--santa-fe-dr",
                 "website": "https://locations.noodles.com/co/littleton/7301-s--santa-fe-dr.html"
@@ -1652,7 +1652,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Wads-Belleview",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-303-904-0870",
                 "ref": "co/littleton/8555-w-belleview-ave",
                 "website": "https://locations.noodles.com/co/littleton/8555-w-belleview-ave.html"
@@ -1677,7 +1677,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Lone Tree",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-303-662-8866",
                 "ref": "co/littleton/9400-heritage-hills-cir",
                 "website": "https://locations.noodles.com/co/littleton/9400-heritage-hills-cir.html"
@@ -1702,7 +1702,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "C470 & Kipling",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-303-979-7585",
                 "ref": "co/littleton/9956-remington",
                 "website": "https://locations.noodles.com/co/littleton/9956-remington.html"
@@ -1727,7 +1727,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Hover Street",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-303-776-5664",
                 "ref": "co/longmont/1087-s--hover-street",
                 "website": "https://locations.noodles.com/co/longmont/1087-s--hover-street.html"
@@ -1752,7 +1752,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "North Longmont",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-303-776-8686",
                 "ref": "co/longmont/2255-n-main-st",
                 "website": "https://locations.noodles.com/co/longmont/2255-n-main-st.html"
@@ -1777,7 +1777,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Loveland",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-970-612-0982",
                 "ref": "co/loveland/1550-fall-river-dr",
                 "website": "https://locations.noodles.com/co/loveland/1550-fall-river-dr.html"
@@ -1802,7 +1802,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Loveland - Highway 287",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-970-663-9366",
                 "ref": "co/loveland/225-east-29th-street",
                 "website": "https://locations.noodles.com/co/loveland/225-east-29th-street.html"
@@ -1827,7 +1827,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "South Parker Road",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-720-842-5330",
                 "ref": "co/parker/11153-s--parker-rd",
                 "website": "https://locations.noodles.com/co/parker/11153-s--parker-rd.html"
@@ -1852,7 +1852,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Parker Jordan Road",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-720-842-5117",
                 "ref": "co/parker/17051-lincoln-avenue",
                 "website": "https://locations.noodles.com/co/parker/17051-lincoln-avenue.html"
@@ -1877,7 +1877,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Pueblo",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-719-544-1539",
                 "ref": "co/pueblo/825-west-us-hwy-50",
                 "website": "https://locations.noodles.com/co/pueblo/825-west-us-hwy-50.html"
@@ -1902,7 +1902,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Thornton 120th",
-                "opening_hours": "Mo-Su 11:00-22:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-303-280-2033",
                 "ref": "co/thornton/3824-120th-ave",
                 "website": "https://locations.noodles.com/co/thornton/3824-120th-ave.html"
@@ -1927,7 +1927,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Westminster - Federal Blvd",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Tu 10:30-21:00; We-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-303-404-0032",
                 "ref": "co/westminster/10355-federal-blvd",
                 "website": "https://locations.noodles.com/co/westminster/10355-federal-blvd.html"
@@ -1952,7 +1952,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Orchard Park Place",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-303-450-5202",
                 "ref": "co/westminster/14375-orchard-parkway",
                 "website": "https://locations.noodles.com/co/westminster/14375-orchard-parkway.html"
@@ -1977,7 +1977,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Applewood",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-303-232-6688",
                 "ref": "co/wheat-ridge/3294-youngfield",
                 "website": "https://locations.noodles.com/co/wheat-ridge/3294-youngfield.html"
@@ -2178,8 +2178,9 @@
                 "addr:unitname": "Suite",
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
-                "name": "UCF - Coming Soon",
-                "opening_hours": "Mo-Th 11:15-21:00; Fr-Sa 11:15-22:00; Su 11:15-21:00",
+                "name": "UCF",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "phone": "+1-312-415-6550",
                 "ref": "fl/orlando/12101-university-blvd",
                 "website": "https://locations.noodles.com/fl/orlando/12101-university-blvd.html"
             }
@@ -2253,7 +2254,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Boise Mall",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-208-375-5022",
                 "ref": "id/boise/535-n--milwaukee",
                 "website": "https://locations.noodles.com/id/boise/535-n--milwaukee.html"
@@ -2278,7 +2279,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Pocatello",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-208-237-9070",
                 "ref": "id/chubbuck/4013-yellowstone-avenue",
                 "website": "https://locations.noodles.com/id/chubbuck/4013-yellowstone-avenue.html"
@@ -2303,7 +2304,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Grand Teton Mall",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-208-528-7366",
                 "ref": "id/idaho-falls/1870-s--25th-east",
                 "website": "https://locations.noodles.com/id/idaho-falls/1870-s--25th-east.html"
@@ -2330,7 +2331,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Meridian",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-208-884-3379",
                 "ref": "id/meridian/2274-n--eagle-rd",
                 "website": "https://locations.noodles.com/id/meridian/2274-n--eagle-rd.html"
@@ -2357,7 +2358,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Nampa",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-208-315-9788",
                 "ref": "id/nampa/1275-n-happy-valley-road",
                 "website": "https://locations.noodles.com/id/nampa/1275-n-happy-valley-road.html"
@@ -2382,7 +2383,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Twin Falls",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-208-736-6241",
                 "ref": "id/twin-falls/1833-blue-lakes-blvd--north",
                 "website": "https://locations.noodles.com/id/twin-falls/1833-blue-lakes-blvd--north.html"
@@ -2407,7 +2408,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Arlington Heights - Downtown",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-847-577-1500",
                 "ref": "il/arlington-heights/66-s--arlington-heights-road",
                 "website": "https://locations.noodles.com/il/arlington-heights/66-s--arlington-heights-road.html"
@@ -2432,7 +2433,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "North Aurora",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-630-499-7175",
                 "ref": "il/aurora/2365-n--farnsworth",
                 "website": "https://locations.noodles.com/il/aurora/2365-n--farnsworth.html"
@@ -2457,7 +2458,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Bloomingdale Square",
-                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-630-671-9411",
                 "ref": "il/bloomingdale/398-w-army-trail-road",
                 "website": "https://locations.noodles.com/il/bloomingdale/398-w-army-trail-road.html"
@@ -2507,7 +2508,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Bolingbrook",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-630-771-9999",
                 "ref": "il/bolingbrook/137-n--weber-road",
                 "website": "https://locations.noodles.com/il/bolingbrook/137-n--weber-road.html"
@@ -2534,7 +2535,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "East Bolingbrook",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-630-755-0066",
                 "ref": "il/bolingbrook/740-janes-ave",
                 "website": "https://locations.noodles.com/il/bolingbrook/740-janes-ave.html"
@@ -2559,7 +2560,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Bradley Commons",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-815-939-3810",
                 "ref": "il/bourbonnais/2024-route-50",
                 "website": "https://locations.noodles.com/il/bourbonnais/2024-route-50.html"
@@ -2584,7 +2585,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Buffalo Grove",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-847-483-9925",
                 "ref": "il/buffalo-grove/1209-west-dundee-road",
                 "website": "https://locations.noodles.com/il/buffalo-grove/1209-west-dundee-road.html"
@@ -2659,7 +2660,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Chicago - Canal & Taylor",
-                "opening_hours": "Mo-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-312-588-1982",
                 "ref": "il/chicago/1022-s--canal-street",
                 "website": "https://locations.noodles.com/il/chicago/1022-s--canal-street.html"
@@ -2684,7 +2685,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Chicago - Lincoln Park",
-                "opening_hours": "Mo-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-773-868-0990",
                 "ref": "il/chicago/2000-n-clybourn-ave",
                 "website": "https://locations.noodles.com/il/chicago/2000-n-clybourn-ave.html"
@@ -2784,7 +2785,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Crystal Lake",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-815-459-4400",
                 "ref": "il/crystal-lake/4912-northwest-highway",
                 "website": "https://locations.noodles.com/il/crystal-lake/4912-northwest-highway.html"
@@ -2809,7 +2810,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Deer Park",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-847-726-1000",
                 "ref": "il/deer-park/20530-north-rand-road",
                 "website": "https://locations.noodles.com/il/deer-park/20530-north-rand-road.html"
@@ -2859,7 +2860,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Dekalb",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-815-756-2145",
                 "ref": "il/dekalb/2561-sycamore-road",
                 "website": "https://locations.noodles.com/il/dekalb/2561-sycamore-road.html"
@@ -2907,7 +2908,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "East Peoria",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-309-698-8640",
                 "ref": "il/east-peoria/358-west-washington-st",
                 "website": "https://locations.noodles.com/il/east-peoria/358-west-washington-st.html"
@@ -2932,7 +2933,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Elgin",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-847-888-0500",
                 "ref": "il/elgin/895-south-randall-road",
                 "website": "https://locations.noodles.com/il/elgin/895-south-randall-road.html"
@@ -2957,7 +2958,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Evanston",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-847-733-1200",
                 "ref": "il/evanston/930-church-street",
                 "website": "https://locations.noodles.com/il/evanston/930-church-street.html"
@@ -3007,7 +3008,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Geneva",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-630-262-6400",
                 "ref": "il/geneva/1310-commons-drive",
                 "website": "https://locations.noodles.com/il/geneva/1310-commons-drive.html"
@@ -3032,7 +3033,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Glen Ellyn",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-630-790-0964",
                 "ref": "il/glen-ellyn/706-roosevelt-rd",
                 "website": "https://locations.noodles.com/il/glen-ellyn/706-roosevelt-rd.html"
@@ -3057,7 +3058,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Glenview",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-847-729-5555",
                 "ref": "il/glenview/1851-tower-drive",
                 "website": "https://locations.noodles.com/il/glenview/1851-tower-drive.html"
@@ -3082,7 +3083,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Gurnee",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-847-406-5488",
                 "ref": "il/gurnee/6681-grand-ave",
                 "website": "https://locations.noodles.com/il/gurnee/6681-grand-ave.html"
@@ -3107,7 +3108,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "La Grange",
-                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-708-579-1100",
                 "ref": "il/la-grange/1-east-burlington-avenue",
                 "website": "https://locations.noodles.com/il/la-grange/1-east-burlington-avenue.html"
@@ -3132,7 +3133,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Lake in the Hills",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-847-854-1500",
                 "ref": "il/lake-in-the-hills/315-n--randall-road",
                 "website": "https://locations.noodles.com/il/lake-in-the-hills/315-n--randall-road.html"
@@ -3182,7 +3183,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Machesney Park",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-815-633-0400",
                 "ref": "il/machesney-park/1247-w--lane-rd",
                 "website": "https://locations.noodles.com/il/machesney-park/1247-w--lane-rd.html"
@@ -3233,7 +3234,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Naperville - Downtown",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-630-369-3332",
                 "ref": "il/naperville/207-south-washington",
                 "website": "https://locations.noodles.com/il/naperville/207-south-washington.html"
@@ -3258,7 +3259,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "South Naperville - 75th Street",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-630-718-2063",
                 "ref": "il/naperville/2727-west-75th-st",
                 "website": "https://locations.noodles.com/il/naperville/2727-west-75th-st.html"
@@ -3283,7 +3284,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Niles",
-                "opening_hours": "Mo-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-847-647-2544",
                 "ref": "il/niles/5681-west-touhy-avenue",
                 "website": "https://locations.noodles.com/il/niles/5681-west-touhy-avenue.html"
@@ -3333,7 +3334,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Norridge",
-                "opening_hours": "Mo-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-708-457-8470",
                 "ref": "il/norridge/4157-north-harlem",
                 "website": "https://locations.noodles.com/il/norridge/4157-north-harlem.html"
@@ -3358,7 +3359,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Oakbrook Terrace",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-630-678-0965",
                 "ref": "il/oakbrook-terrace/18-w-64-west-22nd-street",
                 "website": "https://locations.noodles.com/il/oakbrook-terrace/18-w-64-west-22nd-street.html"
@@ -3383,7 +3384,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Orland Park",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-708-403-4400",
                 "ref": "il/orland-park/14662-la-grange-rd",
                 "website": "https://locations.noodles.com/il/orland-park/14662-la-grange-rd.html"
@@ -3408,7 +3409,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Oswego",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-630-554-6264",
                 "ref": "il/oswego/2336-route-34",
                 "website": "https://locations.noodles.com/il/oswego/2336-route-34.html"
@@ -3433,7 +3434,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Peoria",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-309-691-7302",
                 "ref": "il/peoria/4712-n--university-st",
                 "website": "https://locations.noodles.com/il/peoria/4712-n--university-st.html"
@@ -3458,7 +3459,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Plainfield Village Green",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-815-556-1110",
                 "ref": "il/plainfield/13511-s-route-59",
                 "website": "https://locations.noodles.com/il/plainfield/13511-s-route-59.html"
@@ -3483,7 +3484,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "River Forest",
-                "opening_hours": "Mo-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-708-488-9040",
                 "ref": "il/river-forest/7215-lake-street",
                 "website": "https://locations.noodles.com/il/river-forest/7215-lake-street.html"
@@ -3508,7 +3509,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Rockford",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-815-397-7910",
                 "ref": "il/rockford/6430-e--state-st",
                 "website": "https://locations.noodles.com/il/rockford/6430-e--state-st.html"
@@ -3533,7 +3534,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "St. Charles",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-630-584-2183",
                 "ref": "il/saint-charles/3871-east-main-street",
                 "website": "https://locations.noodles.com/il/saint-charles/3871-east-main-street.html"
@@ -3558,7 +3559,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Schaumburg",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-847-944-8980",
                 "ref": "il/schaumburg/1400-n--meacham-rd",
                 "website": "https://locations.noodles.com/il/schaumburg/1400-n--meacham-rd.html"
@@ -3583,7 +3584,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Schaumburg & Barrington",
-                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-847-798-8636",
                 "ref": "il/schaumburg/2610-west-schaumburg-road",
                 "website": "https://locations.noodles.com/il/schaumburg/2610-west-schaumburg-road.html"
@@ -3633,7 +3634,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Shorewood",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-815-254-5566",
                 "ref": "il/shorewood/920-brook-forest-ave",
                 "website": "https://locations.noodles.com/il/shorewood/920-brook-forest-ave.html"
@@ -3658,7 +3659,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Old Orchard",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-847-324-4910",
                 "ref": "il/skokie/4999-old-orchard-road",
                 "website": "https://locations.noodles.com/il/skokie/4999-old-orchard-road.html"
@@ -3708,7 +3709,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Tinley Park",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-708-444-1810",
                 "ref": "il/tinley-park/15915-s--harlem-avenue",
                 "website": "https://locations.noodles.com/il/tinley-park/15915-s--harlem-avenue.html"
@@ -3733,7 +3734,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Vernon Hills",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-847-816-3910",
                 "ref": "il/vernon-hills/700-n--milwaukee-avenue",
                 "website": "https://locations.noodles.com/il/vernon-hills/700-n--milwaukee-avenue.html"
@@ -3758,7 +3759,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Wheaton",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-630-332-0050",
                 "ref": "il/wheaton/15-danada-square-east",
                 "website": "https://locations.noodles.com/il/wheaton/15-danada-square-east.html"
@@ -3783,7 +3784,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Woodridge - 75th and Lemont",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-630-427-1980",
                 "ref": "il/woodridge/1001-75th-st-at-lemont",
                 "website": "https://locations.noodles.com/il/woodridge/1001-75th-st-at-lemont.html"
@@ -3908,7 +3909,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Crown Point",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-219-203-1946",
                 "ref": "in/crown-point/10720-broadway-avenue",
                 "website": "https://locations.noodles.com/in/crown-point/10720-broadway-avenue.html"
@@ -3933,7 +3934,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Elkhart",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-574-264-5511",
                 "ref": "in/elkhart/405-east-county-road-6",
                 "website": "https://locations.noodles.com/in/elkhart/405-east-county-road-6.html"
@@ -3985,7 +3986,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Ft. Wayne",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-260-436-0091",
                 "ref": "in/fort-wayne/4602-illinois-rd",
                 "website": "https://locations.noodles.com/in/fort-wayne/4602-illinois-rd.html"
@@ -4085,7 +4086,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Keystone Fashion Mall",
-                "opening_hours": "Mo-Th 11:00-19:00; Fr-Sa 11:00-20:00; Su 12:00-17:00",
+                "opening_hours": "Mo-Th 11:00-20:00; Fr-Sa 11:00-21:00; Su 12:00-18:00",
                 "phone": "+1-317-574-1770",
                 "ref": "in/indianapolis/8702-keystone-crossing",
                 "website": "https://locations.noodles.com/in/indianapolis/8702-keystone-crossing.html"
@@ -4135,7 +4136,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Lafayette",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-765-447-2288",
                 "ref": "in/lafayette/3640-south-street",
                 "website": "https://locations.noodles.com/in/lafayette/3640-south-street.html"
@@ -4160,7 +4161,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Mishawaka",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-574-247-4443",
                 "ref": "in/mishawaka/4342-grape-road",
                 "website": "https://locations.noodles.com/in/mishawaka/4342-grape-road.html"
@@ -4210,7 +4211,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Munster",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-219-836-6018",
                 "ref": "in/munster/9140-calumet-ave",
                 "website": "https://locations.noodles.com/in/munster/9140-calumet-ave.html"
@@ -4260,7 +4261,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Plainfield",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr 11:00-22:00; Sa-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-317-839-8600",
                 "ref": "in/plainfield/190-s--perry-rd",
                 "website": "https://locations.noodles.com/in/plainfield/190-s--perry-rd.html"
@@ -4285,7 +4286,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Schererville",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-219-865-3723",
                 "ref": "in/schererville/69-us-highway-41",
                 "website": "https://locations.noodles.com/in/schererville/69-us-highway-41.html"
@@ -4310,7 +4311,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Notre Dame",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-574-208-1551",
                 "ref": "in/south-bend/1233-n-eddy-street",
                 "website": "https://locations.noodles.com/in/south-bend/1233-n-eddy-street.html"
@@ -4335,7 +4336,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Valparaiso",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-219-548-0921",
                 "ref": "in/valparaiso/71-silhavy-rd",
                 "website": "https://locations.noodles.com/in/valparaiso/71-silhavy-rd.html"
@@ -4385,7 +4386,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Ames",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-515-233-4312",
                 "ref": "ia/ames/400-s-duff-avenue",
                 "website": "https://locations.noodles.com/ia/ames/400-s-duff-avenue.html"
@@ -4460,7 +4461,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Coralville",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-319-338-5979",
                 "ref": "ia/coralville/2451-2nd-street",
                 "website": "https://locations.noodles.com/ia/coralville/2451-2nd-street.html"
@@ -4510,7 +4511,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Ingersoll",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-515-288-2541",
                 "ref": "ia/des-moines/2105-ingersoll-ave",
                 "website": "https://locations.noodles.com/ia/des-moines/2105-ingersoll-ave.html"
@@ -4535,7 +4536,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Merle Hay",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-515-278-4294",
                 "ref": "ia/des-moines/5840-douglas-ave",
                 "website": "https://locations.noodles.com/ia/des-moines/5840-douglas-ave.html"
@@ -4585,7 +4586,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Waterloo",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-319-232-6369",
                 "ref": "ia/waterloo/2833-crossroads-blvd",
                 "website": "https://locations.noodles.com/ia/waterloo/2833-crossroads-blvd.html"
@@ -4610,7 +4611,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Jordan Creek",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-515-221-2341",
                 "ref": "ia/west-des-moines/6630-mills-civic-parkway",
                 "website": "https://locations.noodles.com/ia/west-des-moines/6630-mills-civic-parkway.html"
@@ -4635,7 +4636,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Lawrence",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-785-841-4300",
                 "ref": "ks/lawrence/8-west-8th-street",
                 "website": "https://locations.noodles.com/ks/lawrence/8-west-8th-street.html"
@@ -4660,7 +4661,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Manhattan",
-                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-785-539-5373",
                 "ref": "ks/manhattan/705-n--3rd-street",
                 "website": "https://locations.noodles.com/ks/manhattan/705-n--3rd-street.html"
@@ -4685,7 +4686,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Olathe",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-913-829-4848",
                 "ref": "ks/olathe/15208-west-119th-street",
                 "website": "https://locations.noodles.com/ks/olathe/15208-west-119th-street.html"
@@ -4710,7 +4711,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Oak Park Mall",
-                "opening_hours": "Mo-Sa 11:00-21:00; Su 11:00-20:00",
+                "opening_hours": "Mo-Sa 10:30-21:00; Su 10:30-20:00",
                 "phone": "+1-913-541-4064",
                 "ref": "ks/overland-park/11339-95th-st",
                 "website": "https://locations.noodles.com/ks/overland-park/11339-95th-st.html"
@@ -4735,7 +4736,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Overland Park",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-913-239-8424",
                 "ref": "ks/overland-park/13448-metcalf-avenue",
                 "website": "https://locations.noodles.com/ks/overland-park/13448-metcalf-avenue.html"
@@ -4760,7 +4761,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "State Line",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-913-381-4280",
                 "ref": "ks/prairie-village/7600-state-line-rd",
                 "website": "https://locations.noodles.com/ks/prairie-village/7600-state-line-rd.html"
@@ -4785,7 +4786,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Topeka",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-785-271-2317",
                 "ref": "ks/topeka/2110-sw-wanamaker-rd",
                 "website": "https://locations.noodles.com/ks/topeka/2110-sw-wanamaker-rd.html"
@@ -4810,7 +4811,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Rock Road",
-                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-316-630-8009",
                 "ref": "ks/wichita/3300-north-rock-road",
                 "website": "https://locations.noodles.com/ks/wichita/3300-north-rock-road.html"
@@ -4837,7 +4838,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Maize Road",
-                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-316-223-4391",
                 "ref": "ks/wichita/3807-n--maize-road",
                 "website": "https://locations.noodles.com/ks/wichita/3807-n--maize-road.html"
@@ -4987,7 +4988,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Annapolis",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-410-266-3526",
                 "ref": "md/annapolis/2002-annapolis-mall",
                 "website": "https://locations.noodles.com/md/annapolis/2002-annapolis-mall.html"
@@ -5037,7 +5038,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Bel Air",
-                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-410-638-9560",
                 "ref": "md/bel-air/621-bel-air-road",
                 "website": "https://locations.noodles.com/md/bel-air/621-bel-air-road.html"
@@ -5062,7 +5063,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Bowie Town Center",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-301-262-7080",
                 "ref": "md/bowie/3916-town-center-blvd",
                 "website": "https://locations.noodles.com/md/bowie/3916-town-center-blvd.html"
@@ -5112,7 +5113,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Columbia",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-410-872-3729",
                 "ref": "md/columbia/6191-old-dobbin-lane",
                 "website": "https://locations.noodles.com/md/columbia/6191-old-dobbin-lane.html"
@@ -5137,7 +5138,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "N. Frederick on Shorebird St",
-                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-301-644-2058",
                 "ref": "md/frederick/200-a-shorebird-st",
                 "website": "https://locations.noodles.com/md/frederick/200-a-shorebird-st.html"
@@ -5262,7 +5263,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Hagerstown Valley Mall",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-301-582-0310",
                 "ref": "md/hagerstown/17328-valley-mall-rd",
                 "website": "https://locations.noodles.com/md/hagerstown/17328-valley-mall-rd.html"
@@ -5287,7 +5288,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Hunt Valley",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-410-785-1839",
                 "ref": "md/hunt-valley/114-shawan-road",
                 "website": "https://locations.noodles.com/md/hunt-valley/114-shawan-road.html"
@@ -5462,7 +5463,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Eldersburg",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-410-795-2965",
                 "ref": "md/sykesville/6400f-ridge-road",
                 "website": "https://locations.noodles.com/md/sykesville/6400f-ridge-road.html"
@@ -6116,7 +6117,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Apple Valley",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-952-891-5600",
                 "ref": "mn/apple-valley/14879-florence-trail",
                 "website": "https://locations.noodles.com/mn/apple-valley/14879-florence-trail.html"
@@ -6141,7 +6142,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Shoreview",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-651-765-1330",
                 "ref": "mn/arden-hills/3833-lexington-ave--north",
                 "website": "https://locations.noodles.com/mn/arden-hills/3833-lexington-ave--north.html"
@@ -6166,7 +6167,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Blaine",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-763-780-3111",
                 "ref": "mn/blaine/10340-baltimore-st",
                 "website": "https://locations.noodles.com/mn/blaine/10340-baltimore-st.html"
@@ -6191,7 +6192,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Mall of America",
-                "opening_hours": "Mo-Th 11:00-20:00; Fr-Sa 11:00-21:00; Su 11:00-19:00",
+                "opening_hours": "Mo-Th 10:30-20:00; Fr-Sa 10:30-21:00; Su 10:30-19:00",
                 "phone": "+1-952-854-5538",
                 "ref": "mn/bloomington/60-east-broadway",
                 "website": "https://locations.noodles.com/mn/bloomington/60-east-broadway.html"
@@ -6216,7 +6217,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Burnsville",
-                "opening_hours": "Mo-Sa 11:00-21:00; Su 11:00-19:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-952-892-0992",
                 "ref": "mn/burnsville/901-county-rd-42-w",
                 "website": "https://locations.noodles.com/mn/burnsville/901-county-rd-42-w.html"
@@ -6241,7 +6242,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Chanhassen",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-952-401-3407",
                 "ref": "mn/chanhassen/945-west-78th-street",
                 "website": "https://locations.noodles.com/mn/chanhassen/945-west-78th-street.html"
@@ -6266,7 +6267,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Coon Rapids",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-763-427-8666",
                 "ref": "mn/coon-rapids/3479-river-rapids-dr-nw",
                 "website": "https://locations.noodles.com/mn/coon-rapids/3479-river-rapids-dr-nw.html"
@@ -6291,7 +6292,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Cottage Grove",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-651-459-3200",
                 "ref": "mn/cottage-grove/7180-east-point-douglas-rd",
                 "website": "https://locations.noodles.com/mn/cottage-grove/7180-east-point-douglas-rd.html"
@@ -6316,7 +6317,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Duluth",
-                "opening_hours": "Mo-Sa 11:00-21:00; Su 11:00-20:00",
+                "opening_hours": "Mo-Sa 10:30-21:00; Su 10:30-20:00",
                 "phone": "+1-218-722-1670",
                 "ref": "mn/duluth/1600-miller-trunk-hwy",
                 "website": "https://locations.noodles.com/mn/duluth/1600-miller-trunk-hwy.html"
@@ -6341,7 +6342,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Eagan",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-651-994-1144",
                 "ref": "mn/eagan/1340-town-centre-dr-and-denmark",
                 "website": "https://locations.noodles.com/mn/eagan/1340-town-centre-dr-and-denmark.html"
@@ -6366,7 +6367,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "South Eagan",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-651-454-5883",
                 "ref": "mn/eagan/2000-rahncliff-ct",
                 "website": "https://locations.noodles.com/mn/eagan/2000-rahncliff-ct.html"
@@ -6391,7 +6392,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Eden Prairie",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-952-975-0002",
                 "ref": "mn/eden-prairie/13300-technology-dr",
                 "website": "https://locations.noodles.com/mn/eden-prairie/13300-technology-dr.html"
@@ -6416,7 +6417,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Edina - Southdale",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-612-866-8425",
                 "ref": "mn/edina/6531-york-ave-south",
                 "website": "https://locations.noodles.com/mn/edina/6531-york-ave-south.html"
@@ -6441,7 +6442,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Elk River",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-763-441-9191",
                 "ref": "mn/elk-river/18130-zane-st--nw",
                 "website": "https://locations.noodles.com/mn/elk-river/18130-zane-st--nw.html"
@@ -6466,7 +6467,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Golden Valley",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-763-544-1325",
                 "ref": "mn/golden-valley/7808-olson-memorial-hwy",
                 "website": "https://locations.noodles.com/mn/golden-valley/7808-olson-memorial-hwy.html"
@@ -6491,7 +6492,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Mankato",
-                "opening_hours": "Mo-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-507-299-1882",
                 "ref": "mn/mankato/1600-warren-st-and-stadium-rd",
                 "website": "https://locations.noodles.com/mn/mankato/1600-warren-st-and-stadium-rd.html"
@@ -6516,7 +6517,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Maple Grove",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-763-416-1404",
                 "ref": "mn/maple-grove/7840-main-st",
                 "website": "https://locations.noodles.com/mn/maple-grove/7840-main-st.html"
@@ -6541,7 +6542,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Maplewood",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-651-748-1144",
                 "ref": "mn/maplewood/2865-white-bear-ave",
                 "website": "https://locations.noodles.com/mn/maplewood/2865-white-bear-ave.html"
@@ -6591,7 +6592,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Excelsior Blvd at Lake",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-612-915-6440",
                 "ref": "mn/minneapolis/3040-excelsior-blvd-at-lake",
                 "website": "https://locations.noodles.com/mn/minneapolis/3040-excelsior-blvd-at-lake.html"
@@ -6616,7 +6617,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Columbia Heights - Central Avenue",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-763-572-7783",
                 "ref": "mn/minneapolis/5220-central-avenue-ne",
                 "website": "https://locations.noodles.com/mn/minneapolis/5220-central-avenue-ne.html"
@@ -6641,7 +6642,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Crystal Gallery",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-763-535-5533",
                 "ref": "mn/minneapolis/5592-west-broadway",
                 "website": "https://locations.noodles.com/mn/minneapolis/5592-west-broadway.html"
@@ -6666,7 +6667,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Stadium",
-                "opening_hours": "Mo-Su 11:00-22:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-612-331-4865",
                 "ref": "mn/minneapolis/820-washington-ave-se",
                 "website": "https://locations.noodles.com/mn/minneapolis/820-washington-ave-se.html"
@@ -6691,7 +6692,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Minnetonka South",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-952-406-8559",
                 "ref": "mn/minnetonka/4937-county-rd--101",
                 "website": "https://locations.noodles.com/mn/minnetonka/4937-county-rd--101.html"
@@ -6741,7 +6742,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Plymouth Center",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-763-559-4336",
                 "ref": "mn/plymouth/3425-vicksburg-ln-n",
                 "website": "https://locations.noodles.com/mn/plymouth/3425-vicksburg-ln-n.html"
@@ -6766,7 +6767,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Cedar Point",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-612-869-3691",
                 "ref": "mn/richfield/1732-e--66th-st",
                 "website": "https://locations.noodles.com/mn/richfield/1732-e--66th-st.html"
@@ -6791,7 +6792,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Richfield",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-612-869-3386",
                 "ref": "mn/richfield/7630-lyndale-ave-at-77th",
                 "website": "https://locations.noodles.com/mn/richfield/7630-lyndale-ave-at-77th.html"
@@ -6816,7 +6817,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Rochester",
-                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-507-285-1111",
                 "ref": "mn/rochester/3944-marketplace-dr-nw",
                 "website": "https://locations.noodles.com/mn/rochester/3944-marketplace-dr-nw.html"
@@ -6841,7 +6842,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "South Rochester",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-507-292-6996",
                 "ref": "mn/rochester/4607-maine-ave-se",
                 "website": "https://locations.noodles.com/mn/rochester/4607-maine-ave-se.html"
@@ -6866,7 +6867,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Rogers",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Tu 10:30-21:00; We-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-763-428-0100",
                 "ref": "mn/rogers/13590-northdale-blvd",
                 "website": "https://locations.noodles.com/mn/rogers/13590-northdale-blvd.html"
@@ -6891,7 +6892,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Rosemount",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-651-829-2145",
                 "ref": "mn/rosemount/15067-canada-avenue-w",
                 "website": "https://locations.noodles.com/mn/rosemount/15067-canada-avenue-w.html"
@@ -6916,7 +6917,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Roseville",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-651-633-3999",
                 "ref": "mn/roseville/1655-county-road-b2",
                 "website": "https://locations.noodles.com/mn/roseville/1655-county-road-b2.html"
@@ -6941,7 +6942,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "St Cloud State",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-320-253-5153",
                 "ref": "mn/saint-cloud/211-5th-avenue-s",
                 "website": "https://locations.noodles.com/mn/saint-cloud/211-5th-avenue-s.html"
@@ -6966,7 +6967,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "St. Cloud",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-320-251-0216",
                 "ref": "mn/saint-cloud/4011-w-division-st",
                 "website": "https://locations.noodles.com/mn/saint-cloud/4011-w-division-st.html"
@@ -6991,7 +6992,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Knollwood Mall",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-952-933-3004",
                 "ref": "mn/saint-louis-park/8120-highway-7",
                 "website": "https://locations.noodles.com/mn/saint-louis-park/8120-highway-7.html"
@@ -7016,7 +7017,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Highland Park",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-651-695-9300",
                 "ref": "mn/saint-paul/2110-ford-parkway",
                 "website": "https://locations.noodles.com/mn/saint-paul/2110-ford-parkway.html"
@@ -7041,7 +7042,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Midway",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-651-646-8285",
                 "ref": "mn/saint-paul/470-hamline-avenue-n",
                 "website": "https://locations.noodles.com/mn/saint-paul/470-hamline-avenue-n.html"
@@ -7066,7 +7067,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Savage",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-952-226-6778",
                 "ref": "mn/savage/14000-hwy-13-south",
                 "website": "https://locations.noodles.com/mn/savage/14000-hwy-13-south.html"
@@ -7091,7 +7092,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Stillwater",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-651-439-0057",
                 "ref": "mn/stillwater/13301-north-60th-st",
                 "website": "https://locations.noodles.com/mn/stillwater/13301-north-60th-st.html"
@@ -7116,7 +7117,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "White Bear Lake",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-651-653-3394",
                 "ref": "mn/vadnais-heights/1020-highway-96-east",
                 "website": "https://locations.noodles.com/mn/vadnais-heights/1020-highway-96-east.html"
@@ -7141,7 +7142,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Wayzata",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-952-473-0993",
                 "ref": "mn/wayzata/1179-wayzata-blvd-east",
                 "website": "https://locations.noodles.com/mn/wayzata/1179-wayzata-blvd-east.html"
@@ -7166,7 +7167,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "West St. Paul",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-651-251-9850",
                 "ref": "mn/west-st-paul/1590-robert-street-south",
                 "website": "https://locations.noodles.com/mn/west-st-paul/1590-robert-street-south.html"
@@ -7191,7 +7192,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Woodbury – Lake Elmo",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-651-735-0933",
                 "ref": "mn/woodbury/580-woodbury-dr",
                 "website": "https://locations.noodles.com/mn/woodbury/580-woodbury-dr.html"
@@ -7216,7 +7217,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Woodbury – Bielenberg & Valley Creek",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Tu 10:30-21:00; We-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-651-738-2222",
                 "ref": "mn/woodbury/7455-currell-blvd",
                 "website": "https://locations.noodles.com/mn/woodbury/7455-currell-blvd.html"
@@ -7341,7 +7342,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Independence",
-                "opening_hours": "Mo-Sa 11:00-21:00; Su 11:00-20:00",
+                "opening_hours": "Mo-Sa 10:30-21:00; Su 10:30-20:00",
                 "phone": "+1-816-795-0002",
                 "ref": "mo/independence/2140-independence-center-dr",
                 "website": "https://locations.noodles.com/mo/independence/2140-independence-center-dr.html"
@@ -7366,7 +7367,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Liberty West",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-816-407-9089",
                 "ref": "mo/kansas-city/9140-ne-barry-road",
                 "website": "https://locations.noodles.com/mo/kansas-city/9140-ne-barry-road.html"
@@ -7391,7 +7392,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Lee's Summit",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-816-246-8400",
                 "ref": "mo/lee-s-summit/659-nw-blue-parkway",
                 "website": "https://locations.noodles.com/mo/lee-s-summit/659-nw-blue-parkway.html"
@@ -7568,7 +7569,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "O Street",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-402-261-0034",
                 "ref": "ne/lincoln/5001-o-street",
                 "website": "https://locations.noodles.com/ne/lincoln/5001-o-street.html"
@@ -7694,7 +7695,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Gallery at Westbury Plaza",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-516-794-4942",
                 "ref": "ny/garden-city/996-old-country-road",
                 "website": "https://locations.noodles.com/ny/garden-city/996-old-country-road.html"
@@ -7719,7 +7720,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Apex",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-21:00",
                 "phone": "+1-919-362-9153",
                 "ref": "nc/apex/1055-beaver-creek-commons-drive",
                 "website": "https://locations.noodles.com/nc/apex/1055-beaver-creek-commons-drive.html"
@@ -7996,7 +7997,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Brier Creek",
-                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-919-806-1330",
                 "ref": "nc/raleigh/8411-brier-creek-parkway",
                 "website": "https://locations.noodles.com/nc/raleigh/8411-brier-creek-parkway.html"
@@ -8221,7 +8222,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Polaris",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-614-468-0500",
                 "ref": "oh/columbus/1528-gemini-place",
                 "website": "https://locations.noodles.com/oh/columbus/1528-gemini-place.html"
@@ -8371,7 +8372,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Austin Landing",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-937-866-4655",
                 "ref": "oh/miamisburg/3400-rigby-road",
                 "website": "https://locations.noodles.com/oh/miamisburg/3400-rigby-road.html"
@@ -8396,7 +8397,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Powell",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-614-659-0047",
                 "ref": "oh/powell/9733-sawmill-pkwy",
                 "website": "https://locations.noodles.com/oh/powell/9733-sawmill-pkwy.html"
@@ -8421,7 +8422,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Reynoldsburg",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-614-759-2952",
                 "ref": "oh/reynoldsburg/2166-baltimore-reynoldsburg-rd",
                 "website": "https://locations.noodles.com/oh/reynoldsburg/2166-baltimore-reynoldsburg-rd.html"
@@ -8571,7 +8572,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Beaverton",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-503-350-0591",
                 "ref": "or/beaverton/4655-sw-griffith-dr",
                 "website": "https://locations.noodles.com/or/beaverton/4655-sw-griffith-dr.html"
@@ -8596,7 +8597,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Clackamas",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-971-233-0330",
                 "ref": "or/clackamas/12190-se-82nd-ave",
                 "website": "https://locations.noodles.com/or/clackamas/12190-se-82nd-ave.html"
@@ -8621,7 +8622,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Eugene",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-541-485-9044",
                 "ref": "or/eugene/1053-valley-river-way",
                 "website": "https://locations.noodles.com/or/eugene/1053-valley-river-way.html"
@@ -8646,7 +8647,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Hillsboro",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-503-648-4783",
                 "ref": "or/hillsboro/7216-ne-cornell-road",
                 "website": "https://locations.noodles.com/or/hillsboro/7216-ne-cornell-road.html"
@@ -8671,7 +8672,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Springfield Gateway Mall",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-541-726-2615",
                 "ref": "or/springfield/2820-gateway-street",
                 "website": "https://locations.noodles.com/or/springfield/2820-gateway-street.html"
@@ -8696,7 +8697,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Wilsonville",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-503-570-0866",
                 "ref": "or/wilsonville/29991-southwest-town-center-loop",
                 "website": "https://locations.noodles.com/or/wilsonville/29991-southwest-town-center-loop.html"
@@ -8721,7 +8722,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Camp Hill",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-717-761-3333",
                 "ref": "pa/camp-hill/164-south-32nd-street",
                 "website": "https://locations.noodles.com/pa/camp-hill/164-south-32nd-street.html"
@@ -8746,7 +8747,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Cranberry",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-724-772-0350",
                 "ref": "pa/cranberry-township/2030-mackenzie-way",
                 "website": "https://locations.noodles.com/pa/cranberry-township/2030-mackenzie-way.html"
@@ -8771,7 +8772,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Colonial Commons",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-717-651-7780",
                 "ref": "pa/harrisburg/5108-jonestown-rd",
                 "website": "https://locations.noodles.com/pa/harrisburg/5108-jonestown-rd.html"
@@ -8796,7 +8797,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Lancaster Central",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-717-560-0500",
                 "ref": "pa/lancaster/2099-fruitville-pike",
                 "website": "https://locations.noodles.com/pa/lancaster/2099-fruitville-pike.html"
@@ -8896,7 +8897,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "State College PA",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-814-235-0703",
                 "ref": "pa/state-college/244-west-college-ave",
                 "website": "https://locations.noodles.com/pa/state-college/244-west-college-ave.html"
@@ -8921,7 +8922,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "York - South Queen St.",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-717-699-2220",
                 "ref": "pa/york/2108-south-queen-st",
                 "website": "https://locations.noodles.com/pa/york/2108-south-queen-st.html"
@@ -9121,7 +9122,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Draper",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-801-495-5909",
                 "ref": "ut/draper/191-east-12300-south",
                 "website": "https://locations.noodles.com/ut/draper/191-east-12300-south.html"
@@ -9146,7 +9147,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Farmington",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-801-451-8464",
                 "ref": "ut/farmington/1032-west-park-lane",
                 "website": "https://locations.noodles.com/ut/farmington/1032-west-park-lane.html"
@@ -9171,7 +9172,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Layton",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-801-525-2257",
                 "ref": "ut/layton/748-west-antelope-drive",
                 "website": "https://locations.noodles.com/ut/layton/748-west-antelope-drive.html"
@@ -9196,7 +9197,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Logan",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-435-753-2629",
                 "ref": "ut/logan/1430-north-main-street",
                 "website": "https://locations.noodles.com/ut/logan/1430-north-main-street.html"
@@ -9221,7 +9222,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Fort Union",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-801-565-7256",
                 "ref": "ut/midvale/6901-south-1300-east",
                 "website": "https://locations.noodles.com/ut/midvale/6901-south-1300-east.html"
@@ -9246,7 +9247,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Murray",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-801-284-5757",
                 "ref": "ut/murray/5207-south-state-street",
                 "website": "https://locations.noodles.com/ut/murray/5207-south-state-street.html"
@@ -9271,7 +9272,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Riverdale",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-801-621-4180",
                 "ref": "ut/ogden/4245-s--riverdale-road",
                 "website": "https://locations.noodles.com/ut/ogden/4245-s--riverdale-road.html"
@@ -9296,7 +9297,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Orem",
-                "opening_hours": "Mo-Su 11:00-22:00",
+                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-801-226-0776",
                 "ref": "ut/orem/293-east-university-parkway",
                 "website": "https://locations.noodles.com/ut/orem/293-east-university-parkway.html"
@@ -9321,7 +9322,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Provo",
-                "opening_hours": "Mo-Sa 11:00-22:00",
+                "opening_hours": "Mo-Sa 10:30-22:00",
                 "phone": "+1-801-373-9670",
                 "ref": "ut/provo/62-west-bulldog-blvd",
                 "website": "https://locations.noodles.com/ut/provo/62-west-bulldog-blvd.html"
@@ -9346,7 +9347,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Sugarhouse",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-801-466-8880",
                 "ref": "ut/salt-lake-city/1152-east-2100-south",
                 "website": "https://locations.noodles.com/ut/salt-lake-city/1152-east-2100-south.html"
@@ -9371,7 +9372,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "400 South",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-801-359-8315",
                 "ref": "ut/salt-lake-city/358-south-700-east",
                 "website": "https://locations.noodles.com/ut/salt-lake-city/358-south-700-east.html"
@@ -9396,7 +9397,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Sandy",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-801-572-5168",
                 "ref": "ut/sandy/10340-s-state-st",
                 "website": "https://locations.noodles.com/ut/sandy/10340-s-state-st.html"
@@ -9423,7 +9424,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Saratoga Springs",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-385-287-0050",
                 "ref": "ut/saratoga-springs/24-pioneer-crossing",
                 "website": "https://locations.noodles.com/ut/saratoga-springs/24-pioneer-crossing.html"
@@ -9448,7 +9449,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "South Jordan",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-801-495-4933",
                 "ref": "ut/south-jordan/11429-district-dr",
                 "website": "https://locations.noodles.com/ut/south-jordan/11429-district-dr.html"
@@ -9473,7 +9474,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "West Jordan",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-801-280-2095",
                 "ref": "ut/west-jordan/7632-s--campus-view-dr",
                 "website": "https://locations.noodles.com/ut/west-jordan/7632-s--campus-view-dr.html"
@@ -9498,7 +9499,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "West Valley City",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-801-456-5892",
                 "ref": "ut/west-valley-city/2682-south-high-commons-way",
                 "website": "https://locations.noodles.com/ut/west-valley-city/2682-south-high-commons-way.html"
@@ -9623,7 +9624,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Charlottesville",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-434-984-9621",
                 "ref": "va/charlottesville/2035-bond-st",
                 "website": "https://locations.noodles.com/va/charlottesville/2035-bond-st.html"
@@ -9750,7 +9751,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Innsbrook",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-804-747-1004",
                 "ref": "va/glen-allen/4101-dominion-blvd",
                 "website": "https://locations.noodles.com/va/glen-allen/4101-dominion-blvd.html"
@@ -9850,7 +9851,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Mechanicsville",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-804-730-8777",
                 "ref": "va/mechanicsville/7291-battle-hill-dr",
                 "website": "https://locations.noodles.com/va/mechanicsville/7291-battle-hill-dr.html"
@@ -9875,7 +9876,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Chesterfield",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-804-893-4820",
                 "ref": "va/midlothian/1401-alverser-dr",
                 "website": "https://locations.noodles.com/va/midlothian/1401-alverser-dr.html"
@@ -9900,7 +9901,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Westchester",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-804-379-0990",
                 "ref": "va/midlothian/15785-wc-main-st",
                 "website": "https://locations.noodles.com/va/midlothian/15785-wc-main-st.html"
@@ -9950,7 +9951,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Reston",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-703-435-9651",
                 "ref": "va/reston/11648-plaza-america-drive",
                 "website": "https://locations.noodles.com/va/reston/11648-plaza-america-drive.html"
@@ -9975,7 +9976,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Willow Lawn",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-804-288-9777",
                 "ref": "va/richmond/1601-willow-lawn-dr",
                 "website": "https://locations.noodles.com/va/richmond/1601-willow-lawn-dr.html"
@@ -10025,7 +10026,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Vienna",
-                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-703-281-6544",
                 "ref": "va/vienna/201-maple-avenue-east",
                 "website": "https://locations.noodles.com/va/vienna/201-maple-avenue-east.html"
@@ -10050,7 +10051,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Lynnhaven",
-                "opening_hours": "Mo-We 11:00-21:00; Th-Su 11:00-22:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-757-340-5384",
                 "ref": "va/virginia-beach/687-lynnhaven-parkway",
                 "website": "https://locations.noodles.com/va/virginia-beach/687-lynnhaven-parkway.html"
@@ -10125,7 +10126,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "East Vancouver",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-360-260-4839",
                 "ref": "wa/vancouver/19151-se-mill-plain-blvd",
                 "website": "https://locations.noodles.com/wa/vancouver/19151-se-mill-plain-blvd.html"
@@ -10150,7 +10151,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Vancouver Mall",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-360-254-7614",
                 "ref": "wa/vancouver/4311-northeast-thurston-way",
                 "website": "https://locations.noodles.com/wa/vancouver/4311-northeast-thurston-way.html"
@@ -10175,7 +10176,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Appleton - East",
-                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-920-830-7887",
                 "ref": "wi/appleton/3719-east-calumet",
                 "website": "https://locations.noodles.com/wi/appleton/3719-east-calumet.html"
@@ -10200,7 +10201,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Appleton",
-                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-920-734-4859",
                 "ref": "wi/appleton/4333-wisconsin-ave-and-hwy-41",
                 "website": "https://locations.noodles.com/wi/appleton/4333-wisconsin-ave-and-hwy-41.html"
@@ -10225,7 +10226,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Wisconsin Dells",
-                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-608-253-1963",
                 "ref": "wi/baraboo/75-gasser-rd",
                 "website": "https://locations.noodles.com/wi/baraboo/75-gasser-rd.html"
@@ -10275,7 +10276,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Brookfield",
-                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-262-780-1500",
                 "ref": "wi/brookfield/17000-w--bluemound-rd",
                 "website": "https://locations.noodles.com/wi/brookfield/17000-w--bluemound-rd.html"
@@ -10300,7 +10301,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Delafield",
-                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-262-646-4811",
                 "ref": "wi/delafield/3260-golf-road",
                 "website": "https://locations.noodles.com/wi/delafield/3260-golf-road.html"
@@ -10350,7 +10351,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Fitchburg",
-                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-608-276-7600",
                 "ref": "wi/fitchburg/2981-triverton-pike-dr--at-mckee-rd",
                 "website": "https://locations.noodles.com/wi/fitchburg/2981-triverton-pike-dr--at-mckee-rd.html"
@@ -10400,7 +10401,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Glendale",
-                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-414-967-9390",
                 "ref": "wi/glendale/5333-n-port-washington-road",
                 "website": "https://locations.noodles.com/wi/glendale/5333-n-port-washington-road.html"
@@ -10425,7 +10426,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Grafton",
-                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-262-474-0280",
                 "ref": "wi/grafton/1351-north-port-washington-rd",
                 "website": "https://locations.noodles.com/wi/grafton/1351-north-port-washington-rd.html"
@@ -10450,7 +10451,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Green Bay - East",
-                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-920-469-3095",
                 "ref": "wi/green-bay/2450-e--mason-st",
                 "website": "https://locations.noodles.com/wi/green-bay/2450-e--mason-st.html"
@@ -10502,7 +10503,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Green Bay - West",
-                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-920-490-8600",
                 "ref": "wi/green-bay/2665-s--oneida-st",
                 "website": "https://locations.noodles.com/wi/green-bay/2665-s--oneida-st.html"
@@ -10527,7 +10528,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Greenfield",
-                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-414-831-2910",
                 "ref": "wi/greenfield/4859-s-76th-st",
                 "website": "https://locations.noodles.com/wi/greenfield/4859-s-76th-st.html"
@@ -10552,7 +10553,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Hales Corners",
-                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-414-525-8200",
                 "ref": "wi/hales-corners/5794-s--108-st",
                 "website": "https://locations.noodles.com/wi/hales-corners/5794-s--108-st.html"
@@ -10577,7 +10578,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Hudson",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-715-386-5266",
                 "ref": "wi/hudson/1055-pearson-dr",
                 "website": "https://locations.noodles.com/wi/hudson/1055-pearson-dr.html"
@@ -10602,7 +10603,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Janesville",
-                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-608-756-9700",
                 "ref": "wi/janesville/2259-humes-rd",
                 "website": "https://locations.noodles.com/wi/janesville/2259-humes-rd.html"
@@ -10629,7 +10630,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Kenosha East",
-                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-262-771-0771",
                 "ref": "wi/kenosha/6320-green-bay-rd",
                 "website": "https://locations.noodles.com/wi/kenosha/6320-green-bay-rd.html"
@@ -10654,7 +10655,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Kenosha",
-                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-262-857-3168",
                 "ref": "wi/kenosha/7224-118th-ave",
                 "website": "https://locations.noodles.com/wi/kenosha/7224-118th-ave.html"
@@ -10679,7 +10680,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Lake Geneva",
-                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-262-248-3644",
                 "ref": "wi/lake-geneva/351-peller-road",
                 "website": "https://locations.noodles.com/wi/lake-geneva/351-peller-road.html"
@@ -10729,7 +10730,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "University Avenue",
-                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-608-268-2900",
                 "ref": "wi/madison/3600-university-ave-and-midvale-blvd",
                 "website": "https://locations.noodles.com/wi/madison/3600-university-ave-and-midvale-blvd.html"
@@ -10754,7 +10755,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Eastside",
-                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-608-244-4000",
                 "ref": "wi/madison/4280-east-towne-boulevard",
                 "website": "https://locations.noodles.com/wi/madison/4280-east-towne-boulevard.html"
@@ -10779,7 +10780,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Westside",
-                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-608-829-0202",
                 "ref": "wi/madison/7050-mineral-point-rd",
                 "website": "https://locations.noodles.com/wi/madison/7050-mineral-point-rd.html"
@@ -10804,7 +10805,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Manitowoc",
-                "opening_hours": "Mo-Su 10:30-21:00",
+                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-21:30; Su 10:30-21:00",
                 "phone": "+1-920-682-3200",
                 "ref": "wi/manitowoc/4530-calumet",
                 "website": "https://locations.noodles.com/wi/manitowoc/4530-calumet.html"
@@ -10828,7 +10829,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Menomonee Falls",
-                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-262-502-7800",
                 "ref": "wi/menomonee-falls/w-176-n-9336-rivercrest-dr",
                 "website": "https://locations.noodles.com/wi/menomonee-falls/w-176-n-9336-rivercrest-dr.html"
@@ -10903,7 +10904,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Miller Parkway",
-                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-414-509-5192",
                 "ref": "wi/milwaukee/1310-miller-park-way",
                 "website": "https://locations.noodles.com/wi/milwaukee/1310-miller-park-way.html"
@@ -10928,7 +10929,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "28th & Oklahoma",
-                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-414-383-0400",
                 "ref": "wi/milwaukee/2725-w--oklahoma-ave-at-28th",
                 "website": "https://locations.noodles.com/wi/milwaukee/2725-w--oklahoma-ave-at-28th.html"
@@ -11003,7 +11004,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Fox Point",
-                "opening_hours": "Mo-Su 10:30-21:00",
+                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-414-540-6601",
                 "ref": "wi/milwaukee/8781-n--port-washington",
                 "website": "https://locations.noodles.com/wi/milwaukee/8781-n--port-washington.html"
@@ -11030,7 +11031,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Monona",
-                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-608-226-9500",
                 "ref": "wi/monona/6520-monona-dr-at-pier-37",
                 "website": "https://locations.noodles.com/wi/monona/6520-monona-dr-at-pier-37.html"
@@ -11055,7 +11056,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Mt. Pleasant",
-                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-262-633-2600",
                 "ref": "wi/mount-pleasant/5720-washington-ave",
                 "website": "https://locations.noodles.com/wi/mount-pleasant/5720-washington-ave.html"
@@ -11080,7 +11081,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "New Berlin",
-                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-262-782-4600",
                 "ref": "wi/new-berlin/15630-w-national-ave",
                 "website": "https://locations.noodles.com/wi/new-berlin/15630-w-national-ave.html"
@@ -11105,7 +11106,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Oak Creek",
-                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-414-571-4206",
                 "ref": "wi/oak-creek/8609-s-howell-ave",
                 "website": "https://locations.noodles.com/wi/oak-creek/8609-s-howell-ave.html"
@@ -11132,7 +11133,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Oconomowoc",
-                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-262-244-5773",
                 "ref": "wi/oconomowoc/1676-old-school-house-rd",
                 "website": "https://locations.noodles.com/wi/oconomowoc/1676-old-school-house-rd.html"
@@ -11184,7 +11185,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Oshkosh",
-                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-920-232-2424",
                 "ref": "wi/oshkosh/1560-s--koeller-street",
                 "website": "https://locations.noodles.com/wi/oshkosh/1560-s--koeller-street.html"
@@ -11209,7 +11210,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Pewaukee",
-                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-262-695-7500",
                 "ref": "wi/pewaukee/1390-capitol-drive",
                 "website": "https://locations.noodles.com/wi/pewaukee/1390-capitol-drive.html"
@@ -11234,7 +11235,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Sheboygan",
-                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-920-452-0566",
                 "ref": "wi/sheboygan/555-s--taylor-dr",
                 "website": "https://locations.noodles.com/wi/sheboygan/555-s--taylor-dr.html"
@@ -11259,7 +11260,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Stevens Point",
-                "opening_hours": "Mo-We 11:00-20:00; Th-Sa 11:00-21:00; Su 11:00-20:00",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
                 "phone": "+1-715-295-0700",
                 "ref": "wi/stevens-point/101-division-street",
                 "website": "https://locations.noodles.com/wi/stevens-point/101-division-street.html"
@@ -11284,7 +11285,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Sun Prairie",
-                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-608-318-2221",
                 "ref": "wi/sun-prairie/2812-prairie-lakes-drive",
                 "website": "https://locations.noodles.com/wi/sun-prairie/2812-prairie-lakes-drive.html"
@@ -11311,7 +11312,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Verona - Coming Soon",
-                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-608-409-3003",
                 "ref": "wi/verona/611-hometown-circle",
                 "website": "https://locations.noodles.com/wi/verona/611-hometown-circle.html"
@@ -11336,7 +11337,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Waukesha",
-                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-262-574-0109",
                 "ref": "wi/waukesha/1210-sunset-dr",
                 "website": "https://locations.noodles.com/wi/waukesha/1210-sunset-dr.html"
@@ -11386,7 +11387,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "W. Capitol",
-                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-414-462-0432",
                 "ref": "wi/wauwatosa/12132-west-capitol-dr",
                 "website": "https://locations.noodles.com/wi/wauwatosa/12132-west-capitol-dr.html"
@@ -11411,7 +11412,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Wauwatosa",
-                "opening_hours": "Mo-Th 10:30-21:00; Fr-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-414-443-9300",
                 "ref": "wi/wauwatosa/7700-west-state-st-at-harwood",
                 "website": "https://locations.noodles.com/wi/wauwatosa/7700-west-state-st-at-harwood.html"
@@ -11436,12 +11437,12 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "West Bend",
-                "opening_hours": "Mo-We 10:30-21:00; Th-Sa 10:30-22:00; Su 10:30-21:00",
+                "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-21:00",
                 "phone": "+1-262-365-0001",
                 "ref": "wi/west-bend/425-west-paradise-dr",
                 "website": "https://locations.noodles.com/wi/west-bend/425-west-paradise-dr.html"
             }
         }
     ],
-    "updated_at": 1647073143512
+    "updated_at": 1647678033729
 }

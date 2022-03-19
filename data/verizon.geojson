@@ -246,7 +246,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Addison",
-                "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
                 "ref": "R00000248452",
                 "website": "https://www.verizonwireless.com/stores/texas/dallas/retail-rd-349607/"
             }
@@ -501,30 +501,6 @@
                 "opening_hours": "Mo-Sa 09:00-20:00; Su 24:00-18:00",
                 "ref": "A00000018019",
                 "website": "https://www.verizonwireless.com/stores/tennessee/lenoir-city/cellular-sales-lenoir-city-1544622/"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -90.2261,
-                    41.816092
-                ]
-            },
-            "properties": {
-                "addr:city": "Clinton",
-                "addr:housenumber": "1663",
-                "addr:postcode": "52732",
-                "addr:street": "Lincoln Way",
-                "addr:unit": "G",
-                "addr:unitname": "Suite",
-                "brand": "Verizon",
-                "brand:wikidata": "Q919641",
-                "name": "TCC Clinton Lincoln Way",
-                "opening_hours": "Mo-Sa 10:00-18:00",
-                "ref": "A00000202822",
-                "website": "https://www.verizonwireless.com/stores/iowa/clinton/tcc-clinton-lincoln-way-1382822/"
             }
         },
         {
@@ -1197,6 +1173,28 @@
                 "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00",
                 "ref": "A00000202893",
                 "website": "https://www.verizonwireless.com/stores/oklahoma/elk-city/communication-connection-1513922/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.96542883,
+                    40.16431351
+                ]
+            },
+            "properties": {
+                "addr:city": "Winchester",
+                "addr:housenumber": "933",
+                "addr:postcode": "47394",
+                "addr:street": "Progress",
+                "brand": "Verizon",
+                "brand:wikidata": "Q919641",
+                "name": "TCC Winchester",
+                "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-18:00",
+                "ref": "A00000152590",
+                "website": "https://www.verizonwireless.com/stores/indiana/winchester/tcc-winchester-1449922/"
             }
         },
         {
@@ -2656,20 +2654,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -89.38948581,
-                    40.1575806
+                    -88.5562,
+                    37.7199
                 ]
             },
             "properties": {
-                "addr:city": "Lincoln",
-                "addr:housenumber": "1275",
-                "addr:postcode": "62656",
-                "addr:street": "Woodlawn Road",
+                "addr:city": "Taylorville",
+                "addr:housenumber": "1101",
+                "addr:postcode": "62568",
+                "addr:street": "Spresser",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
-                "name": "TCC Lincoln",
-                "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-17:00",
-                "ref": "A00000013574",
+                "name": "TCC Harrisburg",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00",
+                "ref": "A00000246726",
                 "website": "https://www.verizonwireless.com/stores/illinois/havana/tcc-havana-1370622/"
             }
         },
@@ -2869,6 +2867,8 @@
                 "addr:housenumber": "39504",
                 "addr:postcode": "85086",
                 "addr:street": "North Daisy Mountain Drive",
+                "addr:unit": "116",
+                "addr:unitname": "Suite",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "GoWireless Anthem Anthem Crossroads",
@@ -3408,20 +3408,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -83.76184209,
-                    40.33370494
+                    -83.12071055,
+                    40.56639646
                 ]
             },
             "properties": {
-                "addr:city": "Pataskala",
-                "addr:housenumber": "364",
-                "addr:postcode": "43062",
-                "addr:street": "East Broad Street",
+                "addr:city": "Napoleon",
+                "addr:housenumber": "1420",
+                "addr:postcode": "43545",
+                "addr:street": "Scott Street",
+                "addr:unit": "A",
+                "addr:unitname": "Suite",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
-                "name": "GoWireless Bellefontaine",
-                "opening_hours": "Mo-Th 10:00-18:00; Fr-Sa 10:00-19:00; Su 24:00-17:00",
-                "ref": "A00000253143",
+                "name": "GoWireless Marion",
+                "opening_hours": "Mo-Sa 10:00-19:00; Su 24:00-17:00",
+                "ref": "A00000253135",
                 "website": "https://www.verizonwireless.com/stores/ohio/maineville/gowireless-maineville-1687122/"
             }
         },
@@ -4102,7 +4104,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "The Colony",
-                "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00",
+                "opening_hours": "Mo-Sa 10:00-18:00",
                 "ref": "R00000260820",
                 "website": "https://www.verizonwireless.com/stores/texas/dallas/the-merc-1278222/"
             }
@@ -4746,7 +4748,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Russell Cellular ULYSSES",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-19:00",
                 "ref": "A00000205261",
                 "website": "https://www.verizonwireless.com/stores/kansas/ulysses/southwest-kansas-sales-ulysses-1849122/"
             }
@@ -5292,30 +5294,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -103.6266257,
-                    48.182485
-                ]
-            },
-            "properties": {
-                "addr:city": "Williston",
-                "addr:housenumber": "4101",
-                "addr:postcode": "58801",
-                "addr:street": "2ND Avenue W",
-                "addr:unit": "100",
-                "addr:unitname": "Suite",
-                "brand": "Verizon",
-                "brand:wikidata": "Q919641",
-                "name": "VICTRA WILLISTON NORTH",
-                "opening_hours": "Mo-Sa 09:00-20:00; Su 11:00-19:00",
-                "ref": "A00000245657",
-                "website": "https://www.verizonwireless.com/stores/north-dakota/williston/victra-williston-north-1868922/"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -85.60057476,
                     43.11713974
                 ]
@@ -5378,7 +5356,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Beverly Connection",
-                "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-17:00",
+                "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 10:00-17:00",
                 "ref": "R00000000050",
                 "website": "https://www.verizonwireless.com/stores/california/beverly-hills/victra-beverly-hills-1623622/"
             }
@@ -5739,6 +5717,30 @@
                 "opening_hours": "Mo-Sa 09:00-20:00; Su 11:00-19:00",
                 "ref": "A00000243893",
                 "website": "https://www.verizonwireless.com/stores/texas/college-station/cellular-sales-college-station-1368022/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.3040642,
+                    33.74230097
+                ]
+            },
+            "properties": {
+                "addr:city": "Palm Desert",
+                "addr:housenumber": "42175",
+                "addr:postcode": "92211",
+                "addr:street": "Washington Street",
+                "addr:unit": "B2",
+                "addr:unitname": "Suite",
+                "brand": "Verizon",
+                "brand:wikidata": "Q919641",
+                "name": "GoWireless Palm Desert Washington St",
+                "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00",
+                "ref": "A00000236175",
+                "website": "https://www.verizonwireless.com/stores/california/palm-desert/gowireless-palm-desert-washington-st-1625622/"
             }
         },
         {
@@ -6799,7 +6801,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Cellular Sales Newark",
-                "opening_hours": "Mo-Tu 09:00-19:00; We-Sa 09:00-21:00; Su 11:00-18:00",
+                "opening_hours": "Mo-Tu 09:00-20:00; We-Sa 09:00-21:00; Su 11:00-18:00",
                 "ref": "A00000243990",
                 "website": "https://www.verizonwireless.com/stores/delaware/newark/cellular-sales-newark-1658222/"
             }
@@ -8591,7 +8593,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Russell Cellular Fosston",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-19:00",
                 "ref": "A00000238224",
                 "website": "https://www.verizonwireless.com/stores/minnesota/fosston/select-communications-fosston-1892922/"
             }
@@ -8701,7 +8703,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Victra Woodbridge St Georges Ave",
-                "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-18:00",
+                "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-18:00",
                 "ref": "A00000236471",
                 "website": "https://www.verizonwireless.com/stores/new-jersey/woodbridge/victra-woodbridge-st-georges-ave-1699422/"
             }
@@ -8969,7 +8971,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Dearborn Heights",
-                "opening_hours": "Mo-Fr 10:00-20:00; Sa 11:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 11:00-19:00; Su 11:00-17:00",
                 "ref": "R00000327906",
                 "website": "https://www.verizonwireless.com/stores/michigan/dearborn/wireless-solutions-center-dearborn-1462422/"
             }
@@ -11599,7 +11601,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Russell Cellular St Peter",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-19:00",
                 "ref": "A00000243709",
                 "website": "https://www.verizonwireless.com/stores/minnesota/saint-peter/select-communications-st-peter-1890622/"
             }
@@ -12437,7 +12439,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Cellular Sales Winter Park Aloma Ave",
-                "opening_hours": "Mo-Sa 09:00-20:00; Su 11:00-18:00",
+                "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00",
                 "ref": "A00000253471",
                 "website": "https://www.verizonwireless.com/stores/florida/winter-park/cellular-sales-winter-park-aloma-ave-1426222/"
             }
@@ -12638,14 +12640,14 @@
                 ]
             },
             "properties": {
-                "addr:city": "Lincoln Park",
-                "addr:housenumber": "261",
-                "addr:postcode": "07035",
-                "addr:street": "Comly Road",
+                "addr:city": "Montclair",
+                "addr:housenumber": "46a",
+                "addr:postcode": "07042",
+                "addr:street": "South Park Street",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Russell Cellular Montclair",
-                "opening_hours": "Mo-Sa 10:00-19:00",
+                "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-17:00",
                 "ref": "A00000170568",
                 "website": "https://www.verizonwireless.com/stores/new-jersey/carlstadt/wireless-depot-carlstadt-1691022/"
             }
@@ -12733,7 +12735,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Cellular Sales Leesburg US Hwy 441",
-                "opening_hours": "Mo-Sa 09:00-20:00; Su 11:00-18:00",
+                "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-17:30; Su 11:00-18:00",
                 "ref": "A00000233155",
                 "website": "https://www.verizonwireless.com/stores/florida/leesburg/cellular-sales-leesburg-us-hwy-441-1416422/"
             }
@@ -13369,7 +13371,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "GoWireless Stanwood",
-                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-19:00; Su 11:00-18:00",
                 "ref": "A00000235044",
                 "website": "https://www.verizonwireless.com/stores/washington/stanwood/gowireless-stanwood-1761422/"
             }
@@ -13925,8 +13927,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.95686462,
-                    40.71883406
+                    -73.95694015,
+                    40.6739939
                 ]
             },
             "properties": {
@@ -13936,9 +13938,9 @@
                 "addr:street": "Bedford Avenue",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
-                "name": "Paging Zone Brooklyn Bedford Ave",
+                "name": "Paging Zone Brooklyn Franklin Ave",
                 "opening_hours": "Mo-Sa 10:30-19:30; Su 11:00-19:00",
-                "ref": "A00000220764",
+                "ref": "A00000253884",
                 "website": "https://www.verizonwireless.com/stores/new-york/brooklyn/paging-zone-brooklyn-ave-m-1696222/"
             }
         },
@@ -15471,20 +15473,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.48873231,
-                    43.22443729
+                    -71.48653129,
+                    43.22097874
                 ]
             },
             "properties": {
                 "addr:city": "Concord",
-                "addr:housenumber": "270",
+                "addr:housenumber": "62",
                 "addr:postcode": "03301",
-                "addr:street": "Loudon Road",
+                "addr:street": "D'AMANTE Drive",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
-                "name": "Wireless Zone Concord Loudon Rd",
-                "opening_hours": "Mo-Th 11:00-19:00; Fr-Sa 10:00-19:00; Su 10:00-17:00",
-                "ref": "A00000043533",
+                "name": "Wireless Zone Concord D'amante Dr",
+                "opening_hours": "Mo-Sa 09:00-20:00; Su 11:00-18:00",
+                "ref": "A00000235309",
                 "website": "https://www.verizonwireless.com/stores/new-hampshire/concord/wireless-zone-concord-loudon-rd-1802222/"
             }
         },
@@ -16335,20 +16337,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -81.573471,
-                    40.882287
+                    -76.907528,
+                    39.148865
                 ]
             },
             "properties": {
-                "addr:city": "Canal Fulton",
-                "addr:housenumber": "2111",
-                "addr:postcode": "44614",
-                "addr:street": "Locust Street S",
+                "addr:city": "Fulton",
+                "addr:housenumber": "11710",
+                "addr:postcode": "20759",
+                "addr:street": "East Market Place",
+                "addr:unit": "E",
+                "addr:unitname": "Suite",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
-                "name": "TCC Canal Fulton",
-                "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 10:00-17:00",
-                "ref": "A00000237964",
+                "name": "TCC Fulton E Market Pl",
+                "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-17:00",
+                "ref": "A00000327730",
                 "website": "https://www.verizonwireless.com/stores/kentucky/fulton/tcc-fulton-w-highland-1453722/"
             }
         },
@@ -16559,20 +16563,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.98065935,
-                    40.74194959
+                    -73.96942713,
+                    40.75332913
                 ]
             },
             "properties": {
                 "addr:city": "New York",
-                "addr:housenumber": "395",
-                "addr:postcode": "10016",
-                "addr:street": "3RD Avenue",
+                "addr:housenumber": "133",
+                "addr:postcode": "10003",
+                "addr:street": "2nd Avenue",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
-                "name": "TCC NYC 3rd Ave",
-                "opening_hours": "Mo-Fr 10:00-20:00; Sa 11:00-20:00; Su 11:00-18:00",
-                "ref": "A00000253357",
+                "name": "TCC NYC 892 2nd Ave",
+                "opening_hours": "Mo-Sa 10:30-19:00; Su 11:00-18:00",
+                "ref": "A00000253356",
                 "website": "https://www.verizonwireless.com/stores/new-york/endwell/tcc-endwell-1598322/"
             }
         },
@@ -16755,7 +16759,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Russell Cellular Elverson",
-                "opening_hours": "Mo-Sa 10:00-19:00",
+                "opening_hours": "Mo-Sa 09:00-19:00",
                 "ref": "A00000224343",
                 "website": "https://www.verizonwireless.com/stores/pennsylvania/elverson/gowireless-elverson-1656422/"
             }
@@ -16979,7 +16983,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "GoWireless Waterville ME",
-                "opening_hours": "Tu-Sa 09:00-18:00",
+                "opening_hours": "Mo-Sa 09:00-18:00; Su 11:00-17:00",
                 "ref": "A00000233579",
                 "website": "https://www.verizonwireless.com/stores/maine/waterville/gowireless-waterville-me-1806522/"
             }
@@ -18723,20 +18727,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.57122789,
-                    43.15190933
+                    -77.64703095,
+                    43.23725156
                 ]
             },
             "properties": {
                 "addr:city": "Rochester",
-                "addr:housenumber": "1190",
-                "addr:postcode": "14607",
-                "addr:street": "University Avenue",
+                "addr:housenumber": "3687",
+                "addr:postcode": "14616",
+                "addr:street": "Dewey Avenue",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
-                "name": "Cellular Sales Rochester University Ave",
+                "name": "Cellular Sales Rochester Dewey Ave",
                 "opening_hours": "Mo-Sa 09:00-20:00; Su 11:00-18:00",
-                "ref": "A00000235538",
+                "ref": "A00000243926",
                 "website": "https://www.verizonwireless.com/stores/new-york/rochester/cellular-sales-rochester-panorama-trl-1592922/"
             }
         },
@@ -21037,7 +21041,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Cellular Only - MINERAL WELLS",
-                "opening_hours": "Mo-Fr 09:00-18:00; Sa 10:00-18:00",
+                "opening_hours": "Mo-Fr 09:00-18:00; Sa 10:00-16:00",
                 "ref": "A00000232408",
                 "website": "https://www.verizonwireless.com/stores/texas/mineral-wells/communication-connection-mineral-wells-1482822/"
             }
@@ -21181,20 +21185,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -111.925664,
-                    33.78005
+                    -111.9248877,
+                    33.6334241
                 ]
             },
             "properties": {
                 "addr:city": "Scottsdale",
-                "addr:housenumber": "32415",
-                "addr:postcode": "85266",
-                "addr:street": "North Scottsdale Rd Spc B5 101",
+                "addr:housenumber": "16203",
+                "addr:postcode": "85254",
+                "addr:street": "North Scottsdale Road",
+                "addr:unit": "C-110",
+                "addr:unitname": "Suite",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
-                "name": "TCC Scottsdale Summit at Scottsdale",
-                "opening_hours": "Mo-Sa 09:00-18:00; Su 24:00-17:00",
-                "ref": "A00000254024",
+                "name": "Scottsdale Promenade",
+                "opening_hours": "Mo-Sa 10:00-18:00",
+                "ref": "R00000254547",
                 "website": "https://www.verizonwireless.com/stores/arizona/scottsdale/on-communications-n-scottsdale-rd-1600322/"
             }
         },
@@ -21587,15 +21593,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -118.3466312,
-                    34.16813042
+                    -118.343328,
+                    34.160027
                 ]
             },
             "properties": {
                 "addr:city": "Burbank",
-                "addr:housenumber": "3619",
+                "addr:housenumber": "521",
                 "addr:postcode": "91505",
-                "addr:street": "Magnolia Boulevard",
+                "addr:street": "North Hollywood Way",
+                "addr:unit": "A",
+                "addr:unitname": "Suite",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Wireless Plus - Burbank",
@@ -21709,13 +21717,15 @@
             },
             "properties": {
                 "addr:city": "Honolulu",
-                "addr:housenumber": "909",
-                "addr:postcode": "96816",
-                "addr:street": "Kapahulu Avenue",
+                "addr:housenumber": "1620",
+                "addr:postcode": "96817",
+                "addr:street": "North School Street",
+                "addr:unit": "C3B",
+                "addr:unitname": "Suite",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "VICTRA KAPAHULU",
-                "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00",
+                "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-18:00",
                 "ref": "A00000256971",
                 "website": "https://www.verizonwireless.com/stores/hawaii/honolulu/victra-honolulu-1776622/"
             }
@@ -23115,7 +23125,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Russell Cellular Hillsdale",
-                "opening_hours": "Mo-Fr 09:00-19:00",
+                "opening_hours": "Mo-Sa 10:00-18:00",
                 "ref": "A00000235816",
                 "website": "https://www.verizonwireless.com/stores/michigan/hillsdale/russell-cellular-hillsdale-1461222/"
             }
@@ -23520,14 +23530,14 @@
                 ]
             },
             "properties": {
-                "addr:city": "Paducah",
-                "addr:housenumber": "2540",
-                "addr:postcode": "42003",
-                "addr:street": "A Lone Oak Road",
+                "addr:city": "Madisonville",
+                "addr:housenumber": "35",
+                "addr:postcode": "42431",
+                "addr:street": "Madison Square Drive",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "TCC Madisonville",
-                "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-19:00; Su 24:00-17:00",
                 "ref": "A00000177183",
                 "website": "https://www.verizonwireless.com/stores/kentucky/cynthiana/tcc-cynthiana-1448622/"
             }
@@ -24139,7 +24149,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Russell Cellular Ephraim",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Fr 10:00-18:00",
                 "ref": "A00000245197",
                 "website": "https://www.verizonwireless.com/stores/utah/ephraim/russell-cellular-ephraim-1860022/"
             }
@@ -24185,7 +24195,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Russell Cellular Cedar City",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-19:00",
                 "ref": "A00000245200",
                 "website": "https://www.verizonwireless.com/stores/utah/cedar-city/russell-cellular-cedar-city-1582322/"
             }
@@ -24209,7 +24219,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Russell Cellular Delta",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-19:00",
                 "ref": "A00000245201",
                 "website": "https://www.verizonwireless.com/stores/utah/delta/russell-cellular-delta-1860122/"
             }
@@ -24255,7 +24265,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Russell Cellular Nephi",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-19:00",
                 "ref": "A00000245204",
                 "website": "https://www.verizonwireless.com/stores/utah/nephi/russell-cellular-nephi-1859322/"
             }
@@ -24277,7 +24287,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Russell Cellular Moab",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-19:00",
                 "ref": "A00000245206",
                 "website": "https://www.verizonwireless.com/stores/utah/moab/russell-cellular-moab-1859222/"
             }
@@ -24301,7 +24311,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Russell Cellular Springville",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-19:00",
                 "ref": "A00000245211",
                 "website": "https://www.verizonwireless.com/stores/utah/springville/russell-cellular-springville-1859822/"
             }
@@ -25371,7 +25381,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Cellular Sales Newtown Square",
-                "opening_hours": "Mo-Tu 09:00-19:00; We-Sa 09:00-21:00; Su 11:00-18:00",
+                "opening_hours": "Mo-Tu 09:00-20:00; We-Sa 09:00-21:00; Su 11:00-18:00",
                 "ref": "A00000246116",
                 "website": "https://www.verizonwireless.com/stores/pennsylvania/newtown-square/cellular-sales-newtown-square-1702022/"
             }
@@ -26213,7 +26223,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Russell Cellular Grayling",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-19:00",
                 "ref": "A00000246133",
                 "website": "https://www.verizonwireless.com/stores/michigan/grayling/russell-cellular-grayling-1500422/"
             }
@@ -27019,20 +27029,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -86.0926625,
-                    33.43633803
+                    -86.246,
+                    33.1549
                 ]
             },
             "properties": {
-                "addr:city": "Talladega",
-                "addr:housenumber": "518",
-                "addr:postcode": "35160",
-                "addr:street": "East Battle Street",
+                "addr:city": "Sylacauga",
+                "addr:housenumber": "81",
+                "addr:postcode": "35150",
+                "addr:street": "Mcs Boulevard",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
-                "name": "Cellular Sales Talladega",
+                "name": "Cellular Sales Sylacauga",
                 "opening_hours": "Mo-Sa 09:00-20:00; Su 11:00-18:00",
-                "ref": "A00000198936",
+                "ref": "A00000205086",
                 "website": "https://www.verizonwireless.com/stores/alabama/calera/cellular-sales-calera-1403122/"
             }
         },
@@ -27717,7 +27727,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "GoWireless West Bloomfield",
-                "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00",
                 "ref": "A00000244077",
                 "website": "https://www.verizonwireless.com/stores/michigan/west-bloomfield/gowireless-west-bloomfield-1501022/"
             }
@@ -27841,22 +27851,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -81.92666225,
-                    31.9422239
+                    -81.78313862,
+                    32.4341501
                 ]
             },
             "properties": {
-                "addr:city": "Glennville",
-                "addr:housenumber": "509",
-                "addr:postcode": "30427",
-                "addr:street": "North Veterans Boulevard",
-                "addr:unit": "B",
-                "addr:unitname": "Suite",
+                "addr:city": "Statesboro",
+                "addr:housenumber": "11",
+                "addr:postcode": "30458",
+                "addr:street": "East Kennedy Street",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
-                "name": "TCC Glennville",
-                "opening_hours": "Mo-Sa 09:00-18:00",
-                "ref": "A00000236308",
+                "name": "TCC Statesboro",
+                "opening_hours": "Mo-Sa 09:00-20:00; Su 24:00-18:00",
+                "ref": "A00000245534",
                 "website": "https://www.verizonwireless.com/stores/georgia/metter/tcc-metter-1398422/"
             }
         },
@@ -28925,7 +28933,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "GoWireless Waterford Highland Road",
-                "opening_hours": "Mo-Sa 10:00-19:00; Su 24:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-20:00; Su 24:00-17:00",
                 "ref": "A00000255702",
                 "website": "https://www.verizonwireless.com/stores/michigan/waterford/gowireless-waterford-telegraph-1505122/"
             }
@@ -30491,7 +30499,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "VICTRA SIKESTON",
-                "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00",
+                "opening_hours": "Mo-Sa 10:00-18:00",
                 "ref": "A00000244983",
                 "website": "https://www.verizonwireless.com/stores/missouri/sikeston/victra-sikeston-1840922/"
             }
@@ -30651,7 +30659,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Cellular Sales Port Orange",
-                "opening_hours": "Mo-Sa 08:30-21:00; Su 11:00-18:00",
+                "opening_hours": "Mo-Fr 08:30-21:00; Sa 08:30-17:00; Su 11:00-18:00",
                 "ref": "A00000245582",
                 "website": "https://www.verizonwireless.com/stores/florida/port-orange/cellular-sales-port-orange-1429622/"
             }
@@ -31395,7 +31403,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "GoWireless Kailua",
-                "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-18:00",
+                "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00",
                 "ref": "A00000245603",
                 "website": "https://www.verizonwireless.com/stores/hawaii/kailua/gowireless-kailua-1813722/"
             }
@@ -31419,7 +31427,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "GoWireless Honolulu Keahole St",
-                "opening_hours": "Mo-Sa 10:00-19:00; Su 24:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-18:00; Su 11:00-18:00",
                 "ref": "A00000245604",
                 "website": "https://www.verizonwireless.com/stores/hawaii/honolulu/gowireless-honolulu-keahole-st-1813622/"
             }
@@ -31799,7 +31807,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Cellular Sales Ormond Beach",
-                "opening_hours": "Mo-Sa 09:00-20:00; Su 11:00-18:00",
+                "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-17:00; Su 11:00-18:00",
                 "ref": "A00000244392",
                 "website": "https://www.verizonwireless.com/stores/florida/ormond-beach/cellular-sales-ormond-beach-1412022/"
             }
@@ -31865,7 +31873,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Cellular Sales Palm Bay",
-                "opening_hours": "Mo-Sa 09:00-20:00; Su 11:00-18:00",
+                "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-17:00; Su 11:00-18:00",
                 "ref": "A00000244395",
                 "website": "https://www.verizonwireless.com/stores/florida/palm-bay/cellular-sales-palm-bay-1411922/"
             }
@@ -32563,7 +32571,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "VICTRA MANDAN",
-                "opening_hours": "Mo 10:00-17:00; Tu-Fr 10:00-19:00; Sa 10:00-17:00",
+                "opening_hours": "Mo 10:00-19:00; We-Fr 10:00-19:00; Sa 10:00-17:00",
                 "ref": "A00000246511",
                 "website": "https://www.verizonwireless.com/stores/north-dakota/mandan/victra-mandan-1870922/"
             }
@@ -33939,7 +33947,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Russell Cellular Oakhurst",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 11:00-17:00",
                 "ref": "A00000250869",
                 "website": "https://www.verizonwireless.com/stores/california/oakhurst/russell-cellular-oakhurst-1774322/"
             }
@@ -36633,7 +36641,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Russell Cellular Mount Pleasant",
-                "opening_hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
                 "ref": "A00000250046",
                 "website": "https://www.verizonwireless.com/stores/iowa/mount-pleasant/russell-cellular-mount-pleasant-1378322/"
             }
@@ -37268,7 +37276,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Cellular Sales Vero Beach",
-                "opening_hours": "Mo-Sa 09:00-20:00; Su 11:00-18:00",
+                "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-16:30; Su 11:00-18:00",
                 "ref": "A00000258792",
                 "website": "https://www.verizonwireless.com/stores/florida/vero-beach/cellular-sales-vero-beach-a00000258792/"
             }
@@ -38074,8 +38082,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -88.96908709,
-                    43.96811379
+                    -91.85681771,
+                    45.40137367
                 ]
             },
             "properties": {
@@ -38087,9 +38095,9 @@
                 "addr:unitname": "Suite",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
-                "name": "Team Wireless Berlin",
+                "name": "TEAM WIRELESS - Barron",
                 "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su 24:00-16:00",
-                "ref": "A00000256148",
+                "ref": "A00000248582",
                 "website": "https://www.verizonwireless.com/stores/wisconsin/clintonville/team-wireless-clintonville-1354922/"
             }
         },
@@ -38110,7 +38118,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "GoWireless Ferndale",
-                "opening_hours": "Mo-Sa 10:00-19:00; Su 24:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-20:00; Su 24:00-17:00",
                 "ref": "A00000251417",
                 "website": "https://www.verizonwireless.com/stores/michigan/ferndale/gowireless-ferndale-1493422/"
             }
@@ -38940,7 +38948,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Cellular Plus Glendive",
-                "opening_hours": "Tu-Fr 09:00-18:00; Sa 10:00-16:00",
+                "opening_hours": "Tu-Fr 10:00-18:00; Sa 10:00-16:00",
                 "ref": "A00000250304",
                 "website": "https://www.verizonwireless.com/stores/montana/glendive/cellular-plus-glendive-1812022/"
             }
@@ -39460,7 +39468,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "VICTRA COLBY",
-                "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00",
+                "opening_hours": "Mo-Fr 09:00-18:00; Sa 10:00-18:00",
                 "ref": "A00000250336",
                 "website": "https://www.verizonwireless.com/stores/wisconsin/colby/victra-colby-1361122/"
             }
@@ -40266,7 +40274,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Kearny Mesa",
-                "opening_hours": "Mo-Sa 10:00-18:00; Su 10:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-19:00; Su 10:00-17:00",
                 "ref": "R00000165957",
                 "website": "https://www.verizonwireless.com/stores/california/san-diego/kearny-mesa-325256/"
             }
@@ -40466,11 +40474,9 @@
             },
             "properties": {
                 "addr:city": "Roswell",
-                "addr:housenumber": "2901",
+                "addr:housenumber": "200",
                 "addr:postcode": "88201",
                 "addr:street": "North Main Street",
-                "addr:unit": "C",
-                "addr:unitname": "Suite",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Russell Cellular Roswell 200 N Main St",
@@ -41646,20 +41652,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -90.1666968,
-                    44.67718984
+                    -90.06838,
+                    43.79814692
                 ]
             },
             "properties": {
-                "addr:city": "Marshfield",
-                "addr:housenumber": "1100",
-                "addr:postcode": "54449",
-                "addr:street": "North Central Avenue",
+                "addr:city": "Barron",
+                "addr:housenumber": "7",
+                "addr:postcode": "54812",
+                "addr:street": "South First Street",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
-                "name": "TEAM WIRELESS - Marshfield",
-                "opening_hours": "Mo-Fr 09:00-18:00; Sa 10:00-17:00",
-                "ref": "A00000250674",
+                "name": "Team Wireless Mauston",
+                "opening_hours": "Mo-Fr 09:00-17:00",
+                "ref": "A00000256149",
                 "website": "https://www.verizonwireless.com/stores/wisconsin/bloomer/team-wireless-bloomer-1351222/"
             }
         },
@@ -42048,7 +42054,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "TCC El Paso Woodrow Bean",
-                "opening_hours": "Mo-Sa 10:00-20:00; Su 24:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-19:00",
                 "ref": "A00000254034",
                 "website": "https://www.verizonwireless.com/stores/texas/el-paso/tcc-el-paso-woodrow-bean-1577222/"
             }
@@ -42276,7 +42282,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "GoWireless Los Lunas Main St",
-                "opening_hours": "Mo 10:00-17:00; We-Sa 10:00-17:00; Su 11:00-17:00",
+                "opening_hours": "Mo 09:00-17:00; We 09:00-17:00; Th 24:30-17:00; Fr-Sa 09:00-17:00",
                 "ref": "A00000021962",
                 "website": "https://www.verizonwireless.com/stores/new-mexico/los-lunas/gowireless-los-lunas-main-st-1584622/"
             }
@@ -43086,20 +43092,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.29305782,
-                    41.13815674
+                    -78.04649201,
+                    33.95180077
                 ]
             },
             "properties": {
                 "addr:city": "Southport",
-                "addr:housenumber": "3449",
-                "addr:postcode": "06890",
-                "addr:street": "Post Road",
+                "addr:housenumber": "5079",
+                "addr:postcode": "28461",
+                "addr:street": "Southport Supply Road",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
-                "name": "Cellular Sales Southport Post Rd",
-                "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-19:00",
-                "ref": "A00000254126",
+                "name": "Cellular Sales Southport Supply Rd",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 11:00-19:00",
+                "ref": "A00000235498",
                 "website": "https://www.verizonwireless.com/stores/connecticut/southport/cellular-sales-southport-post-rd-1769822/"
             }
         },
@@ -43392,7 +43398,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "GoWireless Meridian Meridian Rd",
-                "opening_hours": "Mo-Sa 10:00-20:00; Su 24:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-19:00; Su 24:00-17:00",
                 "ref": "A00000033512",
                 "website": "https://www.verizonwireless.com/stores/idaho/meridian/gowireless-meridian-meridian-rd-1851822/"
             }
@@ -43635,14 +43641,14 @@
                 ]
             },
             "properties": {
-                "addr:city": "Carlisle",
-                "addr:housenumber": "1201",
-                "addr:postcode": "17013",
-                "addr:street": "Harrisburg Pike",
+                "addr:city": "West Point",
+                "addr:housenumber": "221",
+                "addr:postcode": "68788",
+                "addr:street": "North Main Street",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Cellular Only Connection - West Point",
-                "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00",
+                "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-15:00",
                 "ref": "A00000255194",
                 "website": "https://www.verizonwireless.com/stores/nebraska/west-point/cellular-only-connection-west-point-1865122/"
             }
@@ -44556,7 +44562,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "GoWireless Boise N Glenwood St",
-                "opening_hours": "Mo-Sa 10:00-19:00; Su 24:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-18:00",
                 "ref": "A00000042399",
                 "website": "https://www.verizonwireless.com/stores/idaho/boise/gowireless-boise-n-glenwood-st-1858722/"
             }
@@ -45470,7 +45476,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "GoWireless Millsboro Plaza Dr",
-                "opening_hours": "Mo-Sa 10:00-18:00",
+                "opening_hours": "Mo-Sa 10:00-19:00; Su 24:00-17:00",
                 "ref": "A00000254306",
                 "website": "https://www.verizonwireless.com/stores/delaware/millsboro/gowireless-millsboro-plaza-dr-1717222/"
             }
@@ -45926,7 +45932,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Russell Cellular Brooklyn",
-                "opening_hours": "Mo 10:00-20:00; Tu 09:00-20:00; We-Sa 10:00-20:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-17:00",
                 "ref": "A00000253927",
                 "website": "https://www.verizonwireless.com/stores/new-york/brooklyn/russell-cellular-brooklyn-1762222/"
             }
@@ -49400,7 +49406,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Russell Cellular Angels Camp",
-                "opening_hours": "Mo-Sa 09:00-18:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
                 "ref": "A00000253261",
                 "website": "https://www.verizonwireless.com/stores/california/angels-camp/russell-cellular-angels-camp-1824022/"
             }
@@ -49952,7 +49958,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Russell Cellular Blanding",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-19:00",
                 "ref": "A00000252839",
                 "website": "https://www.verizonwireless.com/stores/utah/blanding/russell-cellular-blanding-1586922/"
             }
@@ -50520,7 +50526,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Cellular Sales Apopka",
-                "opening_hours": "Mo-Sa 09:00-21:00; Su 11:00-18:00",
+                "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 11:00-18:00",
                 "ref": "A00000252855",
                 "website": "https://www.verizonwireless.com/stores/florida/apopka/cellular-sales-apopka-1425822/"
             }
@@ -51669,16 +51675,14 @@
                 ]
             },
             "properties": {
-                "addr:city": "Cheboygan",
-                "addr:housenumber": "1006",
-                "addr:postcode": "49721",
-                "addr:street": "South Main Street",
-                "addr:unit": "3",
-                "addr:unitname": "Suite",
+                "addr:city": "Kalkaska",
+                "addr:housenumber": "114",
+                "addr:postcode": "49646",
+                "addr:street": "Northland Plaza Road",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "TEAM WIRELESS - Kalkaska",
-                "opening_hours": "Mo-Sa 10:00-18:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 24:00-16:00",
                 "ref": "A00000252401",
                 "website": "https://www.verizonwireless.com/stores/michigan/kalkaska/team-wireless-kalkaska-1454822/"
             }
@@ -51928,7 +51932,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "VICTRA TRUCKEE",
-                "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-18:00",
+                "opening_hours": "Mo-Sa 09:00-19:00; Su 24:00-18:00",
                 "ref": "A00000252000",
                 "website": "https://www.verizonwireless.com/stores/california/truckee/victra-truckee-1808922/"
             }
@@ -52782,7 +52786,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Killeen",
-                "opening_hours": "Mo 10:00-17:00; Tu-We 09:00-18:00; Th 10:00-17:00; Fr-Sa 09:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
                 "ref": "R00000163613",
                 "website": "https://www.verizonwireless.com/stores/texas/killeen/infinity-wireless-killeen-mall-1483922/"
             }
@@ -53598,7 +53602,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "R Wireless Roosevelt Field Mall",
-                "opening_hours": "Mo-Fr 11:00-20:00; Sa 10:00-20:00; Su 11:00-19:00",
+                "opening_hours": "Mo-Th 11:00-20:00; Fr-Sa 10:00-20:00; Su 11:00-19:00",
                 "ref": "A00000253469",
                 "website": "https://www.verizonwireless.com/stores/new-york/garden-city/r-wireless-roosevelt-field-mall-1747822/"
             }
@@ -53738,7 +53742,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "TEAM WIRELESS - Green Bay",
-                "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00",
+                "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-15:00",
                 "ref": "A00000253486",
                 "website": "https://www.verizonwireless.com/stores/wisconsin/green-bay/team-wireless-green-bay-1353022/"
             }
@@ -54263,7 +54267,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "TCC Flushing Union St",
-                "opening_hours": "Mo-Sa 10:00-18:00; Su 10:00-16:00",
+                "opening_hours": "Mo-Sa 10:00-19:00; Su 10:00-16:00",
                 "ref": "A00000253505",
                 "website": "https://www.verizonwireless.com/stores/new-york/flushing/tcc-flushing-union-st-1746322/"
             }
@@ -54309,7 +54313,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "The Colony",
-                "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00",
+                "opening_hours": "Mo-Sa 10:00-18:00",
                 "ref": "R00000260820",
                 "website": "https://www.verizonwireless.com/stores/texas/the-colony/the-colony-r00000260820/"
             }
@@ -55321,7 +55325,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Palatine",
-                "opening_hours": "Mo-Sa 11:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo 11:00-19:00; Tu-Fr 09:00-19:00; Sa 11:00-19:00; Su 11:00-17:00",
                 "ref": "R00000254435",
                 "website": "https://www.verizonwireless.com/stores/illinois/west-dundee/tcc-west-dundee-1391622/"
             }
@@ -57085,17 +57089,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -85.305131,
-                    37.093453
+                    -76.952572,
+                    38.920653
                 ]
             },
             "properties": {
-                "addr:city": "Columbia",
-                "addr:postcode": "42728",
+                "addr:city": "Washington",
+                "addr:housenumber": "2440",
+                "addr:postcode": "20018",
+                "addr:street": "Market St NE",
+                "addr:unit": "902",
+                "addr:unitname": "Suite",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
-                "name": "Russell Cellular Columbia",
-                "ref": "A00000328441",
+                "name": "Russell Cellular DC Market St",
+                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
+                "ref": "A00000260367",
                 "website": "https://www.verizonwireless.com/stores/maryland/columbia/russell-cellular-columbia-1019895/"
             }
         },
@@ -57286,22 +57295,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -106.5165117,
-                    35.13046287
+                    -106.7295642,
+                    35.10436034
                 ]
             },
             "properties": {
                 "addr:city": "Albuquerque",
-                "addr:housenumber": "6600",
-                "addr:postcode": "87110",
-                "addr:street": "Menaul Blvd NE",
-                "addr:unit": "A007",
-                "addr:unitname": "Suite",
+                "addr:housenumber": "11012",
+                "addr:postcode": "87111",
+                "addr:street": "Montgomery Boulevard NE",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
-                "name": "VICTRA ALBUQUERQUE MONTGOMERY",
-                "opening_hours": "Mo-Th 11:00-20:00; Fr 11:00-21:00; Sa 10:00-21:00; Su 11:00-19:00",
-                "ref": "A00000254436",
+                "name": "VICTRA ALBUQUERQUE UNSER",
+                "opening_hours": "Mo-Sa 10:00-19:00; Su 24:00-18:00",
+                "ref": "A00000255584",
                 "website": "https://www.verizonwireless.com/stores/new-mexico/albuquerque/victra-albuquerque-cottonwood-mall-1576722/"
             }
         },
@@ -57654,13 +57661,13 @@
             },
             "properties": {
                 "addr:city": "San Francisco",
-                "addr:housenumber": "2654",
-                "addr:postcode": "94110",
-                "addr:street": "Mission Street",
+                "addr:housenumber": "199",
+                "addr:postcode": "94111",
+                "addr:street": "Pine Street",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "SF Pine",
-                "opening_hours": "Mo-Tu 09:00-17:00; Fr 09:00-17:00; Su 10:00-17:00",
+                "opening_hours": "Mo-Fr 09:00-17:00",
                 "ref": "R00000001085",
                 "website": "https://www.verizonwireless.com/stores/california/san-francisco/v1-wireless-sf-irving-1826222/"
             }
@@ -57840,7 +57847,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "GoWireless Woodhaven",
-                "opening_hours": "Mo-Sa 10:00-19:00; Su 24:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-20:00; Su 24:00-17:00",
                 "ref": "A00000022251",
                 "website": "https://www.verizonwireless.com/stores/michigan/woodhaven/gowireless-woodhaven-1504622/"
             }
@@ -58044,7 +58051,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "TCC Lebanon Columbus Ave",
-                "opening_hours": "Mo-Sa 10:00-18:00",
+                "opening_hours": "Mo 10:00-18:00; We-Sa 10:00-18:00",
                 "ref": "A00000013277",
                 "website": "https://www.verizonwireless.com/stores/ohio/lebanon/tcc-lebanon-columbus-ave-1677922/"
             }
@@ -59316,7 +59323,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Wireless Zone Stratham",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 09:00-17:00",
                 "ref": "A00000015754",
                 "website": "https://www.verizonwireless.com/stores/new-hampshire/stratham/wireless-zone-stratham-1804322/"
             }
@@ -60240,7 +60247,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "GoWireless Farmington Hills",
-                "opening_hours": "Mo-Sa 10:00-19:00; Su 24:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-20:00; Su 24:00-17:00",
                 "ref": "A00000024660",
                 "website": "https://www.verizonwireless.com/stores/michigan/farmington-hills/gowireless-farmington-hills-1503422/"
             }
@@ -61788,20 +61795,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -106.6810777,
-                    35.15987038
+                    -106.5005847,
+                    35.0683469
                 ]
             },
             "properties": {
                 "addr:city": "Albuquerque",
-                "addr:housenumber": "13100",
-                "addr:postcode": "87123",
-                "addr:street": "Central Avenue",
+                "addr:housenumber": "3200",
+                "addr:postcode": "87120",
+                "addr:street": "LA Orilla RD NW",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
-                "name": "GoWireless Albuquerque La Orilla Rd",
-                "opening_hours": "Mo-Sa 10:00-18:00",
-                "ref": "A00000199475",
+                "name": "GoWireless Albuquerque Central Ave",
+                "opening_hours": "Tu-Sa 10:00-17:00",
+                "ref": "A00000258440",
                 "website": "https://www.verizonwireless.com/stores/new-mexico/albuquerque/gowireless-albuquerque-quail-1578322/"
             }
         },
@@ -61846,7 +61853,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "GoWireless Payson",
-                "opening_hours": "Mo-Sa 10:00-18:00",
+                "opening_hours": "Mo-Sa 10:00-19:00",
                 "ref": "A00000041153",
                 "website": "https://www.verizonwireless.com/stores/utah/payson/gowireless-payson-1809222/"
             }
@@ -61958,7 +61965,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Wireless Zone Key West",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 11:00-19:00; Su 11:00-17:00",
                 "ref": "A00000024409",
                 "website": "https://www.verizonwireless.com/stores/florida/key-west/wireless-zone-key-west-1424522/"
             }
@@ -61990,8 +61997,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -80.8521749,
-                    35.05300409
+                    -80.767753,
+                    35.055699
                 ]
             },
             "properties": {
@@ -62003,9 +62010,9 @@
                 "addr:unitname": "Unit",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
-                "name": "Cellular Sales Charlotte Ballantyne Village",
+                "name": "Cellular Sales Charlotte Providence Farms Ln",
                 "opening_hours": "Mo-Sa 08:30-20:30; Su 11:00-19:00",
-                "ref": "A00000238073",
+                "ref": "A00000257565",
                 "website": "https://www.verizonwireless.com/stores/north-carolina/charlotte/cellular-sales-charlotte-tyvola-rd-1476422/"
             }
         },
@@ -62918,7 +62925,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Cellular Sales Orlando Lee Vista Blvd",
-                "opening_hours": "Mo-Sa 09:00-20:00; Su 11:00-18:00",
+                "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00",
                 "ref": "A00000039955",
                 "website": "https://www.verizonwireless.com/stores/florida/orlando/cellular-sales-orlando-lee-vista-blvd-1423022/"
             }
@@ -63010,7 +63017,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Cellular Sales Titusville",
-                "opening_hours": "Mo-Sa 09:00-20:00; Su 11:00-18:00",
+                "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-17:30; Su 11:00-18:00",
                 "ref": "A00000197509",
                 "website": "https://www.verizonwireless.com/stores/florida/titusville/cellular-sales-titusville-1418722/"
             }
@@ -63636,7 +63643,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Troy",
-                "opening_hours": "Mo-Fr 10:00-20:00; Sa 11:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 11:00-19:00; Su 11:00-17:00",
                 "ref": "R00000250191",
                 "website": "https://www.verizonwireless.com/stores/north-carolina/troy/4g-wireless-troy-1529522/"
             }
@@ -64388,7 +64395,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Cellular Sales Casselberry",
-                "opening_hours": "Mo-Sa 09:00-21:00; Su 11:00-18:00",
+                "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 11:00-18:00",
                 "ref": "A00000177129",
                 "website": "https://www.verizonwireless.com/stores/florida/casselberry/cellular-sales-casselberry-1419022/"
             }
@@ -64638,7 +64645,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "VICTRA CAMERON PARK",
-                "opening_hours": "Mo-Sa 10:00-19:00; Su 24:00-18:00",
+                "opening_hours": "Mo-Th 10:00-18:00; Fr 10:00-19:00; Sa 10:00-18:00; Su 24:00-18:00",
                 "ref": "A00000200665",
                 "website": "https://www.verizonwireless.com/stores/california/cameron-park/victra-cameron-park-1784522/"
             }
@@ -65102,7 +65109,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "GoWireless Kihei",
-                "opening_hours": "Mo-Sa 10:00-19:00; Su 24:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00",
                 "ref": "A00000177335",
                 "website": "https://www.verizonwireless.com/stores/hawaii/kihei/gowireless-kihei-1790722/"
             }
@@ -66848,11 +66855,11 @@
                 ]
             },
             "properties": {
-                "addr:city": "Akron",
-                "addr:housenumber": "790",
-                "addr:postcode": "44312",
-                "addr:street": "Arlington Ridge",
-                "addr:unit": "215",
+                "addr:city": "Stow",
+                "addr:housenumber": "3490",
+                "addr:postcode": "44224",
+                "addr:street": "Hudson Drive",
+                "addr:unit": "2",
                 "addr:unitname": "Suite",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
@@ -67073,8 +67080,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -94.88014,
-                    47.49099713
+                    -95.36921595,
+                    45.88954678
                 ]
             },
             "properties": {
@@ -67084,9 +67091,9 @@
                 "addr:street": "Paul Bunyan Drive",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
-                "name": "BeMobile - Bemidji",
+                "name": "BeMobile - Alexandria",
                 "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 11:00-16:00",
-                "ref": "A00000191261",
+                "ref": "A00000256586",
                 "website": "https://www.verizonwireless.com/stores/minnesota/slayton/bemobile-slayton-1875122/"
             }
         },
@@ -67095,22 +67102,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -82.37451321,
-                    36.33901577
+                    -82.37629822,
+                    36.34362212
                 ]
             },
             "properties": {
                 "addr:city": "Johnson City",
-                "addr:housenumber": "2011",
+                "addr:housenumber": "2122",
                 "addr:postcode": "37601",
                 "addr:street": "North Roan Street",
-                "addr:unit": "41",
+                "addr:unit": "1",
                 "addr:unitname": "Suite",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
-                "name": "Cellular Sales Johnson City Mall",
-                "opening_hours": "Mo-Sa 10:00-21:00; Su 24:00-18:00",
-                "ref": "A00000174753",
+                "name": "Cellular Sales Johnson City N Roan St",
+                "opening_hours": "Mo-Sa 08:00-21:00; Su 24:00-18:00",
+                "ref": "A00000021027",
                 "website": "https://www.verizonwireless.com/stores/tennessee/johnson-city/cellular-sales-johnson-city-mall-1558522/"
             }
         },
@@ -67835,7 +67842,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Wireless Zone Lima Allentown Rd",
-                "opening_hours": "Mo-Sa 10:00-20:00; Su 24:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-19:00; Su 24:00-17:00",
                 "ref": "A00000201335",
                 "website": "https://www.verizonwireless.com/stores/ohio/lima/wireless-zone-lima-allentown-rd-1655122/"
             }
@@ -67951,7 +67958,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "VICTRA JACKSONVILLE WESTERN BLVD",
-                "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-18:00",
+                "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-19:00",
                 "ref": "A00000201342",
                 "website": "https://www.verizonwireless.com/stores/north-carolina/jacksonville/victra-jacksonville-western-blvd-1535722/"
             }
@@ -68659,7 +68666,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Webster",
-                "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00",
+                "opening_hours": "Mo-Fr 10:00-20:00; Sa 09:00-19:00; Su 11:00-17:00",
                 "ref": "R00000003271",
                 "website": "https://www.verizonwireless.com/stores/michigan/holt/gowireless-holt-1447022/"
             }
@@ -70925,7 +70932,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "TCC Batesville",
-                "opening_hours": "Mo-We 10:00-18:00; Th 01:00-18:00; Fr-Sa 10:00-18:00",
+                "opening_hours": "Mo-Sa 10:00-18:00; Su 24:00-17:00",
                 "ref": "A00000013174",
                 "website": "https://www.verizonwireless.com/stores/indiana/batesville/tcc-batesville-1445722/"
             }
@@ -71619,7 +71626,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Wireless Zone Frederick",
-                "opening_hours": "Mo-Sa 09:00-20:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-17:00",
                 "ref": "A00000170351",
                 "website": "https://www.verizonwireless.com/stores/maryland/frederick/wireless-zone-frederick-1552722/"
             }
@@ -73017,7 +73024,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Wireless Zone Lee",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 09:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-18:00; Su 09:00-17:00",
                 "ref": "A00000031416",
                 "website": "https://www.verizonwireless.com/stores/new-hampshire/lee/wireless-zone-lee-1796722/"
             }
@@ -74369,7 +74376,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Russell Cellular Monroe S Monroe St",
-                "opening_hours": "Mo-Sa 10:00-19:00",
+                "opening_hours": "Mo-Fr 10:00-18:00",
                 "ref": "A00000016458",
                 "website": "https://www.verizonwireless.com/stores/michigan/monroe/russell-cellular-monroe-s-monroe-st-1503222/"
             }
@@ -74593,7 +74600,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Champions Center",
-                "opening_hours": "Mo-Fr 10:00-19:00; Sa 09:00-18:00",
+                "opening_hours": "Mo-Fr 10:00-18:00; Sa 09:00-18:00",
                 "ref": "R00000255559",
                 "website": "https://www.verizonwireless.com/stores/texas/fort-worth/champions-center-1337622/"
             }
@@ -74755,7 +74762,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "South San Francisco",
-                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00",
+                "opening_hours": "Mo-Sa 10:00-18:00",
                 "ref": "R00000000698",
                 "website": "https://www.verizonwireless.com/stores/california/south-san-francisco/south-san-francisco-201578/"
             }
@@ -74989,7 +74996,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Jordan Landing",
-                "opening_hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
                 "ref": "R00000130337",
                 "website": "https://www.verizonwireless.com/stores/utah/west-jordan/jordan-landing-203464/"
             }
@@ -75453,22 +75460,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -97.732613,
-                    30.263982
+                    -96.452229,
+                    32.9053512
                 ]
             },
             "properties": {
-                "addr:city": "Austin",
-                "addr:housenumber": "1011",
-                "addr:postcode": "78702",
-                "addr:street": "East 5th Street",
-                "addr:unit": "140",
+                "addr:city": "Rockwall",
+                "addr:housenumber": "1039",
+                "addr:postcode": "75087",
+                "addr:street": "East Interstate 30",
+                "addr:unit": "101",
                 "addr:unitname": "Suite",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
-                "name": "Plaza Saltillo Express",
-                "opening_hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
-                "ref": "R00000260659",
+                "name": "Rockwall Plaza Center",
+                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
+                "ref": "R00000236668",
                 "website": "https://www.verizonwireless.com/stores/texas/houston/greenway-plaza-201056/"
             }
         },
@@ -75647,7 +75654,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Ardmore",
-                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-18:00",
                 "ref": "R00000131956",
                 "website": "https://www.verizonwireless.com/stores/pennsylvania/ardmore/ardmore-201428/"
             }
@@ -75903,14 +75910,16 @@
                 ]
             },
             "properties": {
-                "addr:city": "Buffalo",
-                "addr:housenumber": "1703",
-                "addr:postcode": "14228",
-                "addr:street": "Niagara Falls Boulevard",
+                "addr:city": "Albany",
+                "addr:housenumber": "1",
+                "addr:postcode": "12203",
+                "addr:street": "Crossgates Mall Road",
+                "addr:unit": "C-208",
+                "addr:unitname": "Space",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Crossgates",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-16:00",
+                "opening_hours": "Mo-Sa 11:00-19:00; Su 11:00-17:00",
                 "ref": "R00000328232",
                 "website": "https://www.verizonwireless.com/stores/new-york/albany/crossgates-mall-201500/"
             }
@@ -76035,16 +76044,16 @@
                 ]
             },
             "properties": {
-                "addr:city": "Everett",
-                "addr:housenumber": "1405",
-                "addr:postcode": "98208",
-                "addr:street": "SE Everett Mall Way",
-                "addr:unit": "A",
+                "addr:city": "Cupertino",
+                "addr:housenumber": "20735",
+                "addr:postcode": "95014",
+                "addr:street": "Stevens Creek Boulevard",
+                "addr:unit": "E",
                 "addr:unitname": "Suite",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Everett",
-                "opening_hours": "Mo-Sa 10:00-18:00; Su 11:00-18:00",
+                "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00",
                 "ref": "R00000004432",
                 "website": "https://www.verizonwireless.com/stores/washington/everett/everett-203872/"
             }
@@ -76276,7 +76285,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Emeryville",
-                "opening_hours": "Mo-Sa 10:00-18:00; Su 11:00-18:00",
+                "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-18:00",
                 "ref": "R00000002059",
                 "website": "https://www.verizonwireless.com/stores/california/emeryville/emeryville-201558/"
             }
@@ -76478,7 +76487,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Washington Street",
-                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
                 "ref": "R00000003338",
                 "website": "https://www.verizonwireless.com/stores/indiana/indianapolis/washington-street-202540/"
             }
@@ -76732,7 +76741,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Del Mar",
-                "opening_hours": "Mo-Sa 10:00-18:00; Su 10:00-17:00",
+                "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-17:00",
                 "ref": "R00000104968",
                 "website": "https://www.verizonwireless.com/stores/california/del-mar/del-mar-203468/"
             }
@@ -76802,7 +76811,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Capitola",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-17:00",
+                "opening_hours": "Mo-Fr 10:00-18:00; Sa 09:00-19:00; Su 10:00-17:00",
                 "ref": "R00000000648",
                 "website": "https://www.verizonwireless.com/stores/california/capitola/capitola-204014/"
             }
@@ -77220,7 +77229,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Santa Monica",
-                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 10:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-17:00",
                 "ref": "R00000001453",
                 "website": "https://www.verizonwireless.com/stores/california/santa-monica/santa-monica-203506/"
             }
@@ -77316,7 +77325,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "South Eastern",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-16:00",
+                "opening_hours": "Tu-Sa 09:00-19:00",
                 "ref": "R00000111328",
                 "website": "https://www.verizonwireless.com/stores/nevada/las-vegas/south-eastern-201958/"
             }
@@ -77672,7 +77681,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "DeKalb",
-                "opening_hours": "Mo-Sa 11:00-19:00",
+                "opening_hours": "Mo-Sa 11:00-19:00; Su 11:00-17:00",
                 "ref": "R00000001357",
                 "website": "https://www.verizonwireless.com/stores/illinois/dekalb/dekalb-202220/"
             }
@@ -78228,7 +78237,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Jersey City - Newport Centre",
-                "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 11:00-20:00; Su 24:00-17:00",
                 "ref": "R00000001666",
                 "website": "https://www.verizonwireless.com/stores/new-jersey/jersey-city/jersey-city-newport-centre-202828/"
             }
@@ -78648,7 +78657,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Lawrence KS",
-                "opening_hours": "Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su 11:00-17:00",
+                "opening_hours": "Mo 10:00-18:00; Tu-Fr 10:00-19:00; Sa 09:00-18:00; Su 11:00-17:00",
                 "ref": "R00000001325",
                 "website": "https://www.verizonwireless.com/stores/kansas/lawrence/lawrence-201248/"
             }
@@ -78808,7 +78817,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Bloomington MN",
-                "opening_hours": "Tu-Sa 10:00-18:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
                 "ref": "R00000003010",
                 "website": "https://www.verizonwireless.com/stores/minnesota/bloomington/bloomington-mn-202430/"
             }
@@ -78966,7 +78975,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Dearborn Heights",
-                "opening_hours": "Mo-Fr 10:00-20:00; Sa 11:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 11:00-19:00; Su 11:00-17:00",
                 "ref": "R00000327906",
                 "website": "https://www.verizonwireless.com/stores/michigan/dearborn/dearborn-202764/"
             }
@@ -78990,7 +78999,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Remington",
-                "opening_hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
                 "ref": "R00000327314",
                 "website": "https://www.verizonwireless.com/stores/kentucky/louisville/remington-203214/"
             }
@@ -79508,7 +79517,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Peabody",
-                "opening_hours": "Mo-Sa 10:00-18:00",
+                "opening_hours": "Mo-Sa 10:00-18:00; Su 24:00-18:00",
                 "ref": "R00000005485",
                 "website": "https://www.verizonwireless.com/stores/massachusetts/peabody/peabody-202576/"
             }
@@ -79552,7 +79561,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Chestnut Hill",
-                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
                 "ref": "R00000000496",
                 "website": "https://www.verizonwireless.com/stores/massachusetts/chestnut-hill/chestnut-hill-203140/"
             }
@@ -79998,7 +80007,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Rockville",
-                "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-17:00",
                 "ref": "R00000000881",
                 "website": "https://www.verizonwireless.com/stores/maryland/rockville/rockville-203966/"
             }
@@ -80196,7 +80205,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "South Shore Plaza",
-                "opening_hours": "Mo-We 11:00-20:00; Th-Fr 10:00-21:00; Sa 10:00-19:00; Su 11:00-18:00",
+                "opening_hours": "Mo-Th 11:00-20:00; Fr-Sa 10:00-21:00; Su 24:00-18:00",
                 "ref": "R00000169712",
                 "website": "https://www.verizonwireless.com/stores/massachusetts/braintree/south-shore-plaza-202732/"
             }
@@ -80826,7 +80835,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Vancouver",
-                "opening_hours": "Mo-Sa 10:00-18:00",
+                "opening_hours": "Tu-Sa 10:00-18:00",
                 "ref": "R00000003008",
                 "website": "https://www.verizonwireless.com/stores/washington/vancouver/vancouver-204186/"
             }
@@ -81908,7 +81917,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Frisco",
-                "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su 11:00-18:00",
+                "opening_hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
                 "ref": "R00000001335",
                 "website": "https://www.verizonwireless.com/stores/texas/frisco/frisco-246310/"
             }
@@ -82198,7 +82207,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Woodfield Store",
-                "opening_hours": "Mo-Sa 11:00-19:00; Su 24:00-18:00",
+                "opening_hours": "Mo-Th 11:00-20:00; Fr 10:00-21:00; Sa 11:00-19:00; Su 24:00-18:00",
                 "ref": "R00000127255",
                 "website": "https://www.verizonwireless.com/stores/illinois/schaumburg/woodfield-store-247166/"
             }
@@ -82490,7 +82499,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Liberty TX",
-                "opening_hours": "Mo-Sa 10:00-18:00",
+                "opening_hours": "Mo-Tu 11:00-18:00; Th-Sa 11:00-18:00",
                 "ref": "R00000004182",
                 "website": "https://www.verizonwireless.com/stores/texas/liberty/liberty-247422/"
             }
@@ -82758,7 +82767,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Smithfield RI",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-16:00",
+                "opening_hours": "Mo-Fr 09:00-19:00",
                 "ref": "R00000093820",
                 "website": "https://www.verizonwireless.com/stores/rhode-island/smithfield/smithfield-ri-280250/"
             }
@@ -82984,7 +82993,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "State College",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-16:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00",
                 "ref": "R00000001138",
                 "website": "https://www.verizonwireless.com/stores/pennsylvania/state-college/state-college-281556/"
             }
@@ -83074,7 +83083,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Great Hills",
-                "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-17:00",
                 "ref": "R00000003315",
                 "website": "https://www.verizonwireless.com/stores/texas/austin/great-hills-281742/"
             }
@@ -83140,7 +83149,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "SF Mission",
-                "opening_hours": "Mo-Tu 09:00-17:00; Fr 09:00-17:00; Su 10:00-17:00",
+                "opening_hours": "Mo-Tu 09:00-17:00; Fr-Sa 09:00-17:00; Su 10:00-17:00",
                 "ref": "R00000001504",
                 "website": "https://www.verizonwireless.com/stores/california/san-francisco/sf-mission-282116/"
             }
@@ -83368,7 +83377,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Spring",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
                 "ref": "R00000002626",
                 "website": "https://www.verizonwireless.com/stores/texas/spring/spring-284160/"
             }
@@ -83886,7 +83895,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Pooler",
-                "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-17:00",
+                "opening_hours": "Mo-We 10:00-18:00; Th-Sa 10:00-20:00",
                 "ref": "R00000000989",
                 "website": "https://www.verizonwireless.com/stores/georgia/pooler/pooler-286338/"
             }
@@ -84042,7 +84051,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Downey Landing",
-                "opening_hours": "Mo 10:00-18:00; Tu-We 10:00-20:00; Th 10:00-18:00; Fr-Sa 10:00-20:00; Su 10:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-18:00; Su 10:00-17:00",
                 "ref": "R00000000381",
                 "website": "https://www.verizonwireless.com/stores/california/downey/downey-landing-286896/"
             }
@@ -84406,7 +84415,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Fairfield CA",
-                "opening_hours": "Mo-Su 10:00-18:00",
+                "opening_hours": "Tu-Sa 10:00-18:00",
                 "ref": "R00000107147",
                 "website": "https://www.verizonwireless.com/stores/california/fairfield/fairfield-289651/"
             }
@@ -84570,7 +84579,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Deerbrook",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
                 "ref": "R00000001127",
                 "website": "https://www.verizonwireless.com/stores/texas/humble/deerbrook-318594/"
             }
@@ -84638,7 +84647,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Sanford Store",
-                "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
                 "ref": "R00000000824",
                 "website": "https://www.verizonwireless.com/stores/florida/sanford/sanford-store-318935/"
             }
@@ -84920,6 +84929,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -88.0639788,
+                    44.4867691
+                ]
+            },
+            "properties": {
+                "addr:city": "Ashwaubenon",
+                "addr:housenumber": "820",
+                "addr:postcode": "54304",
+                "addr:street": "Willard Drive",
+                "brand": "Verizon",
+                "brand:wikidata": "Q919641",
+                "name": "Green Bay",
+                "opening_hours": "Mo-Fr 10:00-20:00; Sa 09:00-19:00; Su 11:00-17:00",
+                "ref": "R00000114601",
+                "website": "https://www.verizonwireless.com/stores/wisconsin/ashwaubenon/green-bay-302491/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -85.0744058,
                     33.5452495
                 ]
@@ -84978,7 +85009,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "South Park Meadows",
-                "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Fr 10:00-20:00; Sa 09:00-19:00; Su 11:00-17:00",
                 "ref": "R00000003305",
                 "website": "https://www.verizonwireless.com/stores/texas/austin/south-park-meadows-302911/"
             }
@@ -85022,7 +85053,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Webster",
-                "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00",
+                "opening_hours": "Mo-Fr 10:00-20:00; Sa 09:00-19:00; Su 11:00-17:00",
                 "ref": "R00000003271",
                 "website": "https://www.verizonwireless.com/stores/new-york/webster/webster-303314/"
             }
@@ -85342,7 +85373,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Regency",
-                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
                 "ref": "R00000003270",
                 "website": "https://www.verizonwireless.com/stores/florida/jacksonville/regency-308316/"
             }
@@ -85638,7 +85669,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Military",
-                "opening_hours": "Mo 10:00-20:00; Tu-We 10:00-18:00; Th-Sa 10:00-20:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-17:00",
                 "ref": "R00000002975",
                 "website": "https://www.verizonwireless.com/stores/texas/san-antonio/military-310239/"
             }
@@ -86170,7 +86201,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Beverly Connection",
-                "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-17:00",
+                "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 10:00-17:00",
                 "ref": "R00000000050",
                 "website": "https://www.verizonwireless.com/stores/california/los-angeles/beverly-connection-313659/"
             }
@@ -86988,7 +87019,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Elk River",
-                "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-20:00",
+                "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-17:00",
                 "ref": "R00000000978",
                 "website": "https://www.verizonwireless.com/stores/minnesota/elk-river/elk-river-317635/"
             }
@@ -87172,7 +87203,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Dubuque",
-                "opening_hours": "Mo-We 11:00-19:00; Th-Fr 10:00-20:00; Sa 09:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Fr 10:00-20:00; Sa 09:00-19:00; Su 11:00-17:00",
                 "ref": "R00000081215",
                 "website": "https://www.verizonwireless.com/stores/iowa/dubuque/dubuque-store-326207/"
             }
@@ -87194,7 +87225,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Estero",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-16:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 10:00-16:00",
                 "ref": "R00000126003",
                 "website": "https://www.verizonwireless.com/stores/florida/estero/estero-326241/"
             }
@@ -87306,7 +87337,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Sunset Valley",
-                "opening_hours": "Mo-Fr 10:00-19:00; Sa 09:00-19:00",
+                "opening_hours": "Mo-Fr 10:00-20:00; Sa 09:00-19:00",
                 "ref": "R00000160676",
                 "website": "https://www.verizonwireless.com/stores/texas/sunset-valley/sunset-valley-326400/"
             }
@@ -87422,7 +87453,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Royal Oak Woodward",
-                "opening_hours": "Mo-Fr 10:00-20:00; Sa 11:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 11:00-19:00; Su 11:00-17:00",
                 "ref": "R00000169049",
                 "website": "https://www.verizonwireless.com/stores/michigan/royal-oak/royal-oak-woodward-326520/"
             }
@@ -87668,7 +87699,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Allen Park",
-                "opening_hours": "Mo-Fr 10:00-20:00; Sa 11:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 11:00-19:00; Su 11:00-17:00",
                 "ref": "R00000001751",
                 "website": "https://www.verizonwireless.com/stores/michigan/allen-park/allen-park-319914/"
             }
@@ -88314,7 +88345,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Port St. Lucie",
-                "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
                 "ref": "R00000160433",
                 "website": "https://www.verizonwireless.com/stores/florida/port-saint-lucie/port-st-lucie-322265/"
             }
@@ -88470,7 +88501,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Federal Way",
-                "opening_hours": "Mo-Tu 09:00-19:00; We 10:00-18:00; Th-Sa 09:00-19:00; Su 11:00-18:00",
+                "opening_hours": "Mo-Sa 10:00-18:00; Su 11:00-18:00",
                 "ref": "R00000137007",
                 "website": "https://www.verizonwireless.com/stores/washington/federal-way/federal-way-322745/"
             }
@@ -88562,7 +88593,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Douglas Ave",
-                "opening_hours": "Mo 11:00-19:00; We-Sa 11:00-19:00; Su 11:00-17:00",
+                "opening_hours": "We-Sa 11:00-19:00; Su 11:00-17:00",
                 "ref": "R00000153854",
                 "website": "https://www.verizonwireless.com/stores/iowa/des-moines/douglas-ave-323345/"
             }
@@ -88812,7 +88843,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Royersford",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-16:00",
+                "opening_hours": "Mo-Th 10:00-18:00; Fr-Sa 09:00-19:00; Su 10:00-16:00",
                 "ref": "R00000153763",
                 "website": "https://www.verizonwireless.com/stores/pennsylvania/royersford/royersford-323971/"
             }
@@ -89399,7 +89430,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Burleson",
-                "opening_hours": "Mo-Fr 10:00-18:00; Sa 09:00-18:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
                 "ref": "R00000147394",
                 "website": "https://www.verizonwireless.com/stores/texas/burleson/burleson-324637/"
             }
@@ -89739,7 +89770,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Ft. Oglethorpe",
-                "opening_hours": "Mo-Tu 10:00-18:00; Th-Sa 10:00-18:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00",
                 "ref": "R00000133523",
                 "website": "https://www.verizonwireless.com/stores/georgia/fort-oglethorpe/ft-oglethorpe-325200/"
             }
@@ -89859,7 +89890,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Killeen",
-                "opening_hours": "Mo 10:00-17:00; Tu-We 09:00-18:00; Th 10:00-17:00; Fr-Sa 09:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
                 "ref": "R00000163613",
                 "website": "https://www.verizonwireless.com/stores/texas/killeen/killeen-325255/"
             }
@@ -90067,7 +90098,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Wellington",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-16:00",
+                "opening_hours": "Mo-Sa 10:00-18:00; Su 10:00-16:00",
                 "ref": "R00000112673",
                 "website": "https://www.verizonwireless.com/stores/florida/wellington/wellington-325751/"
             }
@@ -90203,7 +90234,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Portland OR (Airport Way)",
-                "opening_hours": "Mo-Sa 10:00-19:00; Su 10:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-19:00",
                 "ref": "R00000147784",
                 "website": "https://www.verizonwireless.com/stores/oregon/portland/portland-airport-way-325970/"
             }
@@ -90853,7 +90884,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Medina",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
                 "ref": "R00000169306",
                 "website": "https://www.verizonwireless.com/stores/ohio/medina/medina-328077/"
             }
@@ -91329,7 +91360,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Bay City",
-                "opening_hours": "Mo-Fr 10:00-20:00; Sa 11:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-17:00",
                 "ref": "R00000167741",
                 "website": "https://www.verizonwireless.com/stores/michigan/bay-city/bay-city-retail-store-329217/"
             }
@@ -91377,7 +91408,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Medford",
-                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 10:00-17:00",
+                "opening_hours": "Mo-Fr 10:00-18:00; Sa 09:00-19:00; Su 10:00-17:00",
                 "ref": "R00000167751",
                 "website": "https://www.verizonwireless.com/stores/oregon/medford/medford-329237/"
             }
@@ -91401,7 +91432,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Northcrest",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:30-18:30; Su 11:00-17:00",
                 "ref": "R00000139304",
                 "website": "https://www.verizonwireless.com/stores/north-carolina/charlotte/northcrest-329256/"
             }
@@ -91423,7 +91454,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Washington Street",
-                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
                 "ref": "R00000003338",
                 "website": "https://www.verizonwireless.com/stores/indiana/indianapolis/nora-plaza-329282/"
             }
@@ -91885,7 +91916,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Bartonsville",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-16:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-16:00",
                 "ref": "R00000152932",
                 "website": "https://www.verizonwireless.com/stores/pennsylvania/stroudsburg/bartonsville-329573/"
             }
@@ -91931,7 +91962,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "College Place",
-                "opening_hours": "Mo-Sa 09:00-19:00",
+                "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-19:00",
                 "ref": "R00000167636",
                 "website": "https://www.verizonwireless.com/stores/washington/college-place/college-place-329672/"
             }
@@ -91955,7 +91986,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Allen",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
                 "ref": "R00000175242",
                 "website": "https://www.verizonwireless.com/stores/texas/allen/allen-329763/"
             }
@@ -92521,7 +92552,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Palm Harbor",
-                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
                 "ref": "R00000166045",
                 "website": "https://www.verizonwireless.com/stores/florida/palm-harbor/palm-harbor-330610/"
             }
@@ -92841,7 +92872,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Monaca",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-15:00",
+                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
                 "ref": "R00000282997",
                 "website": "https://www.verizonwireless.com/stores/pennsylvania/monaca/beaver-valley-mall-331428/"
             }
@@ -93233,7 +93264,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "San Jose King",
-                "opening_hours": "Mo-Sa 10:00-18:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 10:00-17:00",
                 "ref": "R00000171071",
                 "website": "https://www.verizonwireless.com/stores/california/san-jose/san-jose-king-338018/"
             }
@@ -93349,7 +93380,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Elmore",
-                "opening_hours": "Mo-Fr 10:00-20:00; Sa 09:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Fr 10:00-20:00; Sa 09:00-18:00; Su 11:00-17:00",
                 "ref": "R00000203871",
                 "website": "https://www.verizonwireless.com/stores/iowa/davenport/elmore-338168/"
             }
@@ -93737,7 +93768,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Marble Falls",
-                "opening_hours": "Mo-Sa 09:00-18:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-18:00",
                 "ref": "R00000181668",
                 "website": "https://www.verizonwireless.com/stores/texas/marble-falls/marble-falls-331827/"
             }
@@ -93871,7 +93902,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Amarillo I40",
-                "opening_hours": "Mo-Sa 09:00-18:00; Su 24:00-18:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 24:00-18:00",
                 "ref": "R00000188360",
                 "website": "https://www.verizonwireless.com/stores/texas/amarillo/amarillo-i40-331851/"
             }
@@ -94433,7 +94464,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Traverse City",
-                "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-17:00",
                 "ref": "R00000179943",
                 "website": "https://www.verizonwireless.com/stores/michigan/traverse-city/traverse-city-331945/"
             }
@@ -94635,7 +94666,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Oakland Lakeshore",
-                "opening_hours": "Mo-Sa 10:00-18:00",
+                "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-18:00",
                 "ref": "R00000177052",
                 "website": "https://www.verizonwireless.com/stores/california/oakland/oakland-lakeshore-332049/"
             }
@@ -94795,7 +94826,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Hammond",
-                "opening_hours": "Mo-Tu 10:00-18:00; Th-Sa 10:00-18:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
                 "ref": "R00000165451",
                 "website": "https://www.verizonwireless.com/stores/louisiana/hammond/hammond-332710/"
             }
@@ -95091,7 +95122,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Appleton",
-                "opening_hours": "Mo 11:00-19:00; Tu 10:00-20:00; We 11:00-19:00; Th-Sa 10:00-20:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-17:00",
                 "ref": "R00000201605",
                 "website": "https://www.verizonwireless.com/stores/wisconsin/grand-chute/appleton-333982/"
             }
@@ -95247,7 +95278,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Arlington Heights",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo 11:00-19:00; Tu-Fr 09:00-19:00; Sa 11:00-19:00; Su 11:00-17:00",
                 "ref": "R00000194795",
                 "website": "https://www.verizonwireless.com/stores/illinois/arlington-heights/arlington-heights-334984/"
             }
@@ -95789,30 +95820,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -96.557508,
-                    32.907575
-                ]
-            },
-            "properties": {
-                "addr:city": "Rowlett",
-                "addr:housenumber": "4802",
-                "addr:postcode": "75088",
-                "addr:street": "Lakeview Parkway",
-                "addr:unit": "203",
-                "addr:unitname": "Suite",
-                "brand": "Verizon",
-                "brand:wikidata": "Q919641",
-                "name": "Russell Cellular Rowlett",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
-                "ref": "A00000260680",
-                "website": "https://www.verizonwireless.com/stores/illinois/chicago/lakeview-349926/"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -82.7094358,
                     28.2946977
                 ]
@@ -95825,7 +95832,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Port Richey",
-                "opening_hours": "Mo-Sa 11:00-19:00; Su 10:00-16:00",
+                "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-16:00",
                 "ref": "R00000175969",
                 "website": "https://www.verizonwireless.com/stores/florida/port-richey/port-richey-349941/"
             }
@@ -96003,7 +96010,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Ithaca",
-                "opening_hours": "Mo-Sa 09:00-18:00; Su 10:00-16:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-16:00",
                 "ref": "R00000233394",
                 "website": "https://www.verizonwireless.com/stores/new-york/ithaca/ithaca-350305/"
             }
@@ -96025,7 +96032,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Brownsboro Crossing",
-                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
                 "ref": "R00000244146",
                 "website": "https://www.verizonwireless.com/stores/kentucky/louisville/brownsboro-crossing-350394/"
             }
@@ -96183,7 +96190,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "North Jacksonville",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
                 "ref": "R00000237003",
                 "website": "https://www.verizonwireless.com/stores/florida/jacksonville/north-jacksonville-350588/"
             }
@@ -96660,7 +96667,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Athens OH",
-                "opening_hours": "Mo-Fr 10:00-19:00; Sa 11:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 11:00-19:00; Su 11:00-17:00",
                 "ref": "R00000231631",
                 "website": "https://www.verizonwireless.com/stores/ohio/athens/athens-339285/"
             }
@@ -97486,7 +97493,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Eden Prairie",
-                "opening_hours": "Tu-Sa 10:00-18:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
                 "ref": "R00000233831",
                 "website": "https://www.verizonwireless.com/stores/minnesota/eden-prairie/eden-prairie-store-341342/"
             }
@@ -98394,7 +98401,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Decatur AL",
-                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-20:00; Su 11:00-17:00",
                 "ref": "R00000235380",
                 "website": "https://www.verizonwireless.com/stores/alabama/decatur/decatur-345001/"
             }
@@ -98594,7 +98601,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Mag Mile",
-                "opening_hours": "Mo-Fr 09:00-18:00; Sa 10:00-18:00; Su 10:00-16:00",
+                "opening_hours": "Mo-Sa 10:00-18:00; Su 10:00-16:00",
                 "ref": "R00000249008",
                 "website": "https://www.verizonwireless.com/stores/illinois/chicago/mag-mile-1079222/"
             }
@@ -99266,7 +99273,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Meridian",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-16:00",
+                "opening_hours": "Mo-Sa 09:00-17:00",
                 "ref": "R00000237749",
                 "website": "https://www.verizonwireless.com/stores/idaho/meridian/meridian-355814/"
             }
@@ -99520,7 +99527,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Altamonte Springs",
-                "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
                 "ref": "R00000237941",
                 "website": "https://www.verizonwireless.com/stores/florida/altamonte-springs/altamonte-springs-357266/"
             }
@@ -99608,7 +99615,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Redmond",
-                "opening_hours": "Mo-Fr 10:00-18:00; Sa 09:00-19:00; Su 11:00-18:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-18:00",
                 "ref": "R00000244241",
                 "website": "https://www.verizonwireless.com/stores/washington/redmond/redmond-358253/"
             }
@@ -99698,7 +99705,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Lincolnwood",
-                "opening_hours": "Mo-Th 10:00-18:00; Fr 09:00-19:00; Sa 10:00-18:00; Su 10:00-16:00",
+                "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-16:00",
                 "ref": "R00000245073",
                 "website": "https://www.verizonwireless.com/stores/illinois/lincolnwood/lincolnwood-359062/"
             }
@@ -99876,7 +99883,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Issaquah",
-                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-18:00",
+                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-18:00",
                 "ref": "R00000245051",
                 "website": "https://www.verizonwireless.com/stores/washington/issaquah/issaquah-362175/"
             }
@@ -100038,7 +100045,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "PV Marketplace",
-                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
                 "ref": "R00000246630",
                 "website": "https://www.verizonwireless.com/stores/arizona/phoenix/pv-marketplace-1002100/"
             }
@@ -100262,7 +100269,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Clifton Park",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-16:00",
+                "opening_hours": "Mo-Fr 10:00-18:00; Sa 09:00-19:00; Su 10:00-16:00",
                 "ref": "R00000245082",
                 "website": "https://www.verizonwireless.com/stores/new-york/clifton-park/clifton-park-1017590/"
             }
@@ -101000,7 +101007,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Petaluma",
-                "opening_hours": "Mo-Sa 10:00-18:00",
+                "opening_hours": "Mo-Sa 10:00-18:00; Su 10:00-17:00",
                 "ref": "R00000248737",
                 "website": "https://www.verizonwireless.com/stores/california/petaluma/petaluma-1039246/"
             }
@@ -101324,7 +101331,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Slidell",
-                "opening_hours": "Mo-Fr 10:00-18:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
                 "ref": "R00000244808",
                 "website": "https://www.verizonwireless.com/stores/louisiana/slidell/slidell-relo-1061202/"
             }
@@ -101390,7 +101397,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Troy",
-                "opening_hours": "Mo-Fr 10:00-20:00; Sa 11:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 11:00-19:00; Su 11:00-17:00",
                 "ref": "R00000250191",
                 "website": "https://www.verizonwireless.com/stores/michigan/troy/troy-1067230/"
             }
@@ -101658,7 +101665,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "West Nyack",
-                "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-19:00",
+                "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00",
                 "ref": "R00000237768",
                 "website": "https://www.verizonwireless.com/stores/new-york/west-nyack/west-nyack-1073658/"
             }
@@ -101728,7 +101735,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Kalispell Treeline",
-                "opening_hours": "Tu-Sa 10:00-18:00",
+                "opening_hours": "Tu-Fr 10:00-18:00; Sa 09:00-19:00",
                 "ref": "R00000251337",
                 "website": "https://www.verizonwireless.com/stores/montana/kalispell/kalispell-treeline-1075246/"
             }
@@ -102228,7 +102235,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Westgate Center",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-17:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 10:00-17:00",
                 "ref": "R00000248738",
                 "website": "https://www.verizonwireless.com/stores/california/san-jose/westgate-center-1115210/"
             }
@@ -102522,7 +102529,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Boone",
-                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
                 "ref": "R00000251694",
                 "website": "https://www.verizonwireless.com/stores/north-carolina/boone/boone-1126018/"
             }
@@ -102610,7 +102617,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Addison",
-                "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
                 "ref": "R00000248452",
                 "website": "https://www.verizonwireless.com/stores/texas/dallas/addison-1127626/"
             }
@@ -102794,7 +102801,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Alabaster",
-                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-19:00; Su 11:00-17:00",
                 "ref": "R00000252492",
                 "website": "https://www.verizonwireless.com/stores/alabama/alabaster/alabaster-1135614/"
             }
@@ -103386,7 +103393,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Silverdale",
-                "opening_hours": "Mo-Sa 09:00-18:00; Su 10:00-17:00",
+                "opening_hours": "Mo-Fr 10:00-18:00; Sa 09:00-18:00; Su 10:00-17:00",
                 "ref": "R00000253275",
                 "website": "https://www.verizonwireless.com/stores/washington/silverdale/silverdale-1160402/"
             }
@@ -103636,7 +103643,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Evergreen Park",
-                "opening_hours": "Mo-Sa 10:00-18:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00",
                 "ref": "R00000257366",
                 "website": "https://www.verizonwireless.com/stores/illinois/evergreen-park/evergreen-park-1326422/"
             }
@@ -104006,7 +104013,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Fullerton",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-17:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 10:00-17:00",
                 "ref": "R00000253879",
                 "website": "https://www.verizonwireless.com/stores/california/fullerton/fullerton-1170826/"
             }
@@ -104242,20 +104249,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.4190489,
-                    37.7545665
+                    -122.3995853,
+                    37.7921501
                 ]
             },
             "properties": {
                 "addr:city": "San Francisco",
-                "addr:housenumber": "2654",
-                "addr:postcode": "94110",
-                "addr:street": "Mission Street",
+                "addr:housenumber": "199",
+                "addr:postcode": "94111",
+                "addr:street": "Pine Street",
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
-                "name": "SF Mission",
-                "opening_hours": "Mo-Tu 09:00-17:00; Fr 09:00-17:00; Su 10:00-17:00",
-                "ref": "R00000001504",
+                "name": "SF Pine",
+                "opening_hours": "Mo-Fr 09:00-17:00",
+                "ref": "R00000001085",
                 "website": "https://www.verizonwireless.com/stores/california/san-francisco/sf-union-1292222/"
             }
         },
@@ -104688,7 +104695,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Alliance",
-                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-17:00",
                 "ref": "R00000252962",
                 "website": "https://www.verizonwireless.com/stores/texas/fort-worth/alliance-1172010/"
             }
@@ -104776,7 +104783,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Serramonte Center",
-                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 10:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-18:00; Su 10:00-17:00",
                 "ref": "R00000254352",
                 "website": "https://www.verizonwireless.com/stores/california/daly-city/serramonte-center-1223822/"
             }
@@ -105024,7 +105031,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Scottsdale Promenade",
-                "opening_hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-18:00",
                 "ref": "R00000254547",
                 "website": "https://www.verizonwireless.com/stores/arizona/scottsdale/scottsdale-promenade-1221822/"
             }
@@ -105150,30 +105157,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -105.0287627,
-                    38.96056188
-                ]
-            },
-            "properties": {
-                "addr:city": "Woodland Park",
-                "addr:housenumber": "19590",
-                "addr:postcode": "80863",
-                "addr:street": "East Hwy 24",
-                "addr:unit": "C",
-                "addr:unitname": "Suite",
-                "brand": "Verizon",
-                "brand:wikidata": "Q919641",
-                "name": "GoWireless Woodland Park",
-                "opening_hours": "Mo-Sa 10:00-19:00; Su 24:00-17:00",
-                "ref": "A00000244025",
-                "website": "https://www.verizonwireless.com/stores/colorado/winter-park/holly-wood-investments-hwy-40-1307622/"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -84.3488629,
                     33.7585919
                 ]
@@ -105210,7 +105193,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Wicker Park",
-                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 10:00-16:00",
+                "opening_hours": "Mo-Th 10:00-18:00; Fr 09:00-19:00; Sa 10:00-18:00; Su 10:00-16:00",
                 "ref": "R00000255742",
                 "website": "https://www.verizonwireless.com/stores/illinois/chicago/wicker-park-1239522/"
             }
@@ -105414,7 +105397,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Michigan Road",
-                "opening_hours": "Mo-Fr 10:00-18:00",
+                "opening_hours": "Mo-Sa 10:00-18:00",
                 "ref": "R00000255628",
                 "website": "https://www.verizonwireless.com/stores/indiana/indianapolis/michigan-road-1204446/"
             }
@@ -105458,7 +105441,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Palatine",
-                "opening_hours": "Mo-Sa 11:00-19:00; Su 11:00-17:00",
+                "opening_hours": "Mo 11:00-19:00; Tu-Fr 09:00-19:00; Sa 11:00-19:00; Su 11:00-17:00",
                 "ref": "R00000254435",
                 "website": "https://www.verizonwireless.com/stores/illinois/palatine/palatine-1214722/"
             }
@@ -105732,7 +105715,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "San Jose Stevens Creek",
-                "opening_hours": "Mo-Sa 10:00-18:00",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 10:00-17:00",
                 "ref": "R00000256924",
                 "website": "https://www.verizonwireless.com/stores/california/san-jose/san-jose-stevens-creek-1288722/"
             }
@@ -105776,7 +105759,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Redding Hilltop",
-                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00",
+                "opening_hours": "Mo-Sa 10:00-18:00",
                 "ref": "R00000254366",
                 "website": "https://www.verizonwireless.com/stores/california/redding/redding-hilltop-1233222/"
             }
@@ -105912,7 +105895,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Waterford",
-                "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
                 "ref": "R00000257705",
                 "website": "https://www.verizonwireless.com/stores/connecticut/waterford/waterford-1341322/"
             }
@@ -105934,7 +105917,7 @@
                 "brand": "Verizon",
                 "brand:wikidata": "Q919641",
                 "name": "Mass Ave",
-                "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
+                "opening_hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
                 "ref": "R00000255736",
                 "website": "https://www.verizonwireless.com/stores/indiana/indianapolis/mass-ave-1214622/"
             }
@@ -106378,5 +106361,5 @@
             }
         }
     ],
-    "updated_at": 1647074442735
+    "updated_at": 1647679333904
 }

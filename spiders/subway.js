@@ -23,7 +23,17 @@ module.exports = {
 			let urlString;
 			if (!data) {
 				urlString = urlsToCrawl.shift();
-				const fetchResponse = await self.fetch(urlString);
+				let fetchResponse;
+				try {
+					fetchResponse = await self.fetch(urlString);
+				} catch (error) {
+					if (error && error.response && error.response.status === 404) {
+						console.error(`404 error on ${urlString}`);
+						continue;
+					} else {
+						throw error;
+					}
+				}
 				data = await self.parse(fetchResponse, parserSettings);
 			} else {
 				urlString = initialURL;

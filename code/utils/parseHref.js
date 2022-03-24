@@ -1,6 +1,12 @@
 const url = require("url");
 
+const urlencodecharacters = "αυστριαβελγιοβουλγαριακαναδαςκροατιακυπροςτσεχιαδανιαεσθονιαφινλανδιαγαλλιαγεωργιαγερμανιαελλαδαουγγαριαιρλανδιανησος-τουμανισλανδιαιταλιαλιχτενσταινλουξεμβουργολετονιαλιθουανιαμαλταολλανδιανορβηγιαπολωνιαπορτογαλιαρουμανιασλοβακιασλοβενιαισπανιασουηδιαελβετιαηνωμενοβασιλειοηνωμενεςπολιτειεςбългария¤¥".split("");
+
 const escapedCharacters = {
+	...Object.entries(urlencodecharacters).reduce((acc, [key, value]) => {
+		acc[value] = encodeURI(value);
+		return acc;
+	}, {}),
 	"–": "%E2%80%93",
 	"’": "%E2%80%99",
 	"ø": "%C3%B8",
@@ -8,7 +14,7 @@ const escapedCharacters = {
 	"¨": "%C2%A8",
 	"ß": "%C3%9F",
 	"½": "%C2%BD",
-	"±": "%C2%B1",
+	"±": "%C2%B1"
 };
 
 module.exports = function (href, baseURLString) {

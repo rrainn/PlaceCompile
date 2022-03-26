@@ -9286,6 +9286,31 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -83.1325866,
+                    42.6364689
+                ]
+            },
+            "properties": {
+                "addr:city": "Rochester",
+                "addr:country": "US",
+                "addr:housenumber": "2972",
+                "addr:postcode": "48307",
+                "addr:state": "MI",
+                "addr:street": "Rochester Road",
+                "brand": "Einstein Bros. Bagels",
+                "brand:wikidata": "Q5349788",
+                "name": "Einstein Bros. Bagels ",
+                "opening_hours": "Mo-Su 06:00-14:00",
+                "phone": "+1-248-266-9268",
+                "ref": "2972-rochester-road",
+                "website": "https://locations.einsteinbros.com/us/mi/rochester/2972-rochester-road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -83.13260883092875,
                     42.63647066995728
                 ]
@@ -9400,7 +9425,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Crooks & Big Beaver",
-                "opening_hours": "Mo-Su 06:00-11:00",
+                "opening_hours": "Mo-Sa 06:00-14:00; Su 07:00-13:00",
                 "phone": "+1-248-816-9980",
                 "ref": "3043-crooks-rd",
                 "website": "https://locations.einsteinbros.com/us/mi/troy/3043-crooks-rd"
@@ -9633,31 +9658,6 @@
                 "phone": "+1-612-333-9088",
                 "ref": "550-s-4th-street",
                 "website": "https://locations.einsteinbros.com/us/mn/minneapolis/550-s-4th-street"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -93.28910708427424,
-                    44.86273235558398
-                ]
-            },
-            "properties": {
-                "addr:city": "Richfield",
-                "addr:country": "US",
-                "addr:housenumber": "704",
-                "addr:postcode": "55423",
-                "addr:state": "MN",
-                "addr:street": "West 78th Street",
-                "brand": "Einstein Bros. Bagels",
-                "brand:wikidata": "Q5349788",
-                "name": "Einstein Bros. Bagels - CLOSED Lyndale & I-494",
-                "opening_hours": "Mo-Su 05:30-11:00",
-                "phone": "+1-612-869-8900",
-                "ref": "704-w-78th-st",
-                "website": "https://locations.einsteinbros.com/us/mn/richfield/704-w-78th-st"
             }
         },
         {
@@ -17618,5 +17618,5 @@
             }
         }
     ],
-    "updated_at": 1647677313155
+    "updated_at": 1648282148301
 }

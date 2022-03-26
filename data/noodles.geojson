@@ -721,7 +721,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Alpine Avenue",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-303-440-4340",
                 "ref": "co/boulder/1245-alpine",
                 "website": "https://locations.noodles.com/co/boulder/1245-alpine.html"
@@ -746,7 +746,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "29th Street Mall",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-303-546-9000",
                 "ref": "co/boulder/1600-28th-st",
                 "website": "https://locations.noodles.com/co/boulder/1600-28th-st.html"
@@ -771,7 +771,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Basemar",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-720-304-2044",
                 "ref": "co/boulder/2602-baseline-road",
                 "website": "https://locations.noodles.com/co/boulder/2602-baseline-road.html"
@@ -1527,7 +1527,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Highway 287 & South Boulder Rd.",
-                "opening_hours": "Mo-Su 11:00-21:00",
+                "opening_hours": "Mo-Su 10:30-21:00",
                 "phone": "+1-303-665-0441",
                 "ref": "co/lafayette/534-w--south-boulder-rd",
                 "website": "https://locations.noodles.com/co/lafayette/534-w--south-boulder-rd.html"
@@ -1952,7 +1952,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Orchard Park Place",
-                "opening_hours": "Mo-Su 10:30-21:00",
+                "opening_hours": "Mo-Su 10:30-22:00",
                 "phone": "+1-303-450-5202",
                 "ref": "co/westminster/14375-orchard-parkway",
                 "website": "https://locations.noodles.com/co/westminster/14375-orchard-parkway.html"
@@ -2180,7 +2180,7 @@
                 "brand:wikidata": "Q7049673",
                 "name": "UCF",
                 "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
-                "phone": "+1-312-415-6550",
+                "phone": "+1-321-415-6550",
                 "ref": "fl/orlando/12101-university-blvd",
                 "website": "https://locations.noodles.com/fl/orlando/12101-university-blvd.html"
             }
@@ -2610,7 +2610,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Champaign - 6th & Green",
-                "opening_hours": "Mo-Su 11:00-20:00",
+                "opening_hours": "Mo-Su 11:00-22:00",
                 "phone": "+1-217-367-2000",
                 "ref": "il/champaign/528-east-green",
                 "website": "https://locations.noodles.com/il/champaign/528-east-green.html"
@@ -4411,7 +4411,7 @@
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
                 "name": "Cedar Rapids - Westdale",
-                "opening_hours": "Mo-Su 16:00-21:00",
+                "opening_hours": "Mo-Su 12:00-21:00",
                 "phone": "+1-319-396-8100",
                 "ref": "ia/cedar-rapids/2360-edgewood-rd",
                 "website": "https://locations.noodles.com/ia/cedar-rapids/2360-edgewood-rd.html"
@@ -11444,5 +11444,5 @@
             }
         }
     ],
-    "updated_at": 1647678033729
+    "updated_at": 1648282868735
 }

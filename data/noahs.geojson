@@ -120,7 +120,7 @@
                 "brand": "Noah's NY Bagels",
                 "brand:wikidata": "Q64517373",
                 "name": "Noah's NY Bagels Iron Horse",
-                "opening_hours": "Mo-Su 06:00-14:00",
+                "opening_hours": "Mo-Su 06:00-13:00",
                 "phone": "+1-925-575-9025",
                 "ref": "415-railroad-ave",
                 "website": "https://locations.noahs.com/us/ca/danville/415-railroad-ave"
@@ -324,7 +324,7 @@
                 "brand": "Noah's NY Bagels",
                 "brand:wikidata": "Q64517373",
                 "name": "Noah's NY Bagels Lafayette CA",
-                "opening_hours": "Mo-Fr 05:00-14:00; Sa 05:30-14:00; Su 06:00-14:00",
+                "opening_hours": "Mo-Fr 05:00-13:00; Sa 05:30-13:00; Su 06:00-13:00",
                 "phone": "+1-925-299-0716",
                 "ref": "3518-mt-diablo-blvd",
                 "website": "https://locations.noahs.com/us/ca/lafayette/3518-mt-diablo-blvd"
@@ -576,7 +576,7 @@
                 "brand": "Noah's NY Bagels",
                 "brand:wikidata": "Q64517373",
                 "name": "Noah's NY Bagels Lakeshore",
-                "opening_hours": "Mo-Su 06:00-14:00",
+                "opening_hours": "Mo-Su 06:00-12:00",
                 "phone": "+1-510-452-3744",
                 "ref": "3351-lakeshore-ave",
                 "website": "https://locations.noahs.com/us/ca/oakland/3351-lakeshore-ave"
@@ -1381,7 +1381,7 @@
                 "brand": "Noah's NY Bagels",
                 "brand:wikidata": "Q64517373",
                 "name": "Noah's NY Bagels Mt. Diablo - Walnut Creek",
-                "opening_hours": "Mo-Su 06:00-11:00",
+                "opening_hours": "Mo-Su 06:00-10:00",
                 "phone": "+1-925-357-6967",
                 "ref": "1930-mt-diablo-blvd",
                 "website": "https://locations.noahs.com/us/ca/walnut-creek/1930-mt-diablo-blvd"
@@ -1438,5 +1438,5 @@
             }
         }
     ],
-    "updated_at": 1647677337377
+    "updated_at": 1648282170289
 }

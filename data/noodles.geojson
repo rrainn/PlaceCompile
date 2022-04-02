@@ -3209,8 +3209,9 @@
                 "addr:unitname": "Unit",
                 "brand": "Noodles & Company",
                 "brand:wikidata": "Q7049673",
-                "name": "Morris - Coming Soon",
-                "opening_hours": "Mo-We 11:15-21:00; Th-Sa 11:15-22:00; Su 11:15-21:00",
+                "name": "Morris",
+                "opening_hours": "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:00",
+                "phone": "+1-815-661-2546",
                 "ref": "il/morris/281-e-us-6",
                 "website": "https://locations.noodles.com/il/morris/281-e-us-6.html"
             }
@@ -11444,5 +11445,5 @@
             }
         }
     ],
-    "updated_at": 1648282868735
+    "updated_at": 1648887568154
 }

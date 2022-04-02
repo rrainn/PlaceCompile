@@ -1300,7 +1300,7 @@
                 "brand": "Noah's NY Bagels",
                 "brand:wikidata": "Q64517373",
                 "name": "Noah's NY Bagels Nut Tree Plaza / Vacaville",
-                "opening_hours": "Mo-Su 05:00-14:00",
+                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 05:30-14:00",
                 "phone": "+1-707-474-4359",
                 "ref": "1670-east-monte-vista-ave",
                 "website": "https://locations.noahs.com/us/ca/vacaville/1670-east-monte-vista-ave"
@@ -1438,5 +1438,5 @@
             }
         }
     ],
-    "updated_at": 1648282170289
+    "updated_at": 1648886913657
 }

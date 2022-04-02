@@ -4282,7 +4282,7 @@
                 "brand": "Bruegger's Bagels",
                 "brand:wikidata": "Q4978656",
                 "name": "Bruegger's Bagels The Shops on Lane Avenue",
-                "opening_hours": "Mo-We 06:30-13:00; Th-Fr 06:30-12:00; Sa-Su 07:00-13:00",
+                "opening_hours": "Mo-Fr 06:30-13:00; Sa-Su 07:00-13:00",
                 "phone": "+1-614-486-7500",
                 "ref": "1621-lane-avenue",
                 "website": "https://locations.brueggers.com/us/oh/upper-arlington/1621-lane-avenue"
@@ -4964,5 +4964,5 @@
             }
         }
     ],
-    "updated_at": 1648281976163
+    "updated_at": 1648886742002
 }

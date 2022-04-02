@@ -9311,31 +9311,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -83.13260883092875,
-                    42.63647066995728
-                ]
-            },
-            "properties": {
-                "addr:city": "Rochester Hills",
-                "addr:country": "US",
-                "addr:housenumber": "2972",
-                "addr:postcode": "48307",
-                "addr:state": "MI",
-                "addr:street": "South Rochester Road",
-                "brand": "Einstein Bros. Bagels",
-                "brand:wikidata": "Q5349788",
-                "name": "Einstein Bros. Bagels Rochester & Auburn",
-                "opening_hours": "Mo-Su 06:00-14:00",
-                "phone": "+1-248-606-4519",
-                "ref": "2972-s-rochester-road",
-                "website": "https://locations.einsteinbros.com/us/mi/rochester-hills/2972-s-rochester-road"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -83.249944,
                     42.475504
                 ]
@@ -11588,7 +11563,7 @@
                 "brand": "Einstein Bros. Bagels",
                 "brand:wikidata": "Q5349788",
                 "name": "Einstein Bros. Bagels Reno",
-                "opening_hours": "Mo-Fr 05:30-14:00; Sa-Su 06:30-08:00",
+                "opening_hours": "Mo-Fr 05:30-15:00; Sa-Su 06:30-15:00",
                 "phone": "+1-775-825-1045",
                 "ref": "5050-kietzke-ln",
                 "website": "https://locations.einsteinbros.com/us/nv/reno/5050-kietzke-ln"
@@ -14328,33 +14303,6 @@
                 "phone": "+1-972-726-6551",
                 "ref": "14999-preston-rd",
                 "website": "https://locations.einsteinbros.com/us/tx/dallas/14999-preston-rd"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -96.76941200859835,
-                    32.961468233526666
-                ]
-            },
-            "properties": {
-                "addr:city": "Dallas",
-                "addr:country": "US",
-                "addr:housenumber": "15615",
-                "addr:postcode": "75248",
-                "addr:state": "TX",
-                "addr:street": "Coit Road",
-                "addr:unit": "100",
-                "addr:unitname": "Suite",
-                "brand": "Einstein Bros. Bagels",
-                "brand:wikidata": "Q5349788",
-                "name": "Einstein Bros. Bagels Arapaho & Coit",
-                "opening_hours": "Mo-Fr 05:00-14:00; Sa-Su 06:00-14:00",
-                "phone": "+1-972-233-3320",
-                "ref": "15615-coit-rd",
-                "website": "https://locations.einsteinbros.com/us/tx/dallas/15615-coit-rd"
             }
         },
         {
@@ -17618,5 +17566,5 @@
             }
         }
     ],
-    "updated_at": 1648282148301
+    "updated_at": 1648886889596
 }

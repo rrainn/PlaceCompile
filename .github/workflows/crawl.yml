@@ -7,6 +7,10 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    env:
+      AWS_ACCESS_KEY_ID: ${{ secrets.S3_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.S3_SECRET_ACCESS_KEY }}
+      AWS_DEFAULT_REGION: ${{ secrets.S3_REGION }}
     steps:
       - uses: actions/checkout@v2
       - name: Use Node.js
@@ -14,12 +18,8 @@ jobs:
         with:
           node-version: 16.x
       - run: npm i
+      - name: Download existing data from S3
+        run: aws s3 sync "s3://${{ secrets.S3_BUCKET }}/data" ./data --endpoint-url "${{ secrets.S3_ENDPOINT }}" || true
       - run: node --max_old_space_size=4096 placecompile crawl --output=file
-      - name: Commit & Push
-        uses: actions-x/commit@v2
-        with:
-          email: noreply@rrainn.com
-          name: GitHub Actions
-          branch: main
-          files: data
-          message: 'Updating data'
+      - name: Upload data to S3
+        run: aws s3 sync ./data "s3://${{ secrets.S3_BUCKET }}/data" --endpoint-url "${{ secrets.S3_ENDPOINT }}" --exclude ".gitkeep"
